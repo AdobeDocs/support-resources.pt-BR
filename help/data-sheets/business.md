@@ -2,10 +2,10 @@
 title: Suporte empresarial
 description: Os Serviços de Suporte Técnico da Adobe Experience Cloud fornecem acesso total às equipes de suporte técnico da Conta de Negócios e a um Líder de Suporte de Conta de Negócios para gerenciamento de conta.
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
-source-git-commit: 50e19758d2d1bee37e89b3c636d4f052fcdb03a3
+source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
 workflow-type: tm+mt
-source-wordcount: '847'
-ht-degree: 3%
+source-wordcount: '872'
+ht-degree: 2%
 
 ---
 
@@ -246,9 +246,9 @@ Adobe Customer Support offers access to online resources for documentation, enga
 | [Site de suporte empresarial](https://helpx.adobe.com/support/programs/enterprise-support-programs/premier-support-business.html) | Site de suporte comercial do Adobe. |
 | [Termos e condições](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Termos e condições detalhando as ofertas dos Serviços de suporte. |
 
-## Horas Regionais De Funcionamento E Apoio Linguístico
+## Escopo Regional de Suporte Adobe, Horas Locais de Operação e Suporte de Idioma
 
-O horário comercial do cliente é alinhado à região de faturamento.<sup>1</sup>
+O escopo Regional do Adobe Support é estabelecido alinhando o endereço de faturamento do cliente (por meio da Ordem de Venda ou outro documento de compra do Adobe Support) a uma das seguintes regiões:
 
 <table>
 <thead>
@@ -256,7 +256,7 @@ O horário comercial do cliente é alinhado à região de faturamento.<sup>1</su
     <th>Américas</th>
     <th>Europa, Oriente Médio e África</th>
     <th>Pacífico Asiático</th>
-    <th>Japão<sup>2</sup></th>
+    <th>Japão<sup>1</sup></th>
   </tr>
 </thead>
 <tbody>
@@ -269,8 +269,8 @@ O horário comercial do cliente é alinhado à região de faturamento.<sup>1</su
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>O suporte de idioma está disponível somente em inglês e japonês.</i></p>
-      <p><sup>2</sup><i>O Adobe Commerce exclui o suporte ao idioma japonês.</i></p>
-      <p><i>(Japão) Os casos P2, P3 e P4 estão limitados apenas ao horário comercial.</i></p>
+      <p><i>O Adobe Commerce exclui o suporte a idiomas japoneses.</i></p>
+      <p><i>Os casos P2, P3 e P4 são limitados ao horário comercial somente no Japão.</i></p>
     </td>
   </tr>
 </tbody>

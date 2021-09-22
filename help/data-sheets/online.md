@@ -2,9 +2,9 @@
 title: Suporte online
 description: Os Serviços de suporte online Adobe Experience Cloud fornecem acesso limitado ao suporte por telefone.
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
-source-git-commit: 50e19758d2d1bee37e89b3c636d4f052fcdb03a3
+source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '758'
 ht-degree: 4%
 
 ---
@@ -240,9 +240,9 @@ O Suporte ao cliente do Adobe oferece acesso a recursos online para documentaç�
 | [Problemas de produção e paralisações do sistema](https://status.adobe.com/) | Status.adobe.com transmite as informações de integridade de todos os produtos e serviços do Adobe implantados em ambientes de vários locatários. Os clientes podem escolher suas preferências de assinatura para receber notificações por email sempre que o Adobe criar, atualizar ou resolver um evento de produto. Isso pode incluir manutenção programada ou problemas de serviço com diferentes níveis de gravidade. |
 | [Termos e condições](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Termos e condições detalhando as ofertas dos Serviços de suporte. |
 
-## Horas Regionais De Funcionamento E Apoio Linguístico
+## Escopo Regional de Suporte Adobe, Horas Locais de Operação e Suporte de Idioma
 
-O horário comercial do cliente é alinhado à região de faturamento.<sup>1</sup>
+O escopo Regional do Adobe Support é estabelecido alinhando o endereço de faturamento do cliente (por meio da Ordem de Venda ou outro documento de compra do Adobe Support) a uma das seguintes regiões:
 
 <table>
 <thead>
@@ -263,8 +263,8 @@ O horário comercial do cliente é alinhado à região de faturamento.<sup>1</su
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>O suporte de idioma está disponível somente em inglês e japonês.</i></p>
-      <p><sup>2</sup><i>O Adobe Commerce exclui o suporte ao idioma japonês.</i></p>
-      <p><i>(Japão) Os casos P2, P3 e P4 estão limitados apenas ao horário comercial.</i></p>
+      <p><i>O Adobe Commerce exclui o suporte a idiomas japoneses.</i></p>
+      <p><i>Os casos P2, P3 e P4 são limitados ao horário comercial somente no Japão.</i></p>
     </td>
   </tr>
 </tbody>
