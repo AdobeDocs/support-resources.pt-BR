@@ -3,9 +3,9 @@ title: Suporte Business
 description: Os serviços de Suporte Business da Adobe Experience Cloud fornecem acesso total às equipes de suporte técnico da Adobe e a um Líder de suporte da conta para gerenciamento de conta.
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
 source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '872'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -211,7 +211,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
   <td>
     <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
-    <p>Horas do Office</p>
+    <p>Office Hours</p>
     <p><b>Webinários</b></p>
     <p>O Office Hours é uma iniciativa liderada pela equipe de Suporte ao cliente da Adobe. Essas sessões foram criadas para informar e ajudar os participantes a solucionar problemas e fornecer dicas e truques para aproveitar ao máximo a Adobe Experience Cloud.</p>
     </div>
@@ -246,9 +246,9 @@ Adobe Customer Support offers access to online resources for documentation, enga
 | [Site do Suporte Business](https://helpx.adobe.com/br/support/programs/enterprise-support-programs/premier-support-business.html) | Site do Suporte Business da Adobe. |
 | [Termos e condições](https://helpx.adobe.com/br/support/programs/support-policies-terms-conditions.html) | Os Termos e condições que detalham os serviços de suporte. |
 
-## Escopo Regional de Suporte Adobe, Horas Locais de Operação e Suporte de Idioma
+## Escopo regional do Suporte da Adobe, horários locais de operação e suporte de idioma
 
-O escopo Regional do Adobe Support é estabelecido alinhando o endereço de faturamento do cliente (por meio da Ordem de Venda ou outro documento de compra do Adobe Support) a uma das seguintes regiões:
+O escopo regional do Suporte da Adobe é estabelecido alinhando o endereço de faturamento do cliente (por meio da ordem de venda ou outro documento de compra do Suporte da Adobe) a uma das seguintes regiões:
 
 <table>
 <thead>
@@ -270,7 +270,7 @@ O escopo Regional do Adobe Support é estabelecido alinhando o endereço de fatu
     <td colspan="4">
       <p><sup>1</sup><i>O suporte de idioma está disponível somente em inglês e japonês.</i></p>
       <p><i>O Adobe Commerce exclui o suporte ao idioma japonês.</i></p>
-      <p><i>Os casos P2, P3 e P4 são limitados ao horário comercial somente no Japão.</i></p>
+      <p><i>Os casos de prioridade P2, P3 e P4 estão limitados apenas ao horário comercial no Japão.</i></p>
     </td>
   </tr>
 </tbody>
