@@ -4,7 +4,7 @@ user-guide-description: Recursos de suporte da Adobe Experience Cloud e da Adobe
 source-git-commit: a61b2a003aba811899ff7d28da91f0f955384e30
 workflow-type: tm+mt
 source-wordcount: '34'
-ht-degree: 76%
+ht-degree: 91%
 
 ---
 
