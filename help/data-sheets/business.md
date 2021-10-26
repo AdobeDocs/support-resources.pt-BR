@@ -3,7 +3,7 @@ title: Suporte Business
 description: Os serviços de Suporte Business da Adobe Experience Cloud fornecem acesso total às equipes de suporte técnico da Adobe e a um Líder de suporte da conta para gerenciamento de conta.
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
 source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '872'
 ht-degree: 100%
 
@@ -211,7 +211,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
   <td>
     <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
-    <p>Horas do Office</p>
+    <p>Office Hours</p>
     <p><b>Webinários</b></p>
     <p>O Office Hours é uma iniciativa liderada pela equipe de Suporte ao cliente da Adobe. Essas sessões foram criadas para informar e ajudar os participantes a solucionar problemas e fornecer dicas e truques para aproveitar ao máximo a Adobe Experience Cloud.</p>
     </div>
