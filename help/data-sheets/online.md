@@ -3,7 +3,7 @@ title: Suporte Online
 description: Os serviços de Suporte Online da Adobe Experience Cloud fornecem acesso limitado ao suporte telefônico.
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
 source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '757'
 ht-degree: 100%
 
@@ -186,7 +186,7 @@ O Suporte ao cliente da Adobe oferece acesso a recursos online para documentaç�
   <td>
     <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
-    <p>Horas do Office</p>
+    <p>Office Hours</p>
     <p><b>Webinários</b></p>
     <p>O Office Hours, apresentado pela equipe de Suporte ao cliente da Adobe, inclui sessões para informar e ajudar os participantes a solucionar problemas e fornecer dicas e truques para aproveitar ao máximo as soluções da Adobe.</p>
     </div>
