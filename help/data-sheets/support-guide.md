@@ -2,7 +2,7 @@
 title: Guia de suporte ao cliente da Experience Cloud
 description: Este Guia de suporte ao cliente ajuda você a se familiarizar com nossas ofertas de suporte, programas, serviços e procedimentos da Experience Cloud e informa como você pode entrar em contato conosco no mundo todo.
 source-git-commit: cfaa968064b814ebb41d433e79c0217d605fd612
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
 ht-degree: 100%
 
