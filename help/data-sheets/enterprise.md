@@ -3,9 +3,9 @@ title: Suporte Enterprise
 description: Os serviços de suporte Enterprise da Adobe Experience Cloud oferecem metas de nível de serviço (SLT, em inglês) aprimorados, conhecimento técnico e um engenheiro de suporte nomeado que atua como defensor.
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
 source-git-commit: 07d858c8d34e3e1cb5fdfd56fb6753b5338c0692
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1192'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -126,7 +126,7 @@ Os serviços de suporte Enterprise da Adobe Experience Cloud oferecem metas de n
 
 | Prioridade | Suporte Online | Suporte Enterprise |
 |--- |--- |--- |
-| <b>PRIORIDADE 1</b><br>As funções de negócios de produção do cliente estão inativas ou têm perda significativa de dados ou degradação do serviço e é necessária atenção imediata para restaurar a funcionalidade e a usabilidade. | 24x7/<br>1 hora | 24x7/<br>30 minutos |
+| <b>PRIORIDADE 1</b><br>As funções de produção comercial do cliente estão inativas ou sofreram perda significativa de dados ou degradação de serviços, e é necessária atenção imediata para restaurar a funcionalidade e a usabilidade. | 24x7/<br>1 hora | 24x7/<br>30 minutos |
 | <b>PRIORIDADE 2</b><br>As funções empresariais do cliente têm grande degradação de serviços, perda potencial de dados ou foi afetado um recurso importante. | Horário comercial/<br>4 horas | 24x5/<br>1 hora |
 | <b>PRIORIDADE 3</b><br>As funções empresariais do cliente têm pouca degradação dos serviços, e há uma solução/solução alternativa que permite que as funções empresariais continuem normalmente. | Horário comercial/<br>6 horas | Horário comercial/<br> 2 horas |
 | <b>PRIORIDADE 4</b><br>Pergunta geral sobre a funcionalidade atual do produto ou solicitação de melhoria. | Dias úteis/<br>3 dias | Dia útil/<br>1 dia |
@@ -241,7 +241,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
   <td>
     <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
-    <p>Horas do Office</p>
+    <p>Office Hours</p>
     <p><b>Webinários</b></p>
     <p>O Office Hours é uma iniciativa liderada pela equipe de Suporte ao cliente da Adobe. Essas sessões foram criadas para informar e ajudar os participantes a solucionar problemas e fornecer dicas e truques para aproveitar ao máximo a Adobe Experience Cloud.</p>
     </div>
