@@ -1,7 +1,8 @@
 ---
 title: Visão geral dos serviços de suporte do Experience Cloud
 description: Este artigo fornece um resumo das opções de Suporte ao cliente da Adobe Experience Cloud. Essas opções incluem os planos Online, Business, Enterprise e Elite.
-source-git-commit: 2a95fd91ce1bf05760d95deac2ba7525e4c24fd1
+exl-id: ac22d8ac-a214-4ee2-8828-b28a4cccce43
+source-git-commit: 98e65227b9a988b32bdfb32a8c371f2474ea4ac5
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 95%
@@ -60,4 +61,3 @@ Para necessidades mais abrangentes, oferecemos serviços de suporte Adobe que in
   </td>
 </tr>
 </table>
-

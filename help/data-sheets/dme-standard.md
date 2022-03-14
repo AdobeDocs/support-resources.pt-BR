@@ -1,25 +1,25 @@
 ---
-title: Suporte Online
+title: Suporte padrão
 description: Os serviços de Suporte Online da Adobe Experience Cloud fornecem acesso limitado ao suporte telefônico.
-source-git-commit: 60ccbe6d7fd483eaa640647c43f583c9ac5b6920
+source-git-commit: 98f2b1e3bbfa2ad2f1177f5ddd5131ef907407b2
 workflow-type: tm+mt
-source-wordcount: '757'
-ht-degree: 100%
+source-wordcount: '846'
+ht-degree: 86%
 
 ---
 
-# Suporte Online
+# Suporte padrão
 
 ![Ícone](assets/OnlineBanner.png)
 
-Os serviços de Suporte Online da Adobe Experience Cloud fornecem acesso limitado ao suporte telefônico.
+O Adobe oferece uma ampla gama de recursos técnicos para ajudar a apoiar sua empresa incluída como parte de sua assinatura da empresa Adobe. O suporte padrão inclui acesso 24 horas por dia, 7 dias por semana a nossos recursos de autoajuda, incluindo artigos sobre o HelpX e o envolvimento com outros clientes na Comunidade do Adobe. Você pode aproveitar a documentação técnica detalhada e detalhada do produto e as notas de versão atuais publicadas em http://www.adobe.com . Nosso suporte padrão também inclui acesso 24 horas por dia, 7 dias por semana para usuários autorizados (administradores) às nossas equipes de suporte técnico por chat ou telefone, bem como a capacidade de registrar solicitações de assistência por meio de nosso portal de suporte na Web.
 
 <table>
 <thead>
   <tr>
     <th></th>
     <th></th>
-    <th>Suporte Online</th>
+    <th>Suporte padrão</th>
     <th>Suporte Business</th>
     <th>Suporte Enterprise</th>
     <th>Suporte Elite</th>
@@ -30,7 +30,7 @@ Os serviços de Suporte Online da Adobe Experience Cloud fornecem acesso limitad
     <td></td>
     <td></td>
     <td></td>
-    <td colspan="3">Suporte pago ($)</td>
+    <td colspan="3">Níveis de suporte pago ($)</td>
   </tr>
   <tr>
     <td rowspan="3">Especialistas atribuídos<br></td>
@@ -56,7 +56,7 @@ Os serviços de Suporte Online da Adobe Experience Cloud fornecem acesso limitad
   </tr>
   <tr>
     <td rowspan="12">Serviços de suporte</td>
-    <td>Suporte Online</td>
+    <td>Suporte padrão</td>
     <td>Horário comercial</td>
     <td>Horário comercial</td>
     <td>24x5</td>
