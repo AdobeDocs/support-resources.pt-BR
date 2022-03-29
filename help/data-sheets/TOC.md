@@ -4,24 +4,24 @@ user-guide-description: Recursos de suporte da Adobe Experience Cloud e da Adobe
 source-git-commit: 3c8e4deceb51829b6224048c7618853c3d2b61fc
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
 
 # Recursos de suporte {#data-sheets}
 
-+ [Visão geral do suporte ao Adobe](overview.md)
++ [Visão geral do suporte da Adobe](overview.md)
 + Serviços da Experience Cloud {#data-sheets}
-   + [Visão geral do suporte ao Adobe](dx-overview.md)
+   + [Visão geral do suporte da Adobe](dx-overview.md)
    + [Online](online.md)
    + [Business](business.md)
    + [Enterprise](enterprise.md)
    + [Elite](elite.md)
    + [Guia do Suporte ao cliente](support-guide.md)
-+ Serviços de Creative Cloud e Document Cloud {#dme-data-sheets}
-   + [Serviços de Creative Cloud e Document Cloud](dme-overview.md)
-   + [Padrão](dme-standard.md)
++ Serviços da Creative Cloud e Document Cloud {#dme-data-sheets}
+   + [Serviços da Creative Cloud e Document Cloud](dme-overview.md)
+   + [Standard](dme-standard.md)
    + [Negócios](dme-business.md)
    + [Empresa](dme-enterprise.md)
    + [Elite](dme-elite.md)
