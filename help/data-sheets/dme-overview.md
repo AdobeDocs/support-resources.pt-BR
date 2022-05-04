@@ -3,13 +3,13 @@ title: Visão geral dos serviços de suporte da Creative Enterprise e Document C
 description: Este artigo fornece um resumo das opções de Suporte ao cliente da Adobe Creative Cloud e Document Cloud. Essas opções incluem os níveis Padrão, Business, Enterprise e Elite.
 exl-id: e3c762b9-d4b3-4248-b1c1-8212a763b4c5
 source-git-commit: 6e3accaab1360993295e9ee4ab88d55d3e7b744e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '285'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
-# Serviços de suporte para Creative Cloud Enterprise e Document Cloud
+# Serviços de suporte da Creative Cloud para corporações e Document Cloud
 
 A organização de Suporte ao cliente da Adobe Creative Cloud e da Document Cloud está comprometida com o seu sucesso. Todos os aplicativos incluem um nível de suporte que fornece acesso fácil a nossos recursos altamente qualificados para assistência técnica.
 
@@ -22,7 +22,7 @@ Para necessidades mais abrangentes, oferecemos os planos de suporte da Adobe, qu
     <img alt="Standard" src="assets/STANDARDSupportThumbnailCC.png"/>
     </a>
     <div>
-    <a href="dme-standard.md"><strong>Suporte Standard</strong></a> (exibir <a href="assets/DMeStandardSupportDatasheet_2022.pdf" target="_blank">PDF</a>)
+    <a href="dme-standard.md"><strong>Suporte Standard</strong></a> (visualizar <a href="assets/DMeStandardSupportDatasheet_2022.pdf" target="_blank">PDF</a>)
     </div>
     <p>Usuários autorizados (administradores) têm acesso 24 horas por dia, 7 dias por semana às nossas equipes de suporte técnico por chat ou telefone, além da capacidade de registrar solicitações de assistência por meio de nosso portal de suporte na Web. </p>
     <br>
