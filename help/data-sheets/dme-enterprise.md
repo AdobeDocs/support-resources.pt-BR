@@ -1,29 +1,30 @@
 ---
-title: Suporte empresarial para Creative Cloud e Adobe Document Cloud
-description: O Adobe oferece uma ampla gama de recursos técnicos para ajudar a apoiar sua empresa incluída como parte de sua assinatura da empresa Adobe. Isso é aprimorado com o plano de suporte da ENTERPRISE.
-source-git-commit: 39439be547c3359739857f540e38203d938d72cb
-workflow-type: tm+mt
+title: Suporte Enterprise para Creative Cloud e Adobe Document Cloud
+description: Para fornecer suporte a sua empresa, a Adobe oferece uma ampla gama de recursos técnicos incluída como parte de sua assinatura corporativa da Adobe. Isso é aprimorado com o plano de suporte ENTERPRISE.
+exl-id: 38467d5a-02b8-496f-ac2b-4d54ac3c5ffc
+source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
+workflow-type: ht
 source-wordcount: '933'
-ht-degree: 39%
+ht-degree: 100%
 
 ---
 
-# Suporte empresarial para Creative Cloud e Adobe Document Cloud
+# Suporte Enterprise para Creative Cloud e Adobe Document Cloud
 
 ![Ícone](assets/EnterpriseBanner.png)
 
-O Adobe oferece uma ampla gama de recursos técnicos para ajudar a apoiar sua empresa incluída como parte de sua assinatura da empresa Adobe. Isso é aprimorado com o plano de suporte da ENTERPRISE. Os clientes ENTERPRISE se beneficiarão do nosso serviço de Engenheiro de Suporte Nomeado, onde um contato técnico designado na Equipe de Suporte do Adobe com experiência profunda na sua solução funcionará em parceria com você e suas equipes técnicas para garantir a resolução oportuna de todas as solicitações de suporte.
+Para fornecer suporte a sua empresa, a Adobe oferece uma ampla gama de recursos técnicos incluída como parte de sua assinatura corporativa da Adobe. Isso é aprimorado com o plano de suporte ENTERPRISE. Os clientes do plano ENTERPRISE se beneficiarão do nosso serviço de engenheiro de suporte nomeado, onde um contato técnico designado na Equipe de suporte da Adobe, com extensa experiência na solução, trabalhará em parceria com você e suas equipes técnicas para garantir a resolução oportuna de todas as solicitações de suporte.
 
-Sua equipe de suporte também pode ajudar a coordenar e organizar a entrega dos benefícios EMPRESARIAIS adicionais, garantindo uma interrupção mínima para sua empresa nos momentos mais críticos. Os clientes do plano de suporte da ENTERPRISE também podem aproveitar nossa documentação técnica detalhada e detalhada do produto e as notas de versão atuais.
+Sua equipe de suporte também pode ajudar a coordenar e organizar a entrega dos benefícios adicionais do plano ENTERPRISE, garantindo o mínimo de interrupção dos seus negócios nos momentos mais críticos. Os clientes do plano de suporte ENTERPRISE também podem utilizar nossa documentação técnica detalhada e abrangente do produto e as notas de versão atuais.
 
-[Exibir versão do PDF](assets/DMeEnterpriseSupportDatasheet_2022.pdf)
+[Exibir versão em PDF](assets/DMeEnterpriseSupportDatasheet_2022.pdf)
 
 <table>
 <thead>
   <tr>
     <th></th>
     <th></th>
-    <th>Suporte padrão</th>
+    <th>Suporte Standard</th>
     <th>Suporte Enterprise</th>
   </tr>
 </thead>
@@ -57,17 +58,17 @@ Sua equipe de suporte também pode ajudar a coordenar e organizar a entrega dos 
     <td>✔</td>
   </tr>
   <tr>
-    <td>Suporte 24x7 via chat/telefone</td>
+    <td>Suporte por bate-papo/telefone 24 horas por dia, 7 dias por semana</td>
     <td>✔</td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Envio de caso da Web</td>
+    <td>Envio de casos via web</td>
     <td>✔</td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Roteamento de caso prioritário</td>
+    <td>Roteamento de casos prioritários</td>
     <td></td>
     <td>✔</td>
   </tr>
@@ -82,7 +83,7 @@ Sua equipe de suporte também pode ajudar a coordenar e organizar a entrega dos 
     <td></td>
     <td>✔</td>
   </tr>
-    <td>Monitoramento de casos pró-ativo</td>
+    <td>Monitoramento de casos proativo</td>
     <td></td>
     <td>✔</td>
   </tr>
@@ -94,12 +95,12 @@ Sua equipe de suporte também pode ajudar a coordenar e organizar a entrega dos 
   <tr>
     <td>Revisões de serviço</td>
     <td></td>
-    <td>2/ano</td>
+    <td>2 por ano</td>
   </tr>
   <tr>
     <td>Revisões de caso</td>
     <td></td>
-    <td>1/mês</td>
+    <td>1 por mês</td>
   </tr>
   <tr>
     <td>Análise da solução</td>
@@ -107,12 +108,12 @@ Sua equipe de suporte também pode ajudar a coordenar e organizar a entrega dos 
     <td></td>
   </tr>
   <tr>
-    <td>Revisão do roteiro</td>
+    <td>Análise do roteiro</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Contatos Adicionais de Suporte Nomeado</td>
+    <td>Contatos adicionais de suporte nomeados</td>
     <td></td>
     <td></td>
   </tr>
@@ -122,7 +123,7 @@ Sua equipe de suporte também pode ajudar a coordenar e organizar a entrega dos 
     <td></td>
   </tr>
   <tr>
-    <td>Preparação e planejamento da versão</td>
+    <td>Preparação e planejamento de versão</td>
     <td></td>
     <td></td>
   </tr>
@@ -140,7 +141,7 @@ Sua equipe de suporte também pode ajudar a coordenar e organizar a entrega dos 
 <thead>
   <tr>
     <th>Prioridade</th>
-    <th>Suporte padrão</th>
+    <th>Suporte Standard</th>
     <th>Suporte Business</th>
     <th>Suporte Enterprise</th>
     <th>Suporte Elite</th>
@@ -150,7 +151,7 @@ Sua equipe de suporte também pode ajudar a coordenar e organizar a entrega dos 
   <tr>
     <td><strong>PRIORIDADE 1</strong><br>As funções de produção do cliente estão inativas ou têm perda significativa de dados ou degradação de serviços, e é necessária atenção imediata para restaurar a funcionalidade e a usabilidade.</td>
     <td>24x7/<br>30 minutos</td>
-    <td colspan="3" rowspan="4" align="center"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Os clientes que comprarem um Plano de Suporte para Produtos e Serviços de Adobe aplicáveis recebem casos de prioridade de roteamento de casos rápidos para os Engenheiros de Suporte Adobe.</td>
+    <td colspan="3" rowspan="4" align="center"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Os clientes que compram um Plano de suporte para produtos e serviços da Adobe aplicáveis recebem roteamento prioritário de casos, o que acelera o envio para os engenheiros de suporte da Adobe.</td>
   </tr>
   <tr>
     <td><strong>PRIORIDADE 2</strong><br>As funções empresariais do cliente têm grande degradação de serviços, perda potencial de dados ou foi afetado um recurso importante.</td>
@@ -179,10 +180,10 @@ Sua equipe de suporte também pode ajudar a coordenar e organizar a entrega dos 
     </div>
   </td>
   <td>
-    <img alt="Roteamento de caso prioritário" src="assets/dmeprioritycaserouting.png"/>
+    <img alt="Roteamento de casos prioritários" src="assets/dmeprioritycaserouting.png"/>
     <div>
-    <p><b>Roteamento de caso prioritário</b></p>
-    <p>Receba roteamento priorizado para garantir conexão mais rápida a recursos de suporte mais importantes em casos enviados.</p>
+    <p><b>Roteamento de casos prioritários</b></p>
+    <p>Receba roteamento priorizado para garantir uma conexão mais rápida aos recursos de suporte de maior prioridade em casos enviados.</p>
     </div>
   </td>
   <td>
@@ -198,21 +199,21 @@ Sua equipe de suporte também pode ajudar a coordenar e organizar a entrega dos 
     <img alt="Priorização de problemas acelerada" src="assets/dmeacceleratedissue.png"/>
     <div>
     <p><b>Priorização de problemas acelerada</b></p>
-    <p>Receba maior priorização no trabalho dos casos de suporte por meio de envolvimento facilitado com a engenharia.</p>
+    <p>Receba maior prioridade nos seus casos de suporte por meio do envolvimento facilitado com os engenheiros.</p>
     </div>
   </td>
   <td>
-    <img alt="Monitoramento de casos pró-ativo" src="assets/dmeproactivecasemonitoring.png"/>
+    <img alt="Monitoramento de casos proativo" src="assets/dmeproactivecasemonitoring.png"/>
     <div>
-    <p><b>Monitoramento de casos pró-ativo</b></p>
-    <p>Um ponto de contato designado no Adobe monitorará ativamente os casos em aberto e tomará medidas proativas e preventivas para garantir a resolução atempada.</p>
+    <p><b>Monitoramento de casos proativo</b></p>
+    <p>Um ponto de contato designado na Adobe monitorará ativamente os casos em aberto e tomará medidas proativas e preventivas para garantir uma resolução oportuna.</p>
     </div>
   </td>
   <td>
     <img alt="Revisões de caso" src="assets/dmecasereviews.png"/>
     <div>
     <p><b>Revisões de caso</b></p>
-    <p>Revisões regularmente programadas de solicitações de suporte abertas, garantindo o alinhamento do cliente com a descrição do caso, o impacto dos negócios, o status, a prioridade e o acordo sobre as próximas etapas necessárias para garantir uma resolução em tempo hábil.</p>
+    <p>Revisão regular das solicitações de suporte em aberto, garantindo o alinhamento do cliente com a descrição do caso, o impacto nos negócios, o status, a prioridade e as informações sobre as próximas etapas necessárias para garantir uma resolução oportuna.</p>
     </div>
   </td>
 </tr>
@@ -221,20 +222,20 @@ Sua equipe de suporte também pode ajudar a coordenar e organizar a entrega dos 
     <img alt="Revisões de serviço" src="assets/dmeservicereviews.png"/>
     <div>
     <p><b>Revisões de serviço</b></p>
-    <p>Análise semestral abrangente dos serviços, benefícios e desempenho de suporte do programa Enterprise. Pode ser combinada com outras análises estratégicas de negócios realizadas com o Adobe.</p>
+    <p>Análise semestral abrangente dos serviços, benefícios e desempenho de suporte do programa corporativo. Pode ser combinada com outras análises estratégicas de negócios realizadas com a Adobe.</p>
     </div>
   </td>
   <td>
     <img alt="Acesso ao suporte na região" src="assets/dmeinregionsupportaccess.png"/>
     <div>
     <p><b>Acesso ao suporte na região</b></p>
-    <p>Receba suporte de membros da nossa Equipe de suporte do Adobe localizada na região global. Isso pode incluir no país e/ou no suporte de idiomas.</p>
+    <p>Receba a ajuda de membros da nossa Equipe de suporte da Adobe localizada em sua região global. Isso pode incluir suporte no país e/ou de idioma.</p>
     </div>
   </td>
 </tr>
 </table>
 
-## Recursos de suporte padrão
+## Recursos do suporte Standard
 
 <table style="table-layout:fixed">
 <tr>
@@ -248,7 +249,7 @@ Sua equipe de suporte também pode ajudar a coordenar e organizar a entrega dos 
   <td>
     <img alt="Autoatendimento" src="assets/dme-selfhelp.png"/>
     <div>
-    <p><b>Portal de autoajuda</b></p>
+    <p><b>Portal de autoatendimento</b></p>
     <p>Acesso sob demanda ao Portal de autoatendimento online para enviar solicitações de suporte, revisar o status do caso e procurar outros recursos, como nossa base de conhecimento, notícias e alertas, dicas em destaque e muito mais.</p>
     </div>
   </td>
@@ -256,8 +257,8 @@ Sua equipe de suporte também pode ajudar a coordenar e organizar a entrega dos 
     <img alt="Suporte por chat ao vivo" src="assets/dmechat.png"/>
     <div>
     <p><b>Suporte por chat</b></p>
-    <p>Os usuários autorizados (administradores) podem iniciar uma sessão de bate-papo com o Suporte do Adobe para obter respostas e ajuda com o envio de caso</p>
-    <p><i>Sujeito às horas locais.</i></p>
+    <p>Os usuários autorizados (administradores) podem iniciar uma sessão de bate-papo com o suporte da Adobe para obter respostas e ajuda com o envio de casos</p>
+    <p><i>Sujeito ao horário local.</i></p>
     </div>
   </td>
 </tr>
@@ -266,15 +267,15 @@ Sua equipe de suporte também pode ajudar a coordenar e organizar a entrega dos 
     <img alt="Suporte telefônico" src="assets/dmephone.png"/>
     <div>
     <p><b>Suporte telefônico</b></p>
-    <p>Os usuários autorizados (administradores) podem ligar para o Suporte do Adobe por telefone para obter respostas e ajuda com o envio do caso.</p>
-    <p><i>Sujeito às horas locais.</i></p>
+    <p>Os usuários autorizados (administradores) podem ligar para o suporte da Adobe por telefone para obter respostas e ajuda com o envio de casos.</p>
+    <p><i>Sujeito ao horário local.</i></p>
     </div>
   </td>
   <td>
-    <img alt="Caso da Web" src="assets/dmewebcase.png"/>
+    <img alt="Casos via web" src="assets/dmewebcase.png"/>
     <div>
-    <p><b>Envio de caso da Web</b></p>
-    <p>Os usuários autorizados (administradores) podem enviar casos da Web ilimitados a qualquer momento para questões de suporte, para análise pela nossa equipe de suporte técnico.</p>
+    <p><b>Envio de casos via web</b></p>
+    <p>Os usuários autorizados (administradores) podem enviar casos via web ilimitados a qualquer momento sobre questões de suporte, para que nossa equipe de suporte técnico possa analisá-los.</p>
     </div>
   </td>
 </tr>
@@ -284,8 +285,8 @@ Sua equipe de suporte também pode ajudar a coordenar e organizar a entrega dos 
 
 | Recurso | Descrição |
 |--- |--- |
-| [Aprendizagem e suporte da empresa](https://helpx.adobe.com/enterprise.html) | Aprendizagem e suporte empresarial é um local onde os clientes do Adobe podem encontrar tutoriais de autoajuda, documentação do produto, treinamento ministrado por instrutores, comunidade e suporte para produtos Adobe Creative Cloud e Document selecionados. |
-| [Comunidade de suporte ao Adobe](https://community.adobe.com/) | A Comunidade de Suporte do Adobe é o local para fazer perguntas, encontrar respostas, aprender com especialistas e compartilhar seu conhecimento. |
+| [Aprendizagem e suporte corporativo](https://helpx.adobe.com/br/enterprise.html) | Aprendizagem e suporte corporativo é um local onde os clientes da Adobe podem encontrar tutoriais de autoajuda, documentações de produtos, treinamento ministrado por instrutores, uma comunidade e suporte para determinados produtos da Adobe Creative Cloud e Adobe Document Cloud. |
+| [Comunidade de suporte da Adobe](https://community.adobe.com/?profile.language=pt) | A Comunidade de suporte da Adobe é o local para fazer perguntas, encontrar respostas, aprender com especialistas e compartilhar seu conhecimento. |
 | [Problemas de produção e paralisações do sistema](https://status.adobe.com/) | O Status.adobe.com transmite as informações de integridade de todos os produtos e serviços da Adobe implantados em ambientes de vários locatários. Os clientes podem escolher suas preferências de subscrição para receber notificações por email sempre que a Adobe criar, atualizar ou resolver um evento de produto. Isso pode incluir manutenção programada ou problemas de serviço com diferentes níveis de gravidade. |
 | [Termos e condições](https://helpx.adobe.com/br/support/programs/support-policies-terms-conditions.html) | Os Termos e condições que detalham os serviços de suporte. |
 
@@ -293,7 +294,7 @@ Sua equipe de suporte também pode ajudar a coordenar e organizar a entrega dos 
 
 ## Escopo regional do Suporte da Adobe, horários locais de operação e suporte de idioma
 
-O horário comercial local do Adobe é alinhado à região de faturamento do cliente.
+O horário comercial local da Adobe é definido de acordo com a região de faturamento do cliente.
 
 <table>
 <thead>
@@ -313,7 +314,7 @@ O horário comercial local do Adobe é alinhado à região de faturamento do cli
   </tr>
   <tr>
     <td colspan="4">
-      <p><sup>1</sup>Suporte ao idioma das Américas disponível somente em inglês.</p>
+      <p><sup>1</sup>Suporte de idioma das Américas disponível somente em inglês.</p>
     </td>
   </tr>
 </tbody>
@@ -321,4 +322,4 @@ O horário comercial local do Adobe é alinhado à região de faturamento do cli
 
 ![Ícone](assets/bottom-banner.png)
 
-*Para saber mais sobre as Ofertas de suporte do Adobe e o nível certo para você, entre em contato com seu Gerente de conta nomeado (NAM) ou com o Gerente de sucesso do cliente (CSM).*
+*Para saber mais sobre as Ofertas de suporte da Adobe e o nível certo para você, entre em contato com seu gerente de conta nomeado (NAM) ou gerente de sucesso do cliente (CSM).*
