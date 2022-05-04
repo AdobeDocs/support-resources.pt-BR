@@ -1,10 +1,11 @@
 ---
 title: Suporte Elite para Creative Cloud e Adobe Document Cloud
-description: O Adobe oferece uma ampla gama de recursos técnicos para ajudar a apoiar sua empresa incluída como parte de sua assinatura da empresa Adobe. Isso é aprimorado com o plano de suporte ELITE.
-source-git-commit: 39439be547c3359739857f540e38203d938d72cb
-workflow-type: tm+mt
+description: Para fornecer suporte a sua empresa, a Adobe oferece uma ampla gama de recursos técnicos incluída como parte de sua assinatura corporativa da Adobe. Isso é aprimorado com o plano de suporte ELITE.
+exl-id: 2f506e8d-ac9b-4bc7-b98a-ac5ffc626c65
+source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
+workflow-type: ht
 source-wordcount: '1097'
-ht-degree: 32%
+ht-degree: 100%
 
 ---
 
@@ -12,11 +13,11 @@ ht-degree: 32%
 
 ![Ícone](assets/Elitebanner.png)
 
-O Adobe oferece uma ampla gama de recursos técnicos para ajudar a apoiar sua empresa incluída como parte de sua assinatura da empresa Adobe. Isso é aprimorado com o plano de suporte ELITE. Os clientes da ELITE têm acesso a um engenheiro de suporte nomeado, bem como a um gerente de conta técnico que trabalha em parceria com você para fornecer o melhor suporte pró-ativo e reativo da classe enquanto atuam como contatos técnicos designados dentro da equipe de suporte do Adobe.
+Para fornecer suporte a sua empresa, a Adobe oferece uma ampla gama de recursos técnicos incluída como parte de sua assinatura corporativa da Adobe. Isso é aprimorado com o plano de suporte ELITE. Os clientes ELITE têm acesso a um engenheiro de suporte nomeado, bem como a um gerente de conta técnico que trabalha em parceria com você para fornecer o melhor suporte proativo e reativo enquanto atuam como contatos técnicos designados dentro da Equipe de suporte da Adobe.
 
-Com uma experiência profunda nas soluções Creative Cloud e Document Cloud aplicáveis, a equipe de suporte trabalha para garantir que, independentemente da complexidade das suas necessidades de suporte, a equipe de suporte do Adobe estará lá, lado a lado, com você, para garantir que você maximize seu investimento em soluções Adobe aplicáveis e para ajudar a evitar problemas antes que eles aconteçam. Você também pode aproveitar nossa documentação técnica detalhada e detalhada do produto e as notas de versão atuais.
+Com grande experiência nas soluções Creative Cloud e Document Cloud aplicáveis, a equipe de suporte trabalha para garantir que, independentemente da complexidade das suas necessidades de suporte, a Equipe de suporte da Adobe estará lá, lado a lado, com você, para garantir que você maximize seu investimento em soluções Adobe aplicáveis e para ajudar a evitar problemas antes que eles aconteçam. Você também pode aproveitar nossa documentação técnica detalhada e abrangente do produto e as notas de versão atuais.
 
-[Exibir versão do PDF](assets/DMeEliteSupportDatasheet_2022.pdf)
+[Exibir versão em PDF](assets/DMeEliteSupportDatasheet_2022.pdf)
 
 <table>
 <thead>
@@ -57,17 +58,17 @@ Com uma experiência profunda nas soluções Creative Cloud e Document Cloud apl
     <td>✔</td>
   </tr>
   <tr>
-    <td>Suporte 24x7 via chat/telefone</td>
+    <td>Suporte por bate-papo/telefone 24 horas por dia, 7 dias por semana</td>
     <td>✔</td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Envio de caso da Web</td>
+    <td>Envio de casos via web</td>
     <td>✔</td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Roteamento de caso prioritário</td>
+    <td>Roteamento de casos prioritários</td>
     <td></td>
     <td>✔</td>
   </tr>
@@ -82,7 +83,7 @@ Com uma experiência profunda nas soluções Creative Cloud e Document Cloud apl
     <td></td>
     <td>✔</td>
   </tr>
-    <td>Monitoramento de casos pró-ativo</td>
+    <td>Monitoramento de casos proativo</td>
     <td></td>
     <td>✔</td>
   </tr>
@@ -94,12 +95,12 @@ Com uma experiência profunda nas soluções Creative Cloud e Document Cloud apl
   <tr>
     <td>Revisões de serviço</td>
     <td></td>
-    <td>4/ano</td>
+    <td>4 por ano</td>
   </tr>
   <tr>
     <td>Revisões de caso</td>
     <td></td>
-    <td>2/mês</td>
+    <td>2 por mês</td>
   </tr>
   <tr>
     <td>Análise da solução</td>
@@ -107,12 +108,12 @@ Com uma experiência profunda nas soluções Creative Cloud e Document Cloud apl
     <td>✔</td>
   </tr>
   <tr>
-    <td>Revisão do roteiro</td>
+    <td>Análise do roteiro</td>
     <td></td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Contatos Adicionais de Suporte Nomeado</td>
+    <td>Contatos adicionais de suporte nomeados</td>
     <td></td>
     <td>✔</td>
   </tr>
@@ -122,7 +123,7 @@ Com uma experiência profunda nas soluções Creative Cloud e Document Cloud apl
     <td>✔</td>
   </tr>
   <tr>
-    <td>Preparação e planejamento da versão</td>
+    <td>Preparação e planejamento de versão</td>
     <td></td>
     <td>✔</td>
   </tr>
@@ -140,7 +141,7 @@ Com uma experiência profunda nas soluções Creative Cloud e Document Cloud apl
 <thead>
   <tr>
     <th>Prioridade</th>
-    <th>Suporte padrão</th>
+    <th>Suporte Standard</th>
     <th>Suporte Business</th>
     <th>Suporte Enterprise</th>
     <th>Suporte Elite</th>
@@ -149,12 +150,12 @@ Com uma experiência profunda nas soluções Creative Cloud e Document Cloud apl
 <tbody>
   <tr>
     <td><strong>PRIORIDADE 1</strong><br>As funções de produção do cliente estão inativas ou têm perda significativa de dados ou degradação de serviços, e é necessária atenção imediata para restaurar a funcionalidade e a usabilidade.</td>
-    <td>24x7/<br>30 minutos</td>
-    <td colspan="3" rowspan="4" align="center"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Os clientes que comprarem um Plano de Suporte para Produtos e Serviços de Adobe aplicáveis recebem casos de prioridade de roteamento de casos rápidos para os Engenheiros de Suporte Adobe.</td>
+    <td>Todos os dia, 24 horas por dia/<br>30 minutos</td>
+    <td colspan="3" rowspan="4" align="center"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Os clientes que compram um Plano de suporte para produtos e serviços da Adobe aplicáveis recebem roteamento prioritário de casos, o que acelera o envio para os engenheiros de suporte da Adobe.</td>
   </tr>
   <tr>
-    <td><strong>PRIORIDADE 2</strong><br>As funções empresariais do cliente têm grande degradação de serviços, perda potencial de dados ou foi afetado um recurso importante.</td>
-    <td>24x7/<br>1 hora</td>
+    <td><strong>PRIORIDADE 2</strong><br>As funções empresariais do cliente têm grande degradação de serviços, perda potencial de dados ou um recurso importante foi afetado.</td>
+    <td>Todos os dias, 24 horas por dia/<br>1 hora</td>
   </tr>
   <tr>
     <td><strong>PRIORIDADE 3</strong><br>As funções empresariais do cliente têm pouca degradação dos serviços, e há uma solução/solução alternativa que permite que as funções empresariais continuem normalmente.</td>
@@ -175,7 +176,7 @@ Com uma experiência profunda nas soluções Creative Cloud e Document Cloud apl
     <img alt="Gerente técnico de conta" src="assets/dmenamedsupportengineer.png"/>
     <div>
     <p><b>Gerente técnico de conta</b></p>
-    <p>Um Gerente técnico de conta designado para supervisionar e defender sua experiência de suporte da Elite e fornecer serviços pró-ativos para maximizar seu valor comercial.</p>
+    <p>Um gerente técnico de conta designado para supervisionar e defender sua experiência de suporte Elite e fornecer serviços proativos para maximizar seu valor comercial.</p>
     </div>
   </td>
   <td>
@@ -186,10 +187,10 @@ Com uma experiência profunda nas soluções Creative Cloud e Document Cloud apl
     </div>
   </td>
   <td>
-    <img alt="Roteamento de caso prioritário" src="assets/dmeprioritycaserouting.png"/>
+    <img alt="Roteamento de casos prioritários" src="assets/dmeprioritycaserouting.png"/>
     <div>
-    <p><b>Prioridade do roteamento de casos e da priorização de problemas acelerados</b></p>
-    <p>Receba roteamento priorizado para garantir conexão mais rápida a recursos de suporte mais importantes em casos submetidos, bem como maior priorização no trabalho de casos de suporte por meio de envolvimento facilitado com a engenharia.</p>
+    <p><b>Prioridade do roteamento de casos e priorização de problemas acelerada</b></p>
+    <p>Receba roteamento priorizado para garantir uma conexão mais rápida aos recursos de suporte de maior prioridade em casos enviados, bem como maior priorização na resolução de casos de suporte por meio do envolvimento facilitado com os engenheiros.</p>
     </div>
   </td>
 </tr>
@@ -197,21 +198,21 @@ Com uma experiência profunda nas soluções Creative Cloud e Document Cloud apl
   <td>
     <img alt="Gestão de encaminhamento" src="assets/dmeescalationmanagement.png"/>
     <div>
-    <p><b>Gerenciamento pró-ativo de monitoramento de casos e escalonamento</b></p>
-    <p>Um ponto de contato designado no Adobe que monitorará ativamente os casos em aberto e poderá fornecer assistência de escalonamento, atualizações regulares e garantir que seja dada prioridade às solicitações de suporte aberto mais críticas.</p>
+    <p><b>Monitoramento proativo de casos e gestão de encaminhamento</b></p>
+    <p>Um ponto de contato designado na Adobe que irá monitorar ativamente os casos em aberto e pode fornecer assistência de encaminhamento, atualizações frequentes e garantir que seja dada prioridade às solicitações de suporte mais críticas.</p>
     </div>
   </td>
   <td>
     <img alt="Revisões de caso" src="assets/dmecasereviews.png"/>
     <div>
     <p><b>Revisões de caso</b></p>
-    <p>Revisões regularmente programadas de solicitações de suporte abertas, garantindo o alinhamento do cliente com a descrição do caso, o impacto dos negócios, o status, a prioridade e o acordo sobre as próximas etapas necessárias para garantir uma resolução em tempo hábil.</p>
+    <p>Revisão regular das solicitações de suporte em aberto, garantindo o alinhamento do cliente com a descrição do caso, o impacto nos negócios, o status, a prioridade e as informações sobre as próximas etapas necessárias para garantir uma resolução oportuna.</p>
     </div>
   <td>
     <img alt="Revisões de serviço" src="assets/dmeservicereviews.png"/>
     <div>
     <p><b>Revisões de serviço</b></p>
-    <p>Análise semestral abrangente dos serviços, benefícios e desempenho de suporte do programa Enterprise. Pode ser combinada com outras análises estratégicas de negócios realizadas com o Adobe.</p>
+    <p>Análise semestral abrangente dos serviços, benefícios e desempenho de suporte do programa corporativo. Pode ser combinada com outras análises estratégicas de negócios realizadas com a Adobe.</p>
     </div>
   </td>
 </tr>
@@ -220,20 +221,20 @@ Com uma experiência profunda nas soluções Creative Cloud e Document Cloud apl
     <img alt="Acesso ao suporte na região" src="assets/dmeinregionsupportaccess.png"/>
     <div>
     <p><b>Acesso ao suporte na região</b></p>
-    <p>Receba suporte de membros da nossa Equipe de suporte do Adobe localizada na região global. Isso pode incluir no país e/ou no suporte de idiomas.</p>
+    <p>Receba a ajuda de membros da nossa Equipe de suporte da Adobe localizada em sua região global. Isso pode incluir suporte no país e/ou de idioma.</p>
     </div>
   </td>
   <td>
     <img alt="Revisão do roteiro da solução" src="assets/dmesolutionandroadmapreview.png"/>
     <div>
     <p><b>Revisão da solução e do roteiro</b></p>
-    <p>Revisão proativa da implantação, configuração e arquitetura geral da solução, incluindo integrações. Alinhe sua solução e o roteiro do projeto para reduzir riscos e se prepare para o futuro.</p>
+    <p>Revisão proativa da implantação, configuração e arquitetura geral da solução, incluindo integrações. Alinhe sua solução e o roteiro do projeto para reduzir riscos e se preparar para o futuro.</p>
     </div>
   </td>
   <td>
-    <img alt="Preparação e planejamento da versão" src="assets/dmereleasepreparationandplanning.png"/>
+    <img alt="Preparação e planejamento de versão" src="assets/dmereleasepreparationandplanning.png"/>
     <div>
-    <p><b>Preparação e planejamento da versão</b></p>
+    <p><b>Preparação e planejamento de versão</b></p>
     <p>Aproveite as informações de versão personalizadas com base na configuração do produto e no(s) caso(s) de uso.</p>
     </div>
   </td>
@@ -243,27 +244,27 @@ Com uma experiência profunda nas soluções Creative Cloud e Document Cloud apl
     <img alt="Planejamento de atualização/migração" src="assets/dmeupgrademigrationplanning.png"/>
     <div>
     <p><b>Planejamento de atualização/migração</b></p>
-    <p>Receba orientação personalizada e uma análise proativa para fins de planejamento de atualização e migração. Aproveite o plano de lançamento e atualização dos especialistas em Adobe.</p>
+    <p>Receba orientação personalizada e uma análise proativa para fins de atualização e planejamento de migração. Aproveite o plano de atualização e revisão de versão dos especialistas da Adobe.</p>
     </div>
   </td>
   <td>
     <img alt="Patrocinador executivo" src="assets/dmeexecutivesponsor.png"/>
     <div>
     <p><b>Patrocinador executivo</b></p>
-    <p>Beneficiar da parceria Patrocinador Executivo da Equipe de Liderança de Suporte Adobe.</p>
+    <p>Aproveite a parceria de um patrocinador executivo da Equipe de liderança de suporte da Adobe.</p>
     </div>
   </td>
   <td>
-    <img alt="Contatos Adicionais de Suporte Nomeado" src="assets/dmeadditionalnamedsupportcontacts.png"/>
+    <img alt="Contatos adicionais de suporte nomeados" src="assets/dmeadditionalnamedsupportcontacts.png"/>
     <div>
-    <p><b>Contatos Adicionais de Suporte Nomeado</b></p>
+    <p><b>Contatos adicionais de suporte nomeados</b></p>
     <p>Outros contatos de suporte nomeados têm a vantagem de aproveitar os canais disponíveis para interagir com a equipe de suporte técnico em nome de sua empresa.</p>
     </div>
   </td>
 </tr>
 </table>
 
-## Recursos de suporte padrão
+## Recursos do suporte Standard
 
 <table style="table-layout:fixed">
 <tr>
@@ -277,7 +278,7 @@ Com uma experiência profunda nas soluções Creative Cloud e Document Cloud apl
   <td>
     <img alt="Autoatendimento" src="assets/dme-selfhelp.png"/>
     <div>
-    <p><b>Portal de autoajuda</b></p>
+    <p><b>Portal de autoatendimento</b></p>
     <p>Acesso sob demanda ao Portal de autoatendimento online para enviar solicitações de suporte, revisar o status do caso e procurar outros recursos, como nossa base de conhecimento, notícias e alertas, dicas em destaque e muito mais.</p>
     </div>
   </td>
@@ -285,8 +286,8 @@ Com uma experiência profunda nas soluções Creative Cloud e Document Cloud apl
     <img alt="Suporte por chat ao vivo" src="assets/dmechat.png"/>
     <div>
     <p><b>Suporte por chat</b></p>
-    <p>Os usuários autorizados (administradores) podem iniciar uma sessão de bate-papo com o Suporte do Adobe para obter respostas e ajuda com o envio de caso</p>
-    <p><i>Sujeito às horas locais.</i></p>
+    <p>Os usuários autorizados (administradores) podem iniciar uma sessão de bate-papo com o suporte da Adobe para obter respostas e ajuda com o envio de casos</p>
+    <p><i>Sujeito ao horário local.</i></p>
     </div>
   </td>
 </tr>
@@ -295,15 +296,15 @@ Com uma experiência profunda nas soluções Creative Cloud e Document Cloud apl
     <img alt="Suporte telefônico" src="assets/dmephone.png"/>
     <div>
     <p><b>Suporte telefônico</b></p>
-    <p>Os usuários autorizados (administradores) podem ligar para o Suporte do Adobe por telefone para obter respostas e ajuda com o envio do caso.</p>
-    <p><i>Sujeito às horas locais.</i></p>
+    <p>Os usuários autorizados (administradores) podem ligar para o suporte da Adobe por telefone para obter respostas e ajuda com o envio de casos.</p>
+    <p><i>Sujeito ao horário local.</i></p>
     </div>
   </td>
   <td>
-    <img alt="Caso da Web" src="assets/dmewebcase.png"/>
+    <img alt="Casos via web" src="assets/dmewebcase.png"/>
     <div>
-    <p><b>Envio de caso da Web</b></p>
-    <p>Os usuários autorizados (administradores) podem enviar casos da Web ilimitados a qualquer momento para questões de suporte, para análise pela nossa equipe de suporte técnico.</p>
+    <p><b>Envio de casos via web</b></p>
+    <p>Os usuários autorizados (administradores) podem enviar casos via web ilimitados a qualquer momento sobre questões de suporte, para que nossa equipe de suporte técnico possa analisá-los.</p>
     </div>
   </td>
 </tr>
@@ -313,8 +314,8 @@ Com uma experiência profunda nas soluções Creative Cloud e Document Cloud apl
 
 | Recurso | Descrição |
 |--- |--- |
-| [Aprendizagem e suporte da empresa](https://helpx.adobe.com/enterprise.html) | Aprendizagem e suporte empresarial é um local onde os clientes do Adobe podem encontrar tutoriais de autoajuda, documentação do produto, treinamento ministrado por instrutores, comunidade e suporte para produtos Adobe Creative Cloud e Document selecionados. |
-| [Comunidade de suporte ao Adobe](https://community.adobe.com/) | A Comunidade de Suporte do Adobe é o local para fazer perguntas, encontrar respostas, aprender com especialistas e compartilhar seu conhecimento. |
+| [Aprendizagem e suporte corporativo](https://helpx.adobe.com/br/enterprise.html) | Aprendizagem e suporte corporativo é um local onde os clientes da Adobe podem encontrar tutoriais de autoajuda, documentações de produtos, treinamento ministrado por instrutores, uma comunidade e suporte para determinados produtos da Adobe Creative Cloud e Adobe Document Cloud. |
+| [Comunidade de suporte da Adobe](https://community.adobe.com/?profile.language=pt) | A Comunidade de suporte da Adobe é o local para fazer perguntas, encontrar respostas, aprender com especialistas e compartilhar seu conhecimento. |
 | [Problemas de produção e paralisações do sistema](https://status.adobe.com/) | O Status.adobe.com transmite as informações de integridade de todos os produtos e serviços da Adobe implantados em ambientes de vários locatários. Os clientes podem escolher suas preferências de subscrição para receber notificações por email sempre que a Adobe criar, atualizar ou resolver um evento de produto. Isso pode incluir manutenção programada ou problemas de serviço com diferentes níveis de gravidade. |
 | [Termos e condições](https://helpx.adobe.com/br/support/programs/support-policies-terms-conditions.html) | Os Termos e condições que detalham os serviços de suporte. |
 
@@ -322,7 +323,7 @@ Com uma experiência profunda nas soluções Creative Cloud e Document Cloud apl
 
 ## Horas regionais de funcionamento e suporte de idioma
 
-O horário comercial local do Adobe é alinhado à região de faturamento do cliente.
+O horário comercial local da Adobe é definido de acordo com a região de faturamento do cliente.
 
 <table>
 <thead>
@@ -342,7 +343,7 @@ O horário comercial local do Adobe é alinhado à região de faturamento do cli
   </tr>
   <tr>
     <td colspan="4">
-      <p><sup>1</sup>Suporte ao idioma das Américas disponível somente em inglês.</p>
+      <p><sup>1</sup>Suporte de idioma das Américas disponível somente em inglês.</p>
     </td>
   </tr>
 </tbody>
@@ -350,4 +351,4 @@ O horário comercial local do Adobe é alinhado à região de faturamento do cli
 
 ![Ícone](assets/bottom-banner.png)
 
-*Para saber mais sobre as Ofertas de suporte do Adobe e o nível certo para você, entre em contato com seu Gerente de conta nomeado (NAM) ou com o Gerente de sucesso do cliente (CSM).*
+*Para saber mais sobre as Ofertas de suporte da Adobe e o nível certo para você, entre em contato com seu gerente de conta nomeado (NAM) ou gerente de sucesso do cliente (CSM).*
