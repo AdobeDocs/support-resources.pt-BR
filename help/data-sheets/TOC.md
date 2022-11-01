@@ -1,31 +1,33 @@
 ---
 user-guide-title: Recursos de suporte
 user-guide-description: Recursos de suporte da Adobe Experience Cloud e da Adobe Experience Platform.
-source-git-commit: 3c8e4deceb51829b6224048c7618853c3d2b61fc
-workflow-type: ht
-source-wordcount: '54'
-ht-degree: 100%
+source-git-commit: fb54ebe58a8311686378b1c0be7ab717d8f5db64
+workflow-type: tm+mt
+source-wordcount: '67'
+ht-degree: 76%
 
 ---
 
 
 # Recursos de suporte {#data-sheets}
 
-+ [Visão geral do suporte da Adobe](overview.md)
-+ Serviços da Experience Cloud {#data-sheets}
-   + [Visão geral do suporte da Adobe](dx-overview.md)
-   + [Online](online.md)
-   + [Business](business.md)
-   + [Enterprise](enterprise.md)
-   + [Elite](elite.md)
-   + [Guia do Suporte ao cliente](support-guide.md)
-+ Serviços da Creative Cloud e Document Cloud {#dme-data-sheets}
-   + [Serviços da Creative Cloud e Document Cloud](dme-overview.md)
-   + [Standard](dme-standard.md)
-   + [Business](dme-business.md)
-   + [Enterprise](dme-enterprise.md)
-   + [Elite](dme-elite.md)
-+ [Termos e condições](https://helpx.adobe.com/br/support/programs/support-policies-terms-conditions.html){target="_blank"}
++ [Visão geral dos planos de suporte do Adobe](overview.md)
++ Planos de suporte do Adobe anteriores a 16 de junho de 2022{#prior-plans}
+   + [Visão geral dos planos anteriores de suporte do Adobe](overview-prior-plans.md)
+   + Serviços da Experience Cloud {#data-sheets}
+      + [Visão geral do suporte da Adobe](dx-overview.md)
+      + [Online](online.md)
+      + [Business](business.md)
+      + [Enterprise](enterprise.md)
+      + [Elite](elite.md)
+      + [Guia do Suporte ao cliente](support-guide.md)
+   + Serviços da Creative Cloud e Document Cloud {#dme-data-sheets}
+      + [Serviços da Creative Cloud e Document Cloud](dme-overview.md)
+      + [Standard](dme-standard.md)
+      + [Negócios](dme-business.md)
+      + [Empresa](dme-enterprise.md)
+      + [Elite](dme-elite.md)
++ [Termos e condições](https://helpx.adobe.com/br/support/programs/support-policies-terms-conditions.html){target=&quot;_blank&quot;}
 
 <!--
 
