@@ -1,18 +1,18 @@
 ---
-title: Visão geral dos planos anteriores de suporte do Adobe
+title: Visão geral dos planos anteriores de suporte da Adobe
 description: Este artigo fornece um resumo das opções de Suporte ao cliente da Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 source-git-commit: fb54ebe58a8311686378b1c0be7ab717d8f5db64
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '163'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
-# Visão geral dos planos anteriores de suporte do Adobe
+# Visão geral dos planos anteriores de suporte da Adobe
 
 >[!NOTE]
 >
->Esses planos se referem aos planos de suporte do Adobe anteriores a 16 de junho de 2022. Para planos de suporte atuais, consulte [Visão geral da oferta de suporte do Adobe](overview.md).
+>Esses planos se referem aos planos de suporte da Adobe anteriores a 16 de junho de 2022. Para consultar os planos de suporte atuais, acesse a [Visão geral da oferta de suporte da Adobe](overview.md).
 
 A organização de suporte da Adobe está comprometida com o seu sucesso. Todas as assinaturas incluem um nível de suporte que fornece acesso fácil a nossos recursos técnicos de assistência técnica altamente qualificados.
 
