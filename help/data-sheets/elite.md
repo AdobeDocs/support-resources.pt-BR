@@ -3,8 +3,8 @@ title: Suporte Elite
 description: Os serviços de Suporte Elite da Adobe Experience Cloud oferecem as melhores metas de nível de serviço (SLT, em inglês), suporte proativo e parceria com um Gerente técnico de conta e um engenheiro de suporte nomeado.
 exl-id: 46a0f6bb-dccb-4554-a811-de1384db2747
 source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
-workflow-type: ht
-source-wordcount: '1362'
+workflow-type: tm+mt
+source-wordcount: '1359'
 ht-degree: 100%
 
 ---
@@ -131,7 +131,7 @@ Os serviços de Suporte Elite da Adobe Experience Cloud oferecem as melhores met
 | <b>PRIORIDADE 3</b><br>As funções empresariais do cliente têm pouca degradação dos serviços, e há uma solução/solução alternativa que permite que as funções empresariais continuem normalmente. | Horário comercial/<br>6 horas | 24x5/<br> 1 hora |
 | <b>PRIORIDADE 4</b><br>Pergunta geral sobre a funcionalidade atual do produto ou solicitação de melhoria. | Dias úteis/<br>3 dias | Dia útil/<br>1 dia |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Recursos do Suporte Elite
 

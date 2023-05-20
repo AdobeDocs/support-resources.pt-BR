@@ -3,8 +3,8 @@ title: Visão geral dos planos de suporte da Adobe
 description: Este artigo fornece um resumo das opções de Suporte ao cliente da Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 9ca2588c66115a7bfb0a7749dac1782dfc767100
-workflow-type: ht
-source-wordcount: '1990'
+workflow-type: tm+mt
+source-wordcount: '1984'
 ht-degree: 100%
 
 ---
@@ -42,7 +42,7 @@ Os planos de suporte da Adobe vão além da solução reativa de problemas para 
 | P3 | **Impacto mínimo nos negócios** <br>as funções empresariais do cliente têm pouca degradação dos serviços, e há uma solução/alternativa que permite que as funções empresariais continuem normalmente. | 4 horas durante o horário comercial normal da Adobe | 1 hora durante o horário comercial regional da Adobe | O Suporte ao cliente da Adobe entrará em contato com os Contatos de suporte nomeados apenas durante o horário comercial da Adobe. |
 | P4 | **Nenhum impacto nos negócios:** <br>pergunta geral sobre a funcionalidade atual do produto ou solicitação de melhoria. | 1 dia útil | 1 dia útil | O Suporte ao cliente da Adobe entrará em contato com os Contatos de suporte nomeados apenas durante o horário comercial da Adobe. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Recursos principais
 
@@ -152,7 +152,7 @@ O suporte padrão para produtos do Adobe Commerce: Managed Services que foram li
 | P3 | **Impacto mínimo nos negócios:** <br>as funções empresariais do cliente têm pouca degradação dos serviços, e há uma solução/alternativa que permite que as funções empresariais continuem normalmente. | 2 horas durante o horário comercial normal da Adobe | O Suporte ao cliente da Adobe entrará em contato com os Contatos de suporte nomeados apenas durante o horário comercial da Adobe. |
 | P4 | **Nenhum impacto nos negócios:** <br>pergunta geral sobre a funcionalidade atual do produto ou solicitação de melhoria. | 1 dia útil | O Suporte ao cliente da Adobe entrará em contato com os Contatos de suporte nomeados apenas durante o horário comercial da Adobe. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Serviços de Launch Advisory - Atividades proativas em fases
 

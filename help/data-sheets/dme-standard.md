@@ -3,8 +3,8 @@ title: Suporte Standard para a Adobe Creative Cloud e Adobe Document Cloud
 description: Para fornecer suporte a sua empresa, a Adobe oferece uma ampla gama de recursos técnicos incluída como parte de sua assinatura corporativa da Adobe. O suporte Standard inclui acesso 24 horas por dia e 7 dias por semana a nossos recursos de autoajuda, incluindo artigos no HelpX e envolvimento com outros clientes por meio da comunidade da Adobe.
 exl-id: 2ce6a990-1dbc-4f08-a29b-357e3e03a6d6
 source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
-workflow-type: ht
-source-wordcount: '732'
+workflow-type: tm+mt
+source-wordcount: '729'
 ht-degree: 100%
 
 ---
@@ -191,7 +191,7 @@ Você pode aproveitar nossas documentações técnicas de produto detalhadas e a
   <tr>
     <td><strong>PRIORIDADE 1</strong><br>As funções de produção do cliente estão inativas ou têm perda significativa de dados ou degradação de serviços, e é necessária atenção imediata para restaurar a funcionalidade e a usabilidade.</td>
     <td>24x7/<br>30 minutos</td>
-    <td colspan="3" rowspan="4" align="center" valign="middle"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Os clientes que compram um Plano de suporte para produtos e serviços da Adobe aplicáveis recebem roteamento prioritário de casos, o que acelera o seu envio para os engenheiros de suporte da Adobe.</td>
+    <td colspan="3" rowspan="4" align="center" valign="middle"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Os clientes que compram um Plano de suporte para produtos e serviços da Adobe aplicáveis recebem roteamento prioritário de casos, o que acelera o envio para os engenheiros de suporte da Adobe.</td>
   </tr>
   <tr>
     <td><strong>PRIORIDADE 2</strong><br>As funções empresariais do cliente têm grande degradação de serviços, perda potencial de dados ou foi afetado um recurso importante.</td>
@@ -271,7 +271,7 @@ O Suporte ao cliente da Adobe oferece acesso a recursos de documentação e envo
 | [Problemas de produção e paralisações do sistema](https://status.adobe.com/) | O Status.adobe.com transmite as informações de integridade de todos os produtos e serviços da Adobe implantados em ambientes de vários locatários. Os clientes podem escolher suas preferências de subscrição para receber notificações por email sempre que a Adobe criar, atualizar ou resolver um evento de produto. Isso pode incluir manutenção programada ou problemas de serviço com diferentes níveis de gravidade. |
 | [Termos e condições](https://helpx.adobe.com/br/support/programs/support-policies-terms-conditions.html) | Os Termos e condições que detalham os serviços de suporte. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Horas regionais de funcionamento e suporte de idioma
 
@@ -303,4 +303,4 @@ O horário comercial local da Adobe é definido de acordo com a região de fatur
 
 ![Ícone](assets/bottom-banner.png)
 
-*Para saber mais sobre as Ofertas de suporte da Adobe e o nível certo para você, entre em contato com seu Gerente de conta nomeado (NAM) ou Gerente de sucesso do cliente (CSM).*
+*Para saber mais sobre as Ofertas de suporte da Adobe e o nível certo para você, entre em contato com seu gerente de conta nomeado (NAM) ou gerente de sucesso do cliente (CSM).*

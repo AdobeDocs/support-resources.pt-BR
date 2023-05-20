@@ -3,8 +3,8 @@ title: Suporte Business
 description: Os serviços de Suporte Business da Adobe Experience Cloud fornecem acesso total às equipes de suporte técnico da Adobe e a um Líder de suporte da conta para gerenciamento de conta.
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
 source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
-workflow-type: ht
-source-wordcount: '872'
+workflow-type: tm+mt
+source-wordcount: '869'
 ht-degree: 100%
 
 ---
@@ -131,7 +131,7 @@ Os serviços de Suporte Business da Adobe Experience Cloud fornecem acesso total
 | <b>PRIORIDADE 3</b><br>As funções empresariais do cliente têm pouca degradação dos serviços, e há uma solução/solução alternativa que permite que as funções empresariais continuem. | Horário comercial/<br>6 horas | Horário comercial/<br> 4 horas |
 | <b>PRIORIDADE 4</b><br>Pergunta geral sobre a funcionalidade atual do produto ou solicitação de melhoria. | Dias úteis/<br>3 dias | Dia útil/<br>1 dia |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Recursos do Suporte Business
 

@@ -3,8 +3,8 @@ title: Suporte Enterprise
 description: Os serviços de suporte Enterprise da Adobe Experience Cloud oferecem metas de nível de serviço (SLT, em inglês) aprimorados, conhecimento técnico e um engenheiro de suporte nomeado que atua como defensor.
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
 source-git-commit: 1fd2098e2065def561147cd99dbed18c3d94cde8
-workflow-type: ht
-source-wordcount: '1192'
+workflow-type: tm+mt
+source-wordcount: '1189'
 ht-degree: 100%
 
 ---
@@ -131,7 +131,7 @@ Os serviços de suporte Enterprise da Adobe Experience Cloud oferecem metas de n
 | <b>PRIORIDADE 3</b><br>As funções empresariais do cliente têm pouca degradação dos serviços, e há uma solução/solução alternativa que permite que as funções empresariais continuem normalmente. | Horário comercial/<br>6 horas | Horário comercial/<br> 2 horas |
 | <b>PRIORIDADE 4</b><br>Pergunta geral sobre a funcionalidade atual do produto ou solicitação de melhoria. | Dias úteis/<br>3 dias | Dia útil/<br>1 dia |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Recursos do suporte Enterprise
 

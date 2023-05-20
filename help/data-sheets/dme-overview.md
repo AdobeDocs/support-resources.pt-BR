@@ -3,7 +3,7 @@ title: Visão geral dos serviços de suporte da Creative Enterprise e Document C
 description: Este artigo fornece um resumo das opções de Suporte ao cliente da Adobe Creative Cloud e Document Cloud. Essas opções incluem os níveis Padrão, Business, Enterprise e Elite.
 exl-id: e3c762b9-d4b3-4248-b1c1-8212a763b4c5
 source-git-commit: 6e3accaab1360993295e9ee4ab88d55d3e7b744e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 100%
 

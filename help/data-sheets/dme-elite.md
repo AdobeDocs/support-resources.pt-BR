@@ -3,8 +3,8 @@ title: Suporte Elite para Creative Cloud e Adobe Document Cloud
 description: Para fornecer suporte a sua empresa, a Adobe oferece uma ampla gama de recursos técnicos incluída como parte de sua assinatura corporativa da Adobe. Isso é aprimorado com o plano de suporte ELITE.
 exl-id: 2f506e8d-ac9b-4bc7-b98a-ac5ffc626c65
 source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
-workflow-type: ht
-source-wordcount: '1097'
+workflow-type: tm+mt
+source-wordcount: '1094'
 ht-degree: 100%
 
 ---
@@ -150,12 +150,12 @@ Com grande experiência nas soluções Creative Cloud e Document Cloud aplicáve
 <tbody>
   <tr>
     <td><strong>PRIORIDADE 1</strong><br>As funções de produção do cliente estão inativas ou têm perda significativa de dados ou degradação de serviços, e é necessária atenção imediata para restaurar a funcionalidade e a usabilidade.</td>
-    <td>Todos os dia, 24 horas por dia/<br>30 minutos</td>
+    <td>24x7/<br>30 minutos</td>
     <td colspan="3" rowspan="4" align="center"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Os clientes que compram um Plano de suporte para produtos e serviços da Adobe aplicáveis recebem roteamento prioritário de casos, o que acelera o envio para os engenheiros de suporte da Adobe.</td>
   </tr>
   <tr>
-    <td><strong>PRIORIDADE 2</strong><br>As funções empresariais do cliente têm grande degradação de serviços, perda potencial de dados ou um recurso importante foi afetado.</td>
-    <td>Todos os dias, 24 horas por dia/<br>1 hora</td>
+    <td><strong>PRIORIDADE 2</strong><br>As funções empresariais do cliente têm grande degradação de serviços, perda potencial de dados ou foi afetado um recurso importante.</td>
+    <td>24x7/<br>1 hora</td>
   </tr>
   <tr>
     <td><strong>PRIORIDADE 3</strong><br>As funções empresariais do cliente têm pouca degradação dos serviços, e há uma solução/solução alternativa que permite que as funções empresariais continuem normalmente.</td>
@@ -319,7 +319,7 @@ Com grande experiência nas soluções Creative Cloud e Document Cloud aplicáve
 | [Problemas de produção e paralisações do sistema](https://status.adobe.com/) | O Status.adobe.com transmite as informações de integridade de todos os produtos e serviços da Adobe implantados em ambientes de vários locatários. Os clientes podem escolher suas preferências de subscrição para receber notificações por email sempre que a Adobe criar, atualizar ou resolver um evento de produto. Isso pode incluir manutenção programada ou problemas de serviço com diferentes níveis de gravidade. |
 | [Termos e condições](https://helpx.adobe.com/br/support/programs/support-policies-terms-conditions.html) | Os Termos e condições que detalham os serviços de suporte. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Horas regionais de funcionamento e suporte de idioma
 

@@ -3,8 +3,8 @@ title: Suporte Online
 description: Os serviços de Suporte Online da Adobe Experience Cloud fornecem acesso limitado ao suporte telefônico.
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
 source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
-workflow-type: ht
-source-wordcount: '757'
+workflow-type: tm+mt
+source-wordcount: '754'
 ht-degree: 100%
 
 ---
@@ -167,7 +167,7 @@ Os serviços de Suporte Online da Adobe Experience Cloud fornecem acesso limitad
 | <b>PRIORIDADE 3</b><br>As funções empresariais do cliente têm pouca degradação dos serviços, e há uma solução/solução alternativa que permite que as funções empresariais continuem normalmente. | Horário comercial/<br>6 horas | Horário comercial/<br> 4 horas | Horário comercial/<br>2 horas | 24x5/<br>1 hora |
 | <b>PRIORIDADE 4</b><br>Pergunta geral sobre a funcionalidade atual do produto ou solicitação de melhoria. | Dias úteis/<br>3 dias | Dia útil/<br>1 dia | Dia útil/<br> 1 dia | Dia útil/<br> 1 dia |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Suporte Online {#online-support-1}
 
