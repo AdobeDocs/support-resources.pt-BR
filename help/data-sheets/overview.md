@@ -3,9 +3,9 @@ title: Visão geral dos planos de suporte da Adobe
 description: Este artigo fornece um resumo das opções de Suporte ao cliente da Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: bf812bac574f3ffef78ec87724b510d495d8d34b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1729'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -15,25 +15,25 @@ Os planos de suporte da Adobe vão além da solução reativa de problemas para 
 
 ## Comparação dos planos de suporte Expert e Ultimate
 
-|  | Plano de suporte de especialistas | Plano de suporte Ultimate |
+|  | Plano de suporte Expert | Plano de suporte Ultimate |
 |--- |--- |--- |
-| Dois níveis de engajamento —**Expert e Ultimate**— garanta que cada cliente receba o nível certo de suporte, expertise e orientação necessários. | Com o plano de suporte de especialistas, você pode acessar o **Atendimento especializado 24 horas por dia, 7 dias por semana** para obter solução de problemas técnicos e orientação sobre seus problemas críticos de negócios. Ou você pode encontrar resoluções rápidas tocando nas opções de recursos autoguiados, práticas recomendadas exclusivas e acessando a comunidade online de especialistas e colegas da Adobe. *Incluído em todas as licenças da Adobe Experience Cloud.* | Com o plano de suporte Ultimate, você terá **suporte de alto contato com atendimento e orientação personalizados e proativos de especialistas**. Seus aplicativos Adobe serão monitorados de forma segura e consistente por uma equipe de especialistas, familiarizados com seu ambiente e concentrados em seus objetivos de negócios e na integridade da solução. |
-| **Canais de suporte** | Online, bate-papo, telefone, Experience League, fóruns, vídeos de autoajuda | Personalizado online/bate-papo, telefone priorizado, Experience League, fóruns personalizados do Ultimate |
-| **Equipe de suporte** | Equipe de especialistas agrupada | Gerente técnico de conta designado, gerente de serviços de suporte e equipe conjunta de especialistas técnicos |
-| **Suporte técnico** | <ul><li>Gerenciamento padrão de interrupções </li><li>Suporte a problemas 24x7 P1</li><li>Suporte durante o horário comercial para prioridades P2/P3/P4</li><li>Gerenciamento de escalonamento em pool</li></ul> | <ul><li>Gerenciamento de paralisações priorizado</li><li>Suporte a problemas 24x7 P1</li><li>Suporte a problemas P2/P3 24x5</li><li>Suporte a horário comercial P4</li><li>Gerenciamento de encaminhamento de especialistas designado</li></ul> |
-| **Suporte técnico pró-ativo + operacional** | ![ícone não incluído](assets/Cross_red_circle.svg){width="20"} Não incluído | <ul><li>Revisões de roteiro, planejamento de entrega de serviços </li><li>Manutenção e monitoramento</li><li> Revisões de atualização e migração</li><li>Preparação e revisão da versão </li><li>Transferência de conhecimento, solução de problemas </li><li> Planejamento de evento (limitado, consulte complemento Gerenciamento de eventos)</li><li> Launch advisory</li></ul> |
+| Dois níveis de engajamento, **Expert e Ultimate**, garantem que cada cliente receba o nível certo de suporte, expertise e orientação. | Com o plano de suporte Expert, você tem acesso ao **atendimento especializado 24 horas** para obter solução de problemas técnicos e orientação sobre problemas críticos de negócios. Ou você pode encontrar resoluções rápidas tocando nos recursos autoguiados, práticas recomendadas exclusivas e acessando a comunidade online de usuários e especialistas da Adobe. *Incluído em todas as licenças da Adobe Experience Cloud.* | Com o plano de suporte Ultimate, você terá **suporte de alto contato com atendimento e orientação personalizados e proativos de especialistas**. Seus aplicativos da Adobe serão monitorados de forma segura e consistente por uma equipe de especialistas familiarizados com seu ambiente e concentrados em seus objetivos de negócios e na integridade da solução. |
+| **Canais de suporte** | Online, chat, telefone, Experience League, fóruns, vídeos tutoriais | Online/chat personalizado, priorização do telefone, Experience League, fóruns personalizados do Ultimate |
+| **Equipe de suporte** | Equipe conjunta de especialistas | Gerente técnico de conta designado, gerente de serviços de suporte e equipe conjunta de especialistas técnicos |
+| **Suporte técnico** | <ul><li>Gerenciamento padrão de interrupções </li><li>P1 suporte 24 horas a problemas</li><li>P2/P3/P4 suporte durante o horário comercial</li><li>Gerenciamento conjunto de encaminhamento</li></ul> | <ul><li>Gerenciamento de interrupções priorizado</li><li>P1 suporte 24 horas a problemas</li><li>P2/P3 suporte 24 horas nos dias de semana a problemas </li><li>P4 suporte em horário comercial</li><li>Gerenciamento de encaminhamento de especialistas designado</li></ul> |
+| **Suporte técnico proativo + operacional** | ![ícone não incluído](assets/Cross_red_circle.svg){width="20"} Não incluído | <ul><li>Revisões de roteiro, planejamento de entrega de serviço </li><li>Manutenção e monitoramento</li><li> Revisões de atualização e migração</li><li>Preparação e revisão da versão </li><li>Transferência de conhecimento, solução de problemas </li><li> Planejamento de eventos (limitado, consulte o complemento Gerenciamento de eventos)</li><li> Consultoria de lançamento</li></ul> |
 
 {style="table-layout:fixed"}
 
 ## Complementos de suporte
 
-| Complementos | Plano de suporte de especialistas | Plano de suporte Ultimate |
+| Complementos | Plano de suporte Expert | Plano de suporte Ultimate |
 |--- |--- |--- |
-| **Complemento de gerenciamento de eventos**<br> Fornece liderança e suporte completos necessários para gerenciar todo o ciclo de vida dos principais eventos | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível |
-| **Complemento técnico Account Director**<br> Seu principal recurso técnico, que fornece supervisão de liderança, é responsável pelo envolvimento executivo e garante a governança para maximizar os resultados de seus negócios | ![ícone não incluído](assets/Cross_red_circle.svg){width="20"} Não incluído | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível |
-| **Complemento de suporte na nuvem avançado**<br> Cuidados de nível superior e garantia de valor para clientes da Adobe Experience Manager as a Cloud Service | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível |
-| **Complemento de sessões de mentor**<br> Oferece aprendizagem baseada em habilidades em um método de treinamento just-in-time | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível | ![ícone disponível](assets/green_checkmark.svg){width="20"} Incluído |
-| **Complemento Developer Boost**<br> Fornece acesso a especialistas em engenharia de campo que podem ajudar no trabalho de conserto/quebra | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível | ![ícone incluído](assets/green_checkmark.svg){width="20"} Incluído |
+| **Complemento Gerenciamento de eventos**<br>: fornece liderança e suporte completos necessários para gerenciar todo o ciclo de vida dos principais eventos | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível |
+| **Complemento Diretor de conta técnico**<br>: seu principal recurso técnico, que fornece supervisão de liderança, é responsável pelo engajamento executivo e garante a governança para maximizar os resultados de seus negócios | ![ícone não incluído](assets/Cross_red_circle.svg){width="20"} Não incluído | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível |
+| **Complemento Suporte na nuvem avançado**<br>: garantia de valor e cuidados de alto nível para clientes do Adobe Experience Manager as a Cloud Service. | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível |
+| **Complemento Sessões de mentor**<br>: oferece aprendizagem baseada em habilidades em um método de treinamento just-in-time | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível | ![ícone disponível](assets/green_checkmark.svg){width="20"} Incluído |
+| **Complemento Impulso do desenvolvedor**<br>: fornece acesso a especialistas em engenharia de campo que podem ajudar no trabalho de reparo | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível | ![ícone incluído](assets/green_checkmark.svg){width="20"} Incluído |
 
 {style="table-layout:fixed"}
 
@@ -46,11 +46,11 @@ Os planos de suporte da Adobe vão além da solução reativa de problemas para 
 | P3 | **Impacto mínimo nos negócios** <br>as funções empresariais do cliente têm pouca degradação dos serviços, e há uma solução/alternativa que permite que as funções empresariais continuem normalmente. | 4 horas durante o horário comercial normal da Adobe | 1 hora durante o horário comercial regional da Adobe | O Suporte ao cliente da Adobe entrará em contato com os Contatos de suporte nomeados apenas durante o horário comercial da Adobe. |
 | P4 | **Nenhum impacto nos negócios:** <br>pergunta geral sobre a funcionalidade atual do produto ou solicitação de melhoria. | 1 dia útil | 1 dia útil | O Suporte ao cliente da Adobe entrará em contato com os Contatos de suporte nomeados apenas durante o horário comercial da Adobe. |
 
-## Suporte Ultimate: Contatos De Suporte Nomeados
+## Suporte Ultimate: contatos de suporte nomeados
 
-Sob o Suporte Ultimate, o cliente terá direito a uma capacidade expandida de até 15 (quinze) contatos de suporte nomeados por produto da AEC (um aumento de 4 (quatro) no total em todos os produtos da AEC para suporte de especialistas).
+No suporte Ultimate, o cliente terá direito a uma capacidade ampliada para até 15 (quinze) Contatos de suporte nomeados por produto da AEC (de 4 (quatro) no total em todos os produtos da AEC do suporte Expert).
 
-Os Contatos de suporte nomeados podem enviar problemas por todos os canais disponíveis e interagir conforme necessário com a equipe de suporte técnico do Adobe em nome do Cliente. Um (1) contato de suporte nomeado também pode ser designado como administrador da conta do cliente, permitindo atualizações de autoatendimento para a lista de contatos de suporte nomeados, bem como configurações de permissões limitadas, por meio do portal de suporte fornecido pelo Adobe.
+Os Contatos de suporte nomeados podem enviar problemas por todos os canais disponíveis e interagir conforme necessário com a equipe de suporte técnico da Adobe em nome do cliente. 1 (um) Contato de suporte nomeado também pode ser designado como Administrador da conta do cliente, permitindo atualizações de autoatendimento na lista de Contatos de suporte nomeados, bem como configurações de permissões limitadas, por meio do portal de suporte fornecido pela Adobe.
 
 ## Serviços de aprendizado digital da Adobe
 
