@@ -3,9 +3,9 @@ title: Visão geral dos planos de suporte da Adobe
 description: Este artigo fornece um resumo das opções de Suporte ao cliente da Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 9c3568e5adff6c3deb9581a907a0eef4a0381dbf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1727'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -48,7 +48,7 @@ Os planos de suporte da Adobe vão além da solução reativa de problemas para 
 
 ## Suporte Ultimate: contatos de suporte nomeados
 
-Sob o Suporte Ultimate, o cliente terá direito a uma capacidade expandida de até 15 (quinze) contatos de suporte nomeados por produto da AEC (aumento de quatro (quatro) por produtos da AEC para suporte de especialistas).
+No plano de suporte Ultimate, o cliente terá direito a uma capacidade ampliada de até quinze (15) contatos de suporte nomeados por produto da AEC (em comparação à capacidade de quatro (4) contatos por produto da AEC no plano de suporte Expert).
 
 Os Contatos de suporte nomeados podem enviar problemas por todos os canais disponíveis e interagir conforme necessário com a equipe de suporte técnico da Adobe em nome do cliente. 1 (um) Contato de suporte nomeado também pode ser designado como Administrador da conta do cliente, permitindo atualizações de autoatendimento na lista de Contatos de suporte nomeados, bem como configurações de permissões limitadas, por meio do portal de suporte fornecido pela Adobe.
 
