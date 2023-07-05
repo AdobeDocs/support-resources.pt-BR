@@ -3,7 +3,7 @@ title: Visão geral dos planos de suporte da Adobe
 description: Este artigo fornece um resumo das opções de Suporte ao cliente da Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 9c3568e5adff6c3deb9581a907a0eef4a0381dbf
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1727'
 ht-degree: 100%
 
