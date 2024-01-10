@@ -6,14 +6,14 @@ feature: Success Plans
 source-git-commit: 2fb925f91f8de98444cb1f3e7301e31a970721bf
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 55%
+ht-degree: 95%
 
 ---
 
 
 # Recursos dos planos de sucesso {#data-sheets}
 
-+ [Visão geral dos Planos de sucesso do Adobe](overview.md)
++ [Visão geral dos planos de sucesso da Adobe](overview.md)
 + Planos de suporte da Adobe anteriores a 16 de junho de 2022{#prior-plans}
    + [Visão geral dos planos anteriores de suporte da Adobe](overview-prior-plans.md)
    + Serviços da Experience Cloud {#data-sheets}
@@ -23,8 +23,8 @@ ht-degree: 55%
       + [Enterprise](enterprise.md)
       + [Elite](elite.md)
       + [Guia do Suporte ao cliente](support-guide.md)
-   + Serviços de Creative Cloud e Document Cloud {#dme-data-sheets}
-      + [Serviços da Creative Cloud e Document Cloud](dme-overview.md)
+   + Serviços da Creative Cloud e Document Cloud {#dme-data-sheets}
+      + [Serviços da Creative Cloud e Document Cloud ](dme-overview.md)
       + [Standard](dme-standard.md)
       + [Business](dme-business.md)
       + [Enterprise](dme-enterprise.md)
