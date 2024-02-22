@@ -3,10 +3,10 @@ title: Página de teste (oculta)
 description: Página de teste para fins de teste interno
 hide: true
 hidefromtoc: true
-source-git-commit: 8956f958d373f1c67f4ffddf48388f7611ce00ea
+source-git-commit: 83eb9c3b531134e221b183ef20837ee82276b9b5
 workflow-type: tm+mt
-source-wordcount: '645'
-ht-degree: 1%
+source-wordcount: '1015'
+ht-degree: 11%
 
 ---
 
@@ -126,3 +126,217 @@ Baixar [Arquivo TXT](assets/dots.txt)
 Baixar [Arquivo XLSX](assets/4-module_version.xlsx)
 
 Baixar [Arquivo ZIP](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
+
+## tabela de HTML com divs
+
+<table>
+<tr>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Informações da versão" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Informações da versão</strong></a>
+      <p>Revise todas as informações sobre a versão de patches e serviços da Adobe Commerce.</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Instalação" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Instalação</strong></a>
+      <p>Saiba como instalar o Adobe Commerce para implantações locais.</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Configuração" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Configuração</strong></a>
+      <p>Configure os recursos e serviços para seu aplicativo do Adobe Commerce.</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Migração de dados" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Migração de dados</strong></a>
+      <p>Saiba mais sobre o processo de migração de dados entre Magento 1 e Magento 2.</p>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Atualização" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Atualizar</strong></a>
+      <p>Saiba como atualizar seu projeto do Adobe Commerce para manter sua loja segura e funcionando com eficiência.</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Referência de ferramentas de linha de comando" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Referência de ferramentas de linha de comando</strong></a>
+      <p>Saiba mais sobre comandos, argumentos e opções para as ferramentas de linha de comando do Adobe Commerce.</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Desempenho" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Práticas recomendadas de desempenho</strong></a>
+      <p>Use essas recomendações para otimizar o desempenho da sua implantação do Adobe Commerce.</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Ferramentas" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Ferramentas</strong></a>
+      <p>Saiba mais sobre as ferramentas que você pode usar com o Adobe Commerce.</p>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Implementação" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Manual de implementação</strong></a>
+      <p>Saiba mais sobre as estratégias de planejamento e implementação de um site bem-sucedido do Adobe Commerce.</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Operações" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Playbook operacional</strong></a>
+      <p>Saiba como preparar seus negócios operacionalmente para gerenciar um site de comércio eletrônico bem-sucedido.</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Enterprise" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Comércio em escala</strong></a>
+      <p>Saiba como fornecer experiências em escala usando o Adobe Commerce com o Adobe Experience Manager.</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Enterprise" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>Segurança e conformidade</strong></a>
+      <p>Saiba como os comerciantes do Adobe Commerce são responsáveis pela manutenção de um ambiente seguro.</p>
+    </div>
+  </td>
+</tr>
+</table>
+
+## tabela de HTML sem divs
+
+<table>
+<tr>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Informações da versão" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Informações da versão</strong></a>
+    <p>Revise todas as informações sobre a versão de patches e serviços da Adobe Commerce.</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Instalação" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Instalação</strong></a>
+    <p>Saiba como instalar o Adobe Commerce para implantações locais.</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Configuração" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Configuração</strong></a>
+    <p>Configure os recursos e serviços para seu aplicativo do Adobe Commerce.</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Migração de dados" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Migração de dados</strong></a>
+    <p>Saiba mais sobre o processo de migração de dados entre Magento 1 e Magento 2.</p>
+  </td>
+</tr>
+<tr>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Atualização" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Atualizar</strong></a>
+    <p>Saiba como atualizar seu projeto do Adobe Commerce para manter sua loja segura e funcionando com eficiência.</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Referência de ferramentas de linha de comando" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Referência de ferramentas de linha de comando</strong></a>
+    <p>Saiba mais sobre comandos, argumentos e opções para as ferramentas de linha de comando do Adobe Commerce.</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Desempenho" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Práticas recomendadas de desempenho</strong></a>
+    <p>Use essas recomendações para otimizar o desempenho da sua implantação do Adobe Commerce.</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Ferramentas" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Ferramentas</strong></a>
+    <p>Saiba mais sobre as ferramentas que você pode usar com o Adobe Commerce.</p>
+  </td>
+</tr>
+<tr>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Implementação" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Manual de implementação</strong></a>
+    <p>Saiba mais sobre as estratégias de planejamento e implementação de um site bem-sucedido do Adobe Commerce.</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Operações" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Playbook operacional</strong></a>
+    <p>Saiba como preparar seus negócios operacionalmente para gerenciar um site de comércio eletrônico bem-sucedido.</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Enterprise" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Comércio em escala</strong></a>
+    <p>Saiba como fornecer experiências em escala usando o Adobe Commerce com o Adobe Experience Manager.</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="Enterprise" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>Segurança e conformidade</strong></a>
+    <p>Saiba como os comerciantes do Adobe Commerce são responsáveis pela manutenção de um ambiente seguro.</p>
+  </td>
+</tr>
+</table>
