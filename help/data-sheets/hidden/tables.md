@@ -3,16 +3,18 @@ title: Tabela
 description: Trabalhar com tabelas de markdown e tabelas de HTML.
 hide: true
 hidefromtoc: true
-source-git-commit: cd9f841a3f720ee366b33f3a78f7ca731c0b865a
+source-git-commit: 3779d588f21da83928bf0c71357afa90fd5f7179
 workflow-type: tm+mt
-source-wordcount: '1420'
+source-wordcount: '1421'
 ht-degree: 3%
 
 ---
 
 # Tabela
 
-Matt estava aqui várias vezes
+Matt estava aqui várias vezes...
+
+EDS
 
 O Markdown padrão é compatível somente com tabelas básicas. Para o AdobeDocs Markdown, você tem as seguintes opções:
 
