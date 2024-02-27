@@ -3,14 +3,16 @@ title: Quebras de tabela
 description: Teste de diferentes quebras de tabela
 hide: true
 hidefromtoc: true
-source-git-commit: cd9f841a3f720ee366b33f3a78f7ca731c0b865a
+source-git-commit: 9ad23090cb13f36d6d015b23122736048fe2230c
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 12%
+source-wordcount: '270'
+ht-degree: 11%
 
 ---
 
 # Quebras de tabela
+
+Não há muito a ver aqui.
 
 ## Tabela de marcação padrão com `<br>`
 
