@@ -3,9 +3,9 @@ title: Página de teste (oculta)
 description: Página de teste para fins de teste interno
 hide: true
 hidefromtoc: true
-source-git-commit: 0612850ae6eba4e72f23840f60a8868b5cdb1558
+source-git-commit: fe970dd4e97668695a8e55f6156cb6edb1f44510
 workflow-type: tm+mt
-source-wordcount: '1015'
+source-wordcount: '1028'
 ht-degree: 11%
 
 ---
@@ -13,6 +13,16 @@ ht-degree: 11%
 # Página de teste (oculta)
 
 Página de teste oculta
+
+## Botões
+
+[Padrão do botão](https://www.adobe.com/)
+
+**[Botão principal](https://www.adobe.com/)**
+
+_[Botão Secundário](https://www.adobe.com/)_
+
+**_[Botão Terciário](https://www.adobe.com/)_**
 
 ## Imagens (EXLM-412)
 
