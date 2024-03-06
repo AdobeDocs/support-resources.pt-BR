@@ -314,7 +314,7 @@ Evite adicionar comentários em componentes de bloco, como listas de marcadores,
 >
 No arquivo TOC.md, não comente linhas no meio da lista TOC. Isso pode quebrar a lista de índice e causar erros de validação. Em vez disso, mova os comentários do sumário para o final do arquivo.
 
-## AJUDA CONTEXTUAL
+## CONTEXTUALHELP
 
 Os autores podem trabalhar com equipes de produtos para adicionar popovers de ajuda na interface do usuário do produto Experience Cloud ou Experience Platform. Exemplo:
 
