@@ -3,9 +3,9 @@ title: Página de teste (oculta)
 description: Página de teste para fins de teste interno
 hide: true
 hidefromtoc: true
-source-git-commit: fe970dd4e97668695a8e55f6156cb6edb1f44510
+source-git-commit: 12c7800a061cd9ed0013ed26641c24ef4256f7f0
 workflow-type: tm+mt
-source-wordcount: '1028'
+source-wordcount: '1039'
 ht-degree: 11%
 
 ---
@@ -13,6 +13,16 @@ ht-degree: 11%
 # Página de teste (oculta)
 
 Página de teste oculta
+
+## Colonoscopia
+
+**Emoji**
+
+Parece que isso foi ignorado.
+
+Isso é tão engraçado! :joy:
+
+:smiley:
 
 ## Botões
 
