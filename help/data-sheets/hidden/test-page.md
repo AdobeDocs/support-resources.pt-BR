@@ -3,9 +3,9 @@ title: Página de teste (oculta)
 description: Página de teste para fins de teste interno
 hide: true
 hidefromtoc: true
-source-git-commit: 60c81e7956a92e9a9c8e651c2c3c48a5baf0e4f3
+source-git-commit: 1441a6586f61917b286e74ac76427084859c418b
 workflow-type: tm+mt
-source-wordcount: '1044'
+source-wordcount: '1026'
 ht-degree: 11%
 
 ---
@@ -17,14 +17,6 @@ Página de teste oculta
 ## Bem-vindo ao AEM EDS!
 
 Publicar teste
-
-**Emoji**
-
-Parece que isso foi ignorado.
-
-Isso é tão engraçado! :joy:
-
-:smiley:
 
 ## Botões
 
@@ -41,12 +33,6 @@ _[Botão Secundário](https://www.adobe.com/)_
 ### Imagem com texto em foco
 
 ![texto alternativo - package.png](assets/package.png "Focalizar texto - Este é o arquivo package.png")
-
-### Centralizar texto
-
-<p align="center">Estou centralizado</p>
-
-<center>Estou centralizado</center>
 
 ### Imagens com zoom
 
@@ -131,7 +117,7 @@ Consulte o cabeçalho em negrito acima.
 
 O ícone está alinhado à direita, a imagem de mergulho está centralizada a 200 pixels e a imagem de inversão está à direita a 50%.
 
-| <center>Esquerda | Meio | Direita</center> |
+| Esquerda | Meio | Direita |
 |---|---|---|
 | ![texto alternativo](assets/package.png "align=right"){align=right} | ![texto alternativo](assets/maui-dive.jpg "align=center width=200"){align="center" width="200"} | ![texto alternativo](assets/maui-flip.jpg "align=right width=50%"){align="right" width="50%"} |
 
