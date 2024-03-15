@@ -3,14 +3,20 @@ title: Correções de erros (ocultas)
 description: Página de teste para fins de teste interno
 hide: true
 hidefromtoc: true
-source-git-commit: 0279a8985376d587b470bf81fbe8958a5679afb5
+source-git-commit: fb50626581ad72f1b44e322506ddb769299ef83c
 workflow-type: tm+mt
-source-wordcount: '1337'
+source-wordcount: '1346'
 ht-degree: 4%
 
 ---
 
 # Correções de erros
+
+## Os selos embutidos não funcionam
+
+- [[!DNL Mixpanel]](note-test.md) [!BADGE Notas]{type=Informative}
+- [[!DNL Pendo]](tables.md) [!BADGE Tabelas]{type=Positive}
+- [[!DNL RainFocus]](syntax-style-guide.md) [!BADGE Guia de estilo de sintaxe]{type=Positive}
 
 ## UGP-10560 - Emblemas em seções recolhíveis
 
