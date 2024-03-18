@@ -3,16 +3,16 @@ title: Correções de erros (ocultas)
 description: Página de teste para fins de teste interno
 hide: true
 hidefromtoc: true
-source-git-commit: 3c5839d71d68232c631fb9ff5bebfa5ea864d250
+source-git-commit: 59f471542bb715bb2aa4abe9f30e7a1450a350a5
 workflow-type: tm+mt
-source-wordcount: '1358'
+source-wordcount: '1360'
 ht-degree: 4%
 
 ---
 
 # Correções de erros
 
-## Os selos embutidos não funcionam
+## Os emblemas em linha UGP-10584 não funcionam
 
 Esses emblemas devem estar na mesma linha dos itens de marcador.
 
