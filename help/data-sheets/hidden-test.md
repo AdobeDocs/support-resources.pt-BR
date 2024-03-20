@@ -158,10 +158,10 @@ Os emblemas usam cores definidas no Adobe Spectrum:
 | Tipo | Emblema |
 |---|---|
 | Informativo (padrão) | [!BADGE Beta]{type=Informative url="https://www.exemplo.com"} |
-| Positivo | [!BADGE Novo recurso]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Ir para example.com&quot;} |
-| Negativo | [!BADGE Descontinuado]{type=denied tooltip=&quot;Este recurso agora é o fim da vida útil&quot;} |
-| Neutro | [!BADGE Talvez]{type=Neutral tooltip=&quot;Um cavaleiro caiu do cavalo...&quot;} |
-| Cuidado | [!BADGE Atenção]{type=Caution tooltip=&quot;Yellow status&quot;} |
+| Positivo | [!BADGE Novo recurso]{type=Positive url="https://www.example.com" tooltip="Ir para example.com"} |
+| Negativo | [!BADGE Descontinuado]{type=denied tooltip="Este recurso agora é o fim da vida útil"} |
+| Neutro | [!BADGE Talvez]{type=Neutral tooltip="Um cavaleiro caiu do cavalo..."} |
+| Cuidado | [!BADGE Atenção]{type=Caution tooltip="Yellow status"} |
 
 Exemplos de sintaxe
 
