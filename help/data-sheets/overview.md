@@ -2,9 +2,9 @@
 title: Visão geral dos planos de sucesso da Adobe
 description: Este artigo fornece um resumo das opções de Suporte ao cliente da Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: e1290f63ff691ff2c5bce15df442a225e9554b74
+source-git-commit: bebe3f87895e30910279dd8a55e300d4d7ce4fd0
 workflow-type: tm+mt
-source-wordcount: '1799'
+source-wordcount: '1801'
 ht-degree: 99%
 
 ---
@@ -13,8 +13,7 @@ ht-degree: 99%
 
 Os planos de sucesso da Adobe vão além da solução reativa de problemas para trazer a você um novo tipo de experiência personalizada que manterá suas etapas comerciais à frente de qualquer problema. Sua equipe da Adobe emprega expertise técnica profunda, recursos diversos e uma metodologia avançada para fornecer o nível certo de suporte, experiência e orientação técnica e estratégica de que você precisa.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427500/?learn=on)
-
+>[!VIDEO](https://video.tv.adobe.com/v/3427500/?learn=on){transcript=true}
 
 ## Comparação dos planos de sucesso Expert e Ultimate
 
