@@ -8,7 +8,7 @@ badgeExam: label="Exame ADO-E903" type="neutral"
 source-git-commit: e2ff0701c82f3e34f81b0653af2ce564c5c62f3a
 workflow-type: tm+mt
 source-wordcount: '1276'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -48,13 +48,13 @@ Ativar? Verifique o envio novamente por volta das 15:10. Será que ele entrará 
 
 ## Botões
 
-[Padrão do botão](https://www.adobe.com/)
+[Botão padrão](https://www.adobe.com/)
 
 **[Botão principal](https://www.adobe.com/)**
 
-_[Botão Secundário](https://www.adobe.com/)_
+_[Botão secundário](https://www.adobe.com/)_
 
-**_[Botão Terciário](https://www.adobe.com/)_**
+**_[Botão terciário](https://www.adobe.com/)_**
 
 ## Visualizar problema
 
@@ -158,10 +158,10 @@ Os emblemas usam cores definidas no Adobe Spectrum:
 | Tipo | Emblema |
 |---|---|
 | Informativo (padrão) | [!BADGE Beta]{type=Informative url="https://www.exemplo.com"} |
-| Positivo | [!BADGE Novo recurso]{type=Positive url="https://www.example.com" tooltip="Ir para example.com"} |
-| Negativo | [!BADGE Descontinuado]{type=denied tooltip="Este recurso agora é o fim da vida útil"} |
-| Neutro | [!BADGE Talvez]{type=Neutral tooltip="Um cavaleiro caiu do cavalo..."} |
-| Cuidado | [!BADGE Atenção]{type=Caution tooltip="Yellow status"} |
+| Positivo | [!BADGE Novo recurso]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Go to example.com&quot;} |
+| Negativo | [!BADGE Descontinuado]{type=negative tooltip=&quot;This feature is now end of life&quot;} |
+| Neutro | [!BADGE Talvez]{type=Neutral tooltip=&quot;A rider fell off the horse...&quot;} |
+| Cuidado | [!BADGE Atenção]{type=Caution tooltip=&quot;Yellow status&quot;} |
 
 Exemplos de sintaxe
 
