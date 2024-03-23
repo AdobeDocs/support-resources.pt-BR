@@ -3,9 +3,9 @@ title: Correções de erros (ocultas)
 description: Página de teste para fins de teste interno
 hide: true
 hidefromtoc: true
-source-git-commit: c31246781e212041bf0555cd2db71c4d0c555410
+source-git-commit: d6b478e07ca1c0525cda103f3b65bec459911508
 workflow-type: tm+mt
-source-wordcount: '1827'
+source-wordcount: '1841'
 ht-degree: 27%
 
 ---
@@ -180,6 +180,10 @@ _9 de agosto de 2022_
 ## [!BADGE Obsoleto]{type=negative}
 
 Consulte o cabeçalho acima. E o próximo.
+
+## Testar para ativação automática
+
+Adicionei isso na sexta-feira à tarde, mas não cliquei em Publicar agora.
 
 ### [!BADGE Beta]{type=Informative}
 
