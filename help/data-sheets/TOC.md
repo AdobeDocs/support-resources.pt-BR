@@ -3,9 +3,9 @@ user-guide-title: Recursos dos planos de sucesso
 user-guide-description: Planos de sucesso e recursos de suporte para Adobe Experience Cloud e Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 1441a6586f61917b286e74ac76427084859c418b
+source-git-commit: 6aaae70600a08f31f3d3f981f74fd962ec8a9711
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '88'
 ht-degree: 96%
 
 ---
@@ -35,11 +35,12 @@ ht-degree: 96%
 + [Bloco de teste EDS oculto](hidden/test-page.md)
 + [Teste de redirecionamentos ocultos](hidden/test-redirection.md)
 + [Guia de sintaxe oculta](hidden/syntax-style-guide.md)
-+ [Quebras de tabela ocultas](hidden/table-breaks.md)
 + [Teste de imagens ocultas](hidden/tables.md)
 + [Teste de nota oculta](hidden/note-test.md)
 
 <!--
++ [Hidden table breaks](hidden/table-breaks.md)
+
 
 Articles must be added to this TOC file in order to render.
 
