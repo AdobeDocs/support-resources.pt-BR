@@ -3,10 +3,10 @@ user-guide-title: Recursos dos planos de sucesso
 user-guide-description: Planos de sucesso e recursos de suporte para Adobe Experience Cloud e Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 6aaae70600a08f31f3d3f981f74fd962ec8a9711
+source-git-commit: 3a532dcd728c6fd8a74f4b77285a13483a2a75e3
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 100%
+source-wordcount: '92'
+ht-degree: 95%
 
 ---
 
@@ -14,6 +14,7 @@ ht-degree: 100%
 # Recursos dos planos de sucesso {#data-sheets}
 
 + [Visão geral dos planos de sucesso da Adobe](overview.md)
++ [Atualização do número de telefone de suporte](phone-numbers.md)
 + Planos de suporte da Adobe anteriores a 16 de junho de 2022{#prior-plans}
    + [Visão geral dos planos anteriores de suporte da Adobe](overview-prior-plans.md)
    + Serviços da Experience Cloud {#data-sheets}
