@@ -5,8 +5,9 @@ hide: true
 hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Download premium"
 badgeExam: label="Exame ADO-E903" type="neutral"
-source-git-commit: e2ff0701c82f3e34f81b0653af2ce564c5c62f3a
-workflow-type: ht
+exl-id: 45f70aca-5885-4da0-90d7-50fbf44de9dc
+source-git-commit: cc4ccfeda4a83694d34723b1b9d8844fc14b79a0
+workflow-type: tm+mt
 source-wordcount: '1276'
 ht-degree: 100%
 
@@ -17,7 +18,6 @@ ht-degree: 100%
 Ativar? Verifique o envio novamente por volta das 15:10. Será que ele entrará em funcionamento às 15:30?
 
 ## Tabelas de problemas com imagens
-
 
 ## Comparação dos planos de sucesso Expert e Ultimate
 
@@ -158,10 +158,10 @@ Os emblemas usam cores definidas no Adobe Spectrum:
 | Tipo | Emblema |
 |---|---|
 | Informativo (padrão) | [!BADGE Beta]{type=Informative url="https://www.exemplo.com"} |
-| Positivo | [!BADGE Novo recurso]{type=Positive url="https://www.example.com" tooltip="Go to example.com"} |
-| Negativo | [!BADGE Descontinuado]{type=negative tooltip="This feature is now end of life"} |
-| Neutro | [!BADGE Talvez]{type=Neutral tooltip="A rider fell off the horse..."} |
-| Cuidado | [!BADGE Atenção]{type=Caution tooltip="Yellow status"} |
+| Positivo | [!BADGE Novo recurso]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Go to example.com&quot;} |
+| Negativo | [!BADGE Descontinuado]{type=negative tooltip=&quot;This feature is now end of life&quot;} |
+| Neutro | [!BADGE Talvez]{type=Neutral tooltip=&quot;A rider fell off the horse...&quot;} |
+| Cuidado | [!BADGE Atenção]{type=Caution tooltip=&quot;Yellow status&quot;} |
 
 Exemplos de sintaxe
 
