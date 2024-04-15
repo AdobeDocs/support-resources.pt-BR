@@ -4,9 +4,9 @@ user-guide-description: Planos de sucesso e recursos de suporte para Adobe Exper
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 73c5614e3eea119358550892a3d6cc9a9c2f9b02
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 95%
 + [Teste de tabelas ocultas](hidden/tables.md)
 + [Quebras de tabela ocultas](hidden/table-breaks.md)
 + [Teste de nota oculta](hidden/note-test.md)
-+ [Somente nova autoativação oculta](hidden/autoactivate.md)
++ [Apenas nova ativação automática oculta](hidden/autoactivate.md)
 
 <!--
 + [Hidden table breaks](hidden/table-breaks.md)
