@@ -6,7 +6,7 @@ feature: Success Plans
 source-git-commit: d5ddfcf52ee5259f6a2e6da155611cc8fe794d26
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 88%
+ht-degree: 96%
 
 ---
 
@@ -15,9 +15,9 @@ ht-degree: 88%
 
 + [Visão geral dos planos de sucesso da Adobe](overview.md)
 + O podcast Crux{#crux-podcast}
-   + [Ep.1 - Billy Georgaros](episode1.md)
-     [Ep.2 - Karrie Benjamin](episode2.md)
-     [Ep.3 - George Kotsinis](episode3.md)
+   + [Ep.1: Billy Georgaros](episode1.md)
+     [Ep.2: Karrie Benjamin](episode2.md)
+     [Ep.3: George Kotsinis](episode3.md)
 + Planos de suporte da Adobe anteriores a 16 de junho de 2022{#prior-plans}
    + [Visão geral dos planos anteriores de suporte da Adobe](overview-prior-plans.md)
    + Serviços da Experience Cloud {#data-sheets}
