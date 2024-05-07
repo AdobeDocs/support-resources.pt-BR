@@ -4,9 +4,9 @@ description: Página de teste para fins de teste interno
 hide: true
 hidefromtoc: true
 exl-id: e6270f95-3550-4e35-ad4c-760584bb9b5d
-source-git-commit: 45d7df912c336c9275545612e625869c005eb448
+source-git-commit: 0cefcf5bb4a021593a6bbe44eed0ad83e8bd259f
 workflow-type: tm+mt
-source-wordcount: '1849'
+source-wordcount: '1926'
 ht-degree: 27%
 
 ---
@@ -16,6 +16,31 @@ ht-degree: 27%
 ## Teste de ativação automática
 
 Todos esses bugs devem ser corrigidos.
+
+## UGP-10866 Links não negrito em caixas de sombra
+
+>[!BEGINSHADEBOX]
+
+**Índice**
+
+* [Introdução ao assistente de IA](note-test.md)
+* **[Geração de email com o Assistente de IA](syntax-style-guide.md)**
+* [Geração de SMS com o Assistente de IA](test-page.md)
+* [Geração de push com o Assistente de IA](tables.md)
+* [Experimento de conteúdo com o Assistente de IA](test-redirection.md)
+
+>[!ENDSHADEBOX]
+
+Sem caixa de sombra
+
+**Índice**
+
+* [Introdução ao assistente de IA](note-test.md)
+* **[Geração de email com o Assistente de IA](syntax-style-guide.md)**
+* [Geração de SMS com o Assistente de IA](test-page.md)
+* [Geração de push com o Assistente de IA](tables.md)
+* [Experimento de conteúdo com o Assistente de IA](test-redirection.md)
+
 
 ## Os emblemas em linha UGP-10584 não funcionam
 
