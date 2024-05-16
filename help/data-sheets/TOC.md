@@ -4,9 +4,9 @@ user-guide-description: Planos de sucesso e recursos de suporte para Adobe Exper
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 38c7f7403d5eac2cd1bbbccb8cf8d275b66133b5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 97%
      [Ep.2: Karrie Benjamin](episode2.md)
      [Ep.3: George Kotsinis](episode3.md)
      [Ep. 4: Jessica Ouellette](episode4.md)
-     [Ep.5 - Corey Blackburn](episode5.md)
+     [Ep. 5: Corey Blackburn](episode5.md)
 + Planos de suporte da Adobe anteriores a 16 de junho de 2022{#prior-plans}
    + [Visão geral dos planos anteriores de suporte da Adobe](overview-prior-plans.md)
    + Serviços da Experience Cloud {#data-sheets}
