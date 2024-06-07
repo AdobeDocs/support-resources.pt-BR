@@ -4,9 +4,9 @@ user-guide-description: Planos de sucesso e recursos de suporte para Adobe Exper
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: ff8a6583b2607f431e65b60dcb1ecf89511c583d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 93%
      [Ep.3: George Kotsinis](episode3.md)
      [Ep. 4: Jessica Ouellette](episode4.md)
      [Ep. 5: Corey Blackburn](episode5.md)
-     [Ep.6 - Kelly Oja](episode6.md)
-     [Ep.7 - Chris Diaz](episode7.md)
-     [Ep.8 - Vincent Lee](episode8.md)
+     [Ep. 6 – Kelly Oja](episode6.md)
+     [Ep. 7 – Chris Diaz](episode7.md)
+     [Ep. 8 – Vincent Lee](episode8.md)
 + Planos de suporte da Adobe anteriores a 16 de junho de 2022{#prior-plans}
    + [Visão geral dos planos anteriores de suporte da Adobe](overview-prior-plans.md)
    + Serviços da Experience Cloud {#data-sheets}
