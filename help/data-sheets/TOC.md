@@ -4,9 +4,9 @@ user-guide-description: Planos de sucesso e recursos de suporte para Adobe Exper
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 2f49530bbd32e5637050dcdfde613245fdf0e757
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 97%
      [Ep. 6 – Kelly Oja](episode6.md)
      [Ep. 7 – Chris Diaz](episode7.md)
      [Ep. 8 – Vincent Lee](episode8.md)
-     [Ep.9 - Ren Wightman](episode9.md)
+     [Ep.9: Ren Wightman](episode9.md)
 + Planos de suporte da Adobe anteriores a 16 de junho de 2022{#prior-plans}
    + [Visão geral dos planos anteriores de suporte da Adobe](overview-prior-plans.md)
    + Serviços da Experience Cloud {#data-sheets}
@@ -34,7 +34,7 @@ ht-degree: 97%
       + [Elite](elite.md)
       + [Guia do Suporte ao cliente](support-guide.md)
    + Serviços da Creative Cloud e Document Cloud {#dme-data-sheets}
-      + [Serviços da Creative Cloud e Document Cloud ](dme-overview.md)
+      + [Serviços da Creative Cloud e Document Cloud](dme-overview.md)
       + [Standard](dme-standard.md)
       + [Business](dme-business.md)
       + [Enterprise](dme-enterprise.md)
