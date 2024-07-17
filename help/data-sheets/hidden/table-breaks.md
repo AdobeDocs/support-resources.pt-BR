@@ -3,10 +3,11 @@ title: Quebras de tabela
 description: Teste de diferentes quebras de tabela
 hide: true
 hidefromtoc: true
-source-git-commit: 9ad23090cb13f36d6d015b23122736048fe2230c
+exl-id: a769fcb7-f8d3-419b-bdd4-98b71bdf3b5d
+source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
 workflow-type: tm+mt
 source-wordcount: '270'
-ht-degree: 11%
+ht-degree: 8%
 
 ---
 
@@ -16,7 +17,7 @@ Não há muito a ver aqui.
 
 ## Tabela de marcação padrão com `<br>`
 
-**FIXO`Green<br>Red<br>Blue`**
+**CORRIGIDO`Green<br>Red<br>Blue`**
 
 |  | Número | Cores |
 |---|---|---|
@@ -25,7 +26,7 @@ Não há muito a ver aqui.
 
 {style="table-layout:fixed"}
 
-**AUTOMÁTICO`Green<br>Red<br>Blue`**
+**AUTO`Green<br>Red<br>Blue`**
 
 |  | Número | Cores |
 |---|---|---|
@@ -34,9 +35,9 @@ Não há muito a ver aqui.
 
 {style="table-layout:auto"}
 
-## Tabela do Markdown com duplo `<br>`s
+## Tabela do Markdown com `<br>`s duplo
 
-**FIXO`Green<br><br>Red<br><br>Blue`**
+**CORRIGIDO`Green<br><br>Red<br><br>Blue`**
 
 |  | Número | Cores |
 |---|---|---|
@@ -45,7 +46,7 @@ Não há muito a ver aqui.
 
 {style="table-layout:fixed"}
 
-**AUTOMÁTICO`Green<br><br>Red<br><br>Blue`**
+**AUTO`Green<br><br>Red<br><br>Blue`**
 
 |  | Número | Cores |
 |---|---|---|
@@ -56,7 +57,7 @@ Não há muito a ver aqui.
 
 ## Tabela do Markdown com `<p>`
 
-**FIXO`Green<p>Red<p>Blue`**
+**CORRIGIDO`Green<p>Red<p>Blue`**
 
 |  | Número | Cores |
 |---|---|---|
@@ -65,7 +66,7 @@ Não há muito a ver aqui.
 
 {style="table-layout:fixed"}
 
-**AUTOMÁTICO`Green<p>Red<p>Blue`**
+**AUTO`Green<p>Red<p>Blue`**
 
 |  | Número | Cores |
 |---|---|---|
@@ -76,14 +77,14 @@ Não há muito a ver aqui.
 
 |  | Número | Cores |
 |---|---|---|
-| Juanya | 17 | Esta é a cor **verde** e se destina a envolver em uma linha diferente como um assunto e ou meio de testar as quebras de parágrafo acima. <p>Esta é a cor **vermelho** e se destina a envolver em uma linha diferente como um assunto e ou meio de testar as quebras de parágrafo acima. <p>Esta é a cor **azul** e se destina a envolver em uma linha diferente como um assunto e ou meio de testar as quebras de parágrafo acima. |
+| Juanya | 17 | Esta é a cor **verde** e destina-se a envolver uma linha diferente como um assunto e/ou meio de testar as quebras de parágrafo mencionadas anteriormente. <p>Esta é a cor **vermelha** e destina-se a envolver uma linha diferente como um assunto e/ou meio de teste acima mencionado quebras de parágrafo. <p>Esta é a cor **azul** e destina-se a envolver uma linha diferente como um assunto e/ou meio de teste das quebras de parágrafo acima mencionadas. |
 | Maria | 23 | Amarelo<p>Marrom |
 
 {style="table-layout:fixed"}
 
 |  | Número | Cores |
 |---|---|---|
-| Juanya | 17 | Esta é a cor **verde** e se destina a envolver em uma linha diferente como um assunto e ou meio de testar as quebras de parágrafo acima. <p>Esta é a cor **vermelho** e se destina a envolver em uma linha diferente como um assunto e ou meio de testar as quebras de parágrafo acima. <p>Esta é a cor **azul** e se destina a envolver em uma linha diferente como um assunto e ou meio de testar as quebras de parágrafo acima. |
+| Juanya | 17 | Esta é a cor **verde** e destina-se a envolver uma linha diferente como um assunto e/ou meio de testar as quebras de parágrafo mencionadas anteriormente. <p>Esta é a cor **vermelha** e destina-se a envolver uma linha diferente como um assunto e/ou meio de teste acima mencionado quebras de parágrafo. <p>Esta é a cor **azul** e destina-se a envolver uma linha diferente como um assunto e/ou meio de teste das quebras de parágrafo acima mencionadas. |
 | Maria | 23 | Amarelo<p>Marrom |
 
 {style="table-layout:auto"}

@@ -7,7 +7,7 @@ exl-id: e6270f95-3550-4e35-ad4c-760584bb9b5d
 source-git-commit: 0cefcf5bb4a021593a6bbe44eed0ad83e8bd259f
 workflow-type: tm+mt
 source-wordcount: '1926'
-ht-degree: 27%
+ht-degree: 28%
 
 ---
 
@@ -23,7 +23,7 @@ Todos esses bugs devem ser corrigidos.
 
 **Índice**
 
-* [Introdução ao assistente de IA](note-test.md)
+* [Introdução ao Assistente de IA](note-test.md)
 * **[Geração de email com o Assistente de IA](syntax-style-guide.md)**
 * [Geração de SMS com o Assistente de IA](test-page.md)
 * [Geração de push com o Assistente de IA](tables.md)
@@ -35,7 +35,7 @@ Sem caixa de sombra
 
 **Índice**
 
-* [Introdução ao assistente de IA](note-test.md)
+* [Introdução ao Assistente de IA](note-test.md)
 * **[Geração de email com o Assistente de IA](syntax-style-guide.md)**
 * [Geração de SMS com o Assistente de IA](test-page.md)
 * [Geração de push com o Assistente de IA](tables.md)
@@ -48,7 +48,7 @@ Esses emblemas devem estar na mesma linha dos itens de marcador.
 
 * [[!DNL Mixpanel]](note-test.md) [!BADGE Notas]{type=Informative}
 * [[!DNL Pendo]](tables.md) [!BADGE Tabelas]{type=Positive}
-* [[!DNL RainFocus]](syntax-style-guide.md) [!BADGE Guia de estilo de sintaxe]{type=Positive}
+* [[!DNL RainFocus]](syntax-style-guide.md) [!BADGE Guia de Estilo de Sintaxe]{type=Positive}
 
 ## UGP-10560 - Emblemas em seções recolhíveis
 
@@ -58,10 +58,10 @@ Esses emblemas devem estar na mesma linha dos itens de marcador.
 
 _13 de fevereiro de 2023_
 
-[!BADGE Compatível]{type=Informative tooltip="Suportado"}
+[!BADGE Com suporte]{type=Informative tooltip="Suportado"}
 
-![Novo](assets/package.png) Os vídeos de produtos agora são compatíveis com a API de serviço de catálogo.
-![Correção](assets/package.png) Agora há suporte para pacotes de produtos com preços fixos.
+Os vídeos de produtos ![Novos](assets/package.png) agora têm suporte da API de Serviço de Catálogo.
+![Correção](assets/package.png) Produtos em pacote com preços fixos agora têm suporte.
 ![Correção](assets/package.png) As opções indisponíveis agora são mostradas no widget PDP.
 
 #### Limitações conhecidas
@@ -81,17 +81,17 @@ As seguintes limitações podem ser resolvidas usando a API Mesh e a Core GraphQ
 
 _sexta-feira, 12 de outubro de 2023_
 
-[!BADGE Compatível]{type=Informative tooltip="Suportado"}
+[!BADGE Com suporte]{type=Informative tooltip="Suportado"}
 
-![Novo](assets/package.png) O Serviço de catálogo oferece suporte ao `inStock` sinalizador para grades de produtos.
-![Novo](assets/package.png) `urlKey` e `externalId` foram adicionados ao esquema do GraphQL.
-![Novo](assets/package.png) Produtos e cartões-presente baixáveis agora são compatíveis.
+O ![Novo](assets/package.png) Serviço de Catálogo oferece suporte ao sinalizador `inStock` para variantes de produtos.
+![Novos](assets/package.png) `urlKey` e `externalId` foram adicionados ao esquema do GraphQL.
+![Novos](assets/package.png) Produtos e cartões-presente baixáveis agora têm suporte.
 
 ### Versão V1.12
 
 _quarta-feira, 19 de setembro de 2023_
 
-[!BADGE Compatível]{type=Informative tooltip="Suportado"}
+[!BADGE Com suporte]{type=Informative tooltip="Suportado"}
 
 ![Novo](https://www.adobe.com).
 ![Correção](assets/package.png) Esta versão contém correções de erros e melhorias no lado do serviço.
@@ -100,102 +100,102 @@ _quarta-feira, 19 de setembro de 2023_
 
 _quarta-feira, 18 de julho de 2023_
 
-[!BADGE Compatível]{type=Informative tooltip="Suportado"}
+[!BADGE Com suporte]{type=Informative tooltip="Suportado"}
 
-![Novo](assets/package.png) O Serviço de catálogo agora é compatível com o [`recommendations`](https://developer.adobe.com/commerce/services/graphql/recommendations/recommendations/) Consulta do GraphQL para Recommendations do produto.
+O ![Novo](assets/package.png) Serviço de Catálogo agora dá suporte à consulta do GraphQL [`recommendations`](https://developer.adobe.com/commerce/services/graphql/recommendations/recommendations/) para o Product Recommendations.
 
 ### Versão V1.10
 
 _quarta-feira, 27 de junho de 2023_
 
-[!BADGE Compatível]{type=Informative tooltip="Suportado"}
+[!BADGE Com suporte]{type=Informative tooltip="Suportado"}
 
-![Novo](assets/package.png) A API do Serviço de catálogo agora é compatível com &quot;produtos relacionados&quot;.
+![Nova](assets/package.png) API do Serviço de catálogo agora dá suporte a &quot;produtos relacionados&quot;.
 
 ### Versão V1.7
 
 _quinta-feira, 12 de abril de 2023_
 
-[!BADGE Compatível]{type=Informative tooltip="Suportado"}
+[!BADGE Com suporte]{type=Informative tooltip="Suportado"}
 
-![Novo](assets/package.png) O Serviço de catálogo agora limpa as variantes de produtos excluídas.
-![Correção](assets/package.png) Aprimoramentos de desempenho e escalabilidade da infraestrutura.
+O ![Novo](assets/package.png) Serviço de Catálogo agora limpa as variantes de produtos excluídas.
+![Corrigir](assets/package.png) melhorias na escalabilidade e no desempenho da infraestrutura.
 
 ### Versão V1.6
 
 _quarta-feira, 28 de março de 2023_
 
-[!BADGE Compatível]{type=Informative tooltip="Suportado"}
+[!BADGE Com suporte]{type=Informative tooltip="Suportado"}
 
-![Novo](assets/package.png) Adição de amostras à [`products`](https://developer.adobe.com/commerce/services/graphql/catalog-service/products/) consulta.
+![Novo](assets/package.png) Amostras adicionadas à consulta [`products`](https://developer.adobe.com/commerce/services/graphql/catalog-service/products/).
 ![Novo](https://www.adobe.com).
 
 ### Versão V1.5
 
 _terça-feira, 6 de março de 2023_
 
-[!BADGE Compatível]{type=Informative tooltip="Suportado"}
+[!BADGE Com suporte]{type=Informative tooltip="Suportado"}
 
-![Novo](assets/package.png) Adicionado [`categories`](https://developer.adobe.com/commerce/services/graphql/schema/catalog-service/categories/) funcionalidade do GraphQL.
-![Correção](assets/package.png) Melhor desempenho e escalabilidade da API.
+![Novo](assets/package.png) Adicionado [`categories`](https://developer.adobe.com/commerce/services/graphql/schema/catalog-service/categories/) funcionalidade GraphQL.
+![Correção](assets/package.png) Desempenho e escalabilidade da API aprimorados.
 
 ### Versão V1.4
 
 _quarta-feira, 7 de fevereiro de 2023_
 
-[!BADGE Compatível]{type=Informative tooltip="Suportado"}
+[!BADGE Com suporte]{type=Informative tooltip="Suportado"}
 
-![Novo](assets/package.png) Metappackage do serviço de catálogo publicado para simplificar as etapas de instalação.
-![Correção](assets/package.png) Melhorias na escalabilidade e no desempenho da API.
+![Novo](assets/package.png) metapackage de serviço de catálogo publicado para simplificar as etapas de instalação.
+![Corrigir](assets/package.png) aprimoramentos de desempenho e escalabilidade da API.
 
 ### Versão V1.3
 
 _quarta-feira, 17 de janeiro de 2023_
 
-[!BADGE Compatível]{type=Informative tooltip="Suportado"}
+[!BADGE Com suporte]{type=Informative tooltip="Suportado"}
 
-![Novo](assets/package.png) Simplificação e melhoria da experiência de integração.
-![Novo](assets/package.png) Novos pontos de extremidade de sandbox do cliente estão disponíveis para testes de pré-produção.
+![Novo](assets/package.png) Simplificou e melhorou a experiência de integração.
+![Novo](assets/package.png) Novos pontos de extremidade de sandbox do cliente estão disponíveis para teste de pré-produção.
 ![Novo](assets/package.png) Suporte adicionado para produtos virtuais.
-![Correção](assets/package.png) Melhorias na escalabilidade e no desempenho da API.
+![Corrigir](assets/package.png) aprimoramentos de desempenho e escalabilidade da API.
 
 ### Versão V1.1
 
 _sábado, 18 de novembro de 2022_
 
-[!BADGE Compatível]{type=Informative tooltip="Suportado"}
+[!BADGE Com suporte]{type=Informative tooltip="Suportado"}
 
-![Novo](assets/package.png) O Serviço de catálogo agora é compatível com o Adobe [API Mesh](https://developer.adobe.com/graphql-mesh-gateway/).
-![Correção](assets/package.png) Melhor escalabilidade da API e desempenho geral.
+O ![Novo](assets/package.png) Serviço de catálogo agora dá suporte a [Malha de API](https://developer.adobe.com/graphql-mesh-gateway/) do Adobe.
+![Correção](assets/package.png) Aprimoramento da escalabilidade da API e desempenho geral.
 
 ### Versão V1.0
 
 _quarta-feira, 4 de outubro de 2022_
 
-[!BADGE Compatível]{type=Informative tooltip="Suportado"}
+[!BADGE Com suporte]{type=Informative tooltip="Suportado"}
 
-![Novo](assets/package.png) Agora oferecem suporte a produtos agrupados.
-![Novo](assets/package.png) Adição de substituições de visibilidade B2B. Agora os produtos podem ser pesquisados e adicionados ao carrinho para grupos específicos de clientes.
-![Correção](assets/package.png) O serviço agora está mais estável e melhorou o desempenho.
+![Novo](assets/package.png) Agora oferece suporte a produtos agrupados.
+![Novo](assets/package.png) substituições de visibilidade B2B adicionadas. Agora os produtos podem ser pesquisados e adicionados ao carrinho para grupos específicos de clientes.
+O serviço ![Fix](assets/package.png) agora está mais estável e melhorou o desempenho.
 
 ### Versão 0.3 - Beta+
 
 _terça-feira, 12 de setembro de 2022_
 
-[!BADGE Compatível]{type=Informative tooltip="Suportado"}
+[!BADGE Com suporte]{type=Informative tooltip="Suportado"}
 
-![Novo](assets/package.png) Suporte a imagens para variantes: as imagens do produto são retornadas com base nas opções selecionadas
-![Novo](assets/package.png) Funções para suporte a preços: permite que somente membros de grupos de clientes específicos vejam o preço dos produtos
-![Correção](assets/package.png) Melhor estabilidade e desempenho do serviço
-![Novo](assets/package.png) As atualizações são recebidas quando os produtos são excluídos do catálogo
+![Suporte a novas](assets/package.png) imagens para variantes: as imagens do produto são retornadas com base nas opções selecionadas
+![Novas](assets/package.png) funções para suporte a preços: permitir que somente membros de grupos de clientes específicos vejam o preço dos produtos
+![Correção](assets/package.png) Estabilidade e desempenho do serviço aprimorados
+![Novas](assets/package.png) atualizações são recebidas quando produtos são excluídos do catálogo
 
-### Versão Beta
+### Versão do Beta
 
-_9 de agosto de 2022_
+_quarta-feira, 9 de agosto de 2022_
 
-[!BADGE Compatível]{type=Informative tooltip="Suportado"}
+[!BADGE Com suporte]{type=Informative tooltip="Suportado"}
 
-![Novo](assets/package.png) A variável `products` e `refineProduct` queries retornam os seguintes dados:
+![Novo](assets/package.png) As consultas `products` e `refineProduct` retornam os seguintes dados:
 
 * Atributos de produto predefinidos (sistema).
 * Atributos dinâmicos do produto e filtrá-los por função (página de exibição do produto/página da lista de produtos).
@@ -213,7 +213,7 @@ Consulte o cabeçalho acima. E o próximo.
 
 ## Testar para ativação automática
 
-Adicionei isso na sexta-feira à tarde, mas não cliquei em Publicar agora.
+Adicionei isso na sexta-feira à tarde, mas não cliquei em Publish Now.
 
 ### [!BADGE Beta]{type=Informative}
 
@@ -221,7 +221,7 @@ Bob
 
 ## UGP-10565 - Destaque de texto
 
-Texto anterior `<div class="preview">`
+Texto antes de `<div class="preview">`
 
 <div class="preview">
 
@@ -229,7 +229,7 @@ Texto anterior `<div class="preview">`
 
 Você pode adicionar campos nativos Workfront aos seus formulários personalizados. Quando o formulário personalizado é anexado a um objeto, o campo é preenchido a partir dos dados do objeto. Por exemplo, o campo Descrição em um formulário personalizado anexado a um projeto extrairá a descrição do projeto. (O campo pode mostrar &quot;N/D&quot; se nenhum dado estiver disponível.)
 
-1. No lado esquerdo da tela, localize **Campo nativo** e arraste-a para uma seção na tela.
+1. No lado esquerdo da tela, localize o **Campo nativo** e arraste-o para uma seção da tela.
 1. No lado direito da tela, configure as opções do campo personalizado:
 
    <table style="table-layout:auto"> 
@@ -264,7 +264,7 @@ Você pode adicionar campos nativos Workfront aos seus formulários personalizad
     </tbody> 
    </table>
 
-1. Para salvar as alterações, clique em **Aplicar** e vá para outra seção para continuar criando seu formulário.
+1. Para salvar as alterações, clique em **Aplicar** e vá para outra seção para continuar criando o formulário.
 
    ou
 
@@ -291,7 +291,7 @@ Consulte também UGP-9780
     <td>
     <ul>
     <li>Botões de opção. Para obter mais informações, consulte <a href="https://www.adobe.com">Adicionar um campo personalizado a um formulário personalizado</a> neste artigo. (Sem classe)</li>
-    <li>Grupos de caixa de seleção</li>
+    <li>Grupo de caixas de seleção</li>
     <li>Lista suspensa</li>
     </ul></td>
 </tr> 
@@ -305,33 +305,33 @@ A tag &quot;span&quot; não está funcionando muito bem em uma NOTA (e lista)
 Para obter informações sobre quais recursos estão disponíveis na nova experiência de comentários e para quais objetos, consulte [Nova experiência de comentários](note-test.md).
 
 1. Vá para o objeto ao qual deseja adicionar uma resposta.
-1. Clique em **Atualizações** e, em seguida, clique na guia **Comentários** para o objeto e localize o comentário ou resposta à qual deseja responder
+1. Clique em **Atualizações**, depois clique na guia **Comentários** do objeto e localize o comentário ou a resposta à qual deseja responder
 
    Ou
 
-   <span class="preview">Clique em **Todos** e clique em **Responder em Comentários** para abrir o comentário na guia Comentários e respondê-lo. Não é possível responder na guia All.</span>
+   <span class="preview">Clique na guia **Todos** e em **Responder em Comentários** para abrir o comentário na guia Comentários e respondê-lo. Não é possível responder na guia Todos.</span>
 
-1. (Opcional) Para incluir texto de uma atualização anterior em sua resposta, clique no link **Mais** no canto superior direito do comentário que deseja responder e clique em **Citar resposta**. O texto da atualização anterior é exibido na área de entrada, marcado com uma linha cinza vertical.
+1. (Opcional) Para incluir texto de uma atualização anterior em sua resposta, clique no menu **Mais** no canto superior direito do comentário que deseja responder e clique em **Citar resposta**. O texto da atualização anterior é exibido na área de entrada, marcado com uma linha cinza vertical.
 1. Clique em **Responder**.
 
    ![](assets/package.png)
 
-   Você pode ver os usuários que estão ativamente envolvidos na conversa na parte inferior da **Adicionar resposta...** e você poderá adicionar ou remover as que não são mais relevantes. Esses usuários, juntamente com quaisquer usuários que se inscreveram no objeto, recebem uma notificação sempre que uma atualização ou resposta é feita no objeto. Você também pode adicionar tags a mais usuários para incluí-los em sua resposta.  Para marcar mais usuários, consulte [Marcar outros usuários em atualizações](note-test.md).
+   Você pode ver os usuários que estão ativamente envolvidos na conversa na parte inferior da caixa **Adicionar resposta...** e pode adicionar mais ou remover os que não são mais relevantes. Esses usuários, juntamente com quaisquer usuários que se inscreveram no objeto, recebem uma notificação sempre que uma atualização ou resposta é feita no objeto. Você também pode adicionar tags a mais usuários para incluí-los em sua resposta.  Para marcar mais usuários, consulte [Marcar outros usuários em atualizações](note-test.md).
 
    >[!TIP]
    >
-   >   Para adicionar respostas adicionais a uma resposta existente, comece digitando o **Adicionar resposta...** ou clique em **Responder** sobre o comentário original. Sua resposta é adicionada ao final da thread.
+   >   Para adicionar respostas adicionais a uma resposta existente, você pode começar a digitar na caixa **Adicionar resposta...** ou clicar em **Responder** no comentário original. Sua resposta é adicionada ao final da thread.
 
-1. Comece a digitar sua resposta e use qualquer opção adicional da barra de ferramentas Rich Text. Para obter informações sobre como usar Rich Text ou outros recursos de atualização, consulte [Atualizar trabalho](note-test.md).
+1. Comece a digitar sua resposta e use qualquer opção adicional da barra de ferramentas Rich Text. Para obter informações sobre como usar Rich Text ou outros recursos de atualização, consulte [Trabalho de atualização](note-test.md).
 
 1. Clique em **Enviar** para salvar a resposta.
 
-1. (Opcional) Clique no link **Mais** no canto superior direito do comentário ao qual deseja responder para obter mais opções para gerenciar a resposta. Para obter mais informações, consulte [Atualizar trabalho](note-test.md).
+1. (Opcional) Clique no menu **Mais** no canto superior direito do comentário ao qual você deseja responder para obter mais opções para gerenciar a resposta. Para obter mais informações, consulte [Atualizar trabalho](note-test.md).
 
 
 ## UGP-10614 - Tabelas de problemas com imagens
 
-Eu acho que o `{width="20"}` está causando problemas nas tabelas.
+Acho que o parâmetro `{width="20"}` está causando problemas nas tabelas.
 
 ## Comparação dos planos de sucesso Expert e Ultimate
 

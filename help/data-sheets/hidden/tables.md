@@ -7,7 +7,7 @@ exl-id: 5ce746fc-6835-4bee-85c5-5ad5176baca0
 source-git-commit: 6893d1e41c3899c3ab6a9b02b305161eb3f7e049
 workflow-type: tm+mt
 source-wordcount: '1421'
-ht-degree: 3%
+ht-degree: 5%
 
 ---
 
@@ -21,7 +21,7 @@ O Markdown padrão é compatível somente com tabelas básicas. Para o AdobeDocs
 
 * Tabelas básicas do Markdown
 * tabelas de HTML
-* Tabelas do Markdown com sintaxe de HTML limitada para quebras de parágrafo (`<p>`), quebras de linha (`<br>`) e listas básicas (`<ul>`, `<ol>`).
+* Tabelas de Markdown com sintaxe de HTML limitada para quebras de parágrafo (`<p>`), quebras de linha (`<br>`) e listas básicas (`<ul>`, `<ol>`).
 
 ## Conversão de tabelas de HTML para tabelas do Markdown
 
@@ -32,23 +32,23 @@ Infelizmente, não foi possível encontrar uma única ferramenta que converte be
 | Ferramenta | O que faz |
 |--- |--- |
 | [Gerador de tabelas do Markdown](https://www.tablesgenerator.com/markdown_tables) | Bom para criar tabelas do Markdown do zero. |
-| [Conversor de tabela avançado](https://tableconvert.com/html-to-markdown) | Converta tabelas de qualquer formato em qualquer formato. <p>**Nota:** Links e imagens são nivelados quando convertidos. |
-| [HTML de tabela básica > conversor de markdown](https://jmalarcon.github.io/markdowntables/) | Conversor de HTML simples <p>**Nota:** Links e imagens são nivelados quando convertidos. |
-| [HTML não tabela > Conversor de Markdown](https://codebeautify.org/html-to-markdown) | Converte tabelas de HTML em sintaxe de Markdown que não seja de tabela. Use em combinação com as ferramentas acima para copiar links, imagens e qualquer outro item nivelado. |
+| [Conversor de tabela avançado](https://tableconvert.com/html-to-markdown) | Converta tabelas de qualquer formato em qualquer formato. <p>**Observação:** links e imagens são nivelados quando convertidos. |
+| [html da tabela básica > conversor de markdown](https://jmalarcon.github.io/markdowntables/) | Conversor de HTML simples <p>**Observação:** links e imagens são nivelados quando convertidos. |
+| [HTML fora de tabela > Conversor Markdown](https://codebeautify.org/html-to-markdown) | Converte tabelas de HTML em sintaxe de Markdown que não seja de tabela. Use em combinação com as ferramentas acima para copiar links, imagens e qualquer outro item nivelado. |
 
 ## Tabelas básicas do Markdown
 
 * Adicione pelo menos três hifens na segunda linha que determina as propriedades da tabela. Exemplo: `|--- |--- |--- |` para uma tabela de 3 colunas.
 * As tabelas do Markdown devem ter pelo menos uma linha de cabeçalho e uma linha de corpo. Não é possível criar uma tabela de markdown de uma linha ou de uma célula (use HTML).
-* Certifique-se de que cada linha tenha o mesmo número de caracteres de barra vertical ( &amp;vert; ). Se você precisar incluir um caractere de barra vertical em uma célula de tabela, escape ao precedê-lo com uma barra invertida (`\|`) ou usando o código de entidade HTML (`&vert;`).
+* Certifique-se de que cada linha tenha o mesmo número de caracteres de barra vertical ( &amp;vert; ). Se você precisar incluir um caractere de barra vertical em uma célula de tabela, escape precedendo-o com uma barra invertida (`\|`) ou usando o código de entidade HTML (`&vert;`).
 * Tenha cuidado ao usar blocos de código em tabelas. Blocos de código em linha podem causar larguras de coluna desproporcionais.
-* Você pode alterar como a tabela é renderizada especificando Automático ou Fixo. Consulte [Alteração no modo como as tabelas são renderizadas](#table-rendering).
+* Você pode alterar como a tabela é renderizada especificando Automático ou Fixo. Consulte [Alterando o modo como as tabelas são renderizadas](#table-rendering).
 
 ## Criação de tabelas do Markdown com HTML de bônus
 
 Para facilitar a migração, estendemos as tabelas do Markdown para oferecer suporte a quebras de parágrafo de HTML (`<p>`), quebras de linha (`<br>`) e listas de HTML básicas (`<ul>` e `<ol>`) nas tabelas do Markdown.
 
-**Tabela do Markdown com quebras de linha e listas**
+**Tabela de Markdown com quebras de linha e listas**
 
 ```
 | Header 1 | Header 2 | Header 3 |
@@ -122,7 +122,7 @@ A ferramenta de migração tentou preservar o máximo de formatação possível 
   <tr>
    <td>badgingLevels</td> 
    <td>Longo</td> 
-   <td><p><i>(Opcional)</i> Especifica os níveis de experiência a serem atribuídos. Por exemplo, se houver uma variável <code>expert </code>e uma <code>almost expert</code> (duas medalhas), então o valor deve ser definido como 2. O badgingLevel deve corresponder ao número de imagens de selo relacionadas a especialistas listadas para a propriedade badgingPath. O padrão é 1.</p></td> 
+   <td><p><i>(Opcional)</i> Especifica os níveis de experiência a serem atribuídos. Por exemplo, se deve haver um <code>expert </code> e um <code>almost expert</code> (dois emblemas), o valor deve ser definido como 2. O badgingLevel deve corresponder ao número de imagens de selo relacionadas a especialistas listadas para a propriedade badgingPath. O padrão é 1.</p></td> 
   </tr>
   <tr>
    <td>badgingType</td> 
@@ -142,7 +142,7 @@ A ferramenta de migração tentou preservar o máximo de formatação possível 
 
 **Notas para trabalhar com tabelas de HTML**
 
-* Não use a sintaxe do Markdown em tabelas de HTML. Por exemplo, se você adicionar `[!NOTE]` para uma tabela HTML, ela será renderizada como está (`[!NOTE]`). Em vez disso, use a sintaxe de HTML para coisas como notas e imagens.
+* Não use a sintaxe do Markdown em tabelas de HTML. Por exemplo, se você adicionar `[!NOTE]` a uma tabela HTML, ela será renderizada como está (`[!NOTE]`). Em vez disso, use a sintaxe de HTML para coisas como notas e imagens.
 
   As tags loc são uma exceção a essa regra, pois as tags UICONTROL e DNL são removidas antes que as páginas sejam renderizadas.
 
@@ -164,9 +164,9 @@ A ferramenta de migração tentou preservar o máximo de formatação possível 
 Podemos renderizar tabelas de duas maneiras:
 
 * **Fixo** (atualmente o padrão) - Inclui regras personalizadas para renderizar tabelas, incluindo tabelas de HTML com imagens. As tabelas são renderizadas como largura total sem rolagem, o que às vezes causa a sobreposição de texto.
-* **Automático** - Semelhante ao Git-flavored Markdown (GFM). As tabelas podem rolar, de modo que o texto não se sobrepõe.
+* **Auto** - Semelhante ao Git-flavored Markdown (GFM). As tabelas podem rolar, de modo que o texto não se sobrepõe.
 
-Na maioria dos casos, as tabelas são renderizadas com a mesma aparência. No entanto, se a tabela incluir texto sobreposto, será necessário aplicar o `auto` tag. Ou, se a tabela de HTML com cartões de imagem não estiver sendo renderizada corretamente, talvez você queira aplicar a variável `fixed` tag.
+Na maioria dos casos, as tabelas são renderizadas com a mesma aparência. No entanto, se a tabela incluir texto sobreposto, será necessário aplicar a tag `auto`. Ou, se a tabela de HTML com cartões de imagem não estiver sendo renderizada corretamente, talvez você queira aplicar a tag `fixed`.
 
 Estamos considerando alterar o padrão de `fixed` para `auto`.
 
@@ -201,19 +201,19 @@ Se quiser especificar como uma tabela de HTML é renderizada, use uma destas lin
 
 ### Quando usar Automático ou Fixo
 
-**Sobreposição de texto**
+**Texto sobreposto**
 
-Uso `auto` para tabelas com blocos de código longos ou texto que causa sobreposição de texto quando `fixed` (padrão) está selecionado.
+Use `auto` para tabelas com blocos de código longos ou texto que causa sobreposição de texto quando `fixed` (padrão) é selecionado.
 
 *Fixo (Padrão)*
 
 | Métrica de insights | Descrição | Parâmetro de consulta de ID |
 | ---- | ---- | ---- |
 | **timeseries.data.collection.validation.category.type.count** | Número total de mensagens inválidas do tipo para um conjunto de dados ou para todos os conjuntos de dados. | ID do conjunto de dados |
-| **timeseries.data.collection.validation.category.range.count** | Número total de mensagens de &quot;intervalo&quot; inválidas para um conjunto de dados ou para todos os conjuntos de dados. | ID do conjunto de dados |
-| **timeseries.data.collection.validation.category.format.count** | Número total de mensagens de &quot;formato&quot; inválidas para um conjunto de dados ou para todos os conjuntos de dados. | ID do conjunto de dados |
+| **série.dados.coleção.validação.categoria.intervalo.contagem** | Número total de mensagens de &quot;intervalo&quot; inválidas para um conjunto de dados ou para todos os conjuntos de dados. | ID do conjunto de dados |
+| **série.dados.coleção.validação.categoria.formato.contagem** | Número total de mensagens de &quot;formato&quot; inválidas para um conjunto de dados ou para todos os conjuntos de dados. | ID do conjunto de dados |
 | **timeseries.data.collection.validation.category.pattern.count** | Número total de mensagens &quot;padrão&quot; inválidas para um conjunto de dados ou para todos os conjuntos de dados. | ID do conjunto de dados |
-| **timeseries.data.collection.validation.category.present.count** | Número total de mensagens de &quot;presença&quot; inválidas para um conjunto de dados ou para todos os conjuntos de dados. | ID do conjunto de dados |
+| **série.dados.coleção.validação.categoria.presença.contagem** | Número total de mensagens de &quot;presença&quot; inválidas para um conjunto de dados ou para todos os conjuntos de dados. | ID do conjunto de dados |
 | **timeseries.data.collection.validation.category.enum.count** | Número total de mensagens &quot;enum&quot; inválidas para um conjunto de dados ou para todos os conjuntos de dados. | ID do conjunto de dados |
 
 {style="table-layout:fixed"}
@@ -223,17 +223,17 @@ Uso `auto` para tabelas com blocos de código longos ou texto que causa sobrepos
 | Métrica de insights | Descrição | Parâmetro de consulta de ID |
 | ---- | ---- | ---- |
 | **timeseries.data.collection.validation.category.type.count** | Número total de mensagens inválidas do tipo para um conjunto de dados ou para todos os conjuntos de dados. | ID do conjunto de dados |
-| **timeseries.data.collection.validation.category.range.count** | Número total de mensagens de &quot;intervalo&quot; inválidas para um conjunto de dados ou para todos os conjuntos de dados. | ID do conjunto de dados |
-| **timeseries.data.collection.validation.category.format.count** | Número total de mensagens de &quot;formato&quot; inválidas para um conjunto de dados ou para todos os conjuntos de dados. | ID do conjunto de dados |
+| **série.dados.coleção.validação.categoria.intervalo.contagem** | Número total de mensagens de &quot;intervalo&quot; inválidas para um conjunto de dados ou para todos os conjuntos de dados. | ID do conjunto de dados |
+| **série.dados.coleção.validação.categoria.formato.contagem** | Número total de mensagens de &quot;formato&quot; inválidas para um conjunto de dados ou para todos os conjuntos de dados. | ID do conjunto de dados |
 | **timeseries.data.collection.validation.category.pattern.count** | Número total de mensagens &quot;padrão&quot; inválidas para um conjunto de dados ou para todos os conjuntos de dados. | ID do conjunto de dados |
-| **timeseries.data.collection.validation.category.present.count** | Número total de mensagens de &quot;presença&quot; inválidas para um conjunto de dados ou para todos os conjuntos de dados. | ID do conjunto de dados |
+| **série.dados.coleção.validação.categoria.presença.contagem** | Número total de mensagens de &quot;presença&quot; inválidas para um conjunto de dados ou para todos os conjuntos de dados. | ID do conjunto de dados |
 | **timeseries.data.collection.validation.category.enum.count** | Número total de mensagens &quot;enum&quot; inválidas para um conjunto de dados ou para todos os conjuntos de dados. | ID do conjunto de dados |
 
 {style="table-layout:auto"}
 
-**tabelas de HTML com imagens balanceadas**
+**tabelas de HTML com imagens equilibradas**
 
-Uso `fixed` para tabelas de HTML que requerem imagens balanceadas que se tornam desbalanceadas quando `auto` está selecionada. Neste exemplo, as imagens têm tamanhos idênticos, mas há mais texto na coluna do meio.
+Use `fixed` para tabelas de HTML que requerem imagens balanceadas que se tornam desbalanceadas quando `auto` é selecionado. Neste exemplo, as imagens têm tamanhos idênticos, mas há mais texto na coluna do meio.
 
 *Automático*
 
@@ -254,9 +254,9 @@ Uso `fixed` para tabelas de HTML que requerem imagens balanceadas que se tornam 
       <img alt="Pouco frequente" src="assets/infrequent.png">
     </a>
     <div>
-    <a href="syntax-style-guide.md"><strong>Fluxo de trabalho para usuários pouco frequentes</strong></a>
+    <a href="syntax-style-guide.md"><strong>Fluxo de Trabalho para Usuários Raros</strong></a>
     </div>
-    <em>Não é um escritor principal? Saiba mais sobre as maneiras mais fáceis de fazer contribuições. Não é um escritor principal? Saiba mais sobre as maneiras mais fáceis de fazer contribuições. Não é um escritor principal? Saiba mais sobre as maneiras mais fáceis de fazer contribuições. Não é um escritor principal? Saiba mais sobre as maneiras mais fáceis de fazer contribuições. Não é um escritor principal? Saiba mais sobre as maneiras mais fáceis de fazer contribuições. Não é um escritor principal? Saiba mais sobre as maneiras mais fáceis de fazer contribuições.</em>
+    <em>Não é um gravador principal? Saiba mais sobre as maneiras mais fáceis de fazer contribuições. Não é um escritor principal? Saiba mais sobre as maneiras mais fáceis de fazer contribuições. Não é um escritor principal? Saiba mais sobre as maneiras mais fáceis de fazer contribuições. Não é um escritor principal? Saiba mais sobre as maneiras mais fáceis de fazer contribuições. Não é um escritor principal? Saiba mais sobre as maneiras mais fáceis de fazer contribuições. Não é um escritor principal? Saiba mais sobre as maneiras mais fáceis de fazer contribuições.</em>
     <br>
   </td>
   <td>
@@ -272,7 +272,7 @@ Uso `fixed` para tabelas de HTML que requerem imagens balanceadas que se tornam 
 </tr>
 </table>
 
-*Fixo (de mais de um modo)*
+*Fixo (em mais de um)*
 
 <table style="table-layout:fixed">
 <tr>
@@ -291,9 +291,9 @@ Uso `fixed` para tabelas de HTML que requerem imagens balanceadas que se tornam 
       <img alt="Pouco frequente" src="assets/infrequent.png">
     </a>
     <div>
-    <a href="syntax-style-guide.md"><strong>Fluxo de trabalho para usuários pouco frequentes</strong></a>
+    <a href="syntax-style-guide.md"><strong>Fluxo de Trabalho para Usuários Raros</strong></a>
     </div>
-    <em>Não é um escritor principal? Saiba mais sobre as maneiras mais fáceis de fazer contribuições. Não é um escritor principal? Saiba mais sobre as maneiras mais fáceis de fazer contribuições. Não é um escritor principal? Saiba mais sobre as maneiras mais fáceis de fazer contribuições. Não é um escritor principal? Saiba mais sobre as maneiras mais fáceis de fazer contribuições. Não é um escritor principal? Saiba mais sobre as maneiras mais fáceis de fazer contribuições. Não é um escritor principal? Saiba mais sobre as maneiras mais fáceis de fazer contribuições.</em>
+    <em>Não é um gravador principal? Saiba mais sobre as maneiras mais fáceis de fazer contribuições. Não é um escritor principal? Saiba mais sobre as maneiras mais fáceis de fazer contribuições. Não é um escritor principal? Saiba mais sobre as maneiras mais fáceis de fazer contribuições. Não é um escritor principal? Saiba mais sobre as maneiras mais fáceis de fazer contribuições. Não é um escritor principal? Saiba mais sobre as maneiras mais fáceis de fazer contribuições. Não é um escritor principal? Saiba mais sobre as maneiras mais fáceis de fazer contribuições.</em>
     <br>
   </td>
   <td>

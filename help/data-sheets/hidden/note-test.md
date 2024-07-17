@@ -3,7 +3,8 @@ description: Conectar à Data Warehouse do Widget - Documentação do produto
 title: Conectar à Data Warehouse do Widget
 hide: true
 hidefromtoc: true
-source-git-commit: fcf5fb8f9728dd27a81de21241a71ce49dd015f8
+exl-id: d6a7cff5-08f9-4c93-8765-46e692feaa0d
+source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
 workflow-type: tm+mt
 source-wordcount: '911'
 ht-degree: 0%
@@ -14,9 +15,9 @@ ht-degree: 0%
 
 ## Novo teste
 
-<ol><li>Use o `{{name}}".</li></ol>
+<ol><li>Use a variável `{{name}}`.</li></ol>
 
-<ol><li>Usar o &amp;lbrace;&amp;lbrace;<code>name</code>&amp;rbrace;&amp;rbrace;.</li></ol>
+<ol><li>Use a variável &amp;lbrace;&amp;lbrace;<code>name</code>&amp;rbrace;&amp;rbrace;.</li></ol>
 
 ## Teste aninhado
 
@@ -96,13 +97,13 @@ Você precisará inserir algumas informações para conectar seu Data warehouse 
 
 * **URI** (sempre obrigatório)
    * Esse é o nome de domínio da conta do Widget.  Ele está contido em uma parte do link de login do Widget.
-* **Nome de usuário** (sempre obrigatório)
+* **Nome de usuário** (sempre necessário)
    * O nome de usuário está listado na página Informações da Data Warehouse no Marketo Measure.
 * **Senha** (sempre obrigatório)
    * Esta é a senha que você definiu na primeira vez que fez logon na sua conta do Widget.  Para redefinir a senha, consulte as etapas descritas acima.
-* **Nome do banco de dados** (nem sempre é obrigatório)
+* **Nome do Banco de Dados** (nem sempre necessário)
    * O banco de dados é o que armazena os dados no Widget. É o recurso de armazenamento. O nome do banco de dados está listado na página Informações da Data Warehouse no Marketo Measure.
-* **Nome do Depósito** (nem sempre é obrigatório)
+* **Nome do Depósito** (nem sempre necessário)
    * O warehouse é o que executa consultas no Widget. É o recurso de computação.  O nome do warehouse está listado na página de informações de Data Warehouse no Marketo Measure.
 
   ![](assets/adobe-logo-old.png)
@@ -119,11 +120,11 @@ Para que o Marketo Measure configure um compartilhamento direto no data warehous
 
 **Limitações**
 
-Para que a Marketo Measure configure um compartilhamento direto, a conta que solicita acesso deve estar localizada no Azure East US 2. Estamos cientes de que o Widget oferece uma solução de replicação de dados entre regiões, no entanto, não oferecemos suporte a isso de nossa parte, pois hospedamos apenas dados na região do Azure East US 2. Você pode aproveitar esse recurso configurando sua própria instância no Azure East US 2 e [replicação de dados entre regiões](https://docs.widget.com/en/user-guide/secure-data-sharing-across-regions-plaforms.html){target="_blank"} à sua instância existente. No entanto, o recurso de replicação de dados do Widget só está disponível em tabelas, portanto, para usar esse recurso, primeiro será necessário copiar os dados de nossas exibições para suas próprias tabelas.
+Para que a Marketo Measure configure um compartilhamento direto, a conta que solicita acesso deve estar localizada no Azure East US 2. Estamos cientes de que o Widget oferece uma solução de replicação de dados entre regiões, no entanto, não oferecemos suporte a isso de nossa parte, pois hospedamos apenas dados na região do Azure East US 2. Você pode aproveitar esse recurso configurando sua própria instância no Azure East US 2 e [replicando os dados entre regiões](https://docs.widget.com/en/user-guide/secure-data-sharing-across-regions-plaforms.html){target="_blank"} para sua instância existente. No entanto, o recurso de replicação de dados do Widget só está disponível em tabelas, portanto, para usar esse recurso, primeiro será necessário copiar os dados de nossas exibições para suas próprias tabelas.
 
-**Acesso ao compartilhamento**
+**Acessando o Compartilhamento**
 
-Depois que o compartilhamento for criado para a ID de conta fornecida, você deverá concluir a [etapas de configuração](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"} na instância do Widget para acessar os dados.
+Depois que o compartilhamento for criado para a ID de conta fornecida, você deverá concluir as [etapas de configuração](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"} na instância do Widget para acessar os dados.
 
 >[!NOTE]
 >
@@ -154,4 +155,4 @@ GRANT IMPORTED PRIVILEGES ON DATABASE <database_name> TO ROLE <role_name>
 GRANT IMPORTED PRIVILEGES ON ALL SCHEMAS IN DATABASE <database_name> TO ROLE <role_name>
 ```
 
-Para obter instruções mais detalhadas e as etapas para realizar essas etapas na interface do usuário do Widget, consulte [Documentação do widget diretamente](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"}.
+Para obter instruções mais detalhadas e as etapas para realizar essas etapas da interface do Widget, consulte diretamente a documentação do [Widget](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"}.

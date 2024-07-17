@@ -4,7 +4,8 @@ description: Uma introdução básica ao estilo do Markdown
 mini-toc-levels: 1
 hide: true
 hidefromtoc: true
-source-git-commit: 77a5127250ffbc9d490579188e8469d4c3dac4c3
+exl-id: 9f15436b-156a-4c07-bfaf-8557cd948197
+source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
 workflow-type: tm+mt
 source-wordcount: '4238'
 ht-degree: 13%
@@ -17,7 +18,7 @@ Esta página ilustra a entrada do componente de Markdown para a criação de doc
 
 EDS
 
-Consulte aqui: [Adobe.com](https://www.adobe.com){rel=nofollow}
+Veja aqui: [Adobe.com](https://www.adobe.com){rel=nofollow}
 
 <!--
 * You can [view a basic sample file](sample.md) or [view a sample file with advanced syntax examples](sample-full.md)
@@ -25,7 +26,7 @@ Consulte aqui: [Adobe.com](https://www.adobe.com){rel=nofollow}
 
 >[!TIP]
 >
->Assista a isto [Vídeo do AdobeDocs Markdown](https://video.tv.adobe.com/v/26165).
+>Assista a este [vídeo sobre o AdobeDocs Markdown](https://video.tv.adobe.com/v/26165).
 
 Na maioria das vezes, seguimos a sintaxe padrão Git-flavored markdown (GFM) para formatar texto. No entanto, alguma sintaxe (como linhas horizontais) não é compatível e estendemos o Markdown de várias maneiras para atender às nossas necessidades de documentação.
 
@@ -33,7 +34,7 @@ Na maioria das vezes, seguimos a sintaxe padrão Git-flavored markdown (GFM) par
 
 Um parágrafo não requer sintaxe especial no Markdown. Adicione uma linha em branco entre cada parágrafo.
 
-Para formatar texto como **negrito**, coloque-o entre dois asteriscos:
+Para formatar o texto como **negrito**, coloque-o entre dois asteriscos:
 
 ```
 This text is **bold**.
@@ -45,7 +46,7 @@ Para formatar o texto como *itálico*, coloque-o entre um único asterisco:
 This text is *italic*.
 ```
 
-Para formatar o texto como ambos ***negrito e itálico***, coloque-o entre três asteriscos:
+Para formatar o texto como ***negrito e itálico***, coloque-o entre três asteriscos:
 
 ```
 This is text is both ***bold and italic***.
@@ -117,7 +118,7 @@ There are two ways to create badges:
 
 ## Citações Bloqueadas
 
-Nosso sistema de criação usa a sintaxe de citações de bloqueio (`>` no início das linhas) para identificar extensões personalizadas do Markdown para dicas, notas e vídeos. Você pode criar cotações de bloqueio reais adicionando um `>` na frente de um parágrafo.
+Nosso sistema de criação usa a sintaxe de citações de bloqueio (`>` no início das linhas) para identificar extensões de Markdown personalizadas para dicas, anotações e vídeos. Você pode criar citações de bloqueio reais adicionando um caractere `>` na frente de um parágrafo.
 
 >Esta é uma citação em bloco.
 
@@ -131,9 +132,9 @@ Nosso sistema de criação usa a sintaxe de citações de bloqueio (`>` no iníc
 
 Usado para renderizar uma parte do código em linha em uma frase. Ideal para chamar um nome de cookie, nome de arquivo, valor ou comando que não requer um bloco de código com zoneamento completo.
 
-Conteúdo em blocos de código é renderizado como está e não está localizado. (A única exceção a essa regra é `!UICONTROL` e `!DNL` que é removida durante o empacotamento para publicação.)
+Conteúdo em blocos de código é renderizado como está e não está localizado. (A única exceção para esta regra é a sintaxe `!UICONTROL` e `!DNL`, que é removida durante o empacotamento para publicação.)
 
-Também use blocos de código para exemplos de URLs que não devem ser validados: `https://www.example.com`
+Também use blocos de código para exemplos de URLs que não devem ser validadas: `https://www.example.com`
 
 **Sintaxe**
 
@@ -163,7 +164,7 @@ Observe que os blocos de código não estão localizados.
 
 >[!TIP]
 >
-Especifique um idioma ao criar um bloco de código cercado. A especificação de um idioma permite o realce de sintaxe específico para esse idioma e exibe um **Copiar** para os usuários. Também é possível exibir números de linha se você especificar um idioma.
+Especifique um idioma ao criar um bloco de código cercado. A especificação de um idioma permite o realce de sintaxe específico para esse idioma e exibe um botão **Copiar** para os usuários. Também é possível exibir números de linha se você especificar um idioma.
 
 **Sintaxe**
 
@@ -247,11 +248,11 @@ Exemplo com realce de linha (&grave;&grave;&grave;`html {line-numbers="true" sta
 
 ### Formatação de variáveis em blocos de código
 
-Sintaxe de variável, como `<i>italic</i>` não é compatível com blocos de código. Para indicar texto variável, uma opção é usar colchetes angulares `< >`.
+Sintaxe de variável, como `<i>italic</i>`, não tem suporte em blocos de código. Para indicar texto variável, uma opção é usar colchetes `< >`.
 
 ## Seções flexíveis
 
-É possível criar uma seção recolhível (às vezes chamada de **acordeão**) que está oculta por padrão. O usuário pode clicar no título para expandir ou recolher a seção.
+Você pode criar uma seção recolhível (às vezes chamada de **acordeão**) que fica oculta por padrão. O usuário pode clicar no título para expandir ou recolher a seção.
 
 O texto flexível pode ser usado para simplificar conteúdo complexo, como simplificar uma página de perguntas frequentes ou desorganizar um procedimento complexo com listas aninhadas. Por exemplo, em vez de exibir um conjunto de subetapas, é possível recolher as subetapas em uma seção &quot;Exibir detalhes&quot;.
 
@@ -270,7 +271,8 @@ This is text inside a collapsible section.
 
 **Exemplo**
 
-+++Ver detalhes Este é um texto dentro de uma seção recolhível.
++++Ver detalhes
+Este é o texto dentro de uma seção que pode ser recolhida.
 
 * Marcador um
 * Marcador dois
@@ -280,12 +282,12 @@ This is text inside a collapsible section.
 
 **Notas**
 
-* Não aninhe seções que podem ser recolhidas em seções que podem ser recolhidas. Seções recolhíveis aninhadas não são renderizadas corretamente. No entanto, elas não causam falha na validação, portanto, os usuários verão a `+++` da seção aninhada.
+* Não aninhe seções que podem ser recolhidas em seções que podem ser recolhidas. Seções recolhíveis aninhadas não são renderizadas corretamente. No entanto, eles não causam falha na validação, portanto, os usuários verão a sintaxe `+++` da seção aninhada.
 * Certifique-se de adicionar linhas em branco acima e abaixo de itens como listas de marcadores e blocos de código dentro da seção recolhível, ou você receberá um erro de validação.
 * Você pode adicionar cabeçalhos dentro de seções que podem ser recolhidas, mas isso não é recomendado.
 * [Acordeões nem sempre são a resposta para conteúdo complexo em desktops](https://www.nngroup.com/articles/accordions-complex-content/)
-* Uma desvantagem histórica das seções que podem ser recolhidas é que **Localizar na página** (Ctrl/Cmd+F) ignora o texto recolhido. Embora isso ainda seja verdade no Safari, não é mais verdade no Chrome. Localizar na página detecta texto recolhido no Chrome.
-* Exemplo de a [atualizações de manutenção](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=en) página usando seções recolhíveis.
+* Uma desvantagem histórica de seções que podem ser recolhidas é que **Localizar na Página** (Ctrl/Cmd+F) ignora o texto recolhido. Embora isso ainda seja verdade no Safari, não é mais verdade no Chrome; Localizar na página detecta texto recolhido no Chrome.
+* Exemplo de uma página de [atualizações de manutenção](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=en) usando seções recolhíveis.
 
 ## Comentários e observações
 
@@ -306,7 +308,7 @@ Você não poderá ver o texto abaixo dele (&quot;Você não pode me ver&quot;),
 You can't see me (unless you're editing in Git).
 -->
 
-**Lembrete:** Comentários (observações) não aparecem nos artigos de ajuda voltados ao público. No entanto, os comentários aparecem nos arquivos do Markdown voltados ao público que os usuários podem visualizar e editar.
+**Lembrete:** comentários (observações) não aparecem nos artigos de ajuda voltados ao público. No entanto, os comentários aparecem nos arquivos do Markdown voltados ao público que os usuários podem visualizar e editar.
 
 >[!IMPORTANT]
 >
@@ -380,7 +382,7 @@ O tamanho máximo para arquivos e imagens baixados é de 100 MB. Esse é o limit
 
 ## Cabeçalhos {#headings}
 
-No Markdown, use sinais de libra (`#`) para identificar níveis de cabeçalho. O primeiro nível (`#`) é o título do artigo, que também é especificado no cabeçalho de metadados. Mantenha-os iguais. O segundo nível (`##`) representa os cabeçalhos principais na página que será incluída no miniTOC. Se você está acostumado a escrever em AEM (chl-author), os cabeçalhos de nível 2 (`##`) mapear para o componente &quot;Cabeçalho 1&quot; no AEM.
+No Markdown, use sinais de libra (`#`) para identificar níveis de cabeçalho. O primeiro nível (`#`) é o título do artigo, que também é especificado no cabeçalho de metadados. Mantenha-os iguais. O segundo nível (`##`) representa os cabeçalhos principais da página que será incluída no miniTOC. Se você está acostumado a escrever em AEM (chl-author), os cabeçalhos de nível 2 (`##`) são mapeados para o componente de &quot;Cabeçalho 1&quot; no AEM.
 
 Contagem máxima de caracteres para cabeçalhos: 69 caracteres (inglês) / 120 caracteres (LOC).
 
@@ -392,18 +394,18 @@ Contagem máxima de caracteres para cabeçalhos: 69 caracteres (inglês) / 120 c
 ### This is level 3
 ```
 
-**Cabeçalho de práticas recomendadas**
+**Práticas recomendadas de cabeçalho**
 
-* Certifique-se de que um cabeçalho de nível 1 (`#`) segue uma linha em branco após os metadados em cada artigo.
-* Não pule níveis, como pular do nível 2 (`##`) para o nível 4 (`####`).
-* Incluir uma linha em branco *antes* e *após* cada cabeçalho.
+* Certifique-se de que um cabeçalho de nível 1 (`#`) siga uma linha em branco após os metadados em cada artigo.
+* Não pule níveis, como saltar do nível 2 (`##`) para o nível 4 (`####`).
+* Inclua uma linha em branco *antes* e *depois* de cada cabeçalho.
 * Se um cabeçalho incluir numerais, especifique uma ID de cabeçalho explícita que não comece com um número, como `## Release notes for 2016 {#release-notes-2016}`.
 * Recomendamos apenas 3 níveis de cabeçalho. Os níveis 4 e posteriores não estão sendo renderizados corretamente no momento.
 * Os títulos são exibidos na navegação à direita para que os usuários possam clicar em para ir para uma seção. Por padrão, dois níveis de cabeçalho aparecem na navegação à direita. Se quiser alterar o número de níveis, use `mini-toc-levels` metadados, como `mini-toc-levels: 3`.
 
 **IDs de cabeçalho**
 
-IDs de cabeçalho (também chamadas de *IDs de âncora*) são usados para criar deep links personalizados para seções dentro de artigos. Para especificar uma ID de cabeçalho, use este formato:
+As IDs de cabeçalho (também chamadas de *IDs de âncora*) são usadas para criar deep links personalizados para seções dentro de artigos. Para especificar uma ID de cabeçalho, use este formato:
 
 ```
 ## Creating processing rules {#processing-rules}
@@ -411,7 +413,7 @@ IDs de cabeçalho (também chamadas de *IDs de âncora*) são usados para criar 
 
 As IDs de cabeçalho devem estar em minúsculas e hifenizadas.
 
-Se você não especificar uma ID de cabeçalho para um cabeçalho, a ID de cabeçalho padrão será o cabeçalho &quot;slugified&quot; (minúsculas e hifenizadas). Por exemplo, a variável `## Creating widgets and Such` terá um `#creating-widgets-and-such` âncora.
+Se você não especificar uma ID de cabeçalho para um cabeçalho, a ID de cabeçalho padrão será o cabeçalho &quot;slugified&quot; (minúsculas e hifenizadas). Por exemplo, o cabeçalho `## Creating widgets and Such` terá uma âncora `#creating-widgets-and-such`.
 
 ## Sintaxe de HTML {#html}
 
@@ -458,13 +460,13 @@ Se quiser que a sintaxe de HTML seja adicionada a essa lista, registre um tíque
 
 ## Imagens {#images}
 
-Use o `![]()` sintaxe para imagens. Os colchetes `[ ]` incluir texto alternativo e os parênteses `( )` inclua a localização da imagem e o texto de focalização opcional (dica de ferramenta). O ponto de exclamação distingue uma imagem de um link.
+Use a sintaxe `![]()` para imagens. Os colchetes `[ ]` incluem texto alternativo, e os parênteses `( )` incluem o local da imagem e o texto de focalização opcional (dica de ferramenta). O ponto de exclamação distingue uma imagem de um link.
 
 ```
 ![alt text](assets/logo.png "Hover text")
 ```
 
-![texto alternativo](assets/logo.png "Focalizar texto")
+![alt text](assets/logo.png "Focalizar texto")
 
 Para imagens compartilhadas, você pode colocar as imagens em uma pasta de ativos raiz e usar um link raiz que funcione de qualquer arquivo em um repositório:
 
@@ -484,12 +486,12 @@ Use a sintaxe como a seguir para alterar a largura ou o centro da imagem padrão
 
 Renderizado:
 
-![Texto alternativo da imagem de mergulho](assets/maui-dive.jpg "Texto ao passar o mouse - A largura de mergulho de Maui é de 300 pixels e centralizada"){width="300" align="center"}
+![Texto alternativo da imagem de mergulho](assets/maui-dive.jpg "Focalizar texto - A largura de mergulho de Maui é de 300 pixels e centralizada"){width="300" align="center"}
 
 * Para imagens grandes, recomendamos que você crie imagens grandes o suficiente para serem dimensionadas para se ajustarem à largura da página (pelo menos 640 pixels de largura). A largura recomendada é de 1500 pixels. Não há necessidade de criar imagens com mais de 2500 pixels ou 500 kilobytes. O tamanho máximo de arquivo para imagens é 100 MB.
 * Para imagens pequenas, crie imagens usando a largura desejada em pixels ou use o parâmetro de largura, como `{width="250"}` (pixels) ou `{width="50%"}` (porcentagem da área de exibição, não tamanho da imagem original). As imagens são dimensionadas proporcionalmente. Observe que as imagens podem ser aumentadas ou diminuídas, portanto, tenha cuidado com a pixelação.
 * Em alguns casos, imagens da mesma interface parecerão fora de proporção na página, pois imagens mais largas (como uma barra de ferramentas) são dimensionadas para baixo, enquanto imagens estreitas (como um painel) não são dimensionadas para baixo. Nesses casos, considere diminuir o tamanho das imagens mais amplas para melhorar a consistência visual.
-* É possível alterar o alinhamento de uma imagem na área de exibição. Use `{align="center"}` ou `{align="right"}`. A variável `valign` não há suporte para este parâmetro.
+* É possível alterar o alinhamento de uma imagem na área de exibição. Use `{align="center"}` ou `{align="right"}`. O parâmetro `valign` não tem suporte.
 
 >[!NOTE]
 >
@@ -540,7 +542,7 @@ Renderizado:
 
 [Adobe](https://www.adobe.com)
 
-Se você adicionar um URL diretamente ao texto, ele não será convertido em um link automaticamente. Para que um URL apareça como um link, adicione `< >` sintaxe. Exemplos:
+Se você adicionar um URL diretamente ao texto, ele não será convertido em um link automaticamente. Para que uma URL apareça como um link, adicione a sintaxe `< >`. Exemplos:
 
 ```
 https://www.adobe.com
@@ -564,7 +566,7 @@ Veja como um link relativo padrão se parece:
 See [Overview example article](collaborative-doc-instructions/overview.md)
 ```
 
-O nome do caminho precisa levar em conta o local do arquivo de origem e do arquivo de destino. É possível usar todos os operandos de links relativos, como `./` (diretório atual), `../` (voltar um diretório) e `../../` (voltar dois diretórios).
+O nome do caminho precisa levar em conta o local do arquivo de origem e do arquivo de destino. Você pode usar todos os operandos de links relativos, como `./` (diretório atual), `../` (voltar um diretório) e `../../` (voltar dois diretórios).
 
 **Opção 2: link relativo de raiz**
 
@@ -590,7 +592,7 @@ Para vincular a este cabeçalho a partir de um artigo diferente no repositório,
 
 **Abrir em nova guia**
 
-Se quiser que um link abra uma nova guia, como ao pular para um guia diferente, use o `{target="_blank"}` no link.
+Se quiser que um link abra uma nova guia, como quando você pular para um guia diferente, use a propriedade `{target="_blank"}` no link.
 
 Exemplo:
 
@@ -736,7 +738,7 @@ Esta é uma nota de sucesso. Somente EXL.
 
 Para criar listas numeradas, comece uma linha com `1.` ou `1)`, mas escolha um método e use-o consistentemente no artigo. Você não precisa especificar os números. O GitHub faz isso para você.
 
-Usar o número `1` para cada etapa na lista numerada.
+Use o número `1` para cada etapa da lista numerada.
 
 Adicione linhas em branco antes e depois das listas.
 
@@ -766,9 +768,9 @@ Adicione linhas em branco antes e depois das listas.
 
 1. This is yet another step, the third.
 
-Para criar listas de itens, comece uma linha com `*` ou `-` ou `+`, mas escolha um método e use-o consistentemente no artigo. (Se você misturar os formatos, como `*` e `+`, você receberá um erro de validação do Markdown ao fazer o check-in do arquivo.)
+Para criar listas de itens, comece uma linha com `*` ou `-` ou `+`, mas escolha um método e use-o consistentemente no artigo. (Se você misturar os formatos, como `*` e `+`, receberá um erro de validação do Markdown ao fazer check-in do arquivo.)
 
-**Prática recomendada:** Uso `*` para marcadores. O Visual Studio Code aplica o asterisco para marcadores, portanto, é mais fácil permanecer com asteriscos para automatizar a criação de uma lista não ordenada. (Você pode ter notado que o arquivo TOC.md usa sinais de mais `+` para listas. Isso é um remanescente da migração. Qualquer marcador válido funcionaria desde que fosse consistente dentro do artigo.)
+**Prática recomendada:** Use `*` para marcadores. O Visual Studio Code aplica o asterisco para marcadores, portanto, é mais fácil permanecer com asteriscos para automatizar a criação de uma lista não ordenada. (Talvez você tenha notado que o arquivo TOC.md usa os sinais de adição `+` para listas. Isso é um remanescente da migração. Qualquer marcador válido funcionaria desde que fosse consistente dentro do artigo.)
 
 **Sintaxe**
 
@@ -838,13 +840,13 @@ OBSERVAÇÃO: se você recuar muito, como 6 espaços em vez de 3, o conteúdo ne
 
 As caixas de sombra são úteis para desativar uma seção de conteúdo do restante da página. Por exemplo, a equipe do Workfront gosta de adicionar caixas de &quot;Exemplo&quot;, que contêm texto, imagens e exemplos de código para atingir uma finalidade específica. Uma caixa de sombra também pode ser útil para seções &quot;Por conta própria&quot; ou &quot;Caso de uso&quot;, ou para notas ou dicas estendidas.
 
-Para criar uma caixa de sombra, adicione `>[!BEGINSHADEBOX]` no início da seção e `>[!ENDSHADEBOX]` no final. Todo o conteúdo entre essas tags de início e término terá um plano de fundo cinza. Adicionar um rótulo a `BEGINSHADEBOX` (como `>[!BEGINSHADEBOX "Use Case]` é uma maneira opcional de criar um título de caixa de sombra em negrito. Você também pode simplesmente adicionar um texto em negrito ou um cabeçalho na linha seguinte.
+Para criar uma caixa de sombra, adicione `>[!BEGINSHADEBOX]` no início da seção e `>[!ENDSHADEBOX]` no final. Todo o conteúdo entre essas tags de início e término terá um plano de fundo cinza. Adicionar um rótulo a `BEGINSHADEBOX` (como `>[!BEGINSHADEBOX "Use Case]`) é uma maneira opcional de criar um título de caixa de sombra em negrito. Você também pode simplesmente adicionar um texto em negrito ou um cabeçalho na linha seguinte.
 
 Exemplo:
 
 >[!BEGINSHADEBOX]
 
-**Remoção da borda em uma tabela de HTML**
+**Removendo a borda em uma tabela de HTML**
 
 Em alguns casos, você usa uma tabela de HTML para criar um design balanceado, mas não quer que o conteúdo se pareça com uma tabela. Para desativar uma borda para uma tabela de HTML de uma linha, use esta sintaxe:
 
@@ -859,7 +861,7 @@ Não use demais. Para tabelas normais, queremos manter um design consistente em 
 
 ![dica de tabela](assets/table-no-border.png)
 
-Em uma tabela de três colunas, você também pode adicionar `<td align="center">` e `<td align="right">` para distribuir o conteúdo da célula uniformemente na área de exibição. Se não fosse assim, eu teria lhe dito.
+Em uma tabela de três colunas, você também pode adicionar `<td align="center">` e `<td align="right">` para distribuir o conteúdo da célula uniformemente pela área de exibição. Se não fosse assim, eu teria lhe dito.
 
 Esta é a última linha da caixa de sombra.
 
@@ -867,11 +869,11 @@ Esta é a última linha da caixa de sombra.
 
 ## Trechos e inclusões
 
-Para compartilhar texto entre artigos em um acordo de recompra, crie um `_includes` pasta na `help` pasta. Este `_includes` a pasta pode ter arquivos .md que podem ser referenciados (incluídos) de outros arquivos no repositório. Além disso, uma `snippets.md` O arquivo neste repositório pode incluir âncoras Head2 que podem ser referenciadas a partir de qualquer arquivo no repositório.
+Para compartilhar texto entre artigos em um repositório, crie uma pasta `_includes` na pasta `help`. Esta pasta `_includes` pode ter arquivos .md que podem ser referenciados (incluídos) de outros arquivos no repositório. Além disso, um arquivo `snippets.md` nesse repositório pode incluir âncoras Head2 que podem ser referenciadas a partir de qualquer arquivo no repositório.
 
 Referência a H2 no arquivo snippets.md: `{{id-name}}`
 
-Referência para incluir o arquivo: `{{$include /help/_includes/filename.md}}`
+Referência para incluir arquivo: `{{$include /help/_includes/filename.md}}`
 
 ## Tabela
 
@@ -879,7 +881,7 @@ As tabelas podem ser problemáticas no Markdown. Quando as tabelas são migradas
 
 >[!TIP]
 >
-Assista ao [Vídeo Tabelas do Markdown](https://video.tv.adobe.com/v/26220)
+Assista ao [vídeo sobre Tabelas do Markdown](https://video.tv.adobe.com/v/26220)
 
 Tabelas nativas frequentemente têm melhor aparência no Markdown. As colunas são dimensionadas de acordo com seu conteúdo. As tabelas de HTML são renderizadas com colunas de igual largura.
 
@@ -893,7 +895,7 @@ Não permitido em nenhuma tabela: iframes, extensões de células, tabelas incor
 
 Não permitido na tabela nativa do Markdown: listas aninhadas ou complexas.
 
-Consulte [Tabelas](tables.md)
+Ver [Tabelas](tables.md)
 
 **Sintaxe**
 
@@ -913,7 +915,7 @@ Consulte [Tabelas](tables.md)
 
 Tabelas simples funcionam adequadamente no Markdown. No entanto, as tabelas que incluem vários parágrafos ou listas dentro de uma célula são difíceis de trabalhar. Para tal conteúdo, recomendamos usar um formato diferente, como cabeçalhos e texto.
 
-**Tabela do Markdown com quebras de parágrafo e listas**
+**Tabela de Markdown com quebras de parágrafo e listas**
 
 ```
 | Header | Another header | Yet another header |
@@ -942,10 +944,10 @@ Solução alternativa com marcadores manuais.
 
 **Exemplo**
 
-| Cor do canal | Coisas para fazer |
+| Cor | Coisas para fazer |
 |--- |--- |
-| Vermelho | * Ler <br> * Gravação <br> * Estudo |
-| Azul | * Swim <br> * Executar <br> * Elevação <br> **Nota**: Lembre-se de treinar inteligente. |
+| Vermelho | * Ler <br> * Gravar <br> * Estudo |
+| Azul | * Swim <br> * Run <br> * Lift <br> **Observação**: lembre-se de treinar inteligente. |
 .32
 
 
@@ -953,9 +955,9 @@ Solução alternativa com marcadores manuais.
 
 Uma guia é uma área clicável na parte superior de uma seção que mostra conteúdo diferente. Quando uma guia é clicada, o conteúdo da guia é exibido e o conteúdo de outras guias fica oculto.
 
-Para criar um conjunto de guias, adicione `>[!BEGINTABS]` no início do conjunto de guias e `>[!ENDTABS]` após a última guia. Adicionar `>[!TAB <tab title>]` para cada seção da guia e adicione o conteúdo de cada guia abaixo dela.
+Para criar um conjunto de guias, adicione `>[!BEGINTABS]` no início do conjunto de guias e `>[!ENDTABS]` depois da última guia. Adicione `>[!TAB <tab title>]` tags para cada seção de guia e adicione o conteúdo de cada guia abaixo dela.
 
-**Sintaxe da guia**
+**Sintaxe de guia**
 
 ```
 >[!BEGINTABS]
@@ -995,7 +997,7 @@ Esse conteúdo aparece na guia iOS.
 
 Esse conteúdo aparece na guia Android.
 
->[!TAB Windows]
+>[!TAB Janelas]
 
 Esse conteúdo aparece na guia Windows.
 
@@ -1009,7 +1011,7 @@ Esse conteúdo aparece na guia Linux.
 
 >[!ENDTABS]
 
-**Guia de notas**
+**Anotações da guia**
 
 * Os usuários não podem usar a pesquisa na página (Ctrl+F/Cmd+F) para localizar conteúdo em guias que não são exibidas.
 * Se os títulos das guias se estenderem além da largura da exibição de página no navegador do usuário, uma barra de rolagem horizontal será exibida.
@@ -1031,7 +1033,7 @@ Renderizado:
 
 Todo este parágrafo NÃO deve ser destacado. <span class="preview"> Esta palavra está em **negrito** dentro de uma frase destacada.</span> E esta é apenas a última frase.
 
-Regra geral, utilizar `<span class="preview">` para destacar um parágrafo ou texto dentro de um parágrafo, e use `<div class="preview">` para vários parágrafos e componentes.
+Como regra geral, use `<span class="preview">` para realçar um parágrafo ou texto dentro de um parágrafo, e use `<div class="preview">` para vários parágrafos e componentes.
 
 >[!NOTE]
 >
@@ -1041,7 +1043,7 @@ A visualização do VSC ainda não oferece suporte ao realce.
 
 ## Vídeo
 
-Os vídeos não serão renderizados nativamente no Markdown. Para exibir um vídeo em linha, use o indicador do componente `[!VIDEO]` e depois o url.
+Os vídeos não serão renderizados nativamente no Markdown. Para exibir um vídeo em linha, use o indicador de componente `[!VIDEO]` e depois a url.
 
 **Sintaxe**
 
@@ -1076,15 +1078,15 @@ Os componentes especiais são declarados em uma aspa de bloco contêiner usando 
 * Destaque de texto
 * Guias de página
 
-Usar a aspa de bloco do Markdown ( `>` ) no início de cada linha para unir um componente baseado em parágrafo, como uma nota. Para melhorar a visualização, adicione uma linha imediatamente após o início da seção que tenha apenas um símbolo de aspas de bloco (`>`). Para finalizar a seção, adicione uma linha em branco.
+Use a aspa de bloco ( `>` ) do Markdown no início de cada linha para unir um componente baseado em parágrafo, como uma observação. Para melhorar a visualização, adicione uma linha imediatamente após o início da seção que tenha apenas um símbolo de citação de bloco (`>`). Para finalizar a seção, adicione uma linha em branco.
 
-Se você precisar usar subcomponentes dentro de componentes, adicione um nível extra de aspas de bloco (`>  >`) para essa seção de subcomponente. Por exemplo, uma OBSERVAÇÃO em uma seção DONOTLOCALIZE deve começar com `>  >`.
+Se você precisar usar subcomponentes dentro de componentes, adicione um nível extra de aspas de bloco (`>  >`) para essa seção de subcomponente. Por exemplo, uma NOTA em uma seção DONOTLOCALIZE deve começar com `>  >`.
 
-Em alguns casos, precisamos suportar configurações específicas para elementos do Markdown, como cabeçalhos. Se você precisar alterar as configurações padrão, adicione os parâmetros em chaves francesas `{# }` depois do componente.
+Em alguns casos, precisamos suportar configurações específicas para elementos do Markdown, como cabeçalhos. Se você precisar alterar as configurações padrão, adicione os parâmetros em chaves francesas `{# }` após o componente.
 
 ### Linhas em branco
 
-Você pode adicionar algum espaço para respirar às suas paredes de texto com linhas em branco. Uso `<br>&nbsp;` como solução alternativa para adicionar uma linha em branco.
+Você pode adicionar algum espaço para respirar às suas paredes de texto com linhas em branco. Use `<br>&nbsp;` como solução alternativa para adicionar uma linha em branco.
 
 Exemplo: esta é uma primeira frase do que pode ser um texto muito longo. Deixe-me inserir uma linha em branco entre este parágrafo e o próximo.
 
@@ -1094,7 +1096,7 @@ Isso pode não parecer muito impressionante aqui, mas tente linhas em branco qua
 
 ### Caracteres a serem &quot;escapados&quot; {#characters-to-escape}
 
-Vários caracteres (`# { } [ ] < > * + - . !`) têm um significado especial no Markdown ou no HTML para a criação de cabeçalhos, imagens, listas e outros componentes. Ao usar esses caracteres, o mecanismo de renderização pensa que você está adicionando código. No entanto, em alguns casos, você deseja exibir esses caracteres no texto. Para fazer isso, você precisa &quot;escapar&quot; os caracteres. O método de escape mais fácil é preceder o caractere com uma barra invertida (`\`). Por exemplo, se você deseja iniciar uma linha com um `#` para que não seja interpretado como um cabeçalho, você digitaria `\#`:
+Vários caracteres (`# { } [ ] < > * + - . !`) têm um significado especial no Markdown ou no HTML para a criação de cabeçalhos, imagens, listas e outros componentes. Ao usar esses caracteres, o mecanismo de renderização pensa que você está adicionando código. No entanto, em alguns casos, você deseja exibir esses caracteres no texto. Para fazer isso, você precisa &quot;escapar&quot; os caracteres. O método de escape mais fácil é preceder o caractere com uma barra invertida (`\`). Por exemplo, se você deseja iniciar uma linha com um caractere `#` para que ela não seja interpretada como um cabeçalho, você digitaria `\#`:
 
 `\# This is not a heading`
 
@@ -1102,7 +1104,7 @@ Vários caracteres (`# { } [ ] < > * + - . !`) têm um significado especial no M
 
 \# Isto não é um cabeçalho
 
-A barra invertida funciona somente com estes caracteres: `# { } [ ] * + - . !`. Se você precisar usar escape em caracteres como colchetes angulares (como `<yourname>`), você pode colocar o texto entre acentos graves para aplicar um bloco de código em linha ou usar o código de entidade HTML em vez do caractere. Exemplos de códigos HTML comuns:
+A barra invertida funciona somente com estes caracteres: `# { } [ ] * + - . !`. Se você precisar escapar caracteres como colchetes angulares (como `<yourname>`), poderá colocar o texto entre acentos graves para aplicar um bloco de código em linha ou usar o código da entidade HTML em vez do caractere. Exemplos de códigos HTML comuns:
 
 * `&lt;` (&lt;)
 * `&gt;` (>)
@@ -1111,15 +1113,15 @@ A barra invertida funciona somente com estes caracteres: `# { } [ ] * + - . !`. 
 * `&mdash;` (—)
 * `&ndash;` (-)
 
-Uma lista completa de entidades HTML está disponível no [Site do Freeformatter](https://www.freeformatter.com/html-entities.html). Isso permitirá que você procure todos os caracteres especiais.
+Uma lista completa de entidades HTML está disponível no [site de formatação livre](https://www.freeformatter.com/html-entities.html). Isso permitirá que você procure todos os caracteres especiais.
 
 >[!NOTE]
 >
-Para etapas em cadeia, como &quot;Escolher arquivo > Salvar como&quot;, não é necessário sair da janela `>` porque não está ao lado de outros caracteres. Para variáveis como `<filename>` você vai querer escapar dos colchetes usando qualquer bloco de código `backticks` ou códigos de caracteres (`&lt;filename&gt;`).
+Para etapas de cadeia, como &quot;Escolher arquivo > Salvar como&quot;, você não precisa usar o caractere `>` como escape porque ele não está ao lado de outros caracteres. Para variáveis como `<filename>`, você desejará usar o escape entre colchetes usando o bloco de código `backticks` ou os códigos de caractere (`&lt;filename&gt;`).
 
 Se você usar entidades HTML em blocos de código, o texto da entidade não será convertido no caractere especial. Por exemplo, `&gt;` aparece em um bloco de código como &quot; `&gt;` &quot; em vez de &quot; > &quot;.
 
-Para escapar acentos graves ( &grave; ), use `&grave;` ou insira o acento graves dentro de acentos graves triplos que envolvem um bloco de código em linha.
+Para escapar acentos graves ( &grave; ), use `&grave;` ou insira o acento grave dentro de acentos graves triplos que envolvem um bloco de código em linha.
 
 ### Itens incompatíveis
 
@@ -1152,9 +1154,9 @@ Não suportado
 ***
 ```
 
-**Aspas de bloco**
+**Cotas de bloqueio**
 
-Usamos aspas de bloco (`>` no início de uma linha) para indicar a sintaxe estendida do Markdown, como notas e vídeos, descrita a seguir. Mas você também pode usar `>` sintaxe para criar uma seção de citação em bloco.
+Usamos aspas de bloco (`>` no início de uma linha) para indicar a sintaxe estendida do Markdown, como notas e vídeos, descrita a seguir. Mas você também pode usar a sintaxe `>` para criar uma seção de citação em bloco.
 
 >[!NOTE]
 >

@@ -4,7 +4,7 @@ description: Os serviços de Suporte Online da Adobe Experience Cloud fornecem a
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
 source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
 workflow-type: tm+mt
-source-wordcount: '754'
+source-wordcount: '797'
 ht-degree: 100%
 
 ---
