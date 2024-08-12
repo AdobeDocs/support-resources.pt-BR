@@ -3,9 +3,9 @@ title: Visão geral dos planos de sucesso da Adobe
 description: Este artigo fornece um resumo das opções de Suporte ao cliente da Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: ce457445cf12559cccbf80b06d390d01c40281d7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2199'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ Os planos de sucesso da Adobe vão além da solução reativa de problemas para 
 | **Complemento Suporte na nuvem avançado**<br>: garantia de valor e cuidados de alto nível para clientes do Adobe Experience Manager as a Cloud Service. | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível |
 | **Complemento Sessões de mentor**<br>: oferece aprendizagem baseada em habilidades em um método de treinamento just-in-time | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível | ![ícone disponível](assets/green_checkmark.svg){width="20"} Incluído |
 | **Complemento Impulso do desenvolvedor**<br>: fornece acesso a especialistas em engenharia de campo que podem ajudar no trabalho de reparo | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível | ![ícone incluído](assets/green_checkmark.svg){width="20"} Incluído |
-| **Complemento do Pacote da Fila de Prioridade**<br> Fornece tempos de resposta mais rápidos, um único ponto de contato para atividades de Suporte e acesso aos Aceleradores de Sucesso. | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível | ![ícone incluído](assets/green_checkmark.svg){width="20"} Incluído |
+| **Complemento Pacote da fila de prioridades**<br> Fornece tempos de resposta mais rápidos, um ponto de contato centralizado para atividades de suporte e acesso aos aceleradores de sucesso. | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível | ![ícone incluído](assets/green_checkmark.svg){width="20"} Incluído |
 
 {style="table-layout:fixed"}
 
