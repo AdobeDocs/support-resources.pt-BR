@@ -2,10 +2,10 @@
 title: Visão geral dos planos de sucesso da Adobe
 description: Este artigo fornece um resumo das opções de Suporte ao cliente da Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: ce457445cf12559cccbf80b06d390d01c40281d7
-workflow-type: ht
-source-wordcount: '2199'
-ht-degree: 100%
+source-git-commit: d00bb0543704d5e1d662eba11bc9fa3bb0ad51e5
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -34,8 +34,8 @@ Os planos de sucesso da Adobe vão além da solução reativa de problemas para 
 | **Complemento Gerenciamento de eventos**<br>: fornece liderança e suporte completos necessários para gerenciar todo o ciclo de vida dos principais eventos | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível |
 | **Complemento Diretor de conta técnico**<br>: seu principal recurso técnico, que fornece supervisão de liderança, é responsável pelo engajamento executivo e garante a governança para maximizar os resultados de seus negócios | ![ícone de não disponível](assets/Cross_red_circle.svg){width="20"} Não disponível | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível |
 | **Complemento Suporte na nuvem avançado**<br>: garantia de valor e cuidados de alto nível para clientes do Adobe Experience Manager as a Cloud Service. | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível |
-| **Complemento Sessões de mentor**<br>: oferece aprendizagem baseada em habilidades em um método de treinamento just-in-time | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível | ![ícone disponível](assets/green_checkmark.svg){width="20"} Incluído |
-| **Complemento Impulso do desenvolvedor**<br>: fornece acesso a especialistas em engenharia de campo que podem ajudar no trabalho de reparo | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível | ![ícone incluído](assets/green_checkmark.svg){width="20"} Incluído |
+| **Complemento Sessões de mentor**<br>: oferece aprendizagem baseada em habilidades em um método de treinamento just-in-time | ![ícone de não disponível](assets/Cross_red_circle.svg){width="20"} Não disponível | ![ícone disponível](assets/green_checkmark.svg){width="20"} Incluído |
+| **Complemento Impulso do desenvolvedor**<br>: fornece acesso a especialistas em engenharia de campo que podem ajudar no trabalho de reparo | ![ícone de não disponível](assets/Cross_red_circle.svg){width="20"} Não disponível | ![ícone incluído](assets/green_checkmark.svg){width="20"} Incluído |
 | **Complemento Pacote da fila de prioridades**<br> Fornece tempos de resposta mais rápidos, um ponto de contato centralizado para atividades de suporte e acesso aos aceleradores de sucesso. | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível | ![ícone incluído](assets/green_checkmark.svg){width="20"} Incluído |
 
 {style="table-layout:fixed"}
