@@ -3,9 +3,9 @@ title: Visão geral dos planos de sucesso da Adobe
 description: Este artigo fornece um resumo das opções de Suporte ao cliente da Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: d00bb0543704d5e1d662eba11bc9fa3bb0ad51e5
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '2203'
+ht-degree: 100%
 
 ---
 
