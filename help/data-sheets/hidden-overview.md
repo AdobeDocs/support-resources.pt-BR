@@ -4,10 +4,10 @@ description: Esta página está oculta da pesquisa e do índice
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: b9f43e9070d4b70ec039af68a6819c18224a430e
+source-git-commit: 6315dae3fe82b4db81fbb8d964e4e72f7e395465
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 40%
+source-wordcount: '58'
+ht-degree: 43%
 
 ---
 
@@ -25,8 +25,6 @@ ht-degree: 40%
 + [Redireciona teste](hidden/test-redirection.md)
 + [Teste de autoativação](hidden/autoactivate.md)
 
-## Nova seção
+## Nova seção Akamai
 
-Não estou clicando no Publish Agora, portanto, se você vir isso, a ativação automática funcionou.
-
-7 de agosto de 2024
+Teste para ver se as alterações entram em vigor com o AEM Live.
