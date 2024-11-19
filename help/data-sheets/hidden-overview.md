@@ -4,10 +4,10 @@ description: Esta página está oculta da pesquisa e do índice
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: 6315dae3fe82b4db81fbb8d964e4e72f7e395465
+source-git-commit: 17bd60901117bdfc68e3cfceb5fd3efa2a74949a
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 43%
+source-wordcount: '60'
+ht-degree: 41%
 
 ---
 
@@ -25,6 +25,6 @@ ht-degree: 43%
 + [Redireciona teste](hidden/test-redirection.md)
 + [Teste de autoativação](hidden/autoactivate.md)
 
-## Nova seção Akamai
+## Nova seção em 19 de novembro
 
-Teste para ver se as alterações entram em vigor com o AEM Live.
+Teste para ver se o SCCM ainda está funcionando bem. Problema de topo?
