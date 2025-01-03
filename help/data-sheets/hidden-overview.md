@@ -4,10 +4,10 @@ description: Esta página está oculta da pesquisa e do índice
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: 17bd60901117bdfc68e3cfceb5fd3efa2a74949a
+source-git-commit: 642d0868adc15a979cf6ebb581a19dd0a6099bb9
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 41%
+source-wordcount: '58'
+ht-degree: 43%
 
 ---
 
@@ -25,6 +25,6 @@ ht-degree: 41%
 + [Redireciona teste](hidden/test-redirection.md)
 + [Teste de autoativação](hidden/autoactivate.md)
 
-## Nova seção em 19 de novembro
+## Nova seção em 3 de janeiro
 
-Teste para ver se o SCCM ainda está funcionando bem. Problema de topo?
+Teste para ver se o SCCM ainda está funcionando bem.
