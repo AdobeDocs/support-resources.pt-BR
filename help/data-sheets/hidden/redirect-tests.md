@@ -3,14 +3,16 @@ description: Vários redirecionamentos externos
 title: Testes de redirecionamentos
 hide: true
 hidefromtoc: true
-source-git-commit: ea4cabf5fcd757e768c363327ddc06d98ec67a91
+source-git-commit: 624d941f1a77ad3ddf0d4954d9f05224f792c979
 workflow-type: tm+mt
-source-wordcount: '9'
+source-wordcount: '21'
 ht-degree: 0%
 
 ---
 
 # Testes de redirecionamentos
+
+## Redirecionamentos satisfatórios
 
 <https://experienceleague.adobe.com/docs/core-services/interface/customer-attributes/t-upload-attributes-ftp.html>
 
@@ -37,3 +39,13 @@ ht-degree: 0%
 <https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/action-node>
 
 <https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/content-accelerator>
+
+## Redirecionamentos interrompidos
+
+Redirecionar os 404s
+
+<https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-management/nonsense>
+
+## Outra página
+
+Consulte também [test-redirection.md](test-redirection.md)
