@@ -40,7 +40,7 @@ Infelizmente, não foi possível encontrar uma única ferramenta que converte be
 
 * Adicione pelo menos três hifens na segunda linha que determina as propriedades da tabela. Exemplo: `|--- |--- |--- |` para uma tabela de 3 colunas.
 * As tabelas do Markdown devem ter pelo menos uma linha de cabeçalho e uma linha de corpo. Não é possível criar uma tabela de markdown de uma linha ou de uma célula (use HTML).
-* Certifique-se de que cada linha tenha o mesmo número de caracteres de barra vertical ( &amp;vert; ). Se você precisar incluir um caractere de barra vertical em uma célula de tabela, escape precedendo-o com uma barra invertida (`\|`) ou usando o código de entidade HTML (`&vert;`).
+* Certifique-se de que cada linha tenha o mesmo número de caracteres de barra vertical ( &vert; ). Se você precisar incluir um caractere de barra vertical em uma célula de tabela, escape precedendo-o com uma barra invertida (`\|`) ou usando o código de entidade HTML (`&vert;`).
 * Tenha cuidado ao usar blocos de código em tabelas. Blocos de código em linha podem causar larguras de coluna desproporcionais.
 * Você pode alterar como a tabela é renderizada especificando Automático ou Fixo. Consulte [Alterando o modo como as tabelas são renderizadas](#table-rendering).
 

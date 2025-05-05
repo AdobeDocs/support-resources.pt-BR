@@ -17,7 +17,7 @@ ht-degree: 0%
 
 <ol><li>Use a variável `{{name}}`.</li></ol>
 
-<ol><li>Use a variável &amp;lbrace;&amp;lbrace;<code>name</code>&amp;rbrace;&amp;rbrace;.</li></ol>
+<ol><li>Use a variável &lbrace;&lbrace;<code>name</code>&rbrace;&rbrace;.</li></ol>
 
 ## Teste aninhado
 

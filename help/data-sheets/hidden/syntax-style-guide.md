@@ -132,7 +132,7 @@ Nosso sistema de criação usa a sintaxe de citações de bloqueio (`>` no iníc
 
 Usado para renderizar uma parte do código em linha em uma frase. Ideal para chamar um nome de cookie, nome de arquivo, valor ou comando que não requer um bloco de código com zoneamento completo.
 
-Conteúdo em blocos de código é renderizado como está e não está localizado. (A única exceção para esta regra é a sintaxe `!UICONTROL` e `!DNL`, que é removida durante o empacotamento para publicação.)
+Conteúdo em blocos de código é renderizado como está e não está localizado. (A única exceção para esta regra é a sintaxe `` e ``, que é removida durante o empacotamento para publicação.)
 
 Também use blocos de código para exemplos de URLs que não devem ser validadas: `https://www.example.com`
 
@@ -152,7 +152,7 @@ This is `inline code` within a paragraph of text.
 >
 >Você também pode quebrar o texto em acentos graves triplos (&grave;&grave;&grave;) para criar um bloco de código em linha. Isso é especialmente útil quando você precisa referenciar um caractere de marca de verificação inversa em um bloco de código em linha. Exemplo:
 >
-&grave;&grave;&grave;`Use a back tick (`&grave;`) for formatting`&grave;&grave;&grave;
+>&grave;&grave;&grave;`Use a back tick (`&grave;`) for formatting`&grave;&grave;&grave;
 
 ## Bloco de código (cercado)
 
@@ -164,7 +164,7 @@ Observe que os blocos de código não estão localizados.
 
 >[!TIP]
 >
-Especifique um idioma ao criar um bloco de código cercado. A especificação de um idioma permite o realce de sintaxe específico para esse idioma e exibe um botão **Copiar** para os usuários. Também é possível exibir números de linha se você especificar um idioma.
+>Especifique um idioma ao criar um bloco de código cercado. A especificação de um idioma permite o realce de sintaxe específico para esse idioma e exibe um botão **Copiar** para os usuários. Também é possível exibir números de linha se você especificar um idioma.
 
 **Sintaxe**
 
@@ -282,7 +282,7 @@ Este é o texto dentro de uma seção que pode ser recolhida.
 
 **Notas**
 
-* Não aninhe seções que podem ser recolhidas em seções que podem ser recolhidas. Seções recolhíveis aninhadas não são renderizadas corretamente. No entanto, eles não causam falha na validação, portanto, os usuários verão a sintaxe `+++` da seção aninhada.
++++* Não aninhe seções que podem ser recolhidas em seções que podem ser recolhidas. Seções recolhíveis aninhadas não são renderizadas corretamente. No entanto, eles não causam falha na validação, portanto, os usuários verão a sintaxe `` da seção aninhada.
 * Certifique-se de adicionar linhas em branco acima e abaixo de itens como listas de marcadores e blocos de código dentro da seção recolhível, ou você receberá um erro de validação.
 * Você pode adicionar cabeçalhos dentro de seções que podem ser recolhidas, mas isso não é recomendado.
 * [Acordeões nem sempre são a resposta para conteúdo complexo em desktops](https://www.nngroup.com/articles/accordions-complex-content/)
@@ -312,9 +312,9 @@ You can't see me (unless you're editing in Git).
 
 >[!IMPORTANT]
 >
-Evite adicionar comentários em componentes de bloco, como listas de marcadores, especialmente listas de marcadores aninhadas. O comentário pode alterar como a lista de marcadores é renderizada.
+>Evite adicionar comentários em componentes de bloco, como listas de marcadores, especialmente listas de marcadores aninhadas. O comentário pode alterar como a lista de marcadores é renderizada.
 >
-No arquivo TOC.md, não comente linhas no meio da lista TOC. Isso pode quebrar a lista de índice e causar erros de validação. Em vez disso, mova os comentários do sumário para o final do arquivo.
+>No arquivo TOC.md, não comente linhas no meio da lista TOC. Isso pode quebrar a lista de índice e causar erros de validação. Em vez disso, mova os comentários do sumário para o final do arquivo.
 
 ## CONTEXTUALHELP
 
@@ -370,7 +370,7 @@ Cat
 
 Faça upload do arquivo .zip ou outro arquivo que possa ser baixado no diretório de ativos e vincule-o. Se for um arquivo .zip, clicar no link baixará o arquivo. Se for um tipo de arquivo, como PDF ou PNG, que pode ser aberto em um navegador, clicar no link abrirá uma nova guia. Para esses arquivos, considere compactá-los ou fornecer instruções para clicar com o botão direito do mouse no link e baixar.
 
-`Download` &amp;lbrack;`download-test.zip`&amp;rbrack;`(assets/download-test.zip)`
+`Download` &lbrack;`download-test.zip`&rbrack;`(assets/download-test.zip)`
 
 Renderizado:
 
@@ -378,7 +378,7 @@ Baixar [zip de teste de download](assets/download-test.zip)
 
 >[!NOTE]
 >
-O tamanho máximo para arquivos e imagens baixados é de 100 MB. Esse é o limite do github.com. O limite do git.corp.adobe.com é maior (250 MB), mas precisamos copiar arquivos para o espelho do github.com.
+>O tamanho máximo para arquivos e imagens baixados é de 100 MB. Esse é o limite do github.com. O limite do git.corp.adobe.com é maior (250 MB), mas precisamos copiar arquivos para o espelho do github.com.
 
 ## Cabeçalhos {#headings}
 
@@ -497,7 +497,7 @@ Bob - Largura = 300 pixels abaixo
 
 >[!NOTE]
 >
-O tamanho máximo de arquivo para imagens é 100 MB. Esse é o limite do github.com. O limite do git.corp.adobe.com é maior (250 MB), mas precisamos copiar arquivos para o espelho do github.com.
+>O tamanho máximo de arquivo para imagens é 100 MB. Esse é o limite do github.com. O limite do git.corp.adobe.com é maior (250 MB), mas precisamos copiar arquivos para o espelho do github.com.
 
 ### Links de imagem
 
@@ -626,8 +626,8 @@ Use o componente &quot;Mais artigos como este&quot; para exibir links relacionad
 
 >[!MORELIKETHIS]
 >
-* [Article 1](https://helpx.adobe.com/br/support/analytics.html)
-* [Article 2](https://helpx.adobe.com/br/support/audience-manager.html)
+>* [Article 1](https://helpx.adobe.com/br/support/analytics.html)
+>* [Article 2](https://helpx.adobe.com/br/support/audience-manager.html)
 
 ## Observações / admoestações
 
@@ -645,7 +645,7 @@ Estendemos o Markdown para formatar vários tipos de notas: Nota, Dica, Importan
 
 >[!NOTE]
 >
-Esta é um bloco NOTA padrão.
+>Esta é um bloco NOTA padrão.
 
 **Sintaxe**
 
@@ -659,7 +659,7 @@ Esta é um bloco NOTA padrão.
 
 >[!TIP]
 >
-Esta é uma dica padrão.
+>Esta é uma dica padrão.
 
 **Sintaxe**
 
@@ -673,7 +673,7 @@ Esta é uma dica padrão.
 
 >[!WARNING]
 >
-Este é um bloco de aviso padrão.
+>Este é um bloco de aviso padrão.
 
 **Sintaxe**
 
@@ -687,7 +687,7 @@ Este é um bloco de aviso padrão.
 
 >[!IMPORTANT]
 >
-Este é um bloco padrão importante.
+>Este é um bloco padrão importante.
 
 **Sintaxe**
 
@@ -703,35 +703,35 @@ Este é um bloco padrão importante.
 
 >[!NOTE]
 >
-Esta é um bloco NOTA padrão.
+>Esta é um bloco NOTA padrão.
 >
-Inclui vários parágrafos.
+>Inclui vários parágrafos.
 
 Novos tipos de observações compatíveis:
 
 >[!ADMIN]
 >
-Esta é uma nota de administração. Somente EXL.
+>Esta é uma nota de administração. Somente EXL.
 
 >[!AVAILABILITY]
 >
-Esta é uma nota de disponibilidade. Somente EXL.
+>Esta é uma nota de disponibilidade. Somente EXL.
 
 >[!PREREQUISITES]
 >
-Esta é uma nota de pré-requisitos. Somente EXL.
+>Esta é uma nota de pré-requisitos. Somente EXL.
 
 >[!INFO]
 >
-Esta é uma nota informativa. Somente EXL.
+>Esta é uma nota informativa. Somente EXL.
 
 >[!ERROR]
 >
-Esta é uma nota de erro. Somente EXL.
+>Esta é uma nota de erro. Somente EXL.
 
 >[!SUCCESS]
 >
-Esta é uma nota de sucesso. Somente EXL.
+>Esta é uma nota de sucesso. Somente EXL.
 
 ## Listas numeradas e listas com marcadores {#lists}
 
@@ -827,7 +827,7 @@ Também é possível incorporar listas em listas e adicionar conteúdo entre ite
 
    >[!NOTE]
    >
-   This is note text.
+   >This is note text.
 
 1. Do another step.
 
@@ -856,7 +856,7 @@ Em alguns casos, você usa uma tabela de HTML para criar um design balanceado, m
 
 >[!NOTE]
 >
-Não use demais. Para tabelas normais, queremos manter um design consistente em todo o conteúdo.
+>Não use demais. Para tabelas normais, queremos manter um design consistente em todo o conteúdo.
 
 ![dica de tabela](assets/table-no-border.png)
 
@@ -880,7 +880,7 @@ As tabelas podem ser problemáticas no Markdown. Quando as tabelas são migradas
 
 >[!TIP]
 >
-Assista ao [vídeo sobre Tabelas do Markdown](https://video.tv.adobe.com/v/26220)
+>Assista ao [vídeo sobre Tabelas do Markdown](https://video.tv.adobe.com/v/26220)
 
 Tabelas nativas frequentemente têm melhor aparência no Markdown. As colunas são dimensionadas de acordo com seu conteúdo. As tabelas de HTML são renderizadas com colunas de igual largura.
 
@@ -888,7 +888,7 @@ Por padrão, o Markdown não é compatível com várias linhas ou listas em cél
 
 >[!IMPORTANT]
 >
-Tenha cuidado ao adicionar esses códigos de HTML às tabelas do Markdown. Se a sintaxe estiver incorreta, você receberá um erro de validação confuso que não descreve com precisão o problema. Verifique a sintaxe do HTML para garantir que ela esteja bem formada.
+>Tenha cuidado ao adicionar esses códigos de HTML às tabelas do Markdown. Se a sintaxe estiver incorreta, você receberá um erro de validação confuso que não descreve com precisão o problema. Verifique a sintaxe do HTML para garantir que ela esteja bem formada.
 
 Não permitido em nenhuma tabela: iframes, extensões de células, tabelas incorporadas.
 
@@ -1035,9 +1035,9 @@ Como regra geral, use `<span class="preview">` para realçar um parágrafo ou te
 
 >[!NOTE]
 >
-Ainda estamos trabalhando para melhorar a exibição de realce de determinados elementos da página, como notas e tabelas. Fique à vontade para registrar bugs de JIRA se visualizar uma renderização incorreta. Em andamento.
+>Ainda estamos trabalhando para melhorar a exibição de realce de determinados elementos da página, como notas e tabelas. Fique à vontade para registrar bugs de JIRA se visualizar uma renderização incorreta. Em andamento.
 >
-A visualização do VSC ainda não oferece suporte ao realce.
+>A visualização do VSC ainda não oferece suporte ao realce.
 
 ## Vídeo
 
@@ -1115,7 +1115,7 @@ Uma lista completa de entidades HTML está disponível no [site de formatação 
 
 >[!NOTE]
 >
-Para etapas de cadeia, como &quot;Escolher arquivo > Salvar como&quot;, você não precisa usar o caractere `>` como escape porque ele não está ao lado de outros caracteres. Para variáveis como `<filename>`, você desejará usar o escape entre colchetes usando o bloco de código `backticks` ou os códigos de caractere (`&lt;filename&gt;`).
+>Para etapas de cadeia, como &quot;Escolher arquivo > Salvar como&quot;, você não precisa usar o caractere `>` como escape porque ele não está ao lado de outros caracteres. Para variáveis como `<filename>`, você desejará usar o escape entre colchetes usando o bloco de código `backticks` ou os códigos de caractere (`&lt;filename&gt;`).
 
 Se você usar entidades HTML em blocos de código, o texto da entidade não será convertido no caractere especial. Por exemplo, `&gt;` aparece em um bloco de código como &quot; `&gt;` &quot; em vez de &quot; > &quot;.
 
@@ -1158,4 +1158,4 @@ Usamos aspas de bloco (`>` no início de uma linha) para indicar a sintaxe esten
 
 >[!NOTE]
 >
-Se você recuar muito, como seis espaços em vez de três, o conteúdo será renderizado como aspas de bloco. Use a quantidade adequada de recuo para evitar que o conteúdo seja renderizado incorretamente como uma aspa de bloco.
+>Se você recuar muito, como seis espaços em vez de três, o conteúdo será renderizado como aspas de bloco. Use a quantidade adequada de recuo para evitar que o conteúdo seja renderizado incorretamente como uma aspa de bloco.

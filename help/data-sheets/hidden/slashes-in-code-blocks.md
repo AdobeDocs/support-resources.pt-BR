@@ -26,4 +26,4 @@ fornecedor/bin/magento-patches -n status |grep &quot;27015\|Status&quot;
 
 Barra invertida com escape:
 
-fornecedor/bin/magento-patches -n status |grep &quot;27015&amp;bsol;|Status&quot;
+fornecedor/bin/magento-patches -n status |grep &quot;27015&bsol;|Status&quot;
