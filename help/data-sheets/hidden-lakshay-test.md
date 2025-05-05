@@ -18,49 +18,49 @@ ht-degree: 7%
 
 :::: landing-cards-container
 :::
-![Texto alternativo](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![Texto alternativo](https://experienceleague.adobe.com/pt-br/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 Título 1
 
 Esta é a descrição do cartão.
 Esse é o conteúdo do corpo do cartão.
-[Saiba mais](https://experienceleague.adobe.com/?lang=pt-BR)
+[Saiba mais](https://experienceleague.adobe.com/pt-br?lang=pt-BR)
 :::
 :::
-![Texto alternativo](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![Texto alternativo](https://experienceleague.adobe.com/pt-br/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 Título 1
 
 Esta é a descrição do cartão.
 Esse é o conteúdo do corpo do cartão.
-[Saiba mais](https://experienceleague.adobe.com/?lang=pt-BR)
+[Saiba mais](https://experienceleague.adobe.com/pt-br?lang=pt-BR)
 :::
 :::
-![Texto alternativo](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![Texto alternativo](https://experienceleague.adobe.com/pt-br/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 Título 1
 
 Esta é a descrição do cartão.
 Esse é o conteúdo do corpo do cartão.
-[Saiba mais](https://experienceleague.adobe.com/?lang=pt-BR)
+[Saiba mais](https://experienceleague.adobe.com/pt-br?lang=pt-BR)
 :::
 :::
-![Texto alternativo](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![Texto alternativo](https://experienceleague.adobe.com/pt-br/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 Título 1
 
 Esta é a descrição do cartão.
 Esse é o conteúdo do corpo do cartão.
-[Saiba mais](https://experienceleague.adobe.com/?lang=pt-BR)
+[Saiba mais](https://experienceleague.adobe.com/pt-br?lang=pt-BR)
 :::
 :::
-![Texto alternativo](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![Texto alternativo](https://experienceleague.adobe.com/pt-br/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 Título 1
 
 Esta é a descrição do cartão.
 Esse é o conteúdo do corpo do cartão.
-[Saiba mais](https://experienceleague.adobe.com/?lang=pt-BR)
+[Saiba mais](https://experienceleague.adobe.com/pt-br?lang=pt-BR)
 :::
 :::
 
@@ -73,7 +73,7 @@ Título 1
 
 Esta é a descrição do cartão.
 Esse é o conteúdo do corpo do cartão.
-[Saiba mais](https://experienceleague.adobe.com/?lang=pt-BR)
+[Saiba mais](https://experienceleague.adobe.com/pt-br?lang=pt-BR)
 :::
 :::
 
@@ -81,7 +81,7 @@ Título 1
 
 Esta é a descrição do cartão.
 Esse é o conteúdo do corpo do cartão.
-[Saiba mais](https://experienceleague.adobe.com/?lang=pt-BR)
+[Saiba mais](https://experienceleague.adobe.com/pt-br?lang=pt-BR)
 :::
 :::
 
@@ -89,7 +89,7 @@ Título 1
 
 Esta é a descrição do cartão.
 Esse é o conteúdo do corpo do cartão.
-[Saiba mais](https://experienceleague.adobe.com/?lang=pt-BR)
+[Saiba mais](https://experienceleague.adobe.com/pt-br?lang=pt-BR)
 :::
 :::
 
@@ -97,7 +97,7 @@ Título 1
 
 Esta é a descrição do cartão.
 Esse é o conteúdo do corpo do cartão.
-[Saiba mais](https://experienceleague.adobe.com/?lang=pt-BR)
+[Saiba mais](https://experienceleague.adobe.com/pt-br?lang=pt-BR)
 :::
 :::
 
@@ -105,6 +105,6 @@ Título 1
 
 Esta é a descrição do cartão.
 Esse é o conteúdo do corpo do cartão.
-[Saiba mais](https://experienceleague.adobe.com/?lang=pt-BR)
+[Saiba mais](https://experienceleague.adobe.com/pt-br?lang=pt-BR)
 :::
 :::

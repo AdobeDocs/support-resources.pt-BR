@@ -287,7 +287,7 @@ Este é o texto dentro de uma seção que pode ser recolhida.
 * Você pode adicionar cabeçalhos dentro de seções que podem ser recolhidas, mas isso não é recomendado.
 * [Acordeões nem sempre são a resposta para conteúdo complexo em desktops](https://www.nngroup.com/articles/accordions-complex-content/)
 * Uma desvantagem histórica de seções que podem ser recolhidas é que **Localizar na Página** (Ctrl/Cmd+F) ignora o texto recolhido. Embora isso ainda seja verdade no Safari, não é mais verdade no Chrome; Localizar na página detecta texto recolhido no Chrome.
-* Exemplo de uma página de [atualizações de manutenção](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=en) usando seções recolhíveis.
+* Exemplo de uma página de [atualizações de manutenção](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=pt-BR) usando seções recolhíveis.
 
 ## Comentários e observações
 
