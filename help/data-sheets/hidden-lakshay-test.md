@@ -18,9 +18,9 @@ ht-degree: 16%
 
 :::: landing-cards-container
 :::
-![Texto alternativo](https://experienceleague.adobe.com/en/docs/journey-optimizer-v2/using/media_1d834c9bcc356413ce8f04590143dc85613d5851c.png?width=2000&amp;format=webply&amp;optimize=medium)
+![Texto alternativo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-v2/using/media_1d834c9bcc356413ce8f04590143dc85613d5851c.png?width=2000&amp;format=webply&amp;optimize=medium)
 
-![Ícone](https://cdn.experienceleague.adobe.com/icons/gears.svg)
+![Ícone](https://cdn.experienceleague.adobe.com/icons/gears.svg?lang=pt-BR)
 
 Guias de início rápido
 
@@ -28,9 +28,9 @@ Saiba como atingir suas metas mais rapidamente no Journey Optimizer com sua abor
 [Saiba mais](/en/docs/journey-optimizer-v2/using/get-started/quick-start/quick-start)
 :::
 :::
-![Texto alternativo](https://experienceleague.adobe.com/en/docs/journey-optimizer-v2/using/media_151105955ede1eb92ba5369c11699448b5da6e0a0.jpg?width=2000&amp;format=webply&amp;optimize=medium)
+![Texto alternativo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-v2/using/media_151105955ede1eb92ba5369c11699448b5da6e0a0.jpg?width=2000&amp;format=webply&amp;optimize=medium)
 
-![Ícone](https://cdn.experienceleague.adobe.com/icons/gears.svg)
+![Ícone](https://cdn.experienceleague.adobe.com/icons/gears.svg?lang=pt-BR)
 
 Interface do usuário
 
@@ -38,9 +38,9 @@ Saiba como navegar e otimizar sua experiência no Journey Optimizer.
 [Saiba mais](/en/docs/journey-optimizer-v2/using/get-started/user-interface)
 :::
 :::
-![Texto alternativo](https://experienceleague.adobe.com/en/docs/journey-optimizer-v2/using/media_1c064a7a4145c59b81d3cbbaf300d9655a7c7c552.jpg?width=2000&amp;format=webply&amp;optimize=medium)
+![Texto alternativo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-v2/using/media_1c064a7a4145c59b81d3cbbaf300d9655a7c7c552.jpg?width=2000&amp;format=webply&amp;optimize=medium)
 
-![Ícone](https://cdn.experienceleague.adobe.com/icons/gears.svg)
+![Ícone](https://cdn.experienceleague.adobe.com/icons/gears.svg?lang=pt-BR)
 
 Criar a primeira jornada
 
@@ -48,9 +48,9 @@ Projete e orquestre jornadas omnicanal personalizadas para harmonizar o alcance 
 [Saiba mais](/en/docs/journey-optimizer-v2/using/journey-management/orchestrate-journeys/create-journey/journey-gs)
 :::
 :::
-![Texto alternativo](https://experienceleague.adobe.com/en/docs/journey-optimizer-v2/using/media_183fe7a108b5121b3795cb3310c5cfaa2a16b737e.jpg?width=2000&amp;format=webply&amp;optimize=medium)
+![Texto alternativo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-v2/using/media_183fe7a108b5121b3795cb3310c5cfaa2a16b737e.jpg?width=2000&amp;format=webply&amp;optimize=medium)
 
-![Ícone](https://cdn.experienceleague.adobe.com/icons/gears.svg)
+![Ícone](https://cdn.experienceleague.adobe.com/icons/gears.svg?lang=pt-BR)
 
 Iniciar a primeira campanha
 
