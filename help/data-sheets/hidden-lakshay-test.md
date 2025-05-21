@@ -18,7 +18,7 @@ ht-degree: 0%
 
 :::: landing-cards-container
 :::
-![ícone](https://cdn.experienceleague.adobe.com/icons/book.svg)
+![ícone](https://cdn.experienceleague.adobe.com/icons/book.svg?lang=pt-BR)
 
 Introdução às atividades de Jornada
 
@@ -28,7 +28,7 @@ Saiba mais sobre atividades de evento, orquestração e ação para criar cenár
 :::
 
 :::
-![ícone](https://cdn.experienceleague.adobe.com/icons/circle-play.svg)
+![ícone](https://cdn.experienceleague.adobe.com/icons/circle-play.svg?lang=pt-BR)
 
 Uso de eventos gerais
 
@@ -38,7 +38,7 @@ Domine a configuração e os casos de uso de eventos gerais e seus tempos limite
 :::
 
 :::
-![ícone](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![ícone](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=pt-BR)
 
 Eventos de reação
 
@@ -48,7 +48,7 @@ Rastreie as interações do usuário com mensagens e configure os eventos de rea
 :::
 
 :::
-![ícone](https://cdn.experienceleague.adobe.com/icons/bullseye.svg)
+![ícone](https://cdn.experienceleague.adobe.com/icons/bullseye.svg?lang=pt-BR)
 
 Eventos de qualificação de público-alvo
 
@@ -58,7 +58,7 @@ Use entradas e saídas de perfil para acionar ou avançar jornadas com eficiênc
 :::
 
 :::
-![ícone](https://cdn.experienceleague.adobe.com/icons/code-branch.svg)
+![ícone](https://cdn.experienceleague.adobe.com/icons/code-branch.svg?lang=pt-BR)
 
 Atividade de Condição
 
@@ -68,7 +68,7 @@ Defina caminhos personalizados no jornada usando critérios específicos, como t
 :::
 
 :::
-![ícone](https://cdn.experienceleague.adobe.com/icons/clock.svg)
+![ícone](https://cdn.experienceleague.adobe.com/icons/clock.svg?lang=pt-BR)
 
 Atividade de espera
 
@@ -83,7 +83,7 @@ Configure atrasos nas jornadas usando opções de duração ou espera personaliz
 
 :::: landing-cards-container
 :::
-![ícone](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg)
+![ícone](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg?lang=pt-BR)
 
 Usar componentes de conteúdo do Designer de email
 
@@ -93,7 +93,7 @@ Saiba como usar componentes de conteúdo no Designer de email do Adobe Journey O
 :::
 
 :::
-![ícone](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg)
+![ícone](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg?lang=pt-BR)
 
 Aproveitar fragmentos visuais para design de email
 
@@ -103,7 +103,7 @@ Descubra como criar componentes reutilizáveis e personalizáveis usando fragmen
 :::
 
 :::
-![ícone](https://cdn.experienceleague.adobe.com/icons/link.svg)
+![ícone](https://cdn.experienceleague.adobe.com/icons/link.svg?lang=pt-BR)
 
 Adicionar links e rastrear mensagens
 
@@ -113,7 +113,7 @@ Descubra como adicionar links, ativar o rastreamento e gerenciar as configuraç�
 :::
 
 :::
-![ícone](https://cdn.experienceleague.adobe.com/icons/bullseye.svg)
+![ícone](https://cdn.experienceleague.adobe.com/icons/bullseye.svg?lang=pt-BR)
 
 Adicionar ofertas personalizadas a emails
 
@@ -123,7 +123,7 @@ Saiba como usar a Gestão de decisões da Adobe Journey Optimizer para adicionar
 :::
 
 :::
-![ícone](https://cdn.experienceleague.adobe.com/icons/file-lines.svg)
+![ícone](https://cdn.experienceleague.adobe.com/icons/file-lines.svg?lang=pt-BR)
 
 Criar e personalizar a versão de texto de um email
 
@@ -133,7 +133,7 @@ Entenda como criar e editar a versão em texto simples de um email, garantindo a
 :::
 
 :::
-![ícone](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![ícone](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=pt-BR)
 
 Adicionar metadados ao seu conteúdo de email
 
@@ -148,7 +148,7 @@ Melhorar a legibilidade e a acessibilidade do email, configurando metadados como
 
 :::: landing-cards-container
 :::
-![ícone](https://cdn.experienceleague.adobe.com/icons/circle-play.svg)
+![ícone](https://cdn.experienceleague.adobe.com/icons/circle-play.svg?lang=pt-BR)
 
 Introdução às aprovações
 
@@ -158,7 +158,7 @@ Saiba como configurar e gerenciar fluxos de trabalho de aprovação para jornada
 :::
 
 :::
-![ícone](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![ícone](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=pt-BR)
 
 Criar e gerenciar políticas de aprovação
 
@@ -168,7 +168,7 @@ Guia passo a passo sobre como criar, configurar e ativar políticas de aprovaç�
 :::
 
 :::
-![ícone](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![ícone](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=pt-BR)
 
 Solicitar aprovação para Jornadas e campanhas
 
@@ -178,7 +178,7 @@ Entenda como solicitar e gerenciar aprovações antes de publicar jornadas e cam
 :::
 
 :::
-![ícone](https://cdn.experienceleague.adobe.com/icons/shield-halved.svg)
+![ícone](https://cdn.experienceleague.adobe.com/icons/shield-halved.svg?lang=pt-BR)
 
 Revisar e aprovar solicitações
 
@@ -193,7 +193,7 @@ Saiba como revisar, aprovar ou solicitar alterações para jornadas e campanhas 
 
 :::: landing-cards-container
 :::
-![ícone](https://cdn.experienceleague.adobe.com/icons/circle-play.svg)
+![ícone](https://cdn.experienceleague.adobe.com/icons/circle-play.svg?lang=pt-BR)
 
 Introdução aos relatórios aprimorados
 
@@ -203,7 +203,7 @@ Saiba como usar os recursos aprimorados de relatórios do Adobe Journey Optimize
 :::
 
 :::
-![ícone](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![ícone](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=pt-BR)
 
 Lista abrangente de métricas
 
@@ -213,7 +213,7 @@ Explore a extensa lista de métricas categorizadas por tipo de entrega, incluind
 :::
 
 :::
-![ícone](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![ícone](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=pt-BR)
 
 Gerenciar seus relatórios
 
@@ -223,7 +223,7 @@ Descubra como definir períodos de relatório, exportar dados, criar métricas e
 :::
 
 :::
-![ícone](https://cdn.experienceleague.adobe.com/icons/chart-line.svg)
+![ícone](https://cdn.experienceleague.adobe.com/icons/chart-line.svg?lang=pt-BR)
 
 Visão geral dos relatórios de campanha
 
@@ -233,7 +233,7 @@ Acesse insights específicos do canal, como cliques, impressões e status do del
 :::
 
 :::
-![ícone](https://cdn.experienceleague.adobe.com/icons/chart-line.svg)
+![ícone](https://cdn.experienceleague.adobe.com/icons/chart-line.svg?lang=pt-BR)
 
 Visão geral dos relatórios de Jornada
 
@@ -243,7 +243,7 @@ Analise detalhadamente as métricas de jornadas do cliente em vários canais, co
 :::
 
 :::
-![ícone](https://cdn.experienceleague.adobe.com/icons/chart-line.svg)
+![ícone](https://cdn.experienceleague.adobe.com/icons/chart-line.svg?lang=pt-BR)
 
 Relatório de visão geral de campanhas e Jornadas
 
@@ -258,7 +258,7 @@ Analise o tráfego, as métricas de envolvimento e os erros de saída em campanh
 
 :::: landing-cards-container
 :::
-![ícone](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![ícone](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=pt-BR)
 
 Como criar e gerenciar decisões
 
@@ -268,7 +268,7 @@ Saiba como criar, configurar e gerenciar decisões usando o Mecanismo do Offer D
 :::
 
 :::
-![ícone](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![ícone](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=pt-BR)
 
 Como configurar a seleção de ofertas
 
@@ -278,7 +278,7 @@ Descubra como configurar os métodos de seleção de ofertas, incluindo a priori
 :::
 
 :::
-![ícone](https://cdn.experienceleague.adobe.com/icons/code-branch.svg)
+![ícone](https://cdn.experienceleague.adobe.com/icons/code-branch.svg?lang=pt-BR)
 
 Simular Decisões De Oferta
 
