@@ -6,18 +6,16 @@ hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Download premium"
 badgeExam: label="Exame ADO-E903" type="neutral"
 exl-id: 45f70aca-5885-4da0-90d7-50fbf44de9dc
-source-git-commit: fea913bab4f42341a7714a4a1ddbdb7cadb924bc
+source-git-commit: 9f7f12030fb9be9beca5ad145f80ff4ac46821ca
 workflow-type: tm+mt
-source-wordcount: '1274'
-ht-degree: 99%
+source-wordcount: '1258'
+ht-degree: 97%
 
 ---
 
 # Página de teste oculta
 
-Nova tentativa de visualização? Deve vir através do Jenkins. 31 de março.
-
-15:02 h
+Publicar teste. 25 de junho de 2025 às 10h20.
 
 ## Tabelas de problemas com imagens
 
@@ -62,7 +60,7 @@ _[Botão secundário](https://www.adobe.com/)_
 
 O parágrafo a seguir não é renderizado corretamente na Visualização do VSC. Não sei por quê.
 
-Se sua senha for gerenciada pela [!DNL Adobe], você pode [alterar a senha na sua conta da Adobe](https://helpx.adobe.com/br/manage-account/using/change-or-reset-password.html){target="_blank"}.
+Se a sua senha for gerenciada por [!DNL Adobe], você poderá [alterar a senha na sua conta da Adobe](https://helpx.adobe.com/br/manage-account/using/change-or-reset-password.html){target="_blank"}.
 
 ## Tipos de nota
 
@@ -123,7 +121,7 @@ Um emblema é um rótulo colorido usado como indicador de conteúdo. Por exemplo
 
 [!BADGE Exemplo de emblema]
 
-Há dois tipos of emblemas, cada um com sintaxe diferente:
+Há dois tipos de selos, cada um com sintaxe diferente:
 
 * **Metadados**: exibe o emblema próximo à parte superior de uma página
 * **Em linha**: exibe o emblema onde a sintaxe está localizada
@@ -160,10 +158,10 @@ Os emblemas usam cores definidas no Adobe Spectrum:
 | Tipo | Emblema |
 |---|---|
 | Informativo (padrão) | [!BADGE Beta]{type=Informative url="https://www.exemplo.com"} |
-| Positivo | [!BADGE Novo recurso]{type=Positive url="https://www.example.com" tooltip="Go to example.com"} |
-| Negativo | [!BADGE Descontinuado]{type=negative tooltip="This feature is now end of life"} |
-| Neutro | [!BADGE Talvez]{type=Neutral tooltip="A rider fell off the horse..."} |
-| Cuidado | [!BADGE Atenção]{type=Caution tooltip="Yellow status"} |
+| Positivo | [!BADGE Novo recurso]{type=Positive url="https://www.exemplo.com" tooltip="Acesse exemplo.com"} |
+| Negativo | [!BADGE Descontinuado]{type=negative tooltip="Este recurso chegou ao fim da vida útil"} |
+| Neutro | [!BADGE Talvez]{type=Neutral tooltip="Um cavaleiro caiu do cavalo..."} |
+| Cuidado | [!BADGE Atenção]{type=Caution tooltip="Status amarelo"} |
 
 Exemplos de sintaxe
 
