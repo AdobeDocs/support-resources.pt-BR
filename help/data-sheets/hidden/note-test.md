@@ -1,23 +1,25 @@
 ---
-description: Conectar à Data Warehouse do Widget - Documentação do produto
-title: Conectar à Data Warehouse do Widget
+description: Conexão com o Widget Data Warehouse - Documentação do produto
+title: Conexão com o Widget Data Warehouse
 hide: true
 hidefromtoc: true
 exl-id: d6a7cff5-08f9-4c93-8765-46e692feaa0d
-source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
+source-git-commit: 4145889fe291e80fa8d295368ead3e0075917e86
 workflow-type: tm+mt
-source-wordcount: '911'
+source-wordcount: '913'
 ht-degree: 0%
 
 ---
 
-# Conectar à Data Warehouse do Widget {#connecting-to-the-widget-data-warehouse}
+# Conexão com o Widget Data Warehouse {#connecting-to-the-widget-data-warehouse}
 
 ## Novo teste
 
+Junho de 27
+
 <ol><li>Use a variável `{{name}}`.</li></ol>
 
-<ol><li>Use a variável &lbrace;&lbrace;<code>name</code>&rbrace;&rbrace;.</li></ol>
+<ol><li>Use a variável &amp;lbrace;&amp;lbrace;<code>name</code>&amp;rbrace;&amp;rbrace;.</li></ol>
 
 ## Teste aninhado
 
@@ -44,7 +46,7 @@ ht-degree: 0%
 
 ## Link de acesso do widget {#widget-access-link}
 
-Para acessar o data warehouse do Widget, será necessário navegar até o URL específico da conta do Widget.  Você pode encontrar esse link de acesso fazendo logon no Marketo Measure e seguindo as etapas abaixo para navegar até a página de informações da Data Warehouse.
+Para acessar o data warehouse do Widget, será necessário navegar até o URL específico da conta do Widget.  Você pode encontrar esse link de acesso fazendo logon no Marketo Measure e seguindo as etapas abaixo para navegar até a página de informações do Data Warehouse.
 
 1. No Marketo Measure, na parte superior da página, clique em **Minha conta** > **Configurações**.
 
@@ -60,7 +62,7 @@ Para acessar o data warehouse do Widget, será necessário navegar até o URL es
 
    >[!NOTE]
    >
-   >Essa é uma conta somente leitura disponível para sua organização, não apenas para um usuário individual. Qualquer usuário em sua organização que tenha acesso ao Marketo Measure pode usar essa conta para fazer logon na conta do leitor de Data Warehouse do Widget.
+   >Essa é uma conta somente leitura disponível para sua organização, não apenas para um usuário individual. Qualquer usuário em sua organização que tenha acesso ao Marketo Measure pode usar essa conta para fazer logon na conta do leitor do Widget Data Warehouse.
 
 1. Clique no link fornecido no URL do Widget, isso direcionará você à página de logon do Widget, onde você digitará seu nome de usuário e senha. _Se você não tiver sua senha, consulte as etapas abaixo para redefini-la_.
 
@@ -76,7 +78,7 @@ Para acessar o data warehouse do Widget, será necessário navegar até o URL es
 
 ## Redefinir sua senha {#reset-your-password}
 
-O Marketo Measure não tem acesso à sua senha de login do Widget.  Se precisar redefinir a senha, clique no botão Redefinir senha na página de informações de Data Warehouse e siga as instruções. Uma senha temporária será exibida imediatamente na interface do usuário. Você será solicitado a criar sua própria senha no próximo login do data warehouse.
+O Marketo Measure não tem acesso à sua senha de login do Widget.  Se precisar redefinir a senha, clique no botão Redefinir senha na página de informações do Data Warehouse e siga as instruções. Uma senha temporária será exibida imediatamente na interface do usuário. Você será solicitado a criar sua própria senha no próximo login do data warehouse.
 
 >[!NOTE]
 >
@@ -98,17 +100,17 @@ Você precisará inserir algumas informações para conectar seu Data warehouse 
 * **URI** (sempre obrigatório)
    * Esse é o nome de domínio da conta do Widget.  Ele está contido em uma parte do link de login do Widget.
 * **Nome de usuário** (sempre necessário)
-   * O nome de usuário está listado na página Informações da Data Warehouse no Marketo Measure.
+   * O nome de usuário está listado na página de informações do Data Warehouse no Marketo Measure.
 * **Senha** (sempre obrigatório)
    * Esta é a senha que você definiu na primeira vez que fez logon na sua conta do Widget.  Para redefinir a senha, consulte as etapas descritas acima.
 * **Nome do Banco de Dados** (nem sempre necessário)
-   * O banco de dados é o que armazena os dados no Widget. É o recurso de armazenamento. O nome do banco de dados está listado na página Informações da Data Warehouse no Marketo Measure.
+   * O banco de dados é o que armazena os dados no Widget. É o recurso de armazenamento. O nome do banco de dados está listado na página de informações do Data Warehouse no Marketo Measure.
 * **Nome do Depósito** (nem sempre necessário)
-   * O warehouse é o que executa consultas no Widget. É o recurso de computação.  O nome do warehouse está listado na página de informações de Data Warehouse no Marketo Measure.
+   * O warehouse é o que executa consultas no Widget. É o recurso de computação.  O nome do warehouse está listado na página de informações do Data Warehouse no Marketo Measure.
 
   ![](assets/adobe-logo-old.png)
 
-## Compartilhamento direto da Data Warehouse do widget {#widget-data-warehouse-direct-share}
+## Widget Compartilhamento direto do Data Warehouse {#widget-data-warehouse-direct-share}
 
 **Requisitos**
 
@@ -155,4 +157,4 @@ GRANT IMPORTED PRIVILEGES ON DATABASE <database_name> TO ROLE <role_name>
 GRANT IMPORTED PRIVILEGES ON ALL SCHEMAS IN DATABASE <database_name> TO ROLE <role_name>
 ```
 
-Para obter instruções mais detalhadas e as etapas para realizar essas etapas da interface do Widget, consulte diretamente a documentação do [Widget](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"}.
+Para obter instruções mais detalhadas e as etapas para realizar essas etapas da interface do Widget, consulte diretamente a [Documentação do Widget](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"}.
