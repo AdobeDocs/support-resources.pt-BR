@@ -4,9 +4,9 @@ user-guide-description: Planos de sucesso e recursos de suporte para Adobe Exper
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 8ee3995aa158a545de25ce0fb7506c3e453a9ce4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,6 @@ ht-degree: 97%
 + [Visão geral dos planos de sucesso da Adobe](overview.md)
 + O podcast Crux{#crux-podcast}
    + [Ep.1: Billy Georgaros](episode1.md)
-
      [Ep.2: Karrie Benjamin](episode2.md)
      [Ep.3: George Kotsinis](episode3.md)
      [Ep. 4: Jessica Ouellette](episode4.md)
@@ -43,7 +42,7 @@ ht-degree: 97%
 + [Termos e condições](https://helpx.adobe.com/br/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [Visão geral oculta](hidden-overview.md)
 + [Solução de problemas oculta](hidden-trouble.md)
-+ [Cabeçalhos vazios UGP-13342](hidden-funky-headings.md)
++ [Cabeçalhos modernos UGP-13342](hidden-funky-headings.md)
 + [Oculto: barra no bloco de código](hidden/slashes-in-code-blocks.md)
 + [Novo teste oculto](hidden-new-test.md)
 + [Novo teste oculto 2](hidden-new-test-2.md)
