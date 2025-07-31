@@ -9,9 +9,10 @@ solution: Experience Manager, Experience Manager Sites
 hide: true
 hidefromtoc: true
 role: Developer
-source-git-commit: cc5de4831db78b9b17ca87383ff5b30a2bd581eb
+exl-id: d024b7e9-1e8e-4aa3-bbb8-7bc92d143a1f
+source-git-commit: 00ecc66633cc7898896e361ef71b7b96c5404795
 workflow-type: tm+mt
-source-wordcount: '2466'
+source-wordcount: '2458'
 ht-degree: 0%
 
 ---
@@ -22,11 +23,13 @@ As bibliotecas de tags do Granite, CQ e Sling fornecem acesso a funções espec�
 
 ## **Cabeçalho em Negrito**
 
-Este é um cabeçalho em negrito
+Este é um cabeçalho em negrito acima.
+
+quarta-feira, 29 de julho de 2025
 
 ## *Cabeçalho em itálico*
 
-Este é um cabeçalho em itálico
+Este é um cabeçalho em itálico acima.
 
 ## Biblioteca de tags do Granite {#granite-tag-library}
 
@@ -44,7 +47,7 @@ O global também declara a biblioteca Sling.
 <%@taglib prefix="sling" uri="https://sling.apache.org/taglibs/sling" %>
 ```
 
-### &lt;ui:includeClientLib> {#ui-includeclientlib}
+### &lt;interface:includeClientLib> {#ui-includeclientlib}
 
 A tag `<ui:includeClientLib>` Inclui uma biblioteca de cliente html AEM, que pode ser uma js, um css ou uma biblioteca de temas. Para várias inclusões de tipos diferentes, por exemplo, js e css, essa tag deve ser usada várias vezes no jsp. Esta marca é um wrapper de conveniência em torno da interface de serviço ` [com.adobe.granite.ui.clientlibs.HtmlLibraryManager](https://helpx.adobe.com/experience-manager/6-5/sites/developing/using/reference-materials/javadoc/com/adobe/granite/ui/clientlibs/HtmlLibraryManager.html)`.
 
