@@ -10,7 +10,7 @@ hide: true
 hidefromtoc: true
 role: Developer
 exl-id: d024b7e9-1e8e-4aa3-bbb8-7bc92d143a1f
-source-git-commit: 00ecc66633cc7898896e361ef71b7b96c5404795
+source-git-commit: 3f2ed618aa8e5d738315a0ff114551c183761a7d
 workflow-type: tm+mt
 source-wordcount: '2458'
 ht-degree: 0%
@@ -25,7 +25,7 @@ As bibliotecas de tags do Granite, CQ e Sling fornecem acesso a funções espec�
 
 Este é um cabeçalho em negrito acima.
 
-quarta-feira, 29 de julho de 2025
+quinta-feira, 30 de julho de 2025
 
 ## *Cabeçalho em itálico*
 
