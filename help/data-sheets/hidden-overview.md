@@ -27,7 +27,7 @@ ht-degree: 31%
 
 ## Teste de slide
 
->[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+>[ !FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
 ## Nova seção em 30 de janeiro
 
