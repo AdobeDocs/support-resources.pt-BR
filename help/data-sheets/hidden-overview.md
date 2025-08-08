@@ -35,7 +35,7 @@ sintaxe um:
 
 renderizado:
 
->[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+>[ !FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
 
 sintaxe dois:
@@ -48,7 +48,7 @@ sintaxe dois:
 
 renderizado:
 
->[!FRAGMENT]
+>[ !FRAGMENT]
 >
 >(https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
