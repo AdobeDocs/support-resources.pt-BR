@@ -3,10 +3,10 @@ user-guide-title: Recursos dos planos de sucesso
 user-guide-description: Planos de sucesso e recursos de suporte para Adobe Experience Cloud e Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: f2d8eb9125df5f542c1ed075348586965f4adaad
-workflow-type: ht
-source-wordcount: '151'
-ht-degree: 100%
+source-git-commit: 67c030d28d7715cbf51910b61a6ba3d3aee29c7d
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -40,24 +40,6 @@ ht-degree: 100%
       + [Enterprise](dme-enterprise.md)
       + [Elite](dme-elite.md)
 + [Termos e condições](https://helpx.adobe.com/br/support/programs/support-policies-terms-conditions.html){target="_blank"}
-+ [Visão geral oculta](hidden-overview.md)
-+ [Recolhimento oculto](hidden-collapse.md)
-+ [Solução de problemas oculta](hidden-trouble.md)
-+ [Cabeçalhos modernos UGP-13342](hidden-funky-headings.md)
-+ [Oculto: barra no bloco de código](hidden/slashes-in-code-blocks.md)
-+ [Novo teste oculto](hidden-new-test.md)
-+ [Novo teste oculto 2](hidden-new-test-2.md)
-+ [Arquivo de teste oculto](hidden-test.md)
-+ [Correções de erros ocultos](hidden/bug-fixes.md)
-+ [Bloco de teste EDS oculto](hidden/test-page.md)
-+ [Teste de redirecionamentos ocultos](hidden/test-redirection.md)
-+ [Guia de sintaxe oculta](hidden/syntax-style-guide.md)
-+ [Teste de tabelas ocultas](hidden/tables.md)
-+ [Quebras de tabela ocultas](hidden/table-breaks.md)
-+ [Teste de nota oculta](hidden/note-test.md)
-+ [Redirecionamentos ocultos](hidden/redirect-tests.md)
-+ Seção de teste {#test-section}
-   + [Apenas nova ativação automática oculta](hidden/autoactivate.md)
 
 <!--
 + [Hidden Lakshay test](hidden-lakshay-test.md)
