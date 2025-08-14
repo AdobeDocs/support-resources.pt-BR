@@ -2,10 +2,10 @@
 title: Visão geral dos planos de sucesso da Adobe
 description: Este artigo fornece um resumo das opções de Suporte ao cliente da Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 9532b81aed538e93dce9cf894a2b56bb22d109ef
-workflow-type: ht
-source-wordcount: '2203'
-ht-degree: 100%
+source-git-commit: 598a5e58107314e3315090304b258573fdd5d729
+workflow-type: tm+mt
+source-wordcount: '2221'
+ht-degree: 97%
 
 ---
 
@@ -59,7 +59,7 @@ Os Contatos de suporte nomeados podem enviar problemas por todos os canais dispo
 
 ***Aprimore o suporte Ultimate com uma assinatura de aprendizado***
 
-**Crie uma força de trabalho qualificada da Adobe** com jornadas de aprendizado personalizadas para indivíduos e equipes
+**Crie uma força de trabalho qualificada da Adobe** com jornadas de aprendizado personalizadas para pessoas e equipes
 
 **Maximize o desempenho e o investimento** através de um rápido desenvolvimento de competências e de conhecimentos contínuos sobre produtos e soluções
 
@@ -106,7 +106,7 @@ Os Contatos de suporte nomeados podem enviar problemas por todos os canais dispo
 
 | Américas | Europa, Oriente Médio e África | Ásia–Pacífico | Japão |
 |---|---|---|---|
-| 6h – 17h30 | 9h – 17h | 9h – 17h | 9h – 17h |
+| 6h - 17h :30 | 9h – 17h | 9h – 17h | 9h – 17h |
 
 ## Ciclo de vida do caso de suporte – Em breve
 
@@ -131,7 +131,7 @@ Nesse cenário, quando são necessárias informações adicionais de um cliente,
 * No primeiro, terceiro e quinto dias após o status ser definido como “Resposta pendente”, as notificações de acompanhamento são enviadas ao cliente solicitando as informações adicionais.
 * Se não houver resposta do cliente por seis dias após o status ser definido como “Resposta pendente”, o caso será definido como encerrado e uma notificação de encerramento será enviada.
 
-Os clientes podem reabrir um caso encerrado em 14 dias para continuar a comunicação. Após 14 dias, um novo caso de suporte pode ser aberto para continuar a comunicação relacionada a um caso encerrado anteriormente.
+Os clientes podem reabrir um caso fechado no Experience League em 14 dias para continuar a comunicação. Além de 14 dias, um novo caso de suporte pode ser aberto para continuar a comunicação relacionada a um caso fechado anteriormente. Observe que responder a um email sobre um tíquete fechado não o reabrirá.
 
 **O engenheiro fornece uma solução**
 
