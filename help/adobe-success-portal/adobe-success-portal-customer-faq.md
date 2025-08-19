@@ -12,6 +12,7 @@ ht-degree: 0%
 # Portal [!DNL Adobe Success]: Perguntas frequentes do cliente
 
  
+
 ## Qual é o escopo do portal [!DNL Adobe Success]?
 
 O portal [!DNL Adobe Success] é a nova plataforma centralizada voltada para o cliente da Adobe, projetada para unificar a experiência pós-venda em termos de suporte, sucesso e envolvimento. A versão do Alpha se concentra em fornecer uma experiência coesa que consolida ferramentas e fluxos de trabalho anteriormente distribuídos em várias plataformas (por exemplo, Portal de suporte, artefatos manuais do Ultimate Success). O objetivo é simplificar o modo como os clientes interagem com a Adobe durante todo o ciclo de vida, da integração à renovação, melhorando a transparência, o autoatendimento e a obtenção de valor.
