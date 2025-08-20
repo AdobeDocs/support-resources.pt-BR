@@ -1,6 +1,6 @@
 ---
 title: Visão geral de suporte e insights
-description: O painel [!DNL Adobe Success/]Suporte e Insights[!UICONTROL  do portal do /] fornece acesso a recursos técnicos, descobertas de verificação de ambiente e ferramentas de gerenciamento de casos.
+description: O painel [!DNL Adobe Success/]Suporte e Insights[!UICONTROL &#x200B; do portal do /] fornece acesso a recursos técnicos, descobertas de verificação de ambiente e ferramentas de gerenciamento de casos.
 exl-id: 107f9049-64d1-41a8-919c-3c6cd8982413
 source-git-commit: 7fffb0a2aae3afdd508a0ccbe0bafd3814c6b476
 workflow-type: tm+mt
