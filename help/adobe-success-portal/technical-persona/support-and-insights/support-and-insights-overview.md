@@ -1,27 +1,27 @@
 ---
 title: Visão geral de suporte e insights
-description: O painel [!UICONTROL Suporte e Insights] do portal de sucesso do Adobe fornece acesso a recursos técnicos, descobertas de verificação de ambiente e ferramentas de gerenciamento de casos.
+description: O painel [!DNL Adobe Success/]Suporte e Insights[!UICONTROL  do portal do /] fornece acesso a recursos técnicos, descobertas de verificação de ambiente e ferramentas de gerenciamento de casos.
 exl-id: 107f9049-64d1-41a8-919c-3c6cd8982413
-source-git-commit: 35e945e7ea5825c0ad7ed09afd1053e7594e64d4
+source-git-commit: 7fffb0a2aae3afdd508a0ccbe0bafd3814c6b476
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '375'
 ht-degree: 0%
 
 ---
 
 # Visão geral de suporte e insights
 
-O painel **[!UICONTROL Suporte e Insights]** do portal de Sucesso da Adobe fornece acesso a recursos técnicos, descobertas de verificação de ambiente e ferramentas de gerenciamento de casos. Ele exibe todas as soluções da Adobe como blocos de produtos individuais.
-
-Use o menu suspenso *filtro* na parte superior da página para se concentrar em um produto específico.
+O painel **[!UICONTROL Suporte e Insights]** do portal [!DNL Adobe Success] fornece acesso a recursos técnicos, descobertas de verificação de ambiente e ferramentas de gerenciamento de casos. Ele exibe todas as soluções da Adobe como blocos de produtos individuais.
 
 Para acessar esta página, clique no ícone ![support-and-insights-icon](/help/adobe-success-portal/assets/support-and-insight-icon.png) diretamente no painel de navegação esquerdo da página inicial do portal.
 
 ![página de aterrissagem de suporte e insights](/help/adobe-success-portal/assets/support-and-insights-landing-page.png)
 
+Use o menu suspenso *filtro* na parte superior da página para se concentrar em um produto específico.
+
 Cada bloco de produto apresenta métricas principais, como **[!UICONTROL Achados]**, **[!UICONTROL Casos Abertos e Fechados]** e **[!UICONTROL Problemas Principais]**. Você pode clicar em qualquer uma dessas métricas para navegar diretamente para a subseção dedicada, onde você pode explorar insights de suporte detalhados relacionados ao seu produto.
 
-## Instantâneo {#snapshot}
+## [!UICONTROL Instantâneo] {#snapshot}
 
 A guia **[!UICONTROL Instantâneo]** oferece análises executivas para seus casos, descobertas e alertas. Para acessar esta guia, clique no *nome do produto* em qualquer bloco.
 
@@ -31,11 +31,11 @@ O botão **[!UICONTROL Exibir tudo]** em cada análise direciona você à guia c
 
 ![guia-instantâneo](/help/adobe-success-portal/assets/snapshot-tab-support-and-insights.png)
 
-## Achados {#findings}
+## [!UICONTROL Achados] {#findings}
 
 A guia **[!UICONTROL Descobertas]** destaca problemas detectados em desempenho, segurança e funcionalidade. As entradas são sinalizadas com base no nível de risco, status e tempo desde a última verificação.
 
-Clique em uma entrada na lista para visualizar seu status, nível de risco, causa, sintomas e nossas recomendações para abordá-la. Para obter mais informações, consulte nossa documentação em [Gerenciar descobertas no Portal de Sucesso da Adobe].
+Clique em uma entrada na lista para visualizar seu status, nível de risco, causa, sintomas e nossas recomendações para abordá-la. Para obter mais informações, consulte nossa documentação em [Gerenciar descobertas no [!DNL Adobe Success] portal](/help/adobe-success-portal/technical-persona/support-and-insights/manage-findings-adobe-success-portal.md).
 
 ![guia de descobertas](/help/adobe-success-portal/assets/findings-tab-support-and-insights.png)
 
@@ -43,7 +43,7 @@ Navegue até esta página diretamente de um bloco de produto na página **[!UICO
 
 ![achados-do-suporte-e-cartão-informações](/help/adobe-success-portal/assets/findings-from-support-and-insights-card.png)
 
-## Gerenciamento de casos {#case-management}
+## [!UICONTROL Gerenciamento de casos] {#case-management}
 
 A guia **[!UICONTROL Gerenciamento de Casos]** exibe uma lista de casos abertos e fechados. Clique em um *[!UICONTROL Número do caso]* para exibir detalhes adicionais sobre o problema e gerenciar diretamente as ações relacionadas ao caso.
 
