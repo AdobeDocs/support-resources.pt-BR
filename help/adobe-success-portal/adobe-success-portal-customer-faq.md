@@ -2,9 +2,9 @@
 title: 'Portal [!DNL Adobe Success]: Perguntas frequentes do cliente'
 description: Este artigo de Perguntas Frequentes responde às perguntas mais frequentes sobre o portal [!DNL Adobe Success] .
 exl-id: fff82b90-4077-4669-8cd5-5105cd0c7307
-source-git-commit: b1bc0a7a210ead0639cb87193c93d23b38f1f08a
+source-git-commit: 8f0527bbd009aeb4b3e524f18576180722f23993
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '594'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,6 @@ ht-degree: 0%
 # Portal [!DNL Adobe Success]: Perguntas frequentes do cliente
 
  
-
 ## Qual é o escopo do portal [!DNL Adobe Success]?
 
 O portal [!DNL Adobe Success] é a nova plataforma centralizada voltada para o cliente da Adobe, projetada para unificar a experiência pós-venda em termos de suporte, sucesso e envolvimento. A versão do Alpha se concentra em fornecer uma experiência coesa que consolida ferramentas e fluxos de trabalho anteriormente distribuídos em várias plataformas (por exemplo, Portal de suporte, artefatos manuais do Ultimate Success). O objetivo é simplificar o modo como os clientes interagem com a Adobe durante todo o ciclo de vida, da integração à renovação, melhorando a transparência, o autoatendimento e a obtenção de valor.
@@ -35,7 +34,7 @@ Para saber mais sobre o portal [!DNL Adobe Success], consulte o [[!UICONTROL Gui
 
 ## Como faço para obter acesso ao portal?
 
-O portal [!DNL Adobe Success] está hospedado no Adobe Experience Cloud. O acesso ao Experience Cloud é necessário para acessar o portal [!DNL Adobe Success], que é definido no nível da organização IMS. Consulte [este guia](/help/adobe-success-portal/access-to-the-adobe-success-portal.md) para obter etapas sobre como acessar o portal.
+O portal [!DNL Adobe Success] está hospedado no Adobe Experience Cloud. O acesso ao Experience Cloud é necessário para acessar o portal [!DNL Adobe Success], que é definido no nível da organização IMS. Consulte [Acessar o [!DNL Adobe Success] portal](/help/adobe-success-portal/access-to-the-adobe-success-portal.md) para obter etapas sobre como acessar o portal.
 
 O acesso ao portal para o Alpha é limitado a uma lista predefinida de usuários identificados para participar do programa do Alpha. Para saber mais sobre quem a sua organização tem acesso e para solicitar que usuários adicionais tenham acesso, entre em contato com a equipe de produtos usando o [canal do Alpha Teams](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1).
 
