@@ -1,11 +1,11 @@
 ---
 title: Glossário
-description: Uma coleção de terminologias principais no portal [!DNL Adobe Success] e suas definições.
+description: Uma coleção da principal terminologia dentro do portal  [!DNL Adobe Success]  e as respectivas definições.
 exl-id: 76bb7345-6827-4a42-9784-441f2875435e
 source-git-commit: 7303086f53fd7ba95328e590a01c5b710d9c781b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '383'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 

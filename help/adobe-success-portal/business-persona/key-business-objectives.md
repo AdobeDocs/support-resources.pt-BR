@@ -1,32 +1,31 @@
 ---
-title: '[!UICONTROL Principais Objetivos Comerciais]'
-description: /[!UICONTROL Principais objetivos de negócios/] são metas de alto nível que um cliente pretende atingir por meio de sua parceria com a Adobe.
-source-git-commit: db8e85a731cba0bb8108690f70f34454f57163ea
-workflow-type: tm+mt
+title: '[!UICONTROL Principais objetivos de negócios]'
+description: /[!UICONTROL Principais objetivos de negócios/] são metas de alto nível que um cliente pretende atingir por meio da parceria com a Adobe.
+exl-id: 1798d438-caeb-45a6-bc12-347028a6a4e5
+source-git-commit: 76f639e3764509ef2f30bbd98fedbf010075b400
+workflow-type: ht
 source-wordcount: '89'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
+# [!UICONTROL Principais objetivos de negócios] (KBO)
 
-# [!UICONTROL Principais objetivos comerciais] (KBO)
-
-Os KBOs são exibidos em uma exibição de rolagem horizontal na parte superior da página inicial do portal. Cada placa KBO inclui:
+Os KBOs são exibidos em uma rolagem horizontal na parte superior da página inicial do portal. Cada cartão de KBO inclui:
 
 * Uma breve descrição
-* Status atual
+* O status atual
 * Casos de uso associados
 * Atividades e aceleradores vinculados
 
 ![kbo-home-page](/help/adobe-success-portal/assets/kbo-home-page.png)
 
-Clique em um cartão para abrir uma exibição detalhada das informações relacionadas ao KBO, como:
+Clique em um cartão para abrir uma visualização detalhada das informações relacionadas ao KBO, como:
 
 * Status
-* Indicadores-chave de desempenho ([!UICONTROL KPIs])
+* Principais indicadores de desempenho ([!UICONTROL KPIs])
 * [!UICONTROL Casos de uso]
 * [!UICONTROL Soluções da Adobe] relacionadas
 * Lista de [!UICONTROL Aceleradores] e [!UICONTROL Atividades] associados
 
-![sobre-kbo-exemplo](/help/adobe-success-portal/assets/about-kbo-example.png)
-
+![about-kbo-example](/help/adobe-success-portal/assets/about-kbo-example.png)

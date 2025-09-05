@@ -1,36 +1,37 @@
 ---
 title: 'Criar e gerenciar casos no portal  [!DNL Adobe Success] '
 description: Saiba como gerenciar casos no portal  [!DNL Adobe Success] .
-source-git-commit: f68a62004b2802ef6e1b780a687d202571754e70
-workflow-type: tm+mt
+exl-id: 0b4eb2bc-ee11-4136-a744-457f9e204143
+source-git-commit: b05c238726c88ae0c51f40f077192dc136c0ae59
+workflow-type: ht
 source-wordcount: '281'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Criar e gerenciar casos no portal [!DNL Adobe Success]
 
-Este guia explica como criar, exibir e baixar relatórios para casos no portal [!DNL Adobe Success].
+Este guia explica como criar, visualizar e baixar relatórios para casos no portal [!DNL Adobe Success].
 
 ## Abrir um caso
 
-Você pode abrir um caso na guia Início ou na guia **[!UICONTROL Suporte e Insights]**.
+Você pode abrir um caso na guia Página inicial ou na guia **[!UICONTROL Suporte e insights]**.
 
-Para acessar a página **[!UICONTROL Abrir Caso]** na guia Página Inicial:
+Para acessar a página **[!UICONTROL Abrir caso]** na guia Página Inicial:
 
-1. Acesse a guia Início.
-1. Selecione **[!UICONTROL Abrir Caso]**.
+1. Vá para a guia Página inicial.
+1. Selecione **[!UICONTROL Abrir caso]**.
 
 
    ![adobe-success-portal-home-page-open-case](../../assets/adobe-success-portal-home-page-open-case.png)
 
 
 
-1. Preencha os campos obrigatórios:
+1. Preencha os campos exigidos:
    1. **[!UICONTROL Selecione um produto]**.
-   1. **[!UICONTROL Título da ocorrência]**.
+   1. **[!UICONTROL Título do caso]**.
    1. **[!UICONTROL Descrição de caso]**.
-1. Selecione **[!UICONTROL Enviar Caso]**.
+1. Selecione **[!UICONTROL Enviar caso]**.
 
 
 
@@ -39,10 +40,10 @@ Para acessar a página **[!UICONTROL Abrir Caso]** na guia Página Inicial:
 
 
 
-Para acessar a página **[!UICONTROL Abrir Caso]** a partir da guia **[!UICONTROL Suporte e Insights]**.
+Para acessar a página **[!UICONTROL Abrir caso]** na guia **[!UICONTROL Suporte e insights]**.
 
-1. Vá para a guia **[!UICONTROL Suporte e Insights]**.
-1. Selecione **[!UICONTROL Abrir Caso]**.
+1. Vá para a guia **[!UICONTROL Suporte e insights]**.
+1. Selecione **[!UICONTROL Abrir caso]**.
 
 
 
@@ -52,14 +53,14 @@ Para acessar a página **[!UICONTROL Abrir Caso]** a partir da guia **[!UICONTRO
 
 Siga as mesmas etapas descritas acima para concluir e enviar o caso.
 
-## Exibir um caso
+## Visualizar um caso
 
-Você pode ver um caso na guia Início ou na guia **[!UICONTROL Suporte e Insights]**.
+Você pode visualizar um caso na guia Página inicial ou na guia **[!UICONTROL Suporte e insights]**.
 
-Para acessar a página **[!UICONTROL Exibir Casos]** na guia Página Inicial:
+Para acessar a página **[!UICONTROL Visualizar casos]** na guia Página inicial:
 
-1. Acesse a guia Início.
-1. Selecione **[!UICONTROL Exibir Casos]**.
+1. Vá para a guia Página inicial.
+1. Selecione **[!UICONTROL Visualizar casos]**.
 
 
 
@@ -67,11 +68,11 @@ Para acessar a página **[!UICONTROL Exibir Casos]** na guia Página Inicial:
 
 
 
-1. Selecione o cartão de produto que deseja exibir e escolha **[!UICONTROL Ocorrências Abertas]** ou **[!UICONTROL Ocorrências Fechadas]**.
+1. Selecione o cartão de produto que deseja visualizar e escolha **[!UICONTROL Casos abertos]** ou **[!UICONTROL Casos fechados]**.
 
    >[!NOTE]
    >
-   >Você também pode selecionar a guia **[!UICONTROL Suporte e Insights]** para acessar rapidamente os cartões de produto com os links **[!UICONTROL Casos Abertos]** ou **[!UICONTROL Casos Fechados]**.
+   >Você também pode selecionar a guia **[!UICONTROL Suporte e insights]** para acessar rapidamente os cartões de produto com os links para **[!UICONTROL Casos abertos]** ou **[!UICONTROL Casos fechados]**.
 
 
 
@@ -79,7 +80,7 @@ Para acessar a página **[!UICONTROL Exibir Casos]** na guia Página Inicial:
 
 
 
-1. Clique no **[!UICONTROL Número do caso]** para exibir os detalhes do caso.
+1. Clique no **[!UICONTROL Número do caso]** para visualizar os detalhes.
 
 
 
@@ -89,23 +90,23 @@ Para acessar a página **[!UICONTROL Exibir Casos]** na guia Página Inicial:
 
 ## Baixar relatórios de caso
 
-Para baixar relatórios do PDF em seus casos:
+Para baixar relatórios em PDF dos casos:
 
-1. Navegue até a guia Início.
-1. Selecione **[!UICONTROL Exibir Casos]**.
+1. Navegue até a guia Página inicial.
+1. Selecione **[!UICONTROL Visualizar casos]**.
 
 
    ![adobe-success-portal-view-cases](../../assets/adobe-success-portal-view-cases.png)
 
 
-1. Selecione o cartão de produto que deseja exibir e escolha **[!UICONTROL Ocorrências Abertas]** ou **[!UICONTROL Ocorrências Fechadas]**.
+1. Selecione o cartão de produto que deseja visualizar e escolha **[!UICONTROL Casos abertos]** ou **[!UICONTROL Casos fechados]**.
 
    >[!NOTE]
    >
-   >Você também pode selecionar a guia **[!UICONTROL Suporte e Insights]** para acessar rapidamente os cartões de produto com links para **[!UICONTROL Casos Abertos]** ou **[!UICONTROL Casos Fechados]**.
+   >Você também pode selecionar a guia **[!UICONTROL Suporte e insights]** para acessar rapidamente os cartões de produto com os links para **[!UICONTROL Casos abertos]** ou **[!UICONTROL Casos fechados]**.
 
    ![adobe-success-portal-open-case-closed-case](../../assets/adobe-success-portal-open-case-closed-case.png)
 
-1. Na página [Produto] - Casos de Suporte, marque a caixa de seleção ao lado da ocorrência que você deseja baixar e selecione **[!UICONTROL Baixar Casos]**.
+1. Na página [Produto] – Casos de Suporte, marque a caixa de seleção ao lado do caso que deseja baixar e selecione **[!UICONTROL Baixar casos]**.
 
    ![adobe-success-portal-download-cases](../../assets/adobe-success-portal-download-cases.png)
