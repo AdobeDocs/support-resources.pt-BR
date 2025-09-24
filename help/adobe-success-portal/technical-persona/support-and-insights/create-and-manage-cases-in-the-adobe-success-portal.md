@@ -2,10 +2,10 @@
 title: 'Criar e gerenciar casos no portal  [!DNL Adobe Success] '
 description: Saiba como gerenciar casos no portal  [!DNL Adobe Success] .
 exl-id: 0b4eb2bc-ee11-4136-a744-457f9e204143
-source-git-commit: b05c238726c88ae0c51f40f077192dc136c0ae59
-workflow-type: ht
-source-wordcount: '281'
-ht-degree: 100%
+source-git-commit: 0a8d1af656473e05f82f7c309291c0b63bf6b71c
+workflow-type: tm+mt
+source-wordcount: '441'
+ht-degree: 61%
 
 ---
 
@@ -23,7 +23,7 @@ Para acessar a página **[!UICONTROL Abrir caso]** na guia Página Inicial:
 1. Selecione **[!UICONTROL Abrir caso]**.
 
 
-   ![adobe-success-portal-home-page-open-case](../../assets/adobe-success-portal-home-page-open-case.png)
+   ![Botão Abrir caso na seção Criar um novo caso do Portal de Sucesso do Adobe](../../assets/adobe-success-portal-home-page-open-case.png "Botão Abrir caso")
 
 
 
@@ -35,7 +35,7 @@ Para acessar a página **[!UICONTROL Abrir caso]** na guia Página Inicial:
 
 
 
-   ![adobe-success-portal-submit-case](../../assets/adobe-success-portal-submit-case.png)
+   ![Botão Enviar caso na parte inferior do formulário de tíquete de suporte no Portal de Sucesso do Adobe](../../assets/adobe-success-portal-submit-case.png "Enviar sua solicitação de suporte")
 
 
 
@@ -47,7 +47,7 @@ Para acessar a página **[!UICONTROL Abrir caso]** na guia **[!UICONTROL Suporte
 
 
 
-   ![adobe-success-portal-support-insights-open-case](../../assets/adobe-success-portal-support-insights-open-case.png)
+   ![Botão Abrir caso na seção Criar um novo caso do Portal de Sucesso do Adobe](../../assets/adobe-success-portal-support-insights-open-case.png "Botão Abrir caso")
 
 
 
@@ -64,7 +64,7 @@ Para acessar a página **[!UICONTROL Visualizar casos]** na guia Página inicial
 
 
 
-   ![adobe-success-portal-view-cases](../../assets/adobe-success-portal-view-cases.png)
+   ![Botão Exibir Casos na seção Criar um Novo Caso do Portal de Sucesso do Adobe](../../assets/adobe-success-portal-view-cases.png "Exibir seus casos de suporte existentes")
 
 
 
@@ -76,7 +76,7 @@ Para acessar a página **[!UICONTROL Visualizar casos]** na guia Página inicial
 
 
 
-   ![adobe-success-portal-open-case-closed-case](../../assets/adobe-success-portal-open-case-closed-case.png)
+   ![Indicadores de casos abertos e fechados na seção Suporte e Insights do AEM Cloud Service - Assets](../../assets/adobe-success-portal-open-case-closed-case.png "Exibir resumo de casos de suporte abertos e fechados")
 
 
 
@@ -84,7 +84,7 @@ Para acessar a página **[!UICONTROL Visualizar casos]** na guia Página inicial
 
 
 
-   ![adobe-success-portal-case-number](../../assets/adobe-success-portal-case-number.png)
+   ![Link do Número do Caso nos casos de suporte do Portal de Sucesso do Adobe](../../assets/adobe-success-portal-case-number.png "Clique para exibir os detalhes do caso")
 
 
 
@@ -96,7 +96,7 @@ Para baixar relatórios em PDF dos casos:
 1. Selecione **[!UICONTROL Visualizar casos]**.
 
 
-   ![adobe-success-portal-view-cases](../../assets/adobe-success-portal-view-cases.png)
+   ![Botão Exibir Casos na seção Criar um Novo Caso do Portal de Sucesso do Adobe](../../assets/adobe-success-portal-view-cases.png "Exibir seus casos de suporte existentes")
 
 
 1. Selecione o cartão de produto que deseja visualizar e escolha **[!UICONTROL Casos abertos]** ou **[!UICONTROL Casos fechados]**.
@@ -105,8 +105,8 @@ Para baixar relatórios em PDF dos casos:
    >
    >Você também pode selecionar a guia **[!UICONTROL Suporte e insights]** para acessar rapidamente os cartões de produto com os links para **[!UICONTROL Casos abertos]** ou **[!UICONTROL Casos fechados]**.
 
-   ![adobe-success-portal-open-case-closed-case](../../assets/adobe-success-portal-open-case-closed-case.png)
+   ![Indicadores de casos abertos e fechados na seção Suporte e Insights do AEM Cloud Service - Assets](../../assets/adobe-success-portal-open-case-closed-case.png "Exibir resumo de casos de suporte abertos e fechados")
 
 1. Na página [Produto] – Casos de Suporte, marque a caixa de seleção ao lado do caso que deseja baixar e selecione **[!UICONTROL Baixar casos]**.
 
-   ![adobe-success-portal-download-cases](../../assets/adobe-success-portal-download-cases.png)
+   ![Botão Baixar Casos na seção Gerenciamento de Casos do Portal de Sucesso do Adobe](../../assets/adobe-success-portal-download-cases.png "Baixar dados do caso de suporte")

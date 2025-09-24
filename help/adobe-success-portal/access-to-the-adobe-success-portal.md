@@ -2,10 +2,10 @@
 title: 'Acessar o portal  [!DNL Adobe Success] '
 description: Saiba como gerenciar casos no portal  [!DNL Adobe Success] .
 exl-id: 791b6cce-e7c9-42fe-a50c-4ef16fafdd10
-source-git-commit: 400b90e09f76f3ad299f3d56f0d42668ea4e13ea
-workflow-type: ht
-source-wordcount: '141'
-ht-degree: 100%
+source-git-commit: cc2a327307321a77623e1a4a82f9227ef5a3949c
+workflow-type: tm+mt
+source-wordcount: '170'
+ht-degree: 81%
 
 ---
 
@@ -19,13 +19,13 @@ Você receberá uma notificação da equipe do portal de **[!UICONTROL Sucesso]*
 1. Faça logon com sua Adobe ID.
 1. Selecione o ícone do **[!UICONTROL portal de Sucesso (Alpha)]**.
 
-   ![alpha-success-portal-alpha](assets/alpha-success-portal-alpha.png)
+   ![Ícone e rótulo do Portal de Sucesso (Alpha)](assets/alpha-success-portal-alpha.png "Portal de Sucesso de Acesso (Alpha)")
 
 
 
 1. Depois de fazer logon, você verá cinco guias:
 
-   ![adobe-success-portal-tabs](assets/adobe-success-portal-tabs.png)
+   ![Barra lateral da interface do Portal de Sucesso do Adobe](assets/adobe-success-portal-tabs.png "Guias de barra lateral")
 
 
    * Início
@@ -44,4 +44,4 @@ Você pode usar o botão **[!UICONTROL Feedback sobre o Alpha]** no portal para 
 >
 >A ferramenta de feedback não é um canal de suporte dedicado. Ela não é adequada para problemas urgentes de logon.
 
-![adobe-success-portal-home](assets/adobe-success-portal-home.png)
+![Botão Comentários do Alpha no portal para enviar comentários](assets/adobe-success-portal-home.png "Botão Comentários do Alpha")
