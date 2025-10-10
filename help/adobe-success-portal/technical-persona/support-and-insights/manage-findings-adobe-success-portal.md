@@ -3,9 +3,9 @@ title: 'Gerenciar descobertas no portal  [!DNL Adobe Success] '
 description: Este guia explica como acessar, interpretar e atuar nas descobertas no Portal  [!DNL Adobe Success]  para ajudar você a gerenciar proativamente o desempenho do produto, a segurança e os riscos de funcionalidade.
 exl-id: c787ce29-993c-498c-9e39-8a04c2eeedda
 source-git-commit: f23f0debcd6a0e2962524de321d436b854001495
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '864'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -39,23 +39,23 @@ Para visualizar os insights de um produto:
 1. Navegue até **[!UICONTROL Suporte e insights]**.
 1. Selecione o cartão do produto relevante. Selecione a guia **[!UICONTROL Descobertas]**.
 
-   ![Portal de Sucesso do Adobe destacando Descobertas no AEM as Cloud Service - Assets com 3 itens listados](../../assets/asp-support-inisghts-findings.png "Exibir descobertas para o AEM Assets no Cloud Service")
+   ![Portal de sucesso da Adobe com destaque para a seção Descobertas do AEM as a Cloud Service - Assets com 3 itens listados](../../assets/asp-support-inisghts-findings.png "Exibir descobertas do AEM Assets no Cloud Service")
 
 
 1. Você verá uma lista de todas as descobertas do produto selecionado.
 
-   ![Portal de Sucesso do Adobe mostrando a guia Achados do AEM Cloud Service - Assets com problemas de cache listados](../../assets/adobe-success-portal-findings.png "Exibir descobertas relacionadas ao cache do AEM Assets no Cloud Service")
+   ![Portal de sucesso da Adobe com destaque para a guia Descobertas do AEM as a Cloud Service - Assets com os problemas de cache listados](../../assets/adobe-success-portal-findings.png "Exibir descobertas relacionadas ao cache do AEM Assets no Cloud Service")
 
-1. Aqui, você pode:
+1. Aqui você pode:
 
-   ![Interface do Portal de Sucesso do Adobe destacando a barra de pesquisa, o botão de download e uma descoberta de risco grave no AEM Sites](../../assets/adobe-success-portal-download.png "Pesquise, baixe ou exiba descobertas para o AEM Sites no Cloud Service")
+   ![Interface do Portal de sucesso da Adobe com destaque para a barra de pesquisa, o botão de download e uma descoberta de risco grave no AEM Sites](../../assets/adobe-success-portal-download.png "Pesquise, baixe ou exiba descobertas do AEM Sites no Cloud Service")
 
    * Pesquisar entradas específicas.
    * Exportar a lista de descobertas selecionando **[!UICONTROL Baixar descobertas]**. Para exportar um relatório de uma descoberta, marque a caixa de seleção ao lado da descoberta relevante na coluna **[!UICONTROL Nome da descoberta]**. Se você não selecionar uma descoberta, o PDF conterá por padrão uma lista de todas as descobertas.
    * Veja os detalhes de uma descoberta, incluindo uma resolução recomendada, selecionando-a em **[!UICONTROL Nome da descoberta]**. A página Detalhes da descoberta exibe a descoberta selecionada com um contexto adicional e uma recomendação. Para ver esse relatório, selecione a seta para baixar.
 
 
-     ![Botão de download para exportar detalhes das descobertas no Portal de Sucesso do Adobe](../../assets/findings-details.png "Baixar o relatório destas descobertas")
+     ![Botão de download para exportar detalhes de descobertas no Portal de sucesso da Adobe](../../assets/findings-details.png "Baixar o relatório destas descobertas")
 
 
 ## Descobertas de ação
@@ -72,7 +72,7 @@ Siga estas etapas para validar se cada descoberta ainda é aplicável ou pode se
 1. Selecione uma entrada em **[!UICONTROL Nome da descoberta]**. Na página Detalhes da descoberta, é possível:
    * Selecionar **[!UICONTROL Validar]** para verificar se o problema ainda está presente (o botão **[!UICONTROL Validar]** foi criado como uma confirmação de que o problema foi resolvido):
 
-   ![Botão Validar no painel Achados para confirmar a resolução do problema no Portal de Sucesso do Adobe](../../assets/adobe-success-portal-validate.png "Botão Validar")
+   ![Botão Validar no painel Descobertas para confirmar a resolução do problema no Portal de sucesso da Adobe](../../assets/adobe-success-portal-validate.png "Botão validar")
 
 
    * Se o problema persistir, a seguinte mensagem será exibida: *[!UICONTROL Validação concluída.  Descoberta ainda detectada]*. Use as informações e recomendações da página Detalhes da descoberta para investigar e resolver.
