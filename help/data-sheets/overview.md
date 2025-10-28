@@ -2,9 +2,9 @@
 title: Visão geral dos planos de sucesso da Adobe
 description: Este artigo fornece um resumo das opções de Suporte ao cliente da Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 598a5e58107314e3315090304b258573fdd5d729
-workflow-type: ht
-source-wordcount: '2221'
+source-git-commit: eab06cfc16fd8adb5ff6ea918f0e351ffc1719cd
+workflow-type: tm+mt
+source-wordcount: '1833'
 ht-degree: 100%
 
 ---
@@ -107,41 +107,6 @@ Os Contatos de suporte nomeados podem enviar problemas por todos os canais dispo
 | Américas | Europa, Oriente Médio e África | Ásia–Pacífico | Japão |
 |---|---|---|---|
 | 6h00 – 17:30h00 | 9h – 17h | 9h – 17h | 9h – 17h |
-
-## Ciclo de vida do caso de suporte – Em breve
-
-Esta documentação descreve as melhorias no ciclo de vida do caso de suporte do Adobe DX com a intenção de aperfeiçoar a comunicação e fornecer resoluções para os clientes o mais rápido possível e ajudar a garantir o sucesso do cliente. Abaixo estão as linhas do tempo e notificações para vários cenários encontrados durante o processo de suporte:
-
-**Lembretes de acompanhamento de caso**
-
-| Notificação | Status do caso | Momento da notificação | Dias até o status de encerramento do caso |
-|--- |--- |--- |--- |
-| **1º** | Resposta pendente ou resolução fornecida | 24 horas/1 dia | 5 dias |
-| **2º** | Resposta pendente ou resolução fornecida | 72 horas/3 dias | 3 dias |
-| **3º** | Resposta pendente ou resolução fornecida | 120 horas/5 dias | 1 dia |
-| **4º** | Resposta pendente ou resolução fornecida alterada para “Encerrado automaticamente” | 144 horas/6 dias | encerrado |
-
-**Cenários detalhados**
-
-**Informações adicionais são exigidas de um cliente**
-
-Nesse cenário, quando são necessárias informações adicionais de um cliente, as seguintes etapas são executadas:
-
-* O engenheiro envia uma atualização solicitando informações e o status do caso é definido como “Resposta pendente”.
-* No primeiro, terceiro e quinto dias após o status ser definido como “Resposta pendente”, as notificações de acompanhamento são enviadas ao cliente solicitando as informações adicionais.
-* Se não houver resposta do cliente por seis dias após o status ser definido como “Resposta pendente”, o caso será definido como encerrado e uma notificação de encerramento será enviada.
-
-Clientes tem 14 dias para reabrir um caso encerrado na Experience League e continuar a comunicação. Após esse período, um novo caso de suporte deve ser aberto para continuar a comunicação relacionada a um caso encerrado anteriormente. Observe que responder a um email referente a um tíquete fechado não o reabrirá.
-
-**O engenheiro fornece uma solução**
-
-Nesse cenário, quando um engenheiro oferece uma solução, as seguintes etapas são executadas:
-
-* O engenheiro envia uma atualização com uma solução proposta e o status do caso é definido como “Solução fornecida”.
-* No primeiro, terceiro e quinto dia seguintes ao status ser definido como “Resolução fornecida”, as notificações de acompanhamento serão enviadas ao cliente, solicitando a confirmação da solução fornecida.
-* Se não houver resposta do cliente 6 dias após o status ser definido como “Resolução fornecida”, o caso será definido como encerrado e uma notificação de encerramento será enviada.
-
-Os clientes podem reabrir um caso encerrado em 14 dias para continuar a comunicação. Após 14 dias, um novo caso de suporte pode ser aberto para continuar a comunicação relacionada a um caso encerrado anteriormente.
 
 ## Termos adicionais aplicáveis ao Adobe Commerce no Managed Services (antigo Magento Commerce Pro: Managed Services)
 
