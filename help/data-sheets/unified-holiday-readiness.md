@@ -119,7 +119,7 @@ Para preparar o Adobe Journey Optimizer para a temporada de festas, as organiza�
    * hora de envio
    * tipo de oferta
    * mix de canais
-Consulte as [práticas recomendadas da AJO Experimentation Accelerator](https://experienceleague.adobe.com/en/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices).
+Consulte as [práticas recomendadas da AJO Experimentation Accelerator](https://experienceleague.adobe.com/pt-br/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices).
 * Realizar validação completa da jornada:
    * disparadores de eventos
    * entrada de segmentação
