@@ -2,24 +2,24 @@
 keywords: Perguntas frequentes;perguntas frequentes;FAQ
 title: Perguntas frequentes sobre a Adobe Business Platform e Admin Console
 description: Perguntas frequentes sobre o Adobe Workfront
-source-git-commit: 21f2b42e3131fe0339e5de15824f48166409c7c1
+source-git-commit: dc05d9746bff375f5c29a164fbfdf4adb8d219d5
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '485'
 ht-degree: 11%
 
 ---
 
-# Perguntas frequentes sobre a Adobe Business Platform e Admin Console
+# Perguntas frequentes sobre o [!DNL Adobe Business Platform] e Admin Console
 
 +++**O que é a Identidade da Adobe e o Admin Console?**
 
-A Adobe Business Platform oferece aos administradores e aos líderes funcionais um console de controle de última geração para gerenciar sua versão personalizada do software Workfront.
+O [!DNL Adobe Business Platform] fornece aos administradores e líderes funcionais um console de controle de última geração para gerenciar sua versão personalizada do software Workfront.
 
 +++
 
 +++**Por que os clientes precisam migrar para a Adobe Identity and Admin Console (AAC)?**
 
-Os clientes experimentarão um console administrativo ainda mais seguro e intuitivo ao migrar para a Adobe Business Platform.
+Os clientes experimentarão um console administrativo ainda mais seguro e intuitivo ao mudar para [!DNL Adobe Business Platform].
 
 +++
 
@@ -57,7 +57,7 @@ Consulte [este documento](overview.md), destacando algumas das novas adições d
 
 +++**Quais são os recursos de treinamento disponíveis para o AAC?**
 
-&lt;https://helpx.adobe.com/br/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
 
 +++
 
@@ -81,7 +81,7 @@ O tempo de implementação da AAC para os clientes pode variar, mas a experiênc
 
 +++**Isso afetará outras tecnologias que eu integrei à solução da Workfront fora dos Produtos da Adobe?**
 
-Os clientes que usam o aplicativo Fusion para se conectar a outros serviços só serão transferidos quando o aplicativo Fusion estiver pronto para fazer essa alteração.
+Os clientes que usam o aplicativo [!DNL Fusion] para se conectar a outros serviços só serão movidos quando o aplicativo [!DNL Fusion] estiver pronto para fazer essa alteração.
 
 +++
 
