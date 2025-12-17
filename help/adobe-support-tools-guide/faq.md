@@ -57,7 +57,7 @@ Consulte [este documento](overview.md), destacando algumas das novas adições d
 
 +++**Quais são os recursos de treinamento disponíveis para o AAC?**
 
-&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/br/enterprise/using/admin-console.html >
 
 +++
 
