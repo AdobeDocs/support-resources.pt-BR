@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Página de aterrissagem do Workfront Admin Console
 
-Prepare-se para integrar sua organização à [lista de verificação de migração](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/admin-in-admin-console/prep-for-admin-console.html) do Adobe Admin Console:
+Prepare-se para integrar sua organização à [lista de verificação de migração](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/admin-in-admin-console/prep-for-admin-console.html?lang=pt-BR) do Adobe Admin Console:
 
 **Lista de Verificação de Migração**
 
@@ -19,14 +19,14 @@ Prepare-se para integrar sua organização à [lista de verificação de migraç
 
   Se você já tiver outros produtos da Adobe, confirme seu desejo de adicionar o Adobe Workfront à sua Adobe Admin Console atual. Se você precisar de mais informações, use [este link](https://helpx.adobe.com/br/enterprise/using/admin-console.html) para entender as práticas recomendadas para gerenciar seus produtos da Adobe.
 
-* Consulte o [link a seguir](https://helpx.adobe.com/enterprise/using/deployment-planning.html) para obter ajuda com sua implantação.
+* Consulte o [link a seguir](https://helpx.adobe.com/br/enterprise/using/deployment-planning.html) para obter ajuda com sua implantação.
 * Se estiver utilizando o Logon único, será necessário conectar o novo Adobe Admin Console ao seu provedor SSO existente.
 * Verifique se os emails duplicados foram removidos e se apenas endereços de email válidos são usados.
 * Se você estiver utilizando integrações de API personalizadas, confirme se esses usuários têm um endereço de email válido que eles podem acessar.
 
-  A Workfront recomenda atualizar todas as integrações personalizadas para [utilizar o OAuth2](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/create-oauth-application.html).
+  A Workfront recomenda atualizar todas as integrações personalizadas para [utilizar o OAuth2](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/create-oauth-application.html?lang=pt-BR).
 
-Após configurar seu console, consulte este link para ver [como gerenciar usuários](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/create-manage-users/admin-console.html) no Adobe Admin Console.
+Após configurar seu console, consulte este link para ver [como gerenciar usuários](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/create-manage-users/admin-console.html?lang=pt-BR) no Adobe Admin Console.
 
 >[!TIP]
 >
