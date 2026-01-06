@@ -57,7 +57,7 @@ Os clientes receberão instruções e coordenação de uma equipe interna da Wor
 
 +++**Quais são os recursos de treinamento disponíveis para o AAC?**
 
-&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/br/enterprise/using/admin-console.html >
 
 +++
 
