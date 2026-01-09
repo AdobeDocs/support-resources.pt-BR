@@ -1,6 +1,6 @@
 ---
 title: Como solicitar o Adobe Commerce temporário no upsize da infraestrutura em nuvem
-description: Se sua organização estiver planejando um evento online em que você espera alto tráfego ou se você subitamente descobrir que seu site está passando por um evento de alto tráfego, poderá registrar um [Tíquete de Suporte](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) para solicitar capacidade de nuvem adicional temporária para o Adobe Commerce na loja de infraestrutura em nuvem.
+description: Se sua organização estiver planejando um evento online em que você espera alto tráfego ou se você subitamente descobrir que seu site está passando por um evento de alto tráfego, poderá registrar um [Tíquete de Suporte](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=pt-BR#submit-ticket) para solicitar capacidade de nuvem adicional temporária para o Adobe Commerce na loja de infraestrutura em nuvem.
 solution: Commerce
 source-git-commit: 070f069a083ff310da44ccca4cc4b0081eb106f2
 workflow-type: tm+mt
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Como solicitar o Adobe Commerce temporário no upsize da infraestrutura em nuvem
 
-Se sua organização estiver planejando um evento online em que você espera alto tráfego ou se você subitamente descobrir que seu site está passando por um evento de alto tráfego, poderá registrar um [Tíquete de Suporte](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) para solicitar capacidade de nuvem adicional temporária para o Adobe Commerce na loja de infraestrutura em nuvem.
+Se sua organização estiver planejando um evento online em que você espera alto tráfego ou se você subitamente descobrir que seu site está passando por um evento de alto tráfego, poderá registrar um [Tíquete de Suporte](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=pt-BR#submit-ticket) para solicitar capacidade de nuvem adicional temporária para o Adobe Commerce na loja de infraestrutura em nuvem.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ Além disso, os alertas de linha de base funcionam bem com novos aplicativos qua
 
 New Relic Siga este link para saber mais sobre a [Detecção de anomalias com Inteligência aplicada](https://docs.newrelic.com/docs/alerts-applied-intelligence/applied-intelligence/anomaly-detection/anomaly-detection-applied-intelligence/).
 
-Se você receber uma notificação de alerta que sugira um evento de alto tráfego, talvez seja necessário considerar [enviar um Tíquete de Suporte](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) solicitando capacidade adicional. Siga as etapas abaixo.
+Se você receber uma notificação de alerta que sugira um evento de alto tráfego, talvez seja necessário considerar [enviar um Tíquete de Suporte](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=pt-BR#submit-ticket) solicitando capacidade adicional. Siga as etapas abaixo.
 
 ## Como monitorar o desempenho do site
 
@@ -50,7 +50,7 @@ Siga este link para saber como [configurar alertas baseados em desempenho](/docs
 
 ## Etapas para solicitar o upsize temporário
 
-Para solicitar capacidade de nuvem temporária adicional, envie um [Tíquete de Suporte](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) para o Centro de Suporte da Adobe Commerce com as seguintes informações:
+Para solicitar capacidade de nuvem temporária adicional, envie um [Tíquete de Suporte](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=pt-BR#submit-ticket) para o Centro de Suporte da Adobe Commerce com as seguintes informações:
 
 >[!NOTE]
 >
@@ -100,7 +100,7 @@ Para solicitar capacidade de nuvem temporária adicional, envie um [Tíquete de 
 
 >[!NOTE]
 >
->Depois que o upsize for agendado, um sistema automatizado ajustará o tamanho da instância da nuvem. Você pode não receber nenhuma notificação de tíquete quando o procedimento estiver concluído. Você pode usar a ferramenta Observation for Adobe Commerce para exibir seus tipos de instância do AWS ou do Azure para [verificar a alteração](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/check-vcpu-using-observation-for-adobe-commerce).
+>Depois que o upsize for agendado, um sistema automatizado ajustará o tamanho da instância da nuvem. Você pode não receber nenhuma notificação de tíquete quando o procedimento estiver concluído. Você pode usar a ferramenta Observation for Adobe Commerce para exibir seus tipos de instância do AWS ou do Azure para [verificar a alteração](https://experienceleague.adobe.com/pt-br/docs/commerce-knowledge-base/kb/how-to/check-vcpu-using-observation-for-adobe-commerce).
 
 ## Visualizar o histórico dos uploads
 
