@@ -1,16 +1,16 @@
 ---
-title: Notas de versão do novo formulário de caso EXL
+title: Notas de versão do novo formulário de caso do Experience League
 description: As informações mais recentes da versão do formulário de caso do EXL.
 feature: Release Notes
-source-git-commit: 421ef19ed939cd757e3182c8fa5bbda13fd7561e
+source-git-commit: 7bca9c4ae25c77092de6957193ceecd146d19a1a
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '274'
 ht-degree: 7%
 
 ---
 
 
-# Notas de versão do novo formulário de caso EXL
+# Notas de versão do novo formulário de caso do Experience League
 
 A nova experiência de criação de casos apresenta um formulário atualizado projetado para simplificar a resolução de problemas e inclui:
 
@@ -31,9 +31,9 @@ A nova experiência de criação de casos apresenta um formulário atualizado pr
 - [!UICONTROL Informações de contato]
 - [!UICONTROL Revisar e enviar]
 
-![Novo](../adobe-support-tools-guide/assets/new.svg) Adicionado **Novo(s) [!UICONTROL Etapas para Reproduzir] Campo** para capturar detalhes acionáveis e acelerar a solução de problemas.
+![](../adobe-support-tools-guide/assets/new.svg) Novo foram adicionadas **Novo [!UICONTROL etapas para reproduzir] o campo** para capturar detalhes acionáveis e acelerar a solução de problemas.
 
-![Novo](../adobe-support-tools-guide/assets/new.svg) Adicionou **[!UICONTROL Contexto de Ambiente] Campos** adicionais para os produtos autorizados a capturar detalhes críticos:
+![](../adobe-support-tools-guide/assets/new.svg) Novo adição **de campos[!UICONTROL  de contexto] de ambiente adicionais** para produtos intitulados para captura crítico detalhes:
 
 - **Marketo**
    - ID do Munchkin
@@ -43,9 +43,9 @@ A nova experiência de criação de casos apresenta um formulário atualizado pr
 - **Adobe Analytics**
    - RSID
    - URL do site (Nome da propriedade das tags) / Log de HAR ou Assurance / cURL / Log de depuração
-   - Workspace shortlink
-- **Adobe Journey Optimizer (AJO)**
-   - ID de jornada ou URL de Jornada
+   - shortlink Área de trabalho
+- **Adobe Systems Otimizador de jornadas (AJO)**
+   - ID da jornada ou URL da jornada
    - Exemplo de perfil
 - **Real-Time Customer Data Platform (RTCDP)**
    - ID do componente afetado (ID de destino, ID de perfil, ID de público-alvo, ID de conjunto de dados ou ID de fluxo de dados)
@@ -55,12 +55,12 @@ A nova experiência de criação de casos apresenta um formulário atualizado pr
    - Nome da propriedade das tags
 
 
-![Novo](../adobe-support-tools-guide/assets/new.svg) Adicionou um **Painel do Recommendations[!UICONTROL Orientado por IA]** para exibir orientações úteis sem interromper o fluxo de criação de casos.
+![](../adobe-support-tools-guide/assets/new.svg) Novo adição de um **Painel[!UICONTROL  de recomendações orientado]** por IA para exibir orientações úteis sem interromper o fluxo de criação de casos.
 
-![Novo](../adobe-support-tools-guide/assets/new.svg) Adicionou uma etapa do [!UICONTROL Resumo da Revisão] para fornecer uma exibição consolidada de todas as informações inseridas e permitir que os usuários:
+![](../adobe-support-tools-guide/assets/new.svg) Novo adicionada uma [!UICONTROL etapa do Resumo] da análise para fornecer uma visualização consolidada de todas as informações inseridas e permitir aos usuários:
 
-- Revisar detalhes do caso em um local
-- Voltar às etapas anteriores para fazer edições
+- Detalhes do caso de revisão em um único lugar
+- Navegue até as etapas anteriores para fazer edições
 - Retornar ao resumo sem perder o progresso
 
 ![Correção](../adobe-support-tools-guide/assets/fix.svg) Renomeou o Campo de Descrição de Ocorrência como *[!UICONTROL &quot;Descreva o problema&quot;]* para maior clareza.
