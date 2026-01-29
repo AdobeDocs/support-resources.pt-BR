@@ -1,14 +1,14 @@
 ---
-title: Tíquete de suporte da Adobe Commerce **[!UICONTROL Motivo do problema]** descrições
+title: Descrições do tíquete de suporte da Adobe Commerce [!UICONTROL motivo do problema]
 description: Este artigo lista as opções de campo do tíquete de suporte **[!UICONTROL Motivo do Problema]** e fornece descrições detalhadas de cada uma.
-source-git-commit: 58cec1efe3f4b5d2277507469cf17b51ccffb98d
+source-git-commit: 6050a615b0247930baad060e1c9cd7c46547bfdb
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 1%
 
 ---
 
-# Descrições do tíquete de suporte da Adobe Commerce **[!UICONTROL motivo do problema]**
+# Descrições do tíquete de suporte da Adobe Commerce [!UICONTROL motivo do problema]
 
 Este artigo lista as opções de campo **[!UICONTROL Motivo do problema]** do tíquete de suporte e fornece descrições detalhadas de cada uma.
 
@@ -55,4 +55,4 @@ Este artigo lista as opções de campo **[!UICONTROL Motivo do problema]** do t�
 
 ## Leitura relacionada
 
-* [Envie um caso de suporte](https://experienceleague.adobe.com/pt-br/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) no Guia do Usuário de Suporte da Experience League para Adobe Commerce.
+* [Envie um caso de suporte](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) no Guia do Usuário de Suporte da Experience League para Adobe Commerce.
