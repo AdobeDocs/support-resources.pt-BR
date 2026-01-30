@@ -1,24 +1,24 @@
 ---
 title: Configuração de direitos de suporte ao cliente da Adobe
-description: Como os clientes do Adobe podem configurar direitos de suporte para ativar o envio de casos.
+description: Como os clientes do Adobe podem configurar e gerenciar direitos de suporte no Admin Console para que os usuários possam acessar recursos de suporte, enviar problemas e gerenciar atividades de caso.
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 009be3353a4bd690a7cf395e7e95540808058b39
+source-git-commit: 7f7a394874014fb5333ed9fb39f84b7137562726
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
 
 
-# Direito de suporte ao cliente da Adobe
+# Configuração de direitos de suporte ao cliente da Adobe
 
 Para configurar os direitos de suporte para sua organização, primeiro adicione ou convide o usuário por meio da Admin Console.
 
 ## Adicionar funções de direito de suporte a uma organização
 
-A função de administrador de suporte é uma função não administrativa que tem acesso a informações relacionadas a suporte. Os administradores de suporte podem exibir, criar e gerenciar relatórios de problemas.
+A função de **[!UICONTROL Administrador de suporte]** é uma função não administrativa que tem acesso a informações relacionadas a suporte. Um **[!UICONTROL Administrador de suporte]** pode exibir, criar e gerenciar relatórios de problemas.
 
 Para adicionar ou convidar um administrador:
 
@@ -32,7 +32,7 @@ Para adicionar ou convidar um administrador:
 
 1. Clique em **[!UICONTROL Avançar]**. Uma lista de funções administrativas é exibida.
 
-Para atribuir uma função de administrador de suporte a um usuário (permitir que um usuário entre em contato com o suporte):
+Para atribuir uma função de **[!UICONTROL Administrador de suporte]** a um usuário (habilitar um usuário para contatar o suporte):
 
 1. Selecione a opção **[!UICONTROL Administrador de suporte]**.
 
@@ -55,4 +55,4 @@ Como parte do processo de logon, os usuários podem ser solicitados a configurar
 
 ![Confirmação de direitos do administrador](assets/admin-rights-confirmation.png)
 
-Para obter mais detalhes, consulte as instruções de [editar função de administrador de empresa](admin-roles.md#add-enterprise-role) na documentação de funções administrativas. Observe que somente um administrador do sistema de sua organização pode atribuir essa função. Para obter mais informações sobre hierarquia administrativa, consulte a documentação de [funções administrativas](admin-roles.md).
+Para obter mais detalhes, consulte as instruções de [Editar função de administrador de empresa](admin-roles.md#edit-enterprise-admin-role) na documentação de funções administrativas. Observe que somente um administrador do sistema de sua organização pode atribuir essa função. Para obter mais informações sobre hierarquia administrativa, consulte a documentação de [Funções administrativas](admin-roles.md).
