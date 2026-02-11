@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 2469a09135b81ccfbf0bbda8fd46f552dc5d82fc
+source-git-commit: 6fa07d9adae493bcb4bb12c5e48f5447f198d735
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '139'
 ht-degree: 3%
 
 ---
@@ -33,5 +33,6 @@ ht-degree: 3%
    - [Perguntas frequentes sobre o fim do suporte ao software Adobe Commerce](adobe-commerce-support/adobe-commerce-eos-policy-faq.md)
    - [Descrições do motivo do problema com o tíquete de suporte da Adobe Commerce](adobe-commerce-support/adobe-commerce-support-ticket-contact-reason-descriptions.md)
    - [Principais características das ferramentas de suporte do Adobe Commerce](adobe-commerce-support/support-tools-overview.md)
+   - [Guia do usuário de suporte da Experience League para Adobe Commerce](adobe-commerce-support/adobe-commerce-help-center-user-guide.md)
    - [Como incluir um membro da equipe nas notificações de suporte](/help/adobe-support-tools-guide/adobe-commerce-support/how-to-include-a-team-member-in-support-notifications.md)
    - [Solicitações de sandbox da infraestrutura em nuvem do Adobe Commerce para parceiros](adobe-commerce-support/partner-magento-commerce-cloud-sandbox-requests.md)
