@@ -266,7 +266,7 @@ O Suporte ao cliente da Adobe oferece acesso a recursos de documentação e envo
 
 | Recurso | Descrição |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/?lang=pt-BR) | A Experience League é um local onde os clientes da Adobe podem encontrar tutoriais de autoajuda, documentações de produtos, treinamentos ministrados por instrutores, comunidade e suporte para determinados produtos da Adobe Creative Cloud e Adobe Document Cloud. |
+| [Experience League](https://experienceleague.adobe.com/pt-br?lang=pt-BR) | A Experience League é um local onde os clientes da Adobe podem encontrar tutoriais de autoajuda, documentações de produtos, treinamentos ministrados por instrutores, comunidade e suporte para determinados produtos da Adobe Creative Cloud e Adobe Document Cloud. |
 | [Comunidade de suporte da Adobe](https://community.adobe.com/?profile.language=pt) | A Comunidade de suporte da Adobe é o local para fazer perguntas, encontrar respostas, aprender com especialistas e compartilhar seu conhecimento. |
 | [Problemas de produção e paralisações do sistema](https://status.adobe.com/pt) | O Status.adobe.com transmite as informações de integridade de todos os produtos e serviços da Adobe implantados em ambientes de vários locatários. Os clientes podem escolher suas preferências de subscrição para receber notificações por email sempre que a Adobe criar, atualizar ou resolver um evento de produto. Isso pode incluir manutenção programada ou problemas de serviço com diferentes níveis de gravidade. |
 | [Termos e condições](https://helpx.adobe.com/br/support/programs/support-policies-terms-conditions.html) | Os Termos e condições que detalham os serviços de suporte. |
