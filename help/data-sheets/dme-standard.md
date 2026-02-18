@@ -1,8 +1,8 @@
 ---
 title: Suporte Standard para a Adobe Creative Cloud e Adobe Document Cloud
-description: Para fornecer suporte a sua empresa, a Adobe oferece uma ampla gama de recursos técnicos incluída como parte de sua assinatura corporativa da Adobe. O suporte Standard inclui acesso 24 horas por dia e 7 dias por semana a nossos recursos de autoajuda, incluindo artigos no HelpX e envolvimento com outros clientes por meio da comunidade da Adobe.
+description: Para fornecer suporte ao seu negócio, a Adobe oferece uma ampla gama de recursos técnicos incluída como parte de sua assinatura corporativa da Adobe. O suporte Standard inclui acesso 24 horas por dia e 7 dias por semana a nossos recursos de autoajuda, incluindo artigos no HelpX e envolvimento com outros clientes por meio da comunidade da Adobe.
 exl-id: 2ce6a990-1dbc-4f08-a29b-357e3e03a6d6
-source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
+source-git-commit: ddaeba7f5e8c2e6d4c7fc2112425ee83ee7eccd3
 workflow-type: tm+mt
 source-wordcount: '777'
 ht-degree: 100%
@@ -13,9 +13,9 @@ ht-degree: 100%
 
 ![Ícone](assets/StandardBanner.png)
 
-Para fornecer suporte a sua empresa, a Adobe oferece uma ampla gama de recursos técnicos incluída como parte de sua assinatura corporativa da Adobe. O suporte Standard inclui acesso 24 horas por dia e 7 dias por semana a nossos recursos de autoajuda, incluindo artigos no HelpX e envolvimento com outros clientes por meio da comunidade da Adobe.
+Para fornecer suporte ao seu negócio, a Adobe oferece uma ampla gama de recursos técnicos incluída como parte de sua assinatura corporativa da Adobe. O suporte Standard inclui acesso 24 horas por dia e 7 dias por semana a nossos recursos de autoajuda, incluindo artigos no HelpX e envolvimento com outros clientes por meio da comunidade da Adobe.
 
-Você pode aproveitar nossas documentações técnicas de produto detalhadas e abrangentes e as notas de versão atuais publicadas em <http://www.adobe.com>. Nosso suporte Standard também concede aos usuários autorizados (administradores) acesso 24 horas por dia e 7 dias por semana às nossas equipes de suporte técnico por chat ou telefone, além da capacidade de registrar solicitações de assistência por meio de nosso portal de suporte na web.
+Você pode aproveitar nossas documentações técnicas de produto detalhadas e abrangentes e as notas de versão atuais publicadas em <https://www.adobe.com>. Nosso suporte Standard também concede aos usuários autorizados (administradores) acesso 24 horas por dia e 7 dias por semana às nossas equipes de suporte técnico por chat ou telefone, além da capacidade de registrar solicitações de assistência por meio de nosso portal de suporte na web.
 
 [Exibir versão em PDF](assets/DMeStandardSupportDatasheet_2022.pdf)
 
@@ -266,9 +266,9 @@ O Suporte ao cliente da Adobe oferece acesso a recursos de documentação e envo
 
 | Recurso | Descrição |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/pt-br?lang=pt-BR) | A Experience League é um local onde os clientes da Adobe podem encontrar tutoriais de autoajuda, documentações de produtos, treinamentos ministrados por instrutores, comunidade e suporte para determinados produtos da Adobe Creative Cloud e Adobe Document Cloud. |
+| [Experience League](https://experienceleague.adobe.com/?lang=pt-BR) | A Experience League é um local onde os clientes da Adobe podem encontrar tutoriais de autoajuda, documentações de produtos, treinamentos ministrados por instrutores, comunidade e suporte para determinados produtos da Adobe Creative Cloud e Adobe Document Cloud. |
 | [Comunidade de suporte da Adobe](https://community.adobe.com/?profile.language=pt) | A Comunidade de suporte da Adobe é o local para fazer perguntas, encontrar respostas, aprender com especialistas e compartilhar seu conhecimento. |
-| [Problemas de produção e paralisações do sistema](https://status.adobe.com/) | O Status.adobe.com transmite as informações de integridade de todos os produtos e serviços da Adobe implantados em ambientes de vários locatários. Os clientes podem escolher suas preferências de subscrição para receber notificações por email sempre que a Adobe criar, atualizar ou resolver um evento de produto. Isso pode incluir manutenção programada ou problemas de serviço com diferentes níveis de gravidade. |
+| [Problemas de produção e paralisações do sistema](https://status.adobe.com/pt) | O Status.adobe.com transmite as informações de integridade de todos os produtos e serviços da Adobe implantados em ambientes de vários locatários. Os clientes podem escolher suas preferências de subscrição para receber notificações por email sempre que a Adobe criar, atualizar ou resolver um evento de produto. Isso pode incluir manutenção programada ou problemas de serviço com diferentes níveis de gravidade. |
 | [Termos e condições](https://helpx.adobe.com/br/support/programs/support-policies-terms-conditions.html) | Os Termos e condições que detalham os serviços de suporte. |
 
 {style="table-layout:auto"}
