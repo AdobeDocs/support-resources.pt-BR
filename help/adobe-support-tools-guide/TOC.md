@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 6fa07d9adae493bcb4bb12c5e48f5447f198d735
+source-git-commit: 289022a25c4bc917797726cff8a03ff83206084a
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '147'
 ht-degree: 3%
 
 ---
@@ -21,6 +21,8 @@ ht-degree: 3%
 - [Configuração de direitos de suporte ao cliente da Adobe](adobe-customer-support-entitlement-configuration.md)
 - [Atualização do número de telefone do suporte](phone-numbers.md)
 - [Funções do administrador](admin-roles.md)
+- Adobe Admin Console {#adobe-admin-console}
+   - [Navegação no Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
 - Suporte ao Adobe Workfront {#workfront}
    - [Perguntas frequentes](faq.md)
 - Suporte ao Adobe Commerce {#adobe-commerce-support}
