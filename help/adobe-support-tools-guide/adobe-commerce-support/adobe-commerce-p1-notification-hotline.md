@@ -2,7 +2,8 @@
 title: Linha direta de notificação Adobe Commerce P1
 description: Este artigo fornece os números de linha direta de notificação P1 da Adobe Commerce que podem ser usados para relatar um incidente P1 e explica quais informações fornecer.
 solution: Commerce
-source-git-commit: f08fbf3920b6b80f2755598920c2a7ed82835510
+exl-id: 0c7088b2-6149-4307-b513-cebeeaa8f6ea
+source-git-commit: a8d43c1d190d6c7bb3e7653e304b4152fe7039ca
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 0%
@@ -20,7 +21,7 @@ Conforme definido nos [Termos e Condições dos Serviços de Suporte da Adobe Co
 ## Políticas de telefone de linha direta de notificação P1
 
 * A linha direta de notificação P1 está disponível para reportar problemas de nível P1 (consulte a definição de incidente P1 na seção anterior).
-* [Envie um tíquete de suporte](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=pt-BR#submit-ticket) antes de chamar a linha direta de notificação P1 da Adobe Commerce.
+* [Envie um tíquete de suporte](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) antes de chamar a linha direta de notificação P1 da Adobe Commerce.
 * A investigação, a solução de problemas e a comunicação ocorrerão exclusivamente no tíquete de suporte.
 * Adicione todas as informações adicionais relacionadas ao problema diretamente ao ticket, antes de chamar.
 * Ao ligar, certifique-se de ter o número do tíquete.
@@ -47,4 +48,4 @@ Observação: Se você acessar a caixa postal por qualquer motivo, deixe suas in
    * Malásia (chamada tarifada): (+60) 1800 220 120 (No primeiro menu, pressione 3 para obter a linha direta Adobe Commerce P1)
    * Índia: (+91) 0008 004 402 107 (no primeiro menu, pressione 3 para obter a linha direta Adobe Commerce P1)
    * Hong Kong: (+852) 30 713 107 (No primeiro menu, pressione 3 para obter a linha direta Adobe Commerce P1)
-   * Japão: (+81) 120 071 300 (no primeiro menu, pressione 3 para obter a linha direta Adobe Commerce P1)
+   * Japão: (+81) 0120 410 404 (no primeiro menu, pressione 3 para obter a linha direta Adobe Commerce P1)
