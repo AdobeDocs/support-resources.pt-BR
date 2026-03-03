@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 289022a25c4bc917797726cff8a03ff83206084a
+source-git-commit: dfb3e7ea8638755cdff16b0765125403f429ef2e
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '156'
 ht-degree: 3%
 
 ---
@@ -38,3 +38,4 @@ ht-degree: 3%
    - [Guia do usuário de suporte da Experience League para Adobe Commerce](adobe-commerce-support/adobe-commerce-help-center-user-guide.md)
    - [Como incluir um membro da equipe nas notificações de suporte](/help/adobe-support-tools-guide/adobe-commerce-support/how-to-include-a-team-member-in-support-notifications.md)
    - [Solicitações de sandbox da infraestrutura em nuvem do Adobe Commerce para parceiros](adobe-commerce-support/partner-magento-commerce-cloud-sandbox-requests.md)
+   - [Não foi possível adicionar o usuário ao projeto na nuvem do Adobe Commerce](adobe-commerce-support/unable-add-user-adobe-commerce-cloud-project.md)
