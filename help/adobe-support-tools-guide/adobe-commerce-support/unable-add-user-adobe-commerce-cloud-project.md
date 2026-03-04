@@ -5,9 +5,10 @@ feature: Cloud, Paas
 solution: Commerce
 feature-set: Commerce
 role: Developer
-source-git-commit: dfb3e7ea8638755cdff16b0765125403f429ef2e
+exl-id: 2dc52d5e-0930-48c4-986e-ce3f9f6f8221
+source-git-commit: 755c6dc9cff041b9ca9183fbecde21f90fbaee1a
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '287'
 ht-degree: 1%
 
 ---
@@ -31,14 +32,14 @@ A conta do usuário deve ser criada em [https://accounts.magento.cloud](https://
 ## Solução
 
 1. Peça ao usuário para entrar em [https://accounts.magento.cloud](https://accounts.magento.cloud). O usuário já deve estar registrado no Adobe usando o mesmo endereço de email.
-   > **OBSERVAÇÃO**\
-   > Criar ou ter uma conta em [https://account.adobe.com](https://account.adobe.com) não significa automaticamente que o usuário tem uma conta em [https://accounts.magento.cloud](https://accounts.magento.cloud). O usuário deve primeiro [criar sua conta do Commerce](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/start/commerce-account/commerce-account-create?lang=en#create-a-commerce-account).
+   >[!NOTE]
+   >Criar ou ter uma conta em [https://account.adobe.com](https://account.adobe.com) não significa automaticamente que o usuário tem uma conta em [https://accounts.magento.cloud](https://accounts.magento.cloud). O usuário deve primeiro [criar sua conta do Commerce](https://experienceleague.adobe.com/en/docs/commerce-admin/start/commerce-account/commerce-account-create?lang=en#create-a-commerce-account).
 
-1. Se o usuário já tiver uma conta da Adobe, mas não conseguir entrar, peça para ele enviar uma [solicitação de suporte](https://experienceleague.adobe.com/home?lang=pt-BR#support) com [!UICONTROL Motivo do Problema] definido como *Gerenciamento de Usuários*.
+1. Se o usuário já tiver uma conta da Adobe, mas não conseguir entrar, peça para ele enviar uma [solicitação de suporte](https://experienceleague.adobe.com/home#support) com [!UICONTROL Motivo do Problema] definido como *Gerenciamento de Usuários*.
 
-1. Depois que o usuário entrar com êxito no [https://accounts.magento.cloud](https://accounts.magento.cloud), você poderá adicionar o usuário ao projeto. Para obter etapas detalhadas, consulte [Adicionar usuários e gerenciar o acesso](https://experienceleague.adobe.com/pt-br/docs/commerce-cloud-service/user-guide/project/user-access#add-users-and-manage-access) no Guia de Infraestrutura do Commerce na Nuvem.
+1. Depois que o usuário entrar com êxito no [https://accounts.magento.cloud](https://accounts.magento.cloud), você poderá adicionar o usuário ao projeto. Para obter etapas detalhadas, consulte [Adicionar usuários e gerenciar o acesso](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/project/user-access#add-users-and-manage-access) no Guia de Infraestrutura do Commerce na Nuvem.
 
 ## Leitura relacionada:
 
-* [Gerenciar o acesso do usuário](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html?lang=pt-BR) em nosso Guia do Commerce na Infraestrutura em Nuvem.
-* [Não é possível fazer logon no suporte da Adobe Commerce ou na conta de nuvem](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-to-log-in-to-support-or-cloud-project.html?lang=pt-BR)
+* [Gerenciar o acesso do usuário](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html) em nosso Guia do Commerce na Infraestrutura em Nuvem.
+* [Não é possível fazer logon no suporte da Adobe Commerce ou na conta de nuvem](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-to-log-in-to-support-or-cloud-project.html)
