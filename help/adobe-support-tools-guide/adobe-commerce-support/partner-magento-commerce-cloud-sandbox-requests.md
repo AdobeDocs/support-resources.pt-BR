@@ -18,7 +18,7 @@ Este artigo de Perguntas frequentes contém links para recursos úteis do Adobe 
 
 ## Como atualizo minha sandbox do Adobe Commerce na infraestrutura em nuvem? {#how-do-i-refresh-my-cloud-sandbox}
 
-Consulte [Redefinir ambiente na Nuvem](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/reset-environment-on-cloud) em nossa base de dados de conhecimento de suporte.
+Consulte [Redefinir ambiente na Nuvem](https://experienceleague.adobe.com/pt-br/docs/commerce-knowledge-base/kb/how-to/reset-environment-on-cloud) em nossa base de dados de conhecimento de suporte.
 
 ## O que devo fazer com uma implantação paralisada? {#what-do-i-do-with-a-stuck-deployment}
 
@@ -26,7 +26,7 @@ Consulte [Solução de problemas de implantação](https://experienceleague.adob
 
 ## Onde/como posso obter ajuda quando necessário? {#wherehow-do-i-get-help-when-needed}
 
-Envie um tíquete de suporte na [seção de suporte do Experience League](https://experienceleague.adobe.com/en/support?support-tab=home#home).
+Envie um tíquete de suporte na [seção de suporte do Experience League](https://experienceleague.adobe.com/pt-br/support?support-tab=home#home).
 
 ## Onde/como os parceiros de soluções ou de tecnologia enviam uma solicitação de suporte? {#wherehow-do-solution-partners-or-tech-partners-submit-a-support-request}
 
@@ -35,7 +35,7 @@ Os parceiros com um projeto de nuvem de sandbox de parceiro não podem enviar t�
 > **Exemplo**
 > Embora esta seção se refira às contas de sandbox da Adobe Commerce Cloud, o mesmo requisito se aplica quando os parceiros trabalham em ambientes internos e não para um cliente específico. Os parceiros não devem enviar solicitações de suporte em uma organização de clientes, a menos que estejam ativamente envolvidos em nome desse cliente.
 
-Se você estiver enviando um tíquete em nome de um comerciante que não recebeu Acesso Compartilhado, solicite acesso ao proprietário da conta. Para obter etapas sobre como solicitar acesso, consulte [Acesso Compartilhado: Conceder Privilégios para que outros usuários acessem sua conta](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access).
+Se você estiver enviando um tíquete em nome de um comerciante que não recebeu Acesso Compartilhado, solicite acesso ao proprietário da conta. Para obter etapas sobre como solicitar acesso, consulte [Acesso Compartilhado: Conceder Privilégios para que outros usuários acessem sua conta](https://experienceleague.adobe.com/pt-br/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access).
 
 * Os parceiros da solução devem enviar solicitações de suporte relacionadas à sandbox enviando um email para [SPPHelp@adobe.com](mailto:SPPHelp@adobe.com). Essas solicitações serão encaminhadas à equipe de suporte técnico do parceiro.
 * Parceiros técnicos devem contatar o [Suporte do Marketplace](mailto:commercemarketplacesupport@adobe.com).
