@@ -6,10 +6,10 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: dfb3e7ea8638755cdff16b0765125403f429ef2e
+source-git-commit: 387d1efa361aaba92196b09ca514605b568c0aa8
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 3%
+source-wordcount: '171'
+ht-degree: 2%
 
 ---
 
@@ -23,6 +23,8 @@ ht-degree: 3%
 - [Funções do administrador](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [Navegação no Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
+   - [Exportar ou importar estrutura da organização e alocações de produtos](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
+   - [Forçar a expiração da senha no Admin Console](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
 - Suporte ao Adobe Workfront {#workfront}
    - [Perguntas frequentes](faq.md)
 - Suporte ao Adobe Commerce {#adobe-commerce-support}
