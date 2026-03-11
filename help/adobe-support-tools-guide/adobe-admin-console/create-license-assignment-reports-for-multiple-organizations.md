@@ -29,7 +29,7 @@ Os relatórios de atribuição de licença ajudam você a monitorar proativament
    &#x200B;> [!NOTE]
    >
    >**Saiba por que você não pode selecionar determinadas organizações**:
-   >Se uma organização secundária não tiver um contrato ou tiver um contrato empresarial separado com o mesmo produto da organização principal, ela será desativada para criar um relatório de atribuição de licença. Por exemplo, se o contrato da organização principal tiver Adobe Acrobat e a organização secundária tiver o mesmo como parte de outro contrato, o produto será limitado para alocação. Como resultado, também é limitado para a criação de relatórios no Global Admin Console. [Saiba como rastrear o provisionamento dessas organizações usando a respectiva Admin Console](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
+   >Se uma organização secundária não tiver um contrato ou tiver um contrato empresarial separado com o mesmo produto da organização principal, ela será desativada para criar um relatório de atribuição de licença. Por exemplo, se o contrato da organização principal tiver Adobe Acrobat e a organização secundária tiver o mesmo como parte de outro contrato, o produto será limitado para alocação. Como resultado, também é limitado para a criação de relatórios no Global Admin Console. [Saiba como rastrear o provisionamento dessas organizações usando a respectiva Admin Console](https://helpx.adobe.com/br/enterprise/using/assignment-reports.html).
    >
    > [!NOTE]
    >
@@ -38,7 +38,7 @@ Os relatórios de atribuição de licença ajudam você a monitorar proativament
    &#x200B;> [!NOTE]
    >
    >**Saiba por que não é possível selecionar determinados produtos**:
-   >Os produtos que não podem ser alocados na Global Admin Console não são incluídos na criação do relatório. Atualmente, isso inclui alguns produtos da Digital Experience, como o [!DNL Workfront], o [!DNL Adobe Experience Manager] e o [!DNL Adobe Experience Platform], e também produtos como o [!DNL Adobe Firefly Services], o [!DNL Acrobat Sign] e o [!DNL Adobe Stock]. [Use o Adobe Admin Console para localizar os dados de provisionamento de licença desses produtos](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
+   >Os produtos que não podem ser alocados na Global Admin Console não são incluídos na criação do relatório. Atualmente, isso inclui alguns produtos da Digital Experience, como o [!DNL Workfront], o [!DNL Adobe Experience Manager] e o [!DNL Adobe Experience Platform], e também produtos como o [!DNL Adobe Firefly Services], o [!DNL Acrobat Sign] e o [!DNL Adobe Stock]. [Use o Adobe Admin Console para localizar os dados de provisionamento de licença desses produtos](https://helpx.adobe.com/br/enterprise/using/assignment-reports.html).
 5. Selecione se deseja agregar o relatório por mês ou ano.
 6. Selecione um intervalo de datas personalizado ou escolha entre opções predefinidas. Você pode escolher qualquer data de início de 18 de junho de 2020 até o dia anterior, desde que não seja anterior à data de início do contrato.
 7. Selecione **[!UICONTROL Baixar]** para exportar o relatório como um arquivo CSV.
