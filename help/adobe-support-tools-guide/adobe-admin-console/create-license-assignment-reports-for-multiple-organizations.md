@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Saiba como os administradores globais podem gerar e baixar relatórios de licença detalhados para várias organizações e produtos para intervalos de datas específicos a fim de facilitar o rastreamento preciso do provisionamento de licenças.
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 >
 > Para criar, exibir e exportar um relatório de atribuição de licença, entre no [Global Admin Console](https://global-admin-console.adobe.com/) e vá para **[!UICONTROL Insights]** > **[!UICONTROL Relatórios]** > **[!UICONTROL Atribuição de licença]**.
 
@@ -26,7 +26,7 @@ Os relatórios de atribuição de licença ajudam você a monitorar proativament
 1. Vá para a guia **[[!UICONTROL Insights]](https://global-admin-console.adobe.com/insights)** na Global Admin Console.
 2. Na página **[!UICONTROL Atribuição de licença]**, selecione **[!UICONTROL Criar relatório]**.
 3. Selecione as organizações e selecione **[!UICONTROL Próximo]**. Você pode escolher individualmente cada organização ou selecionar todas as organizações secundárias dentro de um pai usando o botão **[!UICONTROL Selecionar tudo]**.
-   > [!NOTE]
+   &#x200B;> [!NOTE]
    >
    >**Saiba por que você não pode selecionar determinadas organizações**:
    >Se uma organização secundária não tiver um contrato ou tiver um contrato empresarial separado com o mesmo produto da organização principal, ela será desativada para criar um relatório de atribuição de licença. Por exemplo, se o contrato da organização principal tiver Adobe Acrobat e a organização secundária tiver o mesmo como parte de outro contrato, o produto será limitado para alocação. Como resultado, também é limitado para a criação de relatórios no Global Admin Console. [Saiba como rastrear o provisionamento dessas organizações usando a respectiva Admin Console](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
@@ -35,7 +35,7 @@ Os relatórios de atribuição de licença ajudam você a monitorar proativament
    >
    > Você pode criar relatórios de atribuição somente para organizações com um contrato ativo.
 4. Selecione os produtos a serem incluídos no relatório e selecione **[!UICONTROL Próximo]**.
-   > [!NOTE]
+   &#x200B;> [!NOTE]
    >
    >**Saiba por que não é possível selecionar determinados produtos**:
    >Os produtos que não podem ser alocados na Global Admin Console não são incluídos na criação do relatório. Atualmente, isso inclui alguns produtos da Digital Experience, como o [!DNL Workfront], o [!DNL Adobe Experience Manager] e o [!DNL Adobe Experience Platform], e também produtos como o [!DNL Adobe Firefly Services], o [!DNL Acrobat Sign] e o [!DNL Adobe Stock]. [Use o Adobe Admin Console para localizar os dados de provisionamento de licença desses produtos](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
