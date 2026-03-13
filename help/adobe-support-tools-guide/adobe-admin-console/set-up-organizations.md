@@ -80,13 +80,13 @@ Como [administrador global](https://helpx.adobe.com/enterprise/global-admin-cons
 >[!TIP]
 >
 >Use um nome de organização claro e reconhecível de até 255 caracteres para ajudar os usuários a selecionar o perfil correto. Evite usar caracteres especiais e considere incluir região, departamento ou direito. Além disso, evite acrônimos incomuns e nomes vagos ou semelhantes em toda a hierarquia da organização.
-Use um nome de organização claro e reconhecível com até 255 caracteres para ajudar os usuários a selecionar o perfil correto. Evite usar caracteres especiais e considere incluir região, departamento ou direito. Além disso, evite acrônimos incomuns e nomes vagos ou semelhantes em toda a hierarquia da organização.
+>Use um nome de organização claro e reconhecível com até 255 caracteres para ajudar os usuários a selecionar o perfil correto. Evite usar caracteres especiais e considere incluir região, departamento ou direito. Além disso, evite acrônimos incomuns e nomes vagos ou semelhantes em toda a hierarquia da organização.
 
 As alterações são registradas no log de auditoria, todos os usuários são notificados por email e o nome não pode ser atualizado novamente por 24 horas. [Saiba como exibir e baixar logs de auditoria](https://helpx.adobe.com/enterprise/global-admin-console/insights.html).
 
 ## Alterar o pai de uma organização
 
-Como um [!DNL Global Administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), você pode atribuir um pai a uma organização na hierarquia da organização usando o botão **[!UICONTROL Alterar hierarquia]**.
+Como um [[!DNL Global Administrator]](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), você pode atribuir um pai a uma organização na hierarquia da organização usando o botão **[!UICONTROL Alterar hierarquia]**.
 
 Alterar o pai de uma organização tem o seguinte impacto:
 
@@ -119,7 +119,7 @@ Saiba mais sobre as [limitações na alocação de produtos](https://helpx.adobe
 >[!WARNING]
 >
 > Você só pode adicionar organizações secundárias às organizações raiz que são baseadas no mesmo modelo de armazenamento. Assim, as organizações secundárias baseadas no modelo de armazenamento de usuários só podem ser adicionadas às organizações básicas com base no modelo de armazenamento de usuários. Além disso, as organizações filhas com base no modelo de armazenamento corporativo só podem ser incluídas nas organizações raiz que são baseadas no modelo de armazenamento corporativo.
-Você só pode adicionar organizações filhas a organizações raiz que são baseadas no mesmo modelo de armazenamento. Portanto, as organizações filhas com base no modelo de armazenamento do usuário só podem ser adicionadas às organizações raiz que são baseadas no modelo de armazenamento do usuário. Além disso, as organizações filhas com base no modelo de armazenamento corporativo só podem ser incluídas nas organizações raiz que são baseadas no modelo de armazenamento corporativo.
+>Você só pode adicionar organizações filhas a organizações raiz que são baseadas no mesmo modelo de armazenamento. Portanto, as organizações filhas com base no modelo de armazenamento do usuário só podem ser adicionadas às organizações raiz que são baseadas no modelo de armazenamento do usuário. Além disso, as organizações filhas com base no modelo de armazenamento corporativo só podem ser incluídas nas organizações raiz que são baseadas no modelo de armazenamento corporativo.
 
 A guia **[!UICONTROL Mapeador da Organização]** mostra o seguinte:
 
