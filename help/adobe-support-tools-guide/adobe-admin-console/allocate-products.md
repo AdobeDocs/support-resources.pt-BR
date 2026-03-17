@@ -17,7 +17,7 @@ Aplicável à empresa.
 
 Saiba como os administradores globais podem distribuir recursos para organizações secundárias, permitindo um gerenciamento eficiente de recursos e a atribuição de usuários em cada organização.
 
-No [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html), vá para a guia **[!UICONTROL Alocação de Produto]** e selecione um produto para alocar às organizações secundárias.
+No [Global Admin Console](https://helpx.adobe.com/br/enterprise/global-admin-console/adopt-global-administration.html), vá para a guia **[!UICONTROL Alocação de Produto]** e selecione um produto para alocar às organizações secundárias.
 
 Entrar na [Global Admin Console](https://adminconsole.adobe.com/support).
 
@@ -29,7 +29,7 @@ Parte da distribuição e administração dos produtos da Adobe nas organizaçõ
 
 >[!WARNING]
 >
->Não é possível alocar produtos a uma organização secundária a partir de um contrato que expirou **1&rbrace; ou se a organização está em um estado** inativo **.** Saiba mais sobre a [expiração do contrato](https://helpx.adobe.com/enterprise/using/contract-expiry.html) ou entre em contato com o administrador da empresa para obter assistência para evitar que os usuários na organização secundária percam o acesso aos aplicativos e serviços da Adobe.
+>Não é possível alocar produtos a uma organização secundária a partir de um contrato que expirou **1&rbrace; ou se a organização está em um estado** inativo **.** Saiba mais sobre a [expiração do contrato](https://helpx.adobe.com/br/enterprise/using/contract-expiry.html) ou entre em contato com o administrador da empresa para obter assistência para evitar que os usuários na organização secundária percam o acesso aos aplicativos e serviços da Adobe.
 
 ## Armazenamento em pool
 
@@ -38,11 +38,11 @@ Isso se aplica aos clientes que têm uma guia Armazenamento em sua Admin Console
 - Os administradores globais obtêm acesso à cota e ao uso de armazenamento na hierarquia e podem alocar armazenamento para organizações usando a guia **[!UICONTROL Alocação de Produto]** na [Global Admin Console](https://adminconsole.adobe.com/).
 - Os administradores de sistemas e de armazenamento têm controle total e visibilidade do armazenamento em toda a empresa. Eles podem rastrear e gerenciar o armazenamento usando a guia **[!UICONTROL Armazenamento]** no [Adobe Admin Console](https://adminconsole.adobe.com/).
 
-Com as atualizações do armazenamento Adobe Creative Cloud, as cotas de armazenamento são flexíveis para usuários finais, até o volume de armazenamento adquirido pela organização. [Saiba mais](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html).
+Com as atualizações do armazenamento Adobe Creative Cloud, as cotas de armazenamento são flexíveis para usuários finais, até o volume de armazenamento adquirido pela organização. [Saiba mais](https://helpx.adobe.com/br/enterprise/using/manage-adobe-storage.html).
 
 ## Alocar produtos
 
-A guia **[!UICONTROL Alocação de Produto]** no Global Admin Console mostra unidades de alocação para produtos comprados na hierarquia da organização. Como [administrador global](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html#admins), você pode alocar esses recursos de produtos para outra organização na árvore da organização e especificar a quantidade a ser alocada. Como um [visualizador global](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html#admins), você pode exibir e exportar os dados, mas não pode fazer nenhuma atualização.
+A guia **[!UICONTROL Alocação de Produto]** no Global Admin Console mostra unidades de alocação para produtos comprados na hierarquia da organização. Como [administrador global](https://helpx.adobe.com/br/enterprise/global-admin-console/manage-administrators.html#admins), você pode alocar esses recursos de produtos para outra organização na árvore da organização e especificar a quantidade a ser alocada. Como um [visualizador global](https://helpx.adobe.com/br/enterprise/global-admin-console/manage-administrators.html#admins), você pode exibir e exportar os dados, mas não pode fazer nenhuma atualização.
 
 Para alocar produtos a uma organização, siga estas etapas:
 
@@ -52,7 +52,7 @@ Para alocar produtos a uma organização, siga estas etapas:
 
    >[ !NNota]
    >
-   >Se a organização secundária já tiver um contrato de compra, a alocação de produtos do pai para essa organização secundária poderá ser limitada. [Saiba mais](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html#limited-product-allocation).
+   >Se a organização secundária já tiver um contrato de compra, a alocação de produtos do pai para essa organização secundária poderá ser limitada. [Saiba mais](https://helpx.adobe.com/br/enterprise/global-admin-console/allocate-products.html#limited-product-allocation).
 
 1. Para alocar o produto, selecione o ícone **[!UICONTROL Adicionar +]** para a organização relevante.\
    Alguns produtos incluem mais de um recurso alocável; nesse caso, vários recursos são listados na caixa de diálogo e você deve fornecer valores para cada um. Por exemplo, o Adobe Stock pode incluir créditos de imagem do Adobe Stock e créditos premium.
@@ -61,7 +61,7 @@ Para alocar produtos a uma organização, siga estas etapas:
 1. Selecione **[!UICONTROL Salvar]**.
 1. Para permitir ou não a superalocação de um recurso, selecione a opção relevante.
    ![Superalocação](/help/adobe-support-tools-guide/assets/overallocation.png)
-1. Selecione **[!UICONTROL Revisar alterações pendentes]** depois de concluir a alocação de recursos. Depois de revisar, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
+1. Selecione **[!UICONTROL Revisar alterações pendentes]** depois de concluir a alocação de recursos. Depois de revisar, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/br/enterprise/global-admin-console/execute-jobs.html).
 
 ## Alocar e distribuir licenças ou transações de usuário do Adobe Acrobat Sign
 
@@ -70,7 +70,7 @@ O Global Admin Console permite alocar e distribuir licenças ou transações de 
 - Cada conta do Acrobat Sign criada é independente e em silos, em termos de administração e conteúdo.
 - Cada conta da Acrobat Sign não tem conhecimento de outras contas da Acrobat Sign (por exemplo, em organizações principais ou irmãs).
 
-Saiba mais sobre o [gerenciamento de Adobe Acrobat Sign na Admin Console](https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html).
+Saiba mais sobre o [gerenciamento de Adobe Acrobat Sign na Admin Console](https://helpx.adobe.com/br/enterprise/using/adobe-sign-for-enterprise.html).
 
 Para gerenciar complementos de autenticação, como KBA (Knowledge-Based Authentication, autenticação com base em conhecimento) e PA (Phone Authentication, autenticação por telefone), entre em contato com o representante da Adobe ou com o Gerente de sucesso do cliente.
 
@@ -80,13 +80,13 @@ Para gerenciar complementos de autenticação, como KBA (Knowledge-Based Authent
 A alocação de uma organização principal para uma organização secundária é limitada nestes casos:
 
 - Se ambas as organizações tiverem contratos diferentes e o produto que você está tentando alocar existir em ambas, não será permitido misturar a mesma oferta entre contratos.
-- Se ambas as organizações tiverem o mesmo contrato, você poderá solicitar permissão para alocar o produto entrando em contato com o representante da Adobe ou [enviando um caso de suporte](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html) especificando que a **[!UICONTROL Alocação de Produto]** no Global Admin Console está bloqueada.
+- Se ambas as organizações tiverem o mesmo contrato, você poderá solicitar permissão para alocar o produto entrando em contato com o representante da Adobe ou [enviando um caso de suporte](https://helpx.adobe.com/br/enterprise/using/support-for-enterprise.html) especificando que a **[!UICONTROL Alocação de Produto]** no Global Admin Console está bloqueada.
 
 ## Superalocação
 
-Como [administrador global](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html#admins), você pode permitir a superalocação de recursos.
+Como [administrador global](https://helpx.adobe.com/br/enterprise/global-admin-console/manage-administrators.html#admins), você pode permitir a superalocação de recursos.
 
-Uma [política](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html#update-policies) de alocação associada ao produto e à organização indica se a superalocação é permitida.
+Uma [política](https://helpx.adobe.com/br/enterprise/global-admin-console/update-policies.html#update-policies) de alocação associada ao produto e à organização indica se a superalocação é permitida.
 
 A superalocação permite conceder a uma organização secundária mais recursos de produto do que os disponíveis na organização principal. É útil quando as alocações são aproximadas e o administrador não deseja ser sobrecarregado com a manutenção das alocações de recursos adicionando.
 Se a superalocação for desativada para um recurso de produto em uma organização, a soma das concessões secundárias não poderá exceder a concessão principal. As solicitações para superalocar um recurso marcado com superalocação desabilitada não são executadas.
@@ -104,4 +104,4 @@ Não é possível alocar produtos a uma organização secundária a partir de um
 >
 >Quando um contrato do ETLA que faz parte da hierarquia estiver inativo, os produtos serão removidos das páginas **[!UICONTROL Visão geral]** e **[!UICONTROL Alocação de produto]**.
 
-[Saiba mais sobre a expiração do contrato](https://helpx.adobe.com/enterprise/using/contract-expiry.html) ou entre em contato com o administrador da empresa para obter assistência para evitar que os usuários na organização secundária percam o acesso aos aplicativos e serviços da Adobe.
+[Saiba mais sobre a expiração do contrato](https://helpx.adobe.com/br/enterprise/using/contract-expiry.html) ou entre em contato com o administrador da empresa para obter assistência para evitar que os usuários na organização secundária percam o acesso aos aplicativos e serviços da Adobe.
