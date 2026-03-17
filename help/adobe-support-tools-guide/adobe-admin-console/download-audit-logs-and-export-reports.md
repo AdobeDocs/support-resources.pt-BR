@@ -29,7 +29,7 @@ Como administrador global, você tem total visibilidade das alterações feitas 
 
 >[!NOTE]
 >
-> Como administrador do sistema em uma organização do [Adobe Admin Console](https://adminconsole.adobe.com), você pode usar o [Log de Auditoria](https://helpx.adobe.com/enterprise/using/audit-logs.html) para examinar as atribuições de usuários e os eventos de usuários. As ações executadas pelos administradores do sistema em organizações secundárias da organização selecionada também são incluídas nos logs de auditoria. Saiba mais sobre como os administradores do sistema podem [rastrear alterações](https://helpx.adobe.com/enterprise/using/audit-logs.html) feitas na Admin Console.
+> Como administrador do sistema em uma organização do [Adobe Admin Console](https://adminconsole.adobe.com), você pode usar o [Log de Auditoria](https://helpx.adobe.com/br/enterprise/using/audit-logs.html) para examinar as atribuições de usuários e os eventos de usuários. As ações executadas pelos administradores do sistema em organizações secundárias da organização selecionada também são incluídas nos logs de auditoria. Saiba mais sobre como os administradores do sistema podem [rastrear alterações](https://helpx.adobe.com/br/enterprise/using/audit-logs.html) feitas na Admin Console.
 
 Para exibir ou baixar logs de auditoria para sua organização:
 
@@ -106,7 +106,7 @@ Para baixar um relatório de exportação:
 
 1. Faça logon no [Global Admin Console](https://global-admin-console.adobe.com/insights) e navegue até **[!UICONTROL Insights]** > **[!UICONTROL Exportar Relatórios]**.
 
-   Os relatórios gerados nos últimos 90 dias são exibidos. Após 90 dias, você poderá gerar o relatório novamente. Saiba como gerar relatórios para [Estrutura de organização](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
+   Os relatórios gerados nos últimos 90 dias são exibidos. Após 90 dias, você poderá gerar o relatório novamente. Saiba como gerar relatórios para [Estrutura de organização](https://helpx.adobe.com/br/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
 
 
    | Campo | Descrição |
