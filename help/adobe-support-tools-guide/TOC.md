@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: c706a5d2479a8ea81c906277eae68316c1a5c754
+source-git-commit: 3d0f29ff680a75588333a9ea9f88c2fe9bd35640
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '245'
 ht-degree: 2%
 
 ---
@@ -40,6 +40,7 @@ ht-degree: 2%
    - [Como obter e aplicar patches de segurança](adobe-commerce-support/how-to-obtain-and-apply-security-patches.md)
    - [Como solicitar o Adobe Commerce temporário no upsize da infraestrutura em nuvem](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
    - [Linha direta de notificação Adobe Commerce P1](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
+   - [Adobe Commerce Intelligence Essentials: atualizar a forma de pagamento ou cancelar a assinatura](adobe-commerce-support/adobe-commerce-intelligence-essentials-update-payment-cancel-subscription.md)
    - [Privacidade e acesso aos dados do cliente do suporte da Adobe](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
    - [Atualização da política de ciclo de vida do tíquete de suporte da Adobe Commerce](adobe-commerce-support/magento-support-ticket-lifecycle-policy-update.md)
    - [Folha de fatos de monitoramento do Adobe Commerce na infraestrutura do Cloud Pro](adobe-commerce-support/monitoring-whitepaper.md)
