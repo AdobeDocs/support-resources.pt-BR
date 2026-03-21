@@ -43,7 +43,7 @@ Você pode [criar grupos de usuários](https://helpx.adobe.com/br/enterprise/usi
 
 4. Selecione **[!UICONTROL Salvar]**.
 
-5. Selecione **[!UICONTROL Revisar alterações pendentes]** para revisar as atualizações. Em seguida, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/enterprise/global-admin-console/set-up-organizations.html#execute-jobs).
+5. Selecione **[!UICONTROL Revisar alterações pendentes]** para revisar as atualizações. Em seguida, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/br/enterprise/global-admin-console/set-up-organizations.html#execute-jobs).
 
    >[!NOTE]
    >
@@ -84,7 +84,7 @@ A projeção de grupo permite sincronizar grupos de usuários e seus usuários a
    - **[!UICONTROL Adicionar somente]**: mescla os grupos de usuários adicionando novos usuários aos grupos de usuários existentes sem remover nenhum usuário.
    - **[!UICONTROL Grupo de espelhamento]**: ajuste os grupos da organização de destino para corresponder ao grupo compartilhado adicionando ou removendo usuários.
 
-8. Selecione **[!UICONTROL Revisar alterações pendentes]** para revisar as atualizações. Em seguida, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/enterprise/global-admin-console/set-up-organizations.html#execute-jobs).
+8. Selecione **[!UICONTROL Revisar alterações pendentes]** para revisar as atualizações. Em seguida, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/br/enterprise/global-admin-console/set-up-organizations.html#execute-jobs).
 
    Os eventos de projeção de grupo são registrados para sua referência. Saiba como [exibir e baixar logs de auditoria](https://helpx.adobe.com/br/enterprise/global-admin-console/insights.html).
 
@@ -111,7 +111,7 @@ As alterações no nome do grupo de usuários projetado ou nos usuários associa
 
 6. Selecione **[!UICONTROL Revogar acesso]**.
 
-7. Selecione **[!UICONTROL Revisar alterações pendentes]** para revisar as atualizações. Em seguida, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/enterprise/global-admin-console/set-up-organizations.html#execute-jobs).
+7. Selecione **[!UICONTROL Revisar alterações pendentes]** para revisar as atualizações. Em seguida, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/br/enterprise/global-admin-console/set-up-organizations.html#execute-jobs).
 
 
 
@@ -135,7 +135,7 @@ As alterações no nome do grupo de usuários projetado ou nos usuários associa
    >
    >No assistente **[!UICONTROL Editar Grupo de Usuários]**, você pode atribuir funções de administrador apenas a usuários que já tenham uma função de administrador atribuída nesta organização. Saiba como [adicionar novos administradores](https://helpx.adobe.com/enterprise/global-admin-console/manage-admins.html).
 
-4. Selecione **[!UICONTROL Revisar alterações pendentes]** para revisar as atualizações. Em seguida, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/enterprise/using/global-admin-set-up-organizations.html#execute-jobs).
+4. Selecione **[!UICONTROL Revisar alterações pendentes]** para revisar as atualizações. Em seguida, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/br/enterprise/using/global-admin-set-up-organizations.html#execute-jobs).
 
    >[!NOTE]
    >
@@ -159,4 +159,4 @@ As alterações no nome do grupo de usuários projetado ou nos usuários associa
    >
    >A exclusão de um grupo de usuários pode afetar seus usuários. Verifique se não há acesso ou informações que serão perdidas quando o grupo de usuários for excluído.
 
-4. Depois de editar as organizações, selecione **[!UICONTROL Revisar alterações pendentes]** para analisá-las. Em seguida, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/enterprise/using/global-admin-set-up-organizations.html#execute-jobs).
+4. Depois de editar as organizações, selecione **[!UICONTROL Revisar alterações pendentes]** para analisá-las. Em seguida, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/br/enterprise/using/global-admin-set-up-organizations.html#execute-jobs).
