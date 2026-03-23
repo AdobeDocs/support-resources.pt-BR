@@ -4,13 +4,13 @@ description: Saiba como os administradores globais visualizam, filtram e exporta
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: d9dd4958b09ab10c4755671c0956698223c0a7b0
+exl-id: 4b562a4d-14e5-4687-a1ae-6a435f087627
+source-git-commit: 8db982f6a642a288453086c23d20b44b14d55354
 workflow-type: tm+mt
 source-wordcount: '880'
 ht-degree: 2%
 
 ---
-
 
 # Baixar logs de auditoria e exportar relatórios
 
@@ -29,7 +29,7 @@ Como administrador global, você tem total visibilidade das alterações feitas 
 
 >[!NOTE]
 >
-> Como administrador do sistema em uma organização do [Adobe Admin Console](https://adminconsole.adobe.com), você pode usar o [Log de Auditoria](https://helpx.adobe.com/br/enterprise/using/audit-logs.html) para examinar as atribuições de usuários e os eventos de usuários. As ações executadas pelos administradores do sistema em organizações secundárias da organização selecionada também são incluídas nos logs de auditoria. Saiba mais sobre como os administradores do sistema podem [rastrear alterações](https://helpx.adobe.com/br/enterprise/using/audit-logs.html) feitas na Admin Console.
+> Como administrador do sistema em uma organização do [Adobe Admin Console](https://adminconsole.adobe.com), você pode usar o [Log de Auditoria](https://helpx.adobe.com/enterprise/using/audit-logs.html) para examinar as atribuições de usuários e os eventos de usuários. As ações executadas pelos administradores do sistema em organizações secundárias da organização selecionada também são incluídas nos logs de auditoria. Saiba mais sobre como os administradores do sistema podem [rastrear alterações](https://helpx.adobe.com/enterprise/using/audit-logs.html) feitas na Admin Console.
 
 Para exibir ou baixar logs de auditoria para sua organização:
 
@@ -106,7 +106,7 @@ Para baixar um relatório de exportação:
 
 1. Faça logon no [Global Admin Console](https://global-admin-console.adobe.com/insights) e navegue até **[!UICONTROL Insights]** > **[!UICONTROL Exportar Relatórios]**.
 
-   Os relatórios gerados nos últimos 90 dias são exibidos. Após 90 dias, você poderá gerar o relatório novamente. Saiba como gerar relatórios para [Estrutura de organização](https://helpx.adobe.com/br/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
+   Os relatórios gerados nos últimos 90 dias são exibidos. Após 90 dias, você poderá gerar o relatório novamente. Saiba como gerar relatórios para [Estrutura de organização](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
 
 
    | Campo | Descrição |
@@ -121,6 +121,6 @@ Para baixar um relatório de exportação:
 
    Se o relatório que você acabou de gerar não aparecer na lista, selecione **[!UICONTROL Atualizar]**.
 
-![exportar-relatórios](assets/export-reports.png)
+   ![exportar-relatórios](assets/export-reports.png)
 
 *Baixe qualquer relatório gerado nos últimos 90 dias.*
