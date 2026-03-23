@@ -6,10 +6,10 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 3d0f29ff680a75588333a9ea9f88c2fe9bd35640
+source-git-commit: 0bbba5e7afa83bb40b57e3d4d648d0713100ab6f
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 2%
+source-wordcount: '254'
+ht-degree: 1%
 
 ---
 
@@ -51,3 +51,4 @@ ht-degree: 2%
    - [Como incluir um membro da equipe nas notificações de suporte](/help/adobe-support-tools-guide/adobe-commerce-support/how-to-include-a-team-member-in-support-notifications.md)
    - [Solicitações de sandbox da infraestrutura em nuvem do Adobe Commerce para parceiros](adobe-commerce-support/partner-magento-commerce-cloud-sandbox-requests.md)
    - [Não foi possível adicionar o usuário ao projeto na nuvem do Adobe Commerce](adobe-commerce-support/unable-add-user-adobe-commerce-cloud-project.md)
+   - [Como aplicar um patch de compositor fornecido pelo Adobe](adobe-commerce-support/how-to-apply-a-composer-patch-provided-by-magento.md)
