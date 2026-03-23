@@ -4,19 +4,19 @@ description: Saiba como criar, compartilhar, editar e excluir grupos de usuário
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: f81a20fd6d9d64443f4708b3fc17de7240d1bc61
+exl-id: 1e20362a-0974-4b83-a083-9edaab04c255
+source-git-commit: 265c341935b3257e5731a129c42411151645ae89
 workflow-type: tm+mt
 source-wordcount: '1330'
 ht-degree: 0%
 
 ---
 
-
 # Gerenciar grupos de usuários na Global Admin Console
 
 Crie, gerencie e compartilhe grupos de usuários no Global Admin Console para simplificar o gerenciamento de usuários, agrupando usuários com as mesmas permissões, economizando tempo e garantindo consistência.
 
-No [Global Admin Console](https://helpx.adobe.com/br/enterprise/global-admin-console/adopt-global-administration.html), selecione uma organização e navegue até **[!UICONTROL Grupos de Usuários]**. Compartilhe grupos em várias organizações usando uma única fonte de gerenciamento de usuários para sincronizar usuários e grupos.
+No [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html), selecione uma organização e navegue até **[!UICONTROL Grupos de Usuários]**. Compartilhe grupos em várias organizações usando uma única fonte de gerenciamento de usuários para sincronizar usuários e grupos.
 
 [Entrar na Global Admin Console](https://global-admin-console.adobe.com)
 
@@ -24,7 +24,7 @@ No [Global Admin Console](https://helpx.adobe.com/br/enterprise/global-admin-con
 
 ## Criar grupos de usuários
 
-Você pode [criar grupos de usuários](https://helpx.adobe.com/br/enterprise/using/user-groups.html) individualmente, em massa ou [sincronizá-los diretamente de um Azure AD](https://helpx.adobe.com/br/enterprise/using/add-azure-sync.html) estabelecido para um diretório federado no Adobe Admin Console. No Global Admin Console, é possível definir grupos de usuários com perfis de produto relevantes atribuídos, aos quais os administradores de grupo de usuários podem adicionar usuários posteriormente usando o Admin Console.
+Você pode [criar grupos de usuários](https://helpx.adobe.com/br/enterprise/using/user-groups.html) individualmente, em massa ou [sincronizá-los diretamente de um Azure AD](https://helpx.adobe.com/enterprise/using/add-azure-sync.html) estabelecido para um diretório federado no Adobe Admin Console. No Global Admin Console, é possível definir grupos de usuários com perfis de produto relevantes atribuídos, aos quais os administradores de grupo de usuários podem adicionar usuários posteriormente usando o Admin Console.
 
 1. Faça logon no [Global Admin Console](https://global-admin-console.adobe.com/), selecione uma organização para editar e navegue até a guia **[!UICONTROL Grupos de Usuários]**.
 
@@ -36,14 +36,14 @@ Você pode [criar grupos de usuários](https://helpx.adobe.com/br/enterprise/usi
 
 3. Digite o seguinte na caixa de diálogo **[!UICONTROL Adicionar Grupo de Usuários]** que é exibida:
    - **[!UICONTROL Nome]**: especifique um nome para o grupo de usuários.
-   - **[!UICONTROL Perfis de Produtos]**: se você deseja conceder acesso ao produto para os membros atuais ou futuros do grupo de usuários, clique na seta suspensa para selecionar um Perfil de Produto na lista ou digite o nome do Perfil de Produto e selecione-o na lista suspensa exibida. Para adicionar um perfil de produto que ainda não foi criado, faça isso primeiro usando a guia [Perfis de produto](https://helpx.adobe.com/br/enterprise/using/global-admin-edit-organizations.html#profiles).
+   - **[!UICONTROL Perfis de Produtos]**: se você deseja conceder acesso ao produto para os membros atuais ou futuros do grupo de usuários, clique na seta suspensa para selecionar um Perfil de Produto na lista ou digite o nome do Perfil de Produto e selecione-o na lista suspensa exibida. Para adicionar um perfil de produto que ainda não foi criado, faça isso primeiro usando a guia [Perfis de produto](https://helpx.adobe.com/enterprise/using/global-admin-edit-organizations.html#profiles).
    - **[!UICONTROL Administradores]**: clique na seta suspensa para selecionar um administrador na lista ou digite o endereço de email do administrador e selecione-o na lista suspensa exibida. Se quiser adicionar um novo administrador que ainda não foi criado, você deve primeiro criar esse administrador usando a guia [Administradores](#share-user-groups).
 
    Os perfis de produto especificados são atribuídos ao Grupo de usuários, e os administradores especificados se tornam os administradores do grupo de usuários. Os administradores de grupo de usuários podem usar o Adobe Admin Console para que a organização relevante gerencie o grupo.
 
 4. Selecione **[!UICONTROL Salvar]**.
 
-5. Selecione **[!UICONTROL Revisar alterações pendentes]** para revisar as atualizações. Em seguida, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/br/enterprise/global-admin-console/set-up-organizations.html#execute-jobs).
+5. Selecione **[!UICONTROL Revisar alterações pendentes]** para revisar as atualizações. Em seguida, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/enterprise/global-admin-console/set-up-organizations.html#execute-jobs).
 
    >[!NOTE]
    >
@@ -84,9 +84,9 @@ A projeção de grupo permite sincronizar grupos de usuários e seus usuários a
    - **[!UICONTROL Adicionar somente]**: mescla os grupos de usuários adicionando novos usuários aos grupos de usuários existentes sem remover nenhum usuário.
    - **[!UICONTROL Grupo de espelhamento]**: ajuste os grupos da organização de destino para corresponder ao grupo compartilhado adicionando ou removendo usuários.
 
-8. Selecione **[!UICONTROL Revisar alterações pendentes]** para revisar as atualizações. Em seguida, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/br/enterprise/global-admin-console/set-up-organizations.html#execute-jobs).
+8. Selecione **[!UICONTROL Revisar alterações pendentes]** para revisar as atualizações. Em seguida, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/enterprise/global-admin-console/set-up-organizations.html#execute-jobs).
 
-   Os eventos de projeção de grupo são registrados para sua referência. Saiba como [exibir e baixar logs de auditoria](https://helpx.adobe.com/br/enterprise/global-admin-console/insights.html).
+   Os eventos de projeção de grupo são registrados para sua referência. Saiba como [exibir e baixar logs de auditoria](https://helpx.adobe.com/enterprise/global-admin-console/insights.html).
 
 
 Quando você compartilha um grupo de usuários, o grupo e seus usuários são adicionados à organização de destino. No entanto, o *grupo de usuários de origem* controla os grupos de usuários compartilhados e seus usuários. As atribuições de perfil de administrador e de produto *não* estão sincronizadas entre as organizações.
@@ -111,7 +111,7 @@ As alterações no nome do grupo de usuários projetado ou nos usuários associa
 
 6. Selecione **[!UICONTROL Revogar acesso]**.
 
-7. Selecione **[!UICONTROL Revisar alterações pendentes]** para revisar as atualizações. Em seguida, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/br/enterprise/global-admin-console/set-up-organizations.html#execute-jobs).
+7. Selecione **[!UICONTROL Revisar alterações pendentes]** para revisar as atualizações. Em seguida, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/enterprise/global-admin-console/set-up-organizations.html#execute-jobs).
 
 
 
@@ -133,9 +133,9 @@ As alterações no nome do grupo de usuários projetado ou nos usuários associa
 
    >[!NOTE]
    >
-   >No assistente **[!UICONTROL Editar Grupo de Usuários]**, você pode atribuir funções de administrador apenas a usuários que já tenham uma função de administrador atribuída nesta organização. Saiba como [adicionar novos administradores](https://helpx.adobe.com/enterprise/global-admin-console/manage-admins.html).
+   >No assistente **[!UICONTROL Editar Grupo de Usuários]**, você pode atribuir funções de administrador apenas a usuários que já tenham uma função de administrador atribuída nesta organização. Saiba como [adicionar novos administradores](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators).
 
-4. Selecione **[!UICONTROL Revisar alterações pendentes]** para revisar as atualizações. Em seguida, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/br/enterprise/using/global-admin-set-up-organizations.html#execute-jobs).
+4. Selecione **[!UICONTROL Revisar alterações pendentes]** para revisar as atualizações. Em seguida, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/enterprise/using/global-admin-set-up-organizations.html#execute-jobs).
 
    >[!NOTE]
    >
@@ -159,4 +159,4 @@ As alterações no nome do grupo de usuários projetado ou nos usuários associa
    >
    >A exclusão de um grupo de usuários pode afetar seus usuários. Verifique se não há acesso ou informações que serão perdidas quando o grupo de usuários for excluído.
 
-4. Depois de editar as organizações, selecione **[!UICONTROL Revisar alterações pendentes]** para analisá-las. Em seguida, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/br/enterprise/using/global-admin-set-up-organizations.html#execute-jobs).
+4. Depois de editar as organizações, selecione **[!UICONTROL Revisar alterações pendentes]** para analisá-las. Em seguida, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/enterprise/using/global-admin-set-up-organizations.html#execute-jobs).
