@@ -5,7 +5,7 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 3220086a-4603-465f-a3e3-194193ca10ba
-source-git-commit: 91d79132e11b322fd0ebd77df918be07060595fa
+source-git-commit: d29553542d3e6ea7e12fbf4c1bd1e5f6600d42b0
 workflow-type: tm+mt
 source-wordcount: '4425'
 ht-degree: 3%
@@ -18,11 +18,11 @@ ht-degree: 3%
 
 Saiba como os administradores globais podem simplificar o gerenciamento de organização e de produtos com recursos de exportação e importação na Global Admin Console.
 
-Acesse a guia **[!UICONTROL Organizações]** no [Global Admin Console](https://helpx.adobe.com/br/enterprise/global-admin-console/adopt-global-administration.html) para exportar ou importar a estrutura da organização. Acesse a guia **[!UICONTROL Alocação de Produto]** para obter dados de alocação. Use o ícone **[!UICONTROL Mais Opções]** **&#x200B;**&#x200B;para selecionar exportar ou importar. [Entre na Global Admin Console](https://global-admin-console.adobe.com).
+Acesse a guia **[!UICONTROL Organizações]** no [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) para exportar ou importar a estrutura da organização. Acesse a guia **[!UICONTROL Alocação de Produto]** para obter dados de alocação. Use o ícone **[!UICONTROL Mais Opções]** **** para selecionar exportar ou importar. [Entre na Global Admin Console](https://global-admin-console.adobe.com).
 
 ## Exportar a estrutura da organização
 
-Como [administrador global](https://helpx.adobe.com/br/enterprise/global-admin-console/manage-administrators.html), você pode exportar a hierarquia da organização. É possível baixar uma representação JSON, CSV ou XLSX de toda a hierarquia da organização ou um subconjunto dela. É possível então usar esses dados para análise ou modificação.
+Como [administrador global](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), você pode exportar a hierarquia da organização. É possível baixar uma representação JSON, CSV ou XLSX de toda a hierarquia da organização ou um subconjunto dela. É possível então usar esses dados para análise ou modificação.
 
 O formato de exportação escolhido afeta a estrutura dos dados exportados:
 
@@ -51,15 +51,15 @@ Após baixar o arquivo, você pode manipular os dados e importá-los de volta. A
 
 ## Importar a estrutura da organização
 
-Como [administrador global](https://helpx.adobe.com/br/enterprise/global-admin-console/manage-administrators.html), você pode importar dados potencialmente modificados. Quando carregados, os novos dados são comparados com os dados atuais e quaisquer alterações são aplicadas à hierarquia da organização. Todas as operações de importação são executadas na cópia atualizada da hierarquia da organização. Se você tiver alterações pendentes, as alterações de importação serão adicionadas sobre as alterações pendentes na hierarquia.
+Como [administrador global](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), você pode importar dados potencialmente modificados. Quando carregados, os novos dados são comparados com os dados atuais e quaisquer alterações são aplicadas à hierarquia da organização. Todas as operações de importação são executadas na cópia atualizada da hierarquia da organização. Se você tiver alterações pendentes, as alterações de importação serão adicionadas sobre as alterações pendentes na hierarquia.
 
 ### Etapas para importar
 
 1. Entrar na [Global Admin Console](https://global-admin-console.adobe.com). Na guia **[!UICONTROL Organizações]**, use o seletor de organização para selecionar a hierarquia da organização na qual você deseja realizar a importação.
-2. Selecione o ícone **[!UICONTROL Mais Opções]** **&#x200B;**&#x200B;e selecione **[!UICONTROL Importar]**. Dependendo do tamanho e da complexidade do arquivo de importação, o processamento pode levar de alguns segundos a vários minutos.
+2. Selecione o ícone **[!UICONTROL Mais Opções]** **** e selecione **[!UICONTROL Importar]**. Dependendo do tamanho e da complexidade do arquivo de importação, o processamento pode levar de alguns segundos a vários minutos.
 3. Selecione **[!UICONTROL Selecione um arquivo]** e escolha um arquivo JSON, CSV ou XLSX para ser carregado. Para CSV, somente um detalhe da organização pode ser importado de cada vez e ele não oferece suporte à importação de produtos. As alterações importadas aparecem como se você tivesse editado manualmente os dados.
 4. Selecione **[!UICONTROL Fechar]**.
-5. Selecione **[!UICONTROL Revisar alterações pendentes]**. Em seguida, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/br/enterprise/global-admin-console/execute-jobs.html). Antes de executar as alterações, as ações pendentes são exibidas da mesma maneira que quando as edições são feitas manualmente no Global Admin Console.
+5. Selecione **[!UICONTROL Revisar alterações pendentes]**. Em seguida, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html). Antes de executar as alterações, as ações pendentes são exibidas da mesma maneira que quando as edições são feitas manualmente no Global Admin Console.
 
 ## Exportar e importar esquemas
 
@@ -367,7 +367,7 @@ Organização que contém o grupo de usuários
 <tr>
     <td>recursos</td>
     <td> Matriz de recursos associados a este perfil de produto.
-O campo de recursos só está presente para o formato JSON. Para os formatos CSV e XLSX, os recursos são representados com os seguintes campos adicionais: resourceName, resourceId, resourceDescription, icon, seleted, quota, resourceType. Para obter detalhes sobre esses campos, consulte a seção intitulada *Produtos e recursos*.
+O campo de recursos só está presente para o formato JSON. Para os formatos CSV e XLSX, os recursos são representados com os seguintes campos adicionais: resourceName, resourceId, resourceDescription, icon, seleted, quota, resourceType. Para obter detalhes sobre esses campos, consulte a seção Produtos e recursos.
 Se o perfil de produto tiver mais de um recurso, haverá várias linhas presentes, uma para cada recurso. Os outros campos terão os mesmos valores para cada recurso. </td>
     <td></td>
   </tr>
@@ -629,7 +629,7 @@ O campo de operação nos recursos será ignorado quando o produto ao qual ele p
 
 ## Importar e exportar dados de alocação de produtos
 
-Como [Administrador Global](https://helpx.adobe.com/br/enterprise/global-admin-console/manage-administrators.html), você pode exportar os dados de alocação do produto como um arquivo JSON ou CSV. Em seguida, você pode manipular esses dados e carregá-los de volta para importar as alterações. Quando os dados potencialmente modificados são carregados, os novos dados são comparados com os dados atuais e todas as alterações são aplicadas aos dados de alocação do produto. É possível revisar e enviar as alterações pendentes para que elas entrem em vigor.
+Como [Administrador Global](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), você pode exportar os dados de alocação do produto como um arquivo JSON ou CSV. Em seguida, você pode manipular esses dados e carregá-los de volta para importar as alterações. Quando os dados potencialmente modificados são carregados, os novos dados são comparados com os dados atuais e todas as alterações são aplicadas aos dados de alocação do produto. É possível revisar e enviar as alterações pendentes para que elas entrem em vigor.
 
 ## Exportar o modelo de alocação de produtos
 
@@ -645,7 +645,7 @@ Para exportar o modelo de alocação de produtos, faça o seguinte:
 1. Faça logon no [Global Admin Console](https://global-admin-console.adobe.com/) e navegue até a guia **[!UICONTROL Alocação de Produto]**.
 2. Selecione o ícone **[!UICONTROL Mais Opções]** e selecione **[!UICONTROL Importar]**.
 3. Selecione um arquivo JSON ou CSV para fazer upload.
-4. Selecione **[!UICONTROL Revisar alterações pendentes]**. Depois de revisar as alterações, selecione **[!UICONTROL Enviar Alterações]** para [executá-las](https://helpx.adobe.com/br/enterprise/global-admin-console/execute-jobs.html).
+4. Selecione **[!UICONTROL Revisar alterações pendentes]**. Depois de revisar as alterações, selecione **[!UICONTROL Enviar Alterações]** para [executá-las](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
 
 ## Exportar e importar formatos para alocação de produtos
 
