@@ -4,9 +4,12 @@ description: Saiba como administradores globais podem adicionar, editar e exclui
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-product_v2: id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 011223f71c06bcc17f669751ee8b12c81c52436f
 workflow-type: tm+mt
 source-wordcount: 580
@@ -46,8 +49,8 @@ Para gerenciar Perfis de produto, selecione um produto. Os controles para adicio
    |---|---|
    | **[!UICONTROL Nome]** | Um nome exclusivo para o Perfil de produto na organização, diferente de outros Perfis de produto e grupos de usuários. |
    | **[!UICONTROL Cota]** | O número de destino de licenças alocadas para este perfil. |
-   | **[!UICONTROL Grupos de usuários]** | Selecione na lista suspensa ou digite um nome de grupo de usuários. Se o grupo de usuários ainda não existir, crie-o primeiro por meio da guia [**[!UICONTROL Grupos de Usuários ]**](https://helpx.adobe.com/enterprise/global-admin-console/manage-user-groups.html). |
-   | **[!UICONTROL Administradores]** | Selecione na lista suspensa ou insira um endereço de email de administrador. Se o administrador ainda não existir, crie-o primeiro por meio da guia [**[!UICONTROL Administradores ]**](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html). |
+   | **[!UICONTROL Grupos de usuários]** | Selecione na lista suspensa ou digite um nome de grupo de usuários. Se o grupo de usuários ainda não existir, crie-o primeiro por meio da guia [**[!UICONTROL Grupos de Usuários &#x200B;]**](https://helpx.adobe.com/enterprise/global-admin-console/manage-user-groups.html). |
+   | **[!UICONTROL Administradores]** | Selecione na lista suspensa ou insira um endereço de email de administrador. Se o administrador ainda não existir, crie-o primeiro por meio da guia [**[!UICONTROL Administradores &#x200B;]**](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html). |
 
    Os [!UICONTROL Grupos de Usuários] especificados são atribuídos ao Perfil do Produto. Os administradores especificados se tornam os **[!UICONTROL Administradores do Perfil de Produto]**, que podem gerenciar o perfil por meio da Adobe Admin Console para a organização relevante.
 
