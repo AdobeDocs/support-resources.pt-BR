@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: c9ea6b6110f6fbd75671ac9b21a5a3a95f73f7f5
+source-git-commit: f6cba0e6b34a4ff33004fdf9606f9c8b188d4e95
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '267'
 ht-degree: 1%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 1%
 # Guia de ferramentas e suporte do Adobe {#adobe-support-tools-guide}
 
 - [Visão geral do Guia de ferramentas e suporte do Adobe](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
+- [Notas de versão de suporte do Experience League](/help/adobe-support-tools-guide/release-notes.md)
 - [experiência de suporte ao cliente do Adobe](adobe-customer-support-experience.md)
 - [Configuração de direitos de suporte ao cliente da Adobe](adobe-customer-support-entitlement-configuration.md)
 - [Atualização do número de telefone do suporte](phone-numbers.md)
