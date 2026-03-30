@@ -17,17 +17,17 @@ Este artigo explica como enviar tíquetes de suporte e gerenciar o acesso relaci
 
 ## tíquetes de suporte do Experience League
 
-Os tíquetes de suporte agora são enviados via [Experience League](https://experienceleague.adobe.com/home#support). Para obter instruções sobre como enviar um tíquete de suporte, consulte a seção para [envio de um tíquete de suporte](#create-a-support-ticket-with-experience-league).
+Os tíquetes de suporte agora são enviados via [Experience League](https://experienceleague.adobe.com/home?lang=pt-BR#support). Para obter instruções sobre como enviar um tíquete de suporte, consulte a seção para [envio de um tíquete de suporte](#create-a-support-ticket-with-experience-league).
 
 Estamos trabalhando para melhorar a forma como você interage com o Suporte ao cliente da Adobe. Nossa visão é simplificar a experiência de suporte migrando para um único ponto de entrada, usando o Experience League. Uma vez ao vivo, sua organização poderá acessar facilmente o Suporte ao cliente da Adobe, ter maior visibilidade de seu histórico de serviço por meio de um sistema comum entre os produtos e solicitar ajuda por telefone, Web e bate-papo em um único portal.
 
-Se você for usuário do Adobe Commerce, consulte [Enviar um caso de suporte](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) no Guia do Usuário de Suporte da Experience League para o Adobe Commerce.
+Se você for usuário do Adobe Commerce, consulte [Enviar um caso de suporte](https://experienceleague.adobe.com/pt-br/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) no Guia do Usuário de Suporte da Experience League para o Adobe Commerce.
 
 ## Funções de suporte qualificadas necessárias para o envio de caso {#submit-ticket}
 
-Para enviar um tíquete de suporte no [Experience League](https://experienceleague.adobe.com/home#support), você precisa ter a função de administrador de suporte atribuída por um Administrador do Sistema. Somente um Administrador do sistema em sua organização pode atribuir essa função. O Produto, o Perfil do Produto e outras funções administrativas não podem atribuir a função de administrador de Suporte e não podem exibir a opção **[!UICONTROL Criar Caso]** usada para enviar um tíquete de suporte. Para saber mais sobre os diferentes tipos de funções de administrador e seus direitos, consulte [Funções de administrador](admin-roles.md). Se você precisar configurar esses direitos de suporte antes de enviar uma ocorrência, consulte [configuração de direito do suporte ao cliente da Adobe](adobe-customer-support-entitlement-configuration.md).
+Para enviar um tíquete de suporte no [Experience League](https://experienceleague.adobe.com/home?lang=pt-BR#support), você precisa ter a função de administrador de suporte atribuída por um Administrador do Sistema. Somente um Administrador do sistema em sua organização pode atribuir essa função. O Produto, o Perfil do Produto e outras funções administrativas não podem atribuir a função de administrador de Suporte e não podem exibir a opção **[!UICONTROL Criar Caso]** usada para enviar um tíquete de suporte. Para saber mais sobre os diferentes tipos de funções de administrador e seus direitos, consulte [Funções de administrador](admin-roles.md). Se você precisar configurar esses direitos de suporte antes de enviar uma ocorrência, consulte [configuração de direito do suporte ao cliente da Adobe](adobe-customer-support-entitlement-configuration.md).
 
-Se você estiver no Commerce, o processo para compartilhar o acesso para trabalhar com casos de suporte será diferente. Para saber mais, consulte [Acesso compartilhado: conceder privilégios para que outros usuários acessem sua conta](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) no Guia do Usuário do Suporte da Experience League para Adobe Commerce.
+Se você estiver no Commerce, o processo para compartilhar o acesso para trabalhar com casos de suporte será diferente. Para saber mais, consulte [Acesso compartilhado: conceder privilégios para que outros usuários acessem sua conta](https://experienceleague.adobe.com/pt-br/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) no Guia do Usuário do Suporte da Experience League para Adobe Commerce.
 
 ### Criar um tíquete de suporte com o Experience League
 
@@ -37,7 +37,7 @@ Se você estiver no Commerce, o processo para compartilhar o acesso para trabalh
 
 O processo de envio de casos de suporte agora está diretamente integrado à plataforma de suporte da Experience League. Este é um portal de autoatendimento que foi reprojetado recentemente para oferecer mais personalização e facilidade de uso para clientes autorizados.
 
-1. Para criar um tíquete usando o [Experience League](https://experienceleague.adobe.com/home#support), selecione a guia **[!UICONTROL Suporte]** localizada na navegação superior.
+1. Para criar um tíquete usando o [Experience League](https://experienceleague.adobe.com/home?lang=pt-BR#support), selecione a guia **[!UICONTROL Suporte]** localizada na navegação superior.
    ![Guia de suporte da Experience League](./assets/experience-league-support-tab.png)
 1. Na página inicial de suporte, você pode navegar facilmente até os casos de suporte abertos, registrar um novo caso, exibir os principais artigos de suporte ou acessar fontes de aprendizado adicionais.
    ![Recursos de suporte da Experience League](./assets/experience-league-support-resources.png)
@@ -70,7 +70,7 @@ O processo de envio de casos de suporte agora está diretamente integrado à pla
    * Impacto nos negócios
    * Fuso horário do cliente (Américas, EMEA, APAC)
 
-   Para obter detalhes sobre como a Prioridade de Casos e o Impacto nos Negócios afetam os tempos de resposta de suporte, consulte [Metas de tempo de resposta iniciais de suporte](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) na Documentação de Recursos dos Planos de Sucesso.
+   Para obter detalhes sobre como a Prioridade de Casos e o Impacto nos Negócios afetam os tempos de resposta de suporte, consulte [Metas de tempo de resposta iniciais de suporte](https://experienceleague.adobe.com/pt-br/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) na Documentação de Recursos dos Planos de Sucesso.
 
 ![Prioridade de tíquete da Experience League](./assets/experience-league-ticket-priority.png)
 
