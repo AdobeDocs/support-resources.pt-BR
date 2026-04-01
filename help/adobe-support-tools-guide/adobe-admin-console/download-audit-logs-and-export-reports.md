@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 4b562a4d-14e5-4687-a1ae-6a435f087627
-source-git-commit: 8db982f6a642a288453086c23d20b44b14d55354
+source-git-commit: 5573d0f0e58b7ba799726740ae0d29b1053122aa
 workflow-type: tm+mt
-source-wordcount: '880'
+source-wordcount: '876'
 ht-degree: 2%
 
 ---
@@ -29,25 +29,25 @@ Como administrador global, você tem total visibilidade das alterações feitas 
 
 >[!NOTE]
 >
-> Como administrador do sistema em uma organização do [Adobe Admin Console](https://adminconsole.adobe.com), você pode usar o [Log de Auditoria](https://helpx.adobe.com/br/enterprise/using/audit-logs.html) para examinar as atribuições de usuários e os eventos de usuários. As ações executadas pelos administradores do sistema em organizações secundárias da organização selecionada também são incluídas nos logs de auditoria. Saiba mais sobre como os administradores do sistema podem [rastrear alterações](https://helpx.adobe.com/br/enterprise/using/audit-logs.html) feitas na Admin Console.
+> Como administrador do sistema em uma organização do [Adobe Admin Console](https://adminconsole.adobe.com), você pode usar o [Log de Auditoria](https://helpx.adobe.com/enterprise/using/audit-logs.html) para examinar as atribuições de usuários e os eventos de usuários. As ações executadas pelos administradores do sistema em organizações secundárias da organização selecionada também são incluídas nos logs de auditoria. Saiba mais sobre como os administradores do sistema podem [rastrear alterações](https://helpx.adobe.com/enterprise/using/audit-logs.html) feitas na Admin Console.
 
 Para exibir ou baixar logs de auditoria para sua organização:
 
 1. Como administrador global, entre na [Global Admin Console](https://global-admin-console.adobe.com/insights).
 1. Selecione **[!UICONTROL Insights]** > **[!UICONTROL Logs de auditoria]**.
+
 Os logs de auditoria exibem as seguintes informações para eventos filtrados:
 
-   | Campo | Descrição |
-   |------ |-------------|
-   | Data | Data e hora do evento, mostradas no fuso horário local. |
-   | Nome do evento | Descrição da ação executada. |
-   | Detalhes do evento | Detalhes adicionais do evento, se disponíveis. |
-   | Nome do objeto | O nome do produto, perfil do produto ou grupo de usuários envolvido no evento, conforme aplicável. |
-   | Usuário afetado | Endereço de email do usuário afetado, se aplicável. |
-   | Administrador | Endereço de email do administrador que executou a ação. *Sistema* será exibido se a ação tiver sido executada por um sistema de back-end do Adobe. |
-   | Endereço IP | Endereço IP da máquina em que a ação foi executada. Normalmente reflete o local físico, mas pode ser um servidor proxy ou endereço VPN. |
-   | Organização | Nome da organização afetada pelo evento. |
-
+| Campo | Descrição |
+|------ |-------------|
+| Data | Data e hora do evento, mostradas no fuso horário local. |
+| Nome do evento | Descrição da ação executada. |
+| Detalhes do evento | Detalhes adicionais do evento, se disponíveis. |
+| Nome do objeto | Nome do produto, perfil do produto ou grupo de usuários envolvidos no evento, conforme aplicável. |
+| Usuário afetado | Endereço de email do usuário afetado, se aplicável. |
+| Administrador | Endereço de email do administrador que executou a ação. *Sistema* será exibido se a ação tiver sido executada por um sistema de back-end do Adobe. |
+| Endereço IP | Endereço IP da máquina em que a ação foi executada. Isso geralmente reflete o local físico, mas pode ser um servidor proxy ou endereço VPN. |
+| Organização | Nome da organização afetada pelo evento. |
 
 1. Você pode filtrar logs de auditoria usando as seguintes opções:
 
@@ -55,7 +55,7 @@ Os logs de auditoria exibem as seguintes informações para eventos filtrados:
    - Selecione uma ou mais organizações.
    - Defina um intervalo de datas.
    - Filtrar por nome de evento.
-   - É possível combinar filtros para restringir os resultados, como exibir eventos dos últimos sete dias para uma organização específica.
+   - Combine filtros para restringir resultados, como a exibição de eventos dos últimos sete dias para uma organização específica.
 
    ![logs de auditoria](assets/audit-logs.png)
 
@@ -106,7 +106,7 @@ Para baixar um relatório de exportação:
 
 1. Faça logon no [Global Admin Console](https://global-admin-console.adobe.com/insights) e navegue até **[!UICONTROL Insights]** > **[!UICONTROL Exportar Relatórios]**.
 
-   Os relatórios gerados nos últimos 90 dias são exibidos. Após 90 dias, você poderá gerar o relatório novamente. Saiba como gerar relatórios para [Estrutura de organização](https://helpx.adobe.com/br/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
+   Os relatórios gerados nos últimos 90 dias são exibidos. Após 90 dias, você poderá gerar o relatório novamente. Saiba como gerar relatórios para [Estrutura de organização](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
 
 
    | Campo | Descrição |

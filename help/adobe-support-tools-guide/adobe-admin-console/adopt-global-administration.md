@@ -4,9 +4,10 @@ description: Saiba o que é a Global Admin Console e como solicitar acesso.
 Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
-source-git-commit: ae2a50b6ebab1ba46fdcad0e8aa2921b4728ed42
+exl-id: 4da055a9-7cdc-4411-8895-016e24eabb2e
+source-git-commit: a65339ed3314c178f52761aab1efa0fe898607ae
 workflow-type: tm+mt
-source-wordcount: '805'
+source-wordcount: '810'
 ht-degree: 0%
 
 ---
@@ -15,10 +16,9 @@ ht-degree: 0%
 
 Aplicável à empresa.
 
-Saiba mais sobre os benefícios de usar o Global Admin Console e descubra como obter acesso. [Saiba mais](#request-access-to-the-global-admin-console)
+Saiba mais sobre os benefícios de usar o Global Admin Console e descubra como obter acesso. [Saiba mais](#request-access-to-the-global-admin-console).
 
-Crie um caso de suporte no Adobe Admin Console para solicitar acesso a uma Global Admin Console.
-Entrar na [Global Admin Console](https://adminconsole.adobe.com/support).
+Crie um caso de suporte no Adobe Admin Console para solicitar acesso a uma Global Admin Console. Entrar na [Global Admin Console](https://adminconsole.adobe.com/support).
 
 ## Introdução
 
@@ -26,9 +26,7 @@ O [Global Admin Console](https://adminconsole.adobe.com/support) é para cliente
 
 A Global Admin Console não substitui nem altera a funcionalidade das instâncias do Admin Console existentes. Ela funciona como uma hierarquia com uma organização raiz na parte superior e todos os consoles aninhados sob essa organização raiz. Há um critério de seleção focado na compra e na criação de uma estrutura hierárquica na qual um Admin Console opera como o console raiz.
 
-Para saber mais sobre a funcionalidade e os benefícios do Global Admin Console, consulte o [white paper sobre o Global Admin Console](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625).
-
-[!VIDEO](https://youtu.be/FLBWR78wpok)
+Para saber mais sobre a funcionalidade e os benefícios do Global Admin Console, consulte o [white paper sobre o Global Admin Console](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625) e assista ao seguinte [vídeo](https://youtu.be/FLBWR78wpok).
 
 O conteúdo e a narração deste vídeo estão disponíveis somente em inglês.
 
@@ -46,7 +44,7 @@ Estas são algumas das principais vantagens do [!DNL Global Admin Console]:
 - Crie, edite e exclua perfis de produtos e grupos de usuários.
 - Exportar informações da organização para relatório ou uso em outros processos.
 - Importar atualizações para organizações e alterações na hierarquia organizacional.
-- Receba notificações sobre o status do contrato da ETLA em organizações secundárias, incluindo contratos que estão prestes a expirar, expirados ou inativos. Para obter mais informações, consulte a documentação de [expiração do contrato](https://helpx.adobe.com/br/enterprise/using/contract-expiry.html).
+- Receba notificações sobre o status do contrato da ETLA em organizações secundárias, incluindo contratos que estão prestes a expirar, expirados ou inativos. Para obter mais informações, consulte a documentação de [expiração do contrato](https://helpx.adobe.com/enterprise/using/contract-expiry.html).
 
 ## Critérios de elegibilidade
 

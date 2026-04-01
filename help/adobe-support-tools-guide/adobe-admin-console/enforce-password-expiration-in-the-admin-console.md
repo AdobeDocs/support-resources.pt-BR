@@ -4,23 +4,19 @@ description: Saiba como os administradores de sistema da organização podem def
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: e78ef432a4adcf3626fd46ce8a1854f9ec8317b6
+exl-id: d43e39a9-9c6e-4b19-9e6a-5037e91fc443
+source-git-commit: 7f9d141c8cfccc1830f0494526b742ae0c50fddf
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 2%
+source-wordcount: '122'
+ht-degree: 1%
 
 ---
 
-
 # Forçar a expiração da senha no Admin Console
 
-> **Aplica-se a:** Empresas e Equipes
+**Aplica-se a:** Empresas e Equipes
 
-Os administradores de sistema da organização podem seguir o processo para definir um limite de tempo de expiração de senha para seus usuários.
-
-## Ambiente
-
-[Adobe Admin Console](https://adminconsole.adobe.com/)
+Os administradores de sistema da organização podem seguir o processo para definir um limite de tempo de expiração de senha para seus usuários. Entrar na [Adobe Admin Console](https://adminconsole.adobe.com/).
 
 ## Etapas
 
@@ -30,4 +26,4 @@ Os administradores de sistema da organização podem seguir o processo para defi
 
 1. Revise os **[!UICONTROL Níveis de autenticação]** e selecione o nível mais adequado de autenticação para seus usuários: **[!UICONTROL Mais Fácil para Usuários]**, **[!UICONTROL Mais Seguro]**, **[!UICONTROL Mais Seguro]**.
 
-Visite a [Ajuda de configurações de autenticação](https://helpx.adobe.com/br/enterprise/using/authentication-settings.html) para saber mais sobre as políticas de autenticação e segurança disponíveis.
+Visite a [Ajuda de configurações de autenticação](https://helpx.adobe.com/enterprise/using/authentication-settings.html) para saber mais sobre as políticas de autenticação e segurança disponíveis.
