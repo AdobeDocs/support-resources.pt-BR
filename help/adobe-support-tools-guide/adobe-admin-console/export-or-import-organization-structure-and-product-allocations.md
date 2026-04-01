@@ -57,7 +57,7 @@ Como [administrador global](https://helpx.adobe.com/enterprise/global-admin-cons
 ### Etapas para importar
 
 1. Entrar na [Global Admin Console](https://global-admin-console.adobe.com). Na guia **[!UICONTROL Organizações]**, use o seletor de organização para selecionar a hierarquia da organização na qual você deseja realizar a importação.
-2. Selecione o ícone **[!UICONTROL Mais Opções]** **** e selecione **[!UICONTROL Importar]**. Dependendo do tamanho e da complexidade do arquivo de importação, o processamento pode levar de alguns segundos a vários minutos.
+2. Selecione o ícone **[!UICONTROL Mais Opções]** **&#x200B;**&#x200B;e selecione **[!UICONTROL Importar]**. Dependendo do tamanho e da complexidade do arquivo de importação, o processamento pode levar de alguns segundos a vários minutos.
 3. Selecione **[!UICONTROL Selecione um arquivo]** e escolha um arquivo JSON, CSV ou XLSX para ser carregado. Para CSV, somente um detalhe da organização pode ser importado de cada vez e ele não oferece suporte à importação de produtos. As alterações importadas aparecem como se você tivesse editado manualmente os dados.
 4. Selecione **[!UICONTROL Fechar]**.
 5. Selecione **[!UICONTROL Revisar alterações pendentes]**. Em seguida, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html). Antes de executar as alterações, as ações pendentes são exibidas da mesma maneira que quando as edições são feitas manualmente no Global Admin Console.

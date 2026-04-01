@@ -169,7 +169,7 @@ Usando as [[!UICONTROL Configurações do console]](https://helpx.adobe.com/ente
 
 Escolha um idioma de email padrão para sua organização, a fim de receber emails sobre os status da conta, como alterações de assinatura ou expiração de cartão de crédito. Se você tiver uma associação de equipes comprada diretamente da Adobe, poderá alterar o nome da sua equipe nas **[!UICONTROL Configurações do console]**.
 
-## [!UICONTROL  logs de conteúdo] {#content-logs}
+## [!UICONTROL &#x200B; logs de conteúdo] {#content-logs}
 
 Como administrador, você pode baixar relatórios detalhados sobre como os usuários finais trabalham com ativos corporativos, como pastas, arquivos e bibliotecas. Esses relatórios são chamados de [[!UICONTROL logs de conteúdo]](https://helpx.adobe.com/enterprise/using/content-logs.html).
 
