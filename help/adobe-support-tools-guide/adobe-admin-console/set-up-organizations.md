@@ -85,7 +85,7 @@ As alterações são registradas no log de auditoria, todos os usuários são no
 
 ## Alterar o pai de uma organização
 
-Como um [!DNL Global Administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators), você pode atribuir um pai a uma organização na hierarquia da organização usando o botão **[!UICONTROL Alterar hierarquia]**.
+Como um [[!DNL Global Administrator]](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators), você pode atribuir um pai a uma organização na hierarquia da organização usando o botão **[!UICONTROL Alterar hierarquia]**.
 
 Alterar o pai de uma organização tem o seguinte impacto:
 
