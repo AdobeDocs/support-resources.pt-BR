@@ -24,12 +24,12 @@ Para começar, entre na [Global Admin Console](https://global-admin-console.adob
 
 Como administrador global, você tem total visibilidade das alterações feitas na Global Admin Console. Você pode pesquisar logs de auditoria em todas as organizações para ações tomadas nos últimos 90 dias, incluindo quando ocorreram e quem as executou.
 - Os logs de auditoria ajudam a garantir a conformidade contínua, protegendo contra acesso inadequado ao sistema e auditando comportamentos suspeitos em sua organização.
-- Os logs disponíveis no Global Admin Console incluem somente eventos que um administrador global pode acessar. Eles não incluem atribuições de usuário ou eventos de usuário. [Saiba mais](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview) sobre os diferentes recursos que cada console oferece.
+- Os logs disponíveis no Global Admin Console incluem somente eventos que um administrador global pode acessar. Eles não incluem atribuições de usuário ou eventos de usuário. [Saiba mais](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview) sobre os diferentes recursos que cada console oferece.
 - Os logs abrangem eventos para todas as organizações na hierarquia, permitindo pesquisar logs de auditoria em todas as organizações de uma só vez.
 
 >[!NOTE]
 >
-> Como administrador do sistema em uma organização do [Adobe Admin Console](https://adminconsole.adobe.com), você pode usar o [Log de Auditoria](https://helpx.adobe.com/enterprise/using/audit-logs.html) para examinar as atribuições de usuários e os eventos de usuários. As ações executadas pelos administradores do sistema em organizações secundárias da organização selecionada também são incluídas nos logs de auditoria. Saiba mais sobre como os administradores do sistema podem [rastrear alterações](https://helpx.adobe.com/enterprise/using/audit-logs.html) feitas na Admin Console.
+> Como administrador do sistema em uma organização do [Adobe Admin Console](https://adminconsole.adobe.com), você pode usar o [Log de Auditoria](https://helpx.adobe.com/br/enterprise/using/audit-logs.html) para examinar as atribuições de usuários e os eventos de usuários. As ações executadas pelos administradores do sistema em organizações secundárias da organização selecionada também são incluídas nos logs de auditoria. Saiba mais sobre como os administradores do sistema podem [rastrear alterações](https://helpx.adobe.com/br/enterprise/using/audit-logs.html) feitas na Admin Console.
 
 Para exibir ou baixar logs de auditoria para sua organização:
 
@@ -106,7 +106,7 @@ Para baixar um relatório de exportação:
 
 1. Faça logon no [Global Admin Console](https://global-admin-console.adobe.com/insights) e navegue até **[!UICONTROL Insights]** > **[!UICONTROL Exportar Relatórios]**.
 
-   Os relatórios gerados nos últimos 90 dias são exibidos. Após 90 dias, você pode gerar o relatório novamente. Saiba como gerar relatórios para [Estrutura de organização](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-the-organization-structure).
+   Os relatórios gerados nos últimos 90 dias são exibidos. Após 90 dias, você pode gerar o relatório novamente. Saiba como gerar relatórios para [Estrutura de organização](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-the-organization-structure).
 
 
    | Campo | Descrição |
