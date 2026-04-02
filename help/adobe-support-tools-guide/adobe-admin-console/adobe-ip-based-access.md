@@ -36,7 +36,7 @@ Você pode adicionar IPs públicos confiáveis à lista **Endereços IP permitid
 
 ### Considerações importantes
 
->[!Iconsiderações importantes]
+>[ !Iconsiderações importantes]
 >
 >- Os administradores devem começar adicionando seu próprio endereço IP público e depois adicionar outros intervalos IP. Caso contrário, você poderá enfrentar um erro.
 >- O acesso baseado em IP não se aplica a endereços IP privados.
@@ -45,7 +45,7 @@ Você pode adicionar até 150 intervalos de IP públicos diferentes somente no f
 
 Siga estas etapas para habilitar o acesso baseado em IP no seu Adobe Admin Console:
 
-1. Vá para a seção **[!UICONTROL Configurações do Adobe Admin Console](https://adminconsole.adobe.com/settings/identity)**.
+1. Vá para a seção **[[!UICONTROL Configurações do Adobe Admin Console]](https://adminconsole.adobe.com/settings/identity)**.
 2. Selecione e expanda **[!UICONTROL Privacidade e segurança]** no menu de seleção e selecione **[!UICONTROL Configurações de autenticação]**.
 3. Na seção **[!UICONTROL Acesso baseado em IP]**, selecione o botão **[!UICONTROL Adicionar endereço IP]**.
 4. Na janela **[!UICONTROL Adicionar endereço IP]**:
