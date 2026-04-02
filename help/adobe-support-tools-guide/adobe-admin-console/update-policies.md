@@ -27,7 +27,7 @@ Saiba como um administrador global pode definir e modificar políticas para uma 
 
 >[!NOTE]
 >
->Na [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html), selecione uma organização na hierarquia e navegue até a guia **Políticas** para permitir, proibir ou bloquear as políticas.
+>Na [Global Admin Console](https://helpx.adobe.com/br/enterprise/global-admin-console/adopt-global-administration.html), selecione uma organização na hierarquia e navegue até a guia **Políticas** para permitir, proibir ou bloquear as políticas.
 >
 > [Entrar na Global Admin Console](https://global-admin-console.adobe.com/)
 
@@ -38,14 +38,14 @@ Por exemplo, se a política **Domínios de Declaração** estiver definida como 
 
 Para modificar as políticas de uma organização, faça o seguinte:
 
-1. Na Global Admin Console, [selecione uma organização](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) para editar e navegue até a guia **[!UICONTROL Políticas]**.
-1. Selecione o botão de alternância da política relevante para permitir ou impedir sua permissão. Você também pode bloquear uma política para que ninguém, exceto um administrador global da [organização selecionada](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) ou sua organização principal, possa alterá-la ou desbloqueá-la.
+1. Na Global Admin Console, [selecione uma organização](https://helpx.adobe.com/br/enterprise/global-admin-console/overview.html) para editar e navegue até a guia **[!UICONTROL Políticas]**.
+1. Selecione o botão de alternância da política relevante para permitir ou impedir sua permissão. Você também pode bloquear uma política para que ninguém, exceto um administrador global da [organização selecionada](https://helpx.adobe.com/br/enterprise/global-admin-console/overview.html) ou sua organização principal, possa alterá-la ou desbloqueá-la.
 1. Para bloquear uma política, selecione o ícone **[!UICONTROL Bloquear]** ![Bloquear](./assets/lock.png). Passar o mouse sobre o bloqueio exibe o nome da organização selecionada. Saiba mais sobre [bloqueios de política](#policy-locks).
-1. Selecione **[!UICONTROL Revisar alterações pendentes]** depois de concluir a edição das organizações. Depois de revisar, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
+1. Selecione **[!UICONTROL Revisar alterações pendentes]** depois de concluir a edição das organizações. Depois de revisar, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/br/enterprise/global-admin-console/execute-jobs.html).
 
 ## Bloqueios de Política {#policy-locks}
 
-Quando uma política é bloqueada, seu valor não pode ser alterado até que a política seja desbloqueada. A Global Admin Console lembra a [organização selecionada](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) no seletor de organização como sendo a organização da qual a política foi bloqueada. Qualquer administrador global dessa organização selecionada ou de qualquer organização localizada na parte superior da árvore tem permissão para desbloquear a política. Os administradores globais cujo escopo é inferior a essa organização não têm permissão para desbloquear e alterar valores de política.
+Quando uma política é bloqueada, seu valor não pode ser alterado até que a política seja desbloqueada. A Global Admin Console lembra a [organização selecionada](https://helpx.adobe.com/br/enterprise/global-admin-console/overview.html) no seletor de organização como sendo a organização da qual a política foi bloqueada. Qualquer administrador global dessa organização selecionada ou de qualquer organização localizada na parte superior da árvore tem permissão para desbloquear a política. Os administradores globais cujo escopo é inferior a essa organização não têm permissão para desbloquear e alterar valores de política.
 
 Para criar um ambiente bloqueado, defina os valores de política desejados em suas organizações secundárias e bloqueie-os. Os administradores globais dessas organizações secundárias não poderão editar os valores da política.
 
