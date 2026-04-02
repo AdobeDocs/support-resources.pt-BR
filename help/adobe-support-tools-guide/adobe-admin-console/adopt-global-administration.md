@@ -5,7 +5,7 @@ Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
 exl-id: 4da055a9-7cdc-4411-8895-016e24eabb2e
-source-git-commit: a65339ed3314c178f52761aab1efa0fe898607ae
+source-git-commit: f8d59d1d855ed2c564d9a86286e799ab428d8680
 workflow-type: tm+mt
 source-wordcount: '810'
 ht-degree: 0%
@@ -18,11 +18,11 @@ Aplicável à empresa.
 
 Saiba mais sobre os benefícios de usar o Global Admin Console e descubra como obter acesso. [Saiba mais](#request-access-to-the-global-admin-console).
 
-Crie um caso de suporte no Adobe Admin Console para solicitar acesso a uma Global Admin Console. Entrar na [Global Admin Console](https://adminconsole.adobe.com/support).
+Crie um caso de suporte no Adobe Admin Console para solicitar acesso a uma Global Admin Console. Entrar na [Global Admin Console](https://global-admin-console.adobe.com).
 
 ## Introdução
 
-O [Global Admin Console](https://adminconsole.adobe.com/support) é para clientes com estruturas organizacionais complexas que têm muitos Consoles de Administração ou que desejam dividir seu Admin Console principal em vários consoles. Por exemplo, corporações multinacionais, consórcios de educação, grandes distritos escolares, e grandes agências governamentais. Ele aninha os Consoles do administrador existentes em uma estrutura hierárquica, como um organograma, para fornecer transparência em uma empresa distribuída.
+O [Global Admin Console](https://global-admin-console.adobe.com) é para clientes com estruturas organizacionais complexas que têm muitos Consoles de Administração ou que desejam dividir seu Admin Console principal em vários consoles. Por exemplo, corporações multinacionais, consórcios de educação, grandes distritos escolares, e grandes agências governamentais. Ele aninha os Consoles do administrador existentes em uma estrutura hierárquica, como um organograma, para fornecer transparência em uma empresa distribuída.
 
 A Global Admin Console não substitui nem altera a funcionalidade das instâncias do Admin Console existentes. Ela funciona como uma hierarquia com uma organização raiz na parte superior e todos os consoles aninhados sob essa organização raiz. Há um critério de seleção focado na compra e na criação de uma estrutura hierárquica na qual um Admin Console opera como o console raiz.
 
@@ -44,7 +44,7 @@ Estas são algumas das principais vantagens do [!DNL Global Admin Console]:
 - Crie, edite e exclua perfis de produtos e grupos de usuários.
 - Exportar informações da organização para relatório ou uso em outros processos.
 - Importar atualizações para organizações e alterações na hierarquia organizacional.
-- Receba notificações sobre o status do contrato da ETLA em organizações secundárias, incluindo contratos que estão prestes a expirar, expirados ou inativos. Para obter mais informações, consulte a documentação de [expiração do contrato](https://helpx.adobe.com/br/enterprise/using/contract-expiry.html).
+- Receba notificações sobre o status do contrato da ETLA em organizações secundárias, incluindo contratos que estão prestes a expirar, expirados ou inativos. Para obter mais informações, consulte a documentação de [expiração do contrato](https://helpx.adobe.com/enterprise/using/contract-expiry.html).
 
 ## Critérios de elegibilidade
 
