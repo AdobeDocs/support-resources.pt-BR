@@ -4,13 +4,13 @@ description: Como os clientes do Adobe podem configurar e gerenciar direitos de 
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 7f7a394874014fb5333ed9fb39f84b7137562726
+exl-id: 75b0e812-da38-46af-94b6-7b7db8954be3
+source-git-commit: e6379bd22238091d6f6d26d2aa3e515ce7c61e5a
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
 
 ---
-
 
 # Configuração de direitos de suporte ao cliente da Adobe
 
@@ -55,4 +55,4 @@ Como parte do processo de logon, os usuários podem ser solicitados a configurar
 
 ![Confirmação de direitos do administrador](assets/admin-rights-confirmation.png)
 
-Para obter mais detalhes, consulte as instruções de [Editar função de administrador de empresa](admin-roles.md#edit-enterprise-admin-role) na documentação de funções administrativas. Observe que somente um administrador do sistema de sua organização pode atribuir essa função. Para obter mais informações sobre hierarquia administrativa, consulte a documentação de [Funções administrativas](admin-roles.md).
+Para obter mais detalhes, consulte as instruções de [Editar função de administrador de empresa](adobe-admin-console/admin-roles.md#edit-enterprise-admin-role) na documentação de funções administrativas. Observe que somente um administrador do sistema de sua organização pode atribuir essa função. Para obter mais informações sobre hierarquia administrativa, consulte a documentação de [Funções administrativas](adobe-admin-console/admin-roles.md).
