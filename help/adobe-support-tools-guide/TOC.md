@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 89ec9694aa6a5215959c0cf3897880a60239c551
+source-git-commit: 201356d2f86139f6f4230547ad946c3bb5190ace
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '294'
 ht-degree: 1%
 
 ---
@@ -20,10 +20,10 @@ ht-degree: 1%
 - [experiência de suporte ao cliente do Adobe](adobe-customer-support-experience.md)
 - [Configuração de direitos de suporte ao cliente da Adobe](adobe-customer-support-entitlement-configuration.md)
 - [Atualização do número de telefone do suporte](phone-numbers.md)
-- [Funções do administrador](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [Navegação no Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
    - [Visão geral do Admin Console](adobe-admin-console/admin-console-overview.md)
+   - [Funções de administrador](adobe-admin-console/admin-roles.md)
    - [Gerenciar grupos de usuários na Global Admin Console](adobe-admin-console/manage-user-groups.md)
    - [Acessibilidade no Adobe Admin Console](adobe-admin-console/admin-console-accessibility.md)
    - [Alocar produtos a organizações secundárias usando o Global Admin Console](adobe-admin-console/allocate-products.md)
@@ -33,6 +33,8 @@ ht-degree: 1%
    - [Selecione uma organização na Global Admin Console](adobe-admin-console/select-an-organization-in-the-global-admin-console.md)
    - [Gerenciar administradores](adobe-admin-console/manage-administrators.md)
    - [Gerenciar perfis de produto no Global Admin Console](adobe-admin-console/manage-product-profiles.md)
+   - [Atualizar políticas da organização na Global Admin Console](adobe-admin-console/update-policies.md)
+   - [Gerenciar modelos de política no Global Admin Console](adobe-admin-console/manage-policy-templates.md)
    - [Exportar ou importar estrutura da organização e alocações de produtos](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
    - [Forçar a expiração da senha no Admin Console](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
    - [Baixar logs de auditoria e exportar relatórios](adobe-admin-console/download-audit-logs-and-export-reports.md)
