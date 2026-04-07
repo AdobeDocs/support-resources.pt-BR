@@ -30,7 +30,7 @@ Parte da distribuição e administração dos produtos da Adobe nas organizaçõ
 
 >[!WARNING]
 >
->Não é possível alocar produtos a uma organização secundária a partir de um contrato que expirou **1} ou se a organização está em um estado** inativo **.** Saiba mais sobre a [expiração do contrato](https://helpx.adobe.com/enterprise/using/contract-expiry.html) ou entre em contato com o administrador da empresa para obter assistência para evitar que os usuários na organização secundária percam o acesso aos aplicativos e serviços da Adobe.
+>Não é possível alocar produtos a uma organização secundária a partir de um contrato que expirou **1&rbrace; ou se a organização está em um estado** inativo **.** Saiba mais sobre a [expiração do contrato](https://helpx.adobe.com/enterprise/using/contract-expiry.html) ou entre em contato com o administrador da empresa para obter assistência para evitar que os usuários na organização secundária percam o acesso aos aplicativos e serviços da Adobe.
 
 ## Armazenamento em pool
 
@@ -51,7 +51,7 @@ Para alocar produtos a uma organização, siga estas etapas:
 1. Selecione um produto na lista suspensa para ver como ele é alocado para diferentes organizações.\
    Se uma organização não tiver o produto no momento, o ícone **[!UICONTROL Adicionar +]** será exibido.
 
-   >[!NNota]
+   >[ !NNota]
    >
    >Se a organização secundária já tiver um contrato de compra, a alocação de produtos do pai para essa organização secundária poderá ser limitada. [Saiba mais](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html#limited-product-allocation).
 
@@ -101,7 +101,7 @@ Não é possível alocar produtos a uma organização secundária a partir de um
 
 ![Alocação de produto](/help/adobe-support-tools-guide/assets/product-allocation.png)
 
->[!IImportante]
+>[ !IImportante]
 >
 >Quando um contrato do ETLA que faz parte da hierarquia estiver inativo, os produtos serão removidos das páginas **[!UICONTROL Visão geral]** e **[!UICONTROL Alocação de produto]**.
 
