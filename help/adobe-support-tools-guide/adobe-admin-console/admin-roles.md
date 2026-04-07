@@ -3,9 +3,9 @@ title: Funções administrativas
 description: Usando a Adobe Admin Console, as organizações podem definir uma hierarquia administrativa flexível que permita o gerenciamento refinado do acesso e uso dos produtos da Adobe.
 solution: Admin Console
 exl-id: 6a7b5650-c9bf-475b-b330-1f4dba5d659b
-source-git-commit: e6379bd22238091d6f6d26d2aa3e515ce7c61e5a
+source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
 workflow-type: tm+mt
-source-wordcount: '1644'
+source-wordcount: '1645'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ A hierarquia administrativa pode ser usada para atender aos requisitos exclusivo
 
 >[!NOTE]
 >
->A hierarquia administrativa não se aplica aos clientes das equipes. Os clientes das equipes têm uma única função de **Administrador do sistema**. O proprietário do contrato (_anteriormente conhecido como **Administrador principal**&#x200B;_) é o administrador do sistema com acesso aos detalhes do contrato e ao histórico de cobrança. Se você for o proprietário do contrato atual, poderá indicar um administrador do sistema existente (_ anteriormente mencionado como **administrador secundário**&#x200B;_) como o proprietário do contrato.
+>A hierarquia administrativa não se aplica aos clientes das equipes. Os clientes das equipes têm uma única função de **Administrador do sistema**. O proprietário do contrato (_anteriormente conhecido como **Administrador principal**_) é o administrador do sistema com acesso aos detalhes do contrato e ao histórico de cobrança. Se você for o proprietário do contrato atual, poderá indicar um administrador do sistema existente (_ anteriormente mencionado como **administrador secundário**_) como o proprietário do contrato.
 
 ![imagem do administrador](../assets/storage_admin.png)
 
@@ -54,7 +54,7 @@ Como administrador, você pode atribuir uma função de administrador a outros u
 
 Para adicionar ou convidar um administrador:
 
-1. No **[[!UICONTROL Adobe Admin Console]](https://adminconsole.adobe.com/)**, escolha **[!UICONTROL Usuários]** > **[!UICONTROL Administradores]**.
+1. No **[Adobe Admin Console](https://adminconsole.adobe.com/)**, escolha **[!UICONTROL Usuários]** > **[!UICONTROL Administradores]**.
 
    Como alternativa, vá para o Produto, Perfil de Produto ou Grupo de Usuários relevante e navegue até a guia **[!UICONTROL Administradores]**.
 
@@ -76,7 +76,7 @@ Para adicionar ou convidar um administrador:
 
    ![adicionar administrador](../assets/add-admin.png)
 
-1. Revise as funções de administrador atribuídas ao usuário e clique em **Salvar**.
+1. Revise as funções de administrador atribuídas ao usuário e clique em **[!UICONTROL Salvar]**.
 
 O usuário recebe um convite por email sobre os novos privilégios administrativos de `message@adobe.com`.
 
@@ -111,7 +111,7 @@ Para adicionar ou convidar um administrador do sistema:
 ![imagem do administrador das equipes](../assets/teams-admin.png)
 
 Como todos os usuários em uma organização de equipes são usuários de Business ID, eles recebem um convite por email sobre os novos privilégios administrativos de `message@adobe.com`.
-Os usuários devem clicar em Introdução no email para ingressar na organização.
+Os usuários devem clicar em **[!UICONTROL Introdução]** no email para ingressar na organização.
 
 Como parte do processo de logon, os usuários podem ser solicitados a configurar um perfil do Adobe se ainda não tiverem um. Se os usuários tiverem vários perfis associados ao seu endereço de email, eles deverão escolher &quot;Ingressar na equipe&quot; (se solicitado) e selecionar o perfil associado à nova organização.
 
@@ -121,7 +121,7 @@ Como parte do processo de logon, os usuários podem ser solicitados a configurar
 
 Aplicável a: clientes corporativos do Adobe.
 
-Como administrador, você pode editar a função de administrador para outro administrador que esteja abaixo de você na Hierarquia administrativa. Por exemplo, você pode remover os privilégios de administrador de outros administradores.
+Como administrador, você pode editar a função de administrador de outro administrador que esteja abaixo de você na hierarquia administrativa. Por exemplo, você pode remover os privilégios de administrador de outros administradores.
 
 Para editar funções administrativas:
 

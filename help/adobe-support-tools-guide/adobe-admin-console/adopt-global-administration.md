@@ -1,13 +1,13 @@
 ---
 title: Adotar a administração global
 description: Saiba o que é a Global Admin Console e como solicitar acesso.
-Feature-set: Experience Cloud Services
-Solution: Admin Console
-Feature: Admin Console
+feature-set: Experience Cloud Services
+solution: Admin Console
+feature: Admin Console
 exl-id: 4da055a9-7cdc-4411-8895-016e24eabb2e
-source-git-commit: f8d59d1d855ed2c564d9a86286e799ab428d8680
+source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
 workflow-type: tm+mt
-source-wordcount: '810'
+source-wordcount: '813'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ O conteúdo e a narração deste vídeo estão disponíveis somente em inglês.
 
 ## Principais vantagens
 
-Estas são algumas das principais vantagens do [!DNL Global Admin Console]:
+Estas são algumas das principais vantagens do Global Admin Console:
 
 - Delegar a administração do uso de produtos Adobe e o armazenamento em nuvem a divisões, departamentos ou escritórios de campo, reduzindo a necessidade de administração centralizada.
 - Crie organizações para cada entidade e gerencie-as em uma estrutura hierárquica. As organizações também podem ser excluídas.
@@ -44,7 +44,7 @@ Estas são algumas das principais vantagens do [!DNL Global Admin Console]:
 - Crie, edite e exclua perfis de produtos e grupos de usuários.
 - Exportar informações da organização para relatório ou uso em outros processos.
 - Importar atualizações para organizações e alterações na hierarquia organizacional.
-- Receba notificações sobre o status do contrato da ETLA em organizações secundárias, incluindo contratos que estão prestes a expirar, expirados ou inativos. Para obter mais informações, consulte a documentação de [expiração do contrato](https://helpx.adobe.com/br/enterprise/using/contract-expiry.html).
+- Receba notificações sobre o status do contrato da ETLA em organizações secundárias, incluindo contratos que estão prestes a expirar, expirados ou inativos. Para obter mais informações, consulte a documentação de [expiração do contrato](https://helpx.adobe.com/enterprise/using/contract-expiry.html).
 
 ## Critérios de elegibilidade
 
@@ -59,7 +59,7 @@ A Adobe recomenda a administração global se sua organização atender a um ou 
 
 ## Solicitar acesso à Global Admin Console
 
-Para solicitar acesso ao [Global Admin Console](https://adminconsole.adobe.com/support/), siga as etapas abaixo após consultar o representante da Adobe.
+Para solicitar acesso ao [Global Admin Console](https://global-admin-console.adobe.com), siga as etapas abaixo após consultar o representante da Adobe.
 
 1. No [Admin Console](https://adminconsole.adobe.com/support/), navegue até **[!UICONTROL Suporte]** > **[!UICONTROL Resumo do Suporte]**.
 

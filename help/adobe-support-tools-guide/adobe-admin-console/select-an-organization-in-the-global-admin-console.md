@@ -1,13 +1,13 @@
 ---
 title: Selecione uma organização na Global Admin Console
 description: Saiba como escolher uma organização para edição na Global Admin Console.
-Feature-set: Experience Cloud Services
-Solution: Admin Console
-Feature: Admin Console
+feature-set: Experience Cloud Services
+solution: Admin Console
+feature: Admin Console
 exl-id: 6a94922a-3343-433d-96e7-0af0f26581a1
-source-git-commit: 976bfc44cdae61376e2da89019f7758518c6fadc
+source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
 workflow-type: tm+mt
-source-wordcount: '630'
+source-wordcount: '631'
 ht-degree: 1%
 
 ---
@@ -18,7 +18,7 @@ Saiba como escolher uma organização para edição na Global Admin Console.
 
 >[!NOTE]
 >
->Depois de ter acesso ao [Global Admin Console](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console), você pode começar selecionando uma organização para exibir e gerenciar o nome da organização, grupos de usuários, perfis de produtos, administradores e políticas da organização. Para entrar na Global Admin Console, [clique aqui](https://global-admin-console.adobe.com/).
+>Depois de ter acesso ao [Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console), você pode começar selecionando uma organização para exibir e gerenciar o nome da organização, grupos de usuários, perfis de produtos, administradores e políticas da organização. Para entrar, vá para a [Global Admin Console](https://global-admin-console.adobe.com/).
 
 A Global Admin Console atua como um hub de gerenciamento central de uma organização para os recursos da Adobe. Os administradores globais podem:
 
@@ -69,7 +69,7 @@ Para exibir ou editar produtos, grupos de usuários, administradores, domínios,
 
 ![Editar uma organização](/help/adobe-support-tools-guide/assets/edit-an-organization.png)
 
-Todos os administradores adicionados ou removidos de uma organização receberão uma notificação por email. Certas alterações de política em uma organização resultam em uma notificação na [!DNL Admin Console] dessa organização.
+Todos os administradores adicionados ou removidos de uma organização receberão uma notificação por email. Certas alterações de política em uma organização resultam em uma notificação na Admin Console dessa organização.
 
 ## Saiba mais sobre as restrições e condições necessárias
 
@@ -79,6 +79,6 @@ Todos os administradores adicionados ou removidos de uma organização receberã
 
 - O nome do caminho da organização é exclusivo, mas o nome simples é exclusivo apenas entre seus irmãos. Pode haver organizações com o mesmo nome simples em outro lugar na hierarquia da organização.
 
-- Você só pode exibir a lista de domínios vinculados à organização selecionada usando o Global Admin Console. Se você for um administrador do sistema da organização selecionada, selecione a **[!UICONTROL Abrir no Admin Console]** para [gerenciar domínios](https://helpx.adobe.com/br/enterprise/using/manage-domains-directories.html). Para entender as informações exibidas na guia Domínios, consulte [exportar e importar esquemas](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-and-import-schemas).
+- Você só pode exibir a lista de domínios vinculados à organização selecionada usando o Global Admin Console. Se você for um administrador do sistema da organização selecionada, selecione a **[!UICONTROL Abrir no Admin Console]** para [gerenciar domínios](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html). Para entender as informações exibidas na guia Domínios, consulte [exportar e importar esquemas](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-and-import-schemas).
 
 - O IE 11 não é compatível com o acesso de administração global. Use um navegador diferente ou uma versão mais recente do navegador IE.

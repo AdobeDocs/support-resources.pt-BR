@@ -4,13 +4,13 @@ description: Use o acesso baseado em IP para controlar o acesso do usuário aos 
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 879a936ea110084c03df6003494f88831561d3c2
+exl-id: e4595040-3930-48af-9888-cf1349596c77
+source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '480'
 ht-degree: 1%
 
 ---
-
 
 # Limitar o acesso ao produto por endereços IP
 
@@ -27,7 +27,7 @@ O controle de acesso baseado em IP usa um incluo na lista de permissões de ende
 Você pode adicionar IPs públicos confiáveis à lista **Endereços IP permitidos** para impedir que os usuários:
 
 - Acessar produtos de IPs públicos que estejam fora dos intervalos de IP permitidos
-- Entrando no Adobe [perfis de usuário](https://helpx.adobe.com/br/enterprise/using/manage-adobe-profiles.html) de IPs públicos fora dos intervalos de IP permitidos
+- Entrando no Adobe [perfis de usuário](https://helpx.adobe.com/enterprise/using/manage-adobe-profiles.html) de IPs públicos fora dos intervalos de IP permitidos
 - Alternar perfis de usuário em aplicativos Web fora dos intervalos IP permitidos
 
   ![Exportar estrutura da organização](./assets/ip-based-access.avif)
@@ -36,7 +36,7 @@ Você pode adicionar IPs públicos confiáveis à lista **Endereços IP permitid
 
 ### Considerações importantes
 
->[ !Iconsiderações importantes]
+>[!IMPORTANT]
 >
 >- Os administradores devem começar adicionando seu próprio endereço IP público e depois adicionar outros intervalos IP. Caso contrário, você poderá enfrentar um erro.
 >- O acesso baseado em IP não se aplica a endereços IP privados.
@@ -45,7 +45,7 @@ Você pode adicionar até 150 intervalos de IP públicos diferentes somente no f
 
 Siga estas etapas para habilitar o acesso baseado em IP no seu Adobe Admin Console:
 
-1. Vá para a seção **[[!UICONTROL Configurações do Adobe Admin Console]](https://adminconsole.adobe.com/settings/identity)**.
+1. Vá para a seção **[Configurações do Adobe Admin Console](https://adminconsole.adobe.com/settings/identity)**.
 2. Selecione e expanda **[!UICONTROL Privacidade e segurança]** no menu de seleção e selecione **[!UICONTROL Configurações de autenticação]**.
 3. Na seção **[!UICONTROL Acesso baseado em IP]**, selecione o botão **[!UICONTROL Adicionar endereço IP]**.
 4. Na janela **[!UICONTROL Adicionar endereço IP]**:
@@ -64,9 +64,9 @@ Seus endereços IP serão adicionados em alguns minutos. Os usuários associados
 >[!NOTE]
 >
 >- Quando o acesso baseado em IP está habilitado, **não ocorre logout forçado**. Os usuários só são afetados quando tentam selecionar o perfil restrito ao entrar ou alternar o perfil na Web.
->- Se você estiver usando um gateway da Web seguro, certifique-se de que todo o tráfego seja roteado através dele. Exiba a [lista de domínios a serem permitidos](https://helpx.adobe.com/br/enterprise/kb/network-endpoints.html) para que os aplicativos e serviços da Adobe funcionem corretamente.
->- Se você estiver bloqueado na Admin Console porque inseriu um endereço IP inválido, entre em contato com o [Atendimento ao cliente da Adobe](https://helpx.adobe.com/br/enterprise/using/support-for-enterprise.html).
+>- Se você estiver usando um gateway da Web seguro, certifique-se de que todo o tráfego seja roteado através dele. Exiba a [lista de domínios a serem permitidos](https://helpx.adobe.com/enterprise/kb/network-endpoints.html) para que os aplicativos e serviços da Adobe funcionem corretamente.
+>- Se você estiver bloqueado na Admin Console porque inseriu um endereço IP inválido, entre em contato com o [Atendimento ao cliente da Adobe](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html).
 
 ## Participe da conversa
 
-Para colaborar, fazer perguntas e conversar com outros administradores, visite nossa [Comunidade de Empresas e Equipes](https://www.adobe.com/go/entcom_br).
+Para colaborar, fazer perguntas e conversar com outros administradores, visite nossa [Comunidade de Empresas e Equipes](https://www.adobe.com/go/entcom).
