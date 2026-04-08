@@ -3,7 +3,7 @@ title: Notas de versão de suporte do Experience League
 description: As informações mais recentes da versão sobre o suporte da Experience League.
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: 2d3eefd7816fbd25898549b20a0ae913b8b51391
+source-git-commit: 7d0f54c6a5d43fc9155a7d17fca2eefa3238179e
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 3%
@@ -18,7 +18,7 @@ Essas notas de versão contêm atualizações para o suporte da Experience Leagu
 ![Correção](../adobe-support-tools-guide/assets/fix.svg) correções e melhorias
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Problemas conhecidos
 
-## 9 de abril de 2026 - Expansão da solicitação para o recurso de retorno de chamada
+## 8 de abril de 2026 - Expansão da solicitação para o recurso de retorno de chamada
 
 O recurso Solicitação de retorno de chamada agora está disponível para usuários de produtos do Marketo.
 
