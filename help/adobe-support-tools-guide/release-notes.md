@@ -2,13 +2,13 @@
 title: Notas de versão de suporte do Experience League
 description: As informações mais recentes da versão sobre o suporte da Experience League.
 feature: Release Notes
-source-git-commit: 25bfd2450594c3fbb361cb80fe16e1a438f73b89
+exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
+source-git-commit: 2d3eefd7816fbd25898549b20a0ae913b8b51391
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '489'
 ht-degree: 3%
 
 ---
-
 
 # Notas de versão de suporte do Experience League
 
@@ -17,6 +17,10 @@ Essas notas de versão contêm atualizações para o suporte da Experience Leagu
 ![Novos](../adobe-support-tools-guide/assets/new.svg) Novos recursos
 ![Correção](../adobe-support-tools-guide/assets/fix.svg) correções e melhorias
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Problemas conhecidos
+
+## 9 de abril de 2026 - Expansão da solicitação para o recurso de retorno de chamada
+
+O recurso Solicitação de retorno de chamada agora está disponível para usuários de produtos do Marketo.
 
 ## 30 de março de 2026 - Formulário aprimorado de ocorrência
 
@@ -78,6 +82,7 @@ Essas notas de versão contêm atualizações para o suporte da Experience Leagu
 ## 18 de março de 2026 - Expansão da solicitação para o recurso de retorno de chamada
 
 O Experience League agora oferece uma opção de Solicitação de retorno de chamada, permitindo o agendamento de reuniões na Web de autoatendimento com recursos de compartilhamento de tela para resolução mais rápida de problemas.
+
 - Esse recurso está disponível para o Adobe Experience Manager, Campaign e Workfront.
 - Os clientes podem agendar reuniões conforme sua conveniência e receber convites instantâneos.
 - Para casos de Adobe Experience Manager P1, retornos de chamada imediatos garantem um engajamento mais rápido durante problemas críticos, ajudando a minimizar o tempo de inatividade e o impacto nos negócios.
