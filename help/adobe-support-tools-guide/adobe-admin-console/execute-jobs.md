@@ -34,7 +34,7 @@ Este recurso se aplica às organizações corporativas que usam o [[!DNL Global 
    - São descartadas após 30 dias.
    - São limpas quando a sessão termina, como quando a guia ou a janela do navegador é fechada.
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 >
 > Execute rapidamente alterações importantes para garantir que elas sejam aplicadas com êxito.
 
@@ -70,7 +70,7 @@ Depois de submeter o job:
 - O status é **[!UICONTROL Pendente]** enquanto o trabalho é executado.
 - A Adobe recomenda executar apenas uma tarefa de cada vez para proporcionar previsibilidade e facilitar a solução de problemas.
 
-> [!IMPORTANT]
+&#x200B;> [!IMPORTANT]
 >
 > Se ocorrer um erro durante a execução, as alterações que não foram aplicadas com êxito deverão ser inseridas novamente e reenviadas.
 
@@ -99,7 +99,7 @@ Você pode cancelar um trabalho em execução na guia **[!UICONTROL Execução d
 3. Algumas etapas podem levar minutos ou horas para serem concluídas.
 4. Durante este tempo, o trabalho pode permanecer em um estado **[!UICONTROL Cancelando]**.
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 >
 > Planeje cancelamentos com o entendimento de que a conclusão da etapa atual pode atrasar significativamente quando a tarefa for interrompida.
 
@@ -116,6 +116,6 @@ Você pode cancelar um trabalho em execução na guia **[!UICONTROL Execução d
    - **comandos de trabalho** enviados.
    - **Erros** e **avisos** associados à execução.
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 >
 > Renomeações ou exclusões subsequentes de objetos relacionados **não afetam** como os comandos são exibidos no histórico de trabalhos. O histórico reflete o estado no momento do envio.
