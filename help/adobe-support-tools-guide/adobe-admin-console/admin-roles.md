@@ -1,9 +1,11 @@
 ---
 title: Funções administrativas
 description: Usando a Adobe Admin Console, as organizações podem definir uma hierarquia administrativa flexível que permita o gerenciamento refinado do acesso e uso dos produtos da Adobe.
+feature-set: Experience Cloud Services
 solution: Admin Console
+feature: Admin Console
 exl-id: 6a7b5650-c9bf-475b-b330-1f4dba5d659b
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
 workflow-type: tm+mt
 source-wordcount: '1645'
 ht-degree: 0%
@@ -28,7 +30,7 @@ A hierarquia administrativa pode ser usada para atender aos requisitos exclusivo
 
 >[!NOTE]
 >
->A hierarquia administrativa não se aplica aos clientes das equipes. Os clientes das equipes têm uma única função de **Administrador do sistema**. O proprietário do contrato (_anteriormente conhecido como **Administrador principal**&#x200B;_) é o administrador do sistema com acesso aos detalhes do contrato e ao histórico de cobrança. Se você for o proprietário do contrato atual, poderá indicar um administrador do sistema existente (_ anteriormente mencionado como **administrador secundário**&#x200B;_) como o proprietário do contrato.
+>A hierarquia administrativa não se aplica aos clientes das equipes. Os clientes das equipes têm uma única função de **Administrador do sistema**. O proprietário do contrato (_anteriormente conhecido como **Administrador principal**_) é o administrador do sistema com acesso aos detalhes do contrato e ao histórico de cobrança. Se você for o proprietário do contrato atual, poderá indicar um administrador do sistema existente (_ anteriormente mencionado como **administrador secundário**_) como o proprietário do contrato.
 
 ![imagem do administrador](../assets/storage_admin.png)
 

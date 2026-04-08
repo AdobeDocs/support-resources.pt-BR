@@ -1,8 +1,11 @@
 ---
 title: Executar trabalhos pendentes
 description: Saiba como executar tarefas pendentes na Adobe Admin Console para garantir que todas as alterações sejam aplicadas à organização.
+feature-set: Experience Cloud Services
+solution: Admin Console
+feature: Admin Console
 exl-id: 18549d19-7985-4a45-8894-e69836ddb23c
-source-git-commit: 9085108231aaa46d8417d346686c211ea48f6b81
+source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
 workflow-type: tm+mt
 source-wordcount: '498'
 ht-degree: 0%
@@ -18,7 +21,7 @@ Este recurso se aplica às organizações corporativas que usam o [[!DNL Global 
    1. **Editar fase**: fazer alterações nas organizações ou alocar produtos.
    2. **Fase de execução**: revise e execute as alterações pendentes para que elas entrem em vigor.
 
-- Para garantir que todas as alterações feitas em [[!DNL Global Admin Console]](https://helpx.adobe.com/br/enterprise/global-admin-console/adopt-global-administration.html) sejam implementadas e tenham efeito, selecione a guia **[!UICONTROL Execução do Trabalho]** e continue com a execução das alterações pendentes.
+- Para garantir que todas as alterações feitas em [[!DNL Global Admin Console]](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) sejam implementadas e tenham efeito, selecione a guia **[!UICONTROL Execução do Trabalho]** e continue com a execução das alterações pendentes.
 
   Entre no [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/).
 
@@ -31,7 +34,7 @@ Este recurso se aplica às organizações corporativas que usam o [[!DNL Global 
    - São descartadas após 30 dias.
    - São limpas quando a sessão termina, como quando a guia ou a janela do navegador é fechada.
 
-&#x200B;> [!NOTE]
+> [!NOTE]
 >
 > Execute rapidamente alterações importantes para garantir que elas sejam aplicadas com êxito.
 
@@ -67,7 +70,7 @@ Depois de submeter o job:
 - O status é **[!UICONTROL Pendente]** enquanto o trabalho é executado.
 - A Adobe recomenda executar apenas uma tarefa de cada vez para proporcionar previsibilidade e facilitar a solução de problemas.
 
-&#x200B;> [!IMPORTANT]
+> [!IMPORTANT]
 >
 > Se ocorrer um erro durante a execução, as alterações que não foram aplicadas com êxito deverão ser inseridas novamente e reenviadas.
 
@@ -96,7 +99,7 @@ Você pode cancelar um trabalho em execução na guia **[!UICONTROL Execução d
 3. Algumas etapas podem levar minutos ou horas para serem concluídas.
 4. Durante este tempo, o trabalho pode permanecer em um estado **[!UICONTROL Cancelando]**.
 
-&#x200B;> [!NOTE]
+> [!NOTE]
 >
 > Planeje cancelamentos com o entendimento de que a conclusão da etapa atual pode atrasar significativamente quando a tarefa for interrompida.
 
@@ -113,6 +116,6 @@ Você pode cancelar um trabalho em execução na guia **[!UICONTROL Execução d
    - **comandos de trabalho** enviados.
    - **Erros** e **avisos** associados à execução.
 
-&#x200B;> [!NOTE]
+> [!NOTE]
 >
 > Renomeações ou exclusões subsequentes de objetos relacionados **não afetam** como os comandos são exibidos no histórico de trabalhos. O histórico reflete o estado no momento do envio.

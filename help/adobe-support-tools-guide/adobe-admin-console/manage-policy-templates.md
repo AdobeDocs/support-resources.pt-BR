@@ -4,13 +4,11 @@ description: Saiba como os administradores globais podem aplicar modelos de pol�
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-product_v2:
-  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: cf30f2a656ccb28b678ea6fcd8e4d56d7c8a8fb4
+product_v2: id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+exl-id: e4dc5c35-1323-4894-bd47-b31c61a864bc
+source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
 workflow-type: tm+mt
 source-wordcount: 705
 ht-degree: 0%
@@ -25,7 +23,7 @@ Saiba como os administradores globais podem aplicar modelos de política a qualq
 
 >[!NOTE]
 >
->Na [Global Admin Console](https://helpx.adobe.com/br/enterprise/global-admin-console/adopt-global-administration.html), selecione uma organização para editar e navegue até a guia **Modelos de Política** para simplificar a configuração e facilitar o gerenciamento consistente de políticas entre organizações.
+>Na [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html), selecione uma organização para editar e navegue até a guia **Modelos de Política** para simplificar a configuração e facilitar o gerenciamento consistente de políticas entre organizações.
 >
 > [Entrar na Global Admin Console](https://global-admin-console.adobe.com/)
 
@@ -43,7 +41,7 @@ Se o usuário que aplicar o modelo tiver permissão para desbloquear a política
 
 >[!NOTE]
 >
->Ao contrário de outras alterações feitas na Global Admin Console, as edições nos modelos de política têm efeito imediatamente, sem a necessidade de passar pelo processo **[!UICONTROL Revisar alterações pendentes - Enviar]**. No entanto, para implementar alterações pendentes em organizações onde o modelo de política é aplicado, é necessário [enviar](https://helpx.adobe.com/br/enterprise/global-admin-console/execute-jobs.html).
+>Ao contrário de outras alterações feitas na Global Admin Console, as edições nos modelos de política têm efeito imediatamente, sem a necessidade de passar pelo processo **[!UICONTROL Revisar alterações pendentes - Enviar]**. No entanto, para implementar alterações pendentes em organizações onde o modelo de política é aplicado, é necessário [enviar](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
 
 ## Criar um modelo de política
 
@@ -54,13 +52,13 @@ Se o usuário que aplicar o modelo tiver permissão para desbloquear a política
 1. Na caixa de diálogo **[!UICONTROL Criar Modelo de Política]**, digite o **nome** e a **descrição** para o modelo de política.<br>O nome do modelo de política pode ter no máximo 100 caracteres.
 1. Selecione as políticas a serem incluídas no modelo.
 1. Defina valores para as políticas selecionadas (consulte [Definindo Valores de Política](#setting-policy-values) abaixo).
-1. Selecione **Salvar**.
+1. Selecione **[!UICONTROL Salvar]**.
 
 ### Definição de valores de política {#setting-policy-values}
 
 Para cada política incluída no modelo, defina duas configurações:
 
-* **Permitido/Não permitido:** Defina o controle deslizante para o valor desejado. Saiba mais sobre [detalhes da política](https://helpx.adobe.com/br/enterprise/global-admin-console/update-policies.html#policy-details).
+* **Permitido/Não permitido:** Defina o controle deslizante para o valor desejado. Saiba mais sobre [detalhes da política](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html#policy-details).
 * **Valor de bloqueio:** Modifique o estado de bloqueio da política usando uma das seguintes opções:
    * **Bloquear** — A política será bloqueada após a aplicação do modelo.
    * **Desbloquear** — A política será desbloqueada após a aplicação do modelo.
@@ -78,7 +76,7 @@ Para cada política incluída no modelo, defina duas configurações:
    ![Pic4](./assets/DXSKB-3209-4-bulk-apply-template.png)
    <br>
 1. Selecione **[!UICONTROL Aplicar modelo]**.
-1. Para implementar alterações pendentes em organizações às quais o modelo de política é aplicado, selecione **[!UICONTROL Revisar Alterações Pendentes]**. Depois de revisar, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/br/enterprise/global-admin-console/execute-jobs.html).
+1. Para implementar alterações pendentes em organizações às quais o modelo de política é aplicado, selecione **[!UICONTROL Revisar Alterações Pendentes]**. Depois de revisar, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
 
 Se todos os valores de política nas organizações selecionadas já corresponderem aos valores no modelo, será exibida uma mensagem notificando que nenhuma alteração foi feita. Além disso, **[!UICONTROL Revisar alterações pendentes]** não será habilitado se não houver outras edições pendentes.
 
@@ -89,7 +87,7 @@ Se todos os valores de política nas organizações selecionadas já corresponde
    ![Imagem5](./assets/DXSKB-3209-5-ga_15-1.png)
    <br>
 1. Atualize o modelo de política e selecione **[!UICONTROL Atualizar Agora]**.
-1. Para implementar alterações pendentes em organizações às quais o modelo de política é aplicado, selecione **[!UICONTROL Revisar Alterações Pendentes]**. Depois de revisar, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/br/enterprise/global-admin-console/execute-jobs.html).
+1. Para implementar alterações pendentes em organizações às quais o modelo de política é aplicado, selecione **[!UICONTROL Revisar Alterações Pendentes]**. Depois de revisar, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
 
 ## Excluir um modelo
 
