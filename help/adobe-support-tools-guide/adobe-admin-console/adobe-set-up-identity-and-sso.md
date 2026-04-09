@@ -144,8 +144,8 @@ Soluções para dúvidas e erros comuns ao configurar e gerenciar o SSO:
 #### Solução de problemas
 
 - [Solução de problemas gerais de SSO](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html)
-- [ Erro &quot;Acesso negado&quot;](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html#Error_Access_Denied_logging_in)
-- [ &quot;Outro usuário está conectado no momento&quot; erro](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html#ErrorAnotheruseriscurrentlyloggedin)
+- [&#x200B; Erro &quot;Acesso negado&quot;](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html#Error_Access_Denied_logging_in)
+- [&#x200B; &quot;Outro usuário está conectado no momento&quot; erro](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html#ErrorAnotheruseriscurrentlyloggedin)
 - [Executar um rastreamento SAML](https://helpx.adobe.com/enterprise/kb/perform-a-saml-trace.html)
 
 ### Google - Perguntas frequentes
