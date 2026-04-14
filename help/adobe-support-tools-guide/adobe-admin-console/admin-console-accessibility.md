@@ -5,7 +5,7 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 2dfe1f68-9b93-47cd-8030-ac9e113b66b2
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: 427a4498448adc3e1160e3638076f62c99670a9b
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Os recursos de acessibilidade de muitos sistemas operacionais amplamente usados 
 
 ## Suporte de teclado
 
-A maior parte do conteúdo interativo no Admin Console pode ser navegada e operada apenas pelo teclado. Por exemplo, você pode usar a **[!UICONTROL Guia]** ou o **[!UICONTROL Deslocamento]** + **[!UICONTROL Guia]** para navegação e controle. Depois de navegar para o link ou botão correto, pressione a tecla **[!UICONTROL Enter]** ou **[!UICONTROL Return]** para selecioná-lo. Ainda pode haver algumas exceções conforme descrito no [Relatório de conformidade de acessibilidade](https://www.adobe.com/accessibility/compliance.html) (_somente em inglês_).
+A maior parte do conteúdo interativo no Admin Console pode ser navegada e operada apenas pelo teclado. Por exemplo, você pode usar a **[!UICONTROL Guia]** ou o **[!UICONTROL Deslocamento]** + **[!UICONTROL Guia]** para navegação e controle. Depois de navegar para o link ou botão correto, pressione a tecla **[!UICONTROL Enter]** ou **[!UICONTROL Return]** para selecioná-lo. Ainda pode haver algumas exceções conforme descrito no [Relatório de conformidade de acessibilidade](https://www.adobe.com/accessibility/compliance.html) (*somente em inglês*).
 
 ## Suporte de tecnologia assistiva
 
