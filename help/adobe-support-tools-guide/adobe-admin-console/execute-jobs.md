@@ -21,7 +21,7 @@ Este recurso se aplica às organizações corporativas que usam o [[!DNL Global 
    1. **Editar fase**: fazer alterações nas organizações ou alocar produtos.
    2. **Fase de execução**: revise e execute as alterações pendentes para que elas entrem em vigor.
 
-- Para garantir que todas as alterações feitas em [[!DNL Global Admin Console]](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) sejam implementadas e tenham efeito, selecione a guia **[!UICONTROL Execução do Trabalho]** e continue com a execução das alterações pendentes.
+- Para garantir que todas as alterações feitas em [[!DNL Global Admin Console]](https://helpx.adobe.com/br/enterprise/global-admin-console/adopt-global-administration.html) sejam implementadas e tenham efeito, selecione a guia **[!UICONTROL Execução do Trabalho]** e continue com a execução das alterações pendentes.
 
   Entre no [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/).
 
