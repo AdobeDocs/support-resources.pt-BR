@@ -1,9 +1,10 @@
 ---
 title: Como obter e aplicar o [!UICONTROL patch de segurança]
 description: Este artigo fornece instruções sobre como obter e aplicar um [!UICONTROL patch de segurança] que foi lançado, mas as instruções não estão disponíveis.
-source-git-commit: 93ee9bd110930e244befca682fadd3edc24d138a
+exl-id: 6764d60e-5088-4a85-90fa-4372570b065b
+source-git-commit: eee15976f3dd402e84774ec5b769d952259c8dff
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -23,6 +24,12 @@ Infraestrutura em nuvem e no local do Adobe Commerce - todas as versões compat�
 ## Causa
 
 A maioria dos [!UICONTROL patches de segurança] foram lançados sem nenhum patch ou hotfix isolado para serem aplicados e exigirão a atualização para a versão [!UICONTROL patch de segurança].
+
+Para os boletins de segurança do Adobe Commerce, a Adobe fornece apenas um arquivo de patch/hotfix físico separado quando é explicitamente publicado/mencionado como parte do lançamento do boletim. Se o boletim não incluir (ou fazer referência) um pacote de patch/hotfix isolado, não poderemos gerar e fornecer um após o fato.
+
+Isso ocorre porque as correções de segurança são desenvolvidas, testadas e enviadas juntas como parte da versão de segurança compatível (por exemplo, uma versão de patch) e não foram projetadas para serem claramente separadas/dissociadas em arquivos de patch CVE individuais sem correr o risco de cobertura incompleta ou regressões.
+
+O caminho de remediação compatível permanece aplicando a atualização de segurança oficial para sua linha de versão (ou atualizando para uma versão que inclui as correções).
 
 ## Solução
 
