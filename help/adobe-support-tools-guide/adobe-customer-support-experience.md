@@ -4,9 +4,9 @@ title: Adobe Experience Cloud Customer One for Enterprise
 description: Experiência de suporte ao cliente da Adobe
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 2d3eefd7816fbd25898549b20a0ae913b8b51391
+source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
 workflow-type: tm+mt
-source-wordcount: '1432'
+source-wordcount: '1438'
 ht-degree: 0%
 
 ---
@@ -82,7 +82,7 @@ O Experience League é um portal de suporte de autoatendimento projetado para fo
 
 1. No menu **[!UICONTROL Página Inicial]**, você pode **[!UICONTROL Abrir um tíquete de suporte]**, **[!UICONTROL Exibir e gerenciar casos]**, **[!UICONTROL Solicitar um Retorno de Chamada]** ou acessar recursos de aprendizado adicionais.
 
-   A opção **[!UICONTROL Solicitar um Retorno de Chamada]** permite agendar reuniões na Web com compartilhamento de tela, permitindo uma resolução de problemas mais rápida e eficiente. Ele está disponível para o Adobe Experience Manager, Campaign, Marketo e Workfront. As reuniões podem ser agendadas de acordo com a conveniência do cliente, e convites instantâneos são fornecidos. Para casos de Adobe Experience Manager P1, retornos de chamada imediatos são garantidos para permitir um engajamento rápido durante problemas críticos, ajudando a minimizar o tempo de inatividade e o impacto nos negócios.
+   A opção **[!UICONTROL Solicitar um Retorno de Chamada]** permite agendar reuniões na Web com compartilhamento de tela, permitindo uma resolução de problemas mais rápida e eficiente. Ele está disponível para Adobe Experience Manager, Admin Console, Analytics, Audience Manager, Campaign, Marketo, Target e Workfront. As reuniões podem ser agendadas de acordo com a conveniência do cliente, e convites instantâneos são fornecidos. Para casos de Adobe Experience Manager P1, retornos de chamada imediatos são garantidos para permitir um engajamento rápido durante problemas críticos, ajudando a minimizar o tempo de inatividade e o impacto nos negócios.
 
    ![Menu inicial da Experience League](./assets/home-menu.png)
 
