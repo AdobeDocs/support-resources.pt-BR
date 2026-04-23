@@ -3,10 +3,10 @@ title: Notas de versão de suporte do Experience League
 description: As informações mais recentes da versão sobre o suporte da Experience League.
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: 7d0f54c6a5d43fc9155a7d17fca2eefa3238179e
+source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 3%
+source-wordcount: '514'
+ht-degree: 2%
 
 ---
 
@@ -17,6 +17,10 @@ Essas notas de versão contêm atualizações para o suporte da Experience Leagu
 ![Novos](../adobe-support-tools-guide/assets/new.svg) Novos recursos
 ![Correção](../adobe-support-tools-guide/assets/fix.svg) correções e melhorias
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Problemas conhecidos
+
+## 23 de abril de 2026 - Expansão da solicitação para o recurso de retorno de chamada
+
+O recurso Solicitação de retorno de chamada agora está disponível para usuários de produtos do Analytics, Admin Console, Audience Manager e Target.
 
 ## 8 de abril de 2026 - Expansão da solicitação para o recurso de retorno de chamada
 
