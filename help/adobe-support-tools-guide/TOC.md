@@ -16,7 +16,7 @@ ht-degree: 2%
 # Guia de ferramentas e suporte do Adobe {#adobe-support-tools-guide}
 
 - [Visão geral do Guia de ferramentas e suporte do Adobe](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
-- [Notas de versão de suporte do Experience League](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/release-notes)
+- [Notas de versão de suporte do Experience League](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/release-notes)
 - [experiência de suporte ao cliente do Adobe](adobe-customer-support-experience.md)
 - [Configuração de direitos de suporte ao cliente da Adobe](adobe-customer-support-entitlement-configuration.md)
 - [Atualização do número de telefone do suporte](phone-numbers.md)
