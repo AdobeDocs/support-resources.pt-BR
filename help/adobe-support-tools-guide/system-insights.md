@@ -34,7 +34,7 @@ A revisão regular dos Insights do sistema ajuda a identificar problemas antecip
 
 Os Insights do sistema estão disponíveis somente para o Adobe Commerce. Esses insights aparecem durante o processo de criação de casos no Suporte da Experience League e também estão disponíveis por meio da [Ferramenta de Análise do Site (SWAT)](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro).
 
-> [!NObservação]
+> [ !NObservação]
 >
 >Os Insights do sistema exibem dados somente de ambientes de produção.
 
@@ -56,9 +56,9 @@ Para visualizar todos os detalhes do insight, selecione um cartão insight na li
 - Nome do insight
 - Produto do Adobe no qual a insight está sinalizada
 - Tipo de insight, categorizado como:
-   - [Funcionalidade UICONTROL]
-   - [UICONTROL Desempenho]
-   - [UICONTROL Segurança]
+   - [!UICONTROL Funcionalidade]
+   - [!UICONTROL Desempenho]
+   - [!UICONTROL Segurança]
 - [!UICONTROL Nível de risco] indicando a gravidade
 - [!UICONTROL Última Execução de Verificação] indica quando a descoberta foi detectada.
 - [!UICONTROL Insight Source], fornecido pela Ferramenta de Análise do Site (SWAT)
