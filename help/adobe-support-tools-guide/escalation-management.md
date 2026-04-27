@@ -1,9 +1,9 @@
 ---
 title: Gestão de encaminhamento
 description: O Gerenciamento de atendimento de segundo nível oferece opções de autoatendimento no Suporte da Experience League para exibir resumos de casos, solicitar retornos de chamada, agendar sessões de solução de problemas, atualizar a urgência do caso e gerenciar escalonamentos de suporte.
-source-git-commit: aac3642cab7b1dc0bba8ba8fef28d6dff25398fb
+source-git-commit: d41e987c8778849311922d1b9438c2c74fb60138
 workflow-type: tm+mt
-source-wordcount: '1152'
+source-wordcount: '1148'
 ht-degree: 1%
 
 ---
@@ -144,13 +144,13 @@ Siga as etapas abaixo para alterar a urgência de um problema:
 1. Um campo de texto embutido é exibido. No campo, descreva claramente o que mudou ou por que o problema agora requer atenção imediata.
 1. Clique em **[!UICONTROL Atualizar Urgência do Problema]** para enviar a solicitação ou em **[!UICONTROL Cancelar]** para sair sem fazer alterações.
 
-Depois de submeter a solicitação, a tela de confirmação é exibida:
+   Depois de submeter a solicitação, a tela de confirmação é exibida:
 
-- Produto selecionado
-- Prioridade
-- ID do caso
+   - Produto selecionado
+   - Prioridade
+   - ID do caso
 
-Clique em **[!UICONTROL Retornar ao Formulário]** para voltar ao caso.
+1. Clique em **[!UICONTROL Retornar ao Formulário]** para voltar ao caso.
 
 ### Tenho um problema não listado
 
@@ -164,16 +164,16 @@ Siga as etapas abaixo para escalar caso seus problemas não estejam listados:
    - **[!UICONTROL Podemos ajudá-lo melhor com informações detalhadas.]**
 1. Na lista suspensa, selecione um motivo de escalonamento:
    - [!UICONTROL Tempo para Resolução]
-   - [!UICONTROL A Resolução não atendeu às expectativas]
-   - [!UICONTROL Habilidades de Comunicação do Agente]
-   - [!UICONTROL Conhecimento Técnico de Agente]
+   - [!UICONTROL A resolução não atendeu às expectativas]
+   - [!UICONTROL Habilidades de comunicação do agente]
+   - [!UICONTROL Conhecimento Técnico do Agente]
 1. No campo de texto livre, forneça contexto adicional sobre o escalonamento.
 1. Clique em **[!UICONTROL Escalonar Caso]** para enviar o escalonamento ou clique em **[!UICONTROL Cancelar]** para sair sem enviar.
 
-Depois de submeter a escalação, a tela de confirmação é exibida:
+   Depois de submeter a escalação, a tela de confirmação é exibida:
 
-- Produto selecionado
-- Prioridade
-- ID do caso
+   - Produto selecionado
+   - Prioridade
+   - ID do caso
 
-Clique em **[!UICONTROL Retornar ao Formulário]** para voltar ao caso.
+1. Clique em **[!UICONTROL Retornar ao Formulário]** para voltar ao caso.
