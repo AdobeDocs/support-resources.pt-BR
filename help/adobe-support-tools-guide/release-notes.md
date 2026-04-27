@@ -3,10 +3,10 @@ title: Notas de versão de suporte do Experience League
 description: As informações mais recentes da versão sobre o suporte da Experience League.
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
+source-git-commit: 26a20998811059cf66d8609c0ae7ac2816df3337
 workflow-type: tm+mt
-source-wordcount: '514'
-ht-degree: 2%
+source-wordcount: '917'
+ht-degree: 1%
 
 ---
 
@@ -15,8 +15,39 @@ ht-degree: 2%
 Essas notas de versão contêm atualizações para o suporte da Experience League e incluem:
 
 ![Novos](../adobe-support-tools-guide/assets/new.svg) Novos recursos
-![Correção](../adobe-support-tools-guide/assets/fix.svg) correções e melhorias
+![Correção](../adobe-support-tools-guide/assets/fix.svg) Correções e melhorias
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Problemas conhecidos
+
+
+## 27 de abril de 2026 - Gerenciamento de escalonamento e aprimoramentos do System Insights para o Adobe Commerce
+
+### Gestão de encaminhamento
+
+1. O gerenciamento de atendimento de segundo nível do suporte da Experience League oferece um novo conjunto de recursos de autoatendimento para oferecer maior visibilidade dos casos de suporte com um fluxo de trabalho simplificado e orientado pelo sistema, criado de acordo com as suas necessidades.
+
+1. Obtenha um instantâneo instantâneo do seu caso de suporte, alimentado por IA, incluindo o status atual, as próximas etapas, as principais atualizações e um resumo completo do caso sem precisar ler todo o histórico do caso.
+
+1. A nova opção **[!UICONTROL Obter ajuda]** oferece uma experiência centralizada para que os clientes colaborem perfeitamente com as equipes de suporte — abrangendo solução de problemas, solicitações de retorno de chamada, atualizações de urgência de problemas de autoatendimento e solicitações de atenção gerencial.
+
+1. **[!UICONTROL Solicite Chamada Imediata]** - Para casos P1-Críticos, solicite um retorno de chamada imediato de um Engenheiro de Suporte Técnico diretamente da sua lista de casos. Basta fornecer seu número de telefone e uma breve descrição do problema. Um engenheiro de suporte entrará em contato assim que estiverem disponíveis.
+
+1. **[!UICONTROL Solicitar uma Chamada Agendada]** - Para casos P2-Urgentes e P3-Importantes, agende uma reunião da Web com um Engenheiro de Suporte Técnico em uma data e hora adequadas para você. Uma sessão de compartilhamento de tela do Microsoft Teams será confirmada com todos os detalhes da reunião após a reserva.
+
+1. **[!UICONTROL Alteração na Urgência do Problema]** - Para casos P3-Importantes e P4-Menores, o autoatendimento encaminha a prioridade do seu caso de P4-Menor para P2-Urgente, fornecendo uma breve justificativa. Uma solicitação de alteração de prioridade pode ocorrer sem o ticket, resultando em reatribuição.
+
+1. **[!UICONTROL Tenho um Problema Não Listado]** - Para todas as prioridades, gere um escalonamento para qualquer cenário não coberto pelas opções acima, como **[!UICONTROL Tempo de Resolução]**, **[!UICONTROL A Resolução não atendeu às expectativas]**, **[!UICONTROL Habilidades de Comunicação com o Agente]** ou **[!UICONTROL Conhecimento Técnico do Agente]**.
+
+### Insights do sistema no formulário de criação de caso para o Adobe Commerce
+
+1. O System Insights exibe automaticamente os problemas detectados em seu ambiente. Inclui reduções de desempenho, riscos de segurança e erros de configuração usando dados de telemetria de APIs, New Relic e [!DNL Splunk]. Isso o ajuda a identificar e resolver problemas com mais rapidez.
+
+1. Atualmente, os Insights do sistema estão disponíveis exclusivamente para o suporte da Adobe Commerce no Experience League durante o processo de criação do caso.
+
+1. Os insights têm como escopo sua instância de projeto específica, garantindo que as informações exibidas sejam relevantes para o seu ambiente.
+
+1. Os insights incluem uma descrição detalhada, etapas para resolver, análise da causa principal e links para a documentação relevante do Adobe.
+
+1. Os usuários podem enviar feedback sobre insights individuais para ajudar a Adobe a melhorar continuamente a precisão e a relevância dos insights do sistema.
 
 ## 23 de abril de 2026 - Expansão da solicitação para o recurso de retorno de chamada
 
@@ -81,7 +112,7 @@ O recurso Solicitação de retorno de chamada agora está disponível para usuá
 
 ![Correção](../adobe-support-tools-guide/assets/fix.svg) Renomeou o campo Descrição de Ocorrência como *[!UICONTROL &quot;Descreva o problema&quot;]* para maior clareza.
 
-![Correção](../adobe-support-tools-guide/assets/fix.svg) Adição de asterisco (*) como indicadores de campo obrigatórios para garantir a integridade e reduzir erros de envio.
+![Correção](../adobe-support-tools-guide/assets/fix.svg) Adição de asteriscos (*) como indicadores de campo obrigatórios para garantir a integridade e reduzir erros de envio.
 
 ## 18 de março de 2026 - Expansão da solicitação para o recurso de retorno de chamada
 
