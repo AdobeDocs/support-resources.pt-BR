@@ -1,9 +1,9 @@
 ---
 title: Insights do sistema
 description: Os System Insights identificam proativamente possíveis problemas em ambientes Adobe Commerce. A análise de insights durante a criação de casos reduz o tempo de resolução, ajuda a evitar paralisações e oferece suporte a uma implantação estável e segura.
-source-git-commit: 4172c364c9bfffaae13759da882d03daa15d0754
+source-git-commit: d41e987c8778849311922d1b9438c2c74fb60138
 workflow-type: tm+mt
-source-wordcount: '741'
+source-wordcount: '738'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ A revisão regular dos Insights do sistema ajuda a identificar problemas antecip
 
 Os Insights do sistema estão disponíveis somente para o Adobe Commerce. Esses insights aparecem durante o processo de criação de casos no Suporte da Experience League e também estão disponíveis por meio da [Ferramenta de Análise do Site (SWAT)](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/tools/site-wide-analysis-tool/intro).
 
-> [ !NObservação]
+>[ !NObservação]
 >
 >Os Insights do sistema exibem dados somente de ambientes de produção.
 
