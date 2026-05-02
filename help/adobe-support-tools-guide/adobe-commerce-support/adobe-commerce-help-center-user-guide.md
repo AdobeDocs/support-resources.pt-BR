@@ -5,16 +5,16 @@ feature: Support, Roles/Permissions, Tools and External Services, Admin Workspac
 feature-set: Commerce
 solution: Commerce
 exl-id: a7833d47-1d4b-4c10-9d2e-42fa43f8513c
-source-git-commit: 4f8b8e20e9edab31b2db3c90087acc4feccc3537
+source-git-commit: f0cf10d8d97b8e2c2925999061c115f6a5d3c81e
 workflow-type: tm+mt
-source-wordcount: '3310'
+source-wordcount: '3618'
 ht-degree: 0%
 
 ---
 
 # Guia do usuário de suporte da Experience League para Adobe Commerce
 
-Neste guia, saiba como enviar um tíquete de suporte ao [Suporte do Experience League](https://experienceleague.adobe.com/home?lang=pt-BR#support) e fornecer acesso compartilhado às contas do Adobe Commerce.
+Neste guia, saiba como enviar um tíquete de suporte ao [Suporte do Experience League](https://experienceleague.adobe.com/home#support) e fornecer acesso compartilhado às contas do Adobe Commerce.
 
 >[!NOTE]
 >
@@ -22,7 +22,7 @@ Neste guia, saiba como enviar um tíquete de suporte ao [Suporte do Experience L
 
 >[!NOTE]
 >
->Neste momento, para ver seus casos enviados anteriormente no Adobe Commerce Help Center, você terá que acessar https://support.magento.com/hc/en-us/requests, pois esses casos não foram migrados para o novo sistema de tíquetes de suporte. A Central de Ajuda agora é somente leitura; para continuar recebendo suporte para o problema original, você terá que enviar um tíquete de acompanhamento para o [Suporte da Experience League](https://experienceleague.adobe.com/home?lang=pt-BR#support).
+>Neste momento, para ver seus casos enviados anteriormente no Adobe Commerce Help Center, você terá que acessar https://support.magento.com/hc/en-us/requests, pois esses casos não foram migrados para o novo sistema de tíquetes de suporte. A Central de Ajuda agora é somente leitura; para continuar recebendo suporte para o problema original, você terá que enviar um tíquete de acompanhamento para o [Suporte da Experience League](https://experienceleague.adobe.com/home#support).
 
 >[!NOTE]
 >
@@ -39,7 +39,7 @@ Neste guia, saiba como enviar um tíquete de suporte ao [Suporte do Experience L
 
    * [Página inicial da Adobe Experience League](#experience-league-start-page)
    * [Página da conta do Adobe Commerce](#submit-case-adobe-commerce-account-page)
-   * [*Verifique seu endereço de email*](#verify-email-address-error)
+   * [*Verifique o erro de seu endereço de email* na página da conta da Adobe Commerce](#verify-email-address-error)
 
 * [Acompanhe seus casos de suporte](#track-support-cases)
 * [Comentários no seu caso](#comments-in-your-case)
@@ -77,7 +77,7 @@ Ao fazer logon, você pode enviar, atualizar e responder a perguntas dos agentes
 
 Para fazer logon no Suporte da Adobe Experience League, siga estas etapas:
 
-1. Navegue até [experienceleague.adobe.com](https://experienceleague.adobe.com/pt-br?lang=pt-BR).
+1. Navegue até [experienceleague.adobe.com](https://experienceleague.adobe.com/?lang=pt-BR).
 1. Faça logon usando suas credenciais de logon da Adobe.
 
 ![entrar-na-liga-da-experiência](/help/adobe-support-tools-guide/assets/experience_league_sign_in.png)
@@ -100,7 +100,7 @@ Depois de fazer logon como proprietário da conta ou usuário de acesso comparti
 
 #### Página inicial da Adobe Experience League {#experience-league-start-page}
 
-Para enviar um novo caso de suporte usando a página inicial da Adobe Experience League, consulte [Criar um tíquete de suporte com o Experience League](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#create-a-support-ticket-with-experience-league).
+Para enviar um novo caso de suporte usando a página inicial da Adobe Experience League, consulte [Criar um tíquete de suporte com o Experience League](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#create-a-support-ticket-with-experience-league).
 
 >[!INFO]
 >
@@ -116,7 +116,7 @@ Para enviar um novo caso de suporte usando a página inicial da Adobe Experience
 
 >[!NOTE]
 >
->Se você estiver enviando um tíquete com &quot;**[!DNL Commerce]na infraestrutura em nuvem**&quot; selecionado como o produto e a organização tiver vários projetos listados, você será solicitado a selecionar a **[!UICONTROL ID do Projeto]** apropriada. Se você não conseguir localizar a **[!UICONTROL ID do Projeto]** desejada, adicione uma observação no tíquete de que você está procurando assistência para um &quot;projeto X&quot; diferente.<br>Se você pretende enviar um tíquete &quot;**[!DNL Commerce]no Managed Services**&quot; e está no **[!DNL Commerce]na infraestrutura de nuvem**, mas não vê **[!DNL Commerce]na infraestrutura de nuvem** como um produto disponível:<br>1. Insira um assunto para o seu problema em **[!UICONTROL Título da ocorrência]**.<br>2. Insira uma descrição do seu problema em **[!UICONTROL Descrição da ocorrência]**.<br>3. Depois de inserir esses dois itens, você verá abaixo o campo **[!UICONTROL URL do Projeto na Nuvem]**.
+>Se você estiver enviando um tíquete com &quot;**[!DNL Commerce]na infraestrutura em nuvem**&quot; selecionado como o produto e a organização tiver vários projetos listados, você será solicitado a selecionar a **[!UICONTROL ID do Projeto]** apropriada. Se não conseguir localizar a **[!UICONTROL ID do Projeto]** desejada, adicione uma observação no tíquete que você está procurando ajuda para um &quot;projeto X&quot; diferente.<br>Se você pretende enviar um tíquete &quot;**[!DNL Commerce]no Managed Services**&quot; e está no **[!DNL Commerce]na infraestrutura de nuvem**, mas não vê **[!DNL Commerce]na infraestrutura de nuvem** como um produto disponível:<br>1. Insira um assunto para o seu problema em **[!UICONTROL Título da ocorrência]**.<br>2. Insira uma descrição do seu problema em **[!UICONTROL Descrição do caso]**.<br>3. Depois de inserir esses dois itens, você verá abaixo o campo **[!UICONTROL URL do Projeto na Nuvem]**.
 
 >[!IMPORTANT]
 >
@@ -125,7 +125,7 @@ Para enviar um novo caso de suporte usando a página inicial da Adobe Experience
 >1. Navegue até accounts.magento.com e faça logon com o mesmo perfil (corporativo, escolar ou pessoal) que você usará para gerenciar casos de suporte na Adobe Experience League.
 >1. Depois de fazer logon no perfil accounts.magento.com, navegue de volta para experienceleague.adobe.com e faça logon.
 >1. Selecione sua organização no menu suspenso de organização.
->1. Se sua organização ainda não aparecer, entre em contato com o administrador do Commerce para obter os direitos de representante de suporte. Para obter informações adicionais, consulte o artigo de ajuda [Compartilhamento de conta da Commerce](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/start/commerce-account/commerce-account-share).
+>1. Se sua organização ainda não aparecer, entre em contato com o administrador do Commerce para obter os direitos de representante de suporte. Para obter informações adicionais, consulte o artigo de ajuda [Compartilhamento de conta da Commerce](https://experienceleague.adobe.com/en/docs/commerce-admin/start/commerce-account/commerce-account-share).
 
 >[!NOTE]
 >
@@ -153,11 +153,11 @@ Para enviar um novo caso de suporte usando a página inicial da Adobe Experience
 >* Seus direitos do Commerce expiraram ou estão inativos (por exemplo, devido a um problema pendente de cobrança ou licenciamento).
 >* Para instâncias hospedadas no Adobe Commerce na infraestrutura em nuvem (PaaS), você não foi adicionado ao projeto na nuvem.
 >
->Para projetos na nuvem do Adobe Commerce, entre em contato com o Proprietário da conta e solicite para ser adicionado ao projeto na nuvem apropriado. Para obter mais informações, consulte [Gerenciar acesso de usuário](https://experienceleague.adobe.com/pt-br/docs/commerce-on-cloud/user-guide/project/user-access) para Adobe Commerce na infraestrutura em nuvem.
+>Para projetos na nuvem do Adobe Commerce, entre em contato com o Proprietário da conta e solicite para ser adicionado ao projeto na nuvem apropriado. Para obter mais informações, consulte [Gerenciar acesso de usuário](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/user-access) para Adobe Commerce na infraestrutura em nuvem.
 >
 >Depois de receber o Acesso compartilhado e adicionar ao projeto na nuvem:
 >
->1. Vá para a página [Suporte da Adobe](https://experienceleague.adobe.com/home?lang=pt-BR#support).
+>1. Vá para a página [Suporte da Adobe](https://experienceleague.adobe.com/home?lang=en#support).
 >1. Na lista suspensa de organizações à esquerda, selecione a organização cujo nome termina com **(Commerce)**.
 >1. Envie o tíquete para o produto apropriado e não selecione **Relatórios do Commerce** para problemas relacionados especificamente aos Relatórios Avançados.
 
@@ -174,14 +174,14 @@ Para resolver isso:
 
 Para enviar um novo tíquete de suporte usando a página de conta da Adobe Commerce, siga estas etapas:
 
-1. Faça logon em sua conta da Adobe Commerce. Consulte [instruções detalhadas](https://experienceleague.adobe.com/docs/commerce-admin/start/commerce-account/commerce-account-create.html?lang=pt-BR#create-a-commerce-account) em nosso guia do usuário.
+1. Faça logon em sua conta da Adobe Commerce. Consulte [instruções detalhadas](https://experienceleague.adobe.com/docs/commerce-admin/start/commerce-account/commerce-account-create.html?lang=en#create-a-commerce-account) em nosso guia do usuário.
 1. Clique na guia **Suporte**.
 
    ![magento_account_support_tab](/help/adobe-support-tools-guide/assets/magento_account_support_tab.png){width="800"}
 
 1. A página de suporte da Adobe Experience League é carregada para você.
 1. Selecione **[!UICONTROL Abrir tíquete]** no menu à esquerda.
-1. Preencha os [campos](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-support-ticket-contact-reason-descriptions).
+1. Preencha os [campos](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-support-ticket-contact-reason-descriptions).
 1. Clique em **Enviar**.
 
 #### *Verifique o erro de seu endereço de email* na página da conta da Adobe Commerce {#verify-email-address-error}
@@ -208,10 +208,6 @@ Os casos de suporte são aqueles que você:
 Você pode exibir os casos do Commerce enviados pessoalmente clicando em **[!UICONTROL Meus Casos]** no menu à esquerda. Verifique se você selecionou a Organização correta terminando em &quot;(Commerce)&quot;.
 
 ![casos-suporte-exibição](/help/adobe-support-tools-guide/assets/view_support_cases.png)
-
-#### Veja seus casos históricos na Central de ajuda da Adobe Commerce
-
-Saiba mais sobre como você pode **exibir seus casos históricos** da Central de Ajuda da Adobe Commerce em [Descontinuação da Central de Ajuda da Adobe Commerce](https://experienceleague.adobe.com/pt-br/docs/commerce-knowledge-base/kb/announcements/news/decommissioning-of-adobe-commerce-help-center) em nossa Base de Dados de Conhecimento Adobe Commerce.
 
 #### Veja seus casos assistidos
 
@@ -254,7 +250,7 @@ Você pode adicionar observadores para dar suporte a casos enviados por membros 
 
 >[!NOTE]
 >
->Para obter mais informações sobre como adicionar e remover observadores do seu caso, consulte o [vídeo Adicionar e remover observadores, fechar e reabrir tíquetes](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/help-and-support/add-remove-watchers-close-reopen-support-ticket).
+>Para obter mais informações sobre como adicionar e remover observadores do seu caso, consulte o [vídeo Adicionar e remover observadores, fechar e reabrir tíquetes](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/help-and-support/add-remove-watchers-close-reopen-support-ticket).
 
 ### Comentários no seu caso {#comments-in-your-case}
 
@@ -274,13 +270,13 @@ Para fechar o caso, clique em **[!UICONTROL Fechar caso]** na parte inferior dir
 
 >[!NOTE]
 >
->Para obter mais informações sobre como fechar sua ocorrência, consulte o [vídeo Adicionar e remover observadores, fechar e reabrir tíquetes](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/help-and-support/add-remove-watchers-close-reopen-support-ticket).
+>Para obter mais informações sobre como fechar sua ocorrência, consulte o [vídeo Adicionar e remover observadores, fechar e reabrir tíquetes](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/help-and-support/add-remove-watchers-close-reopen-support-ticket).
 
 ### Reabra seu caso {#reopen-case}
 
 >[!NOTE]
 >
->**Você só pode reabrir um caso dentro de 14 dias do seu encerramento.** Se você estiver além de 14 dias do encerramento do caso, mas ainda quiser solicitar ajuda sobre um problema, será necessário abrir um novo caso.<br>Para obter mais informações sobre como fechar e reabrir ocorrências, consulte o [Vídeo Adicionar e remover observadores, fechar e reabrir tíquetes](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/help-and-support/add-remove-watchers-close-reopen-support-ticket).
+>**Você só pode reabrir um caso dentro de 14 dias do seu encerramento.** Se você estiver além de 14 dias do encerramento do caso, mas ainda quiser solicitar ajuda sobre um problema, será necessário abrir um novo caso.<br>Para obter mais informações sobre como fechar e reabrir ocorrências, consulte o [Vídeo Adicionar e remover observadores, fechar e reabrir tíquetes](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/help-and-support/add-remove-watchers-close-reopen-support-ticket).
 
 >[!NOTE]
 >
@@ -294,16 +290,16 @@ Para enviar um novo tíquete de suporte usando o Cloud Console, siga estas etapa
 1. Selecione **[!UICONTROL Suporte]** no menu do usuário.
 1. A página **[!UICONTROL Meus Tíquetes]** é carregada.
 1. Clique em **[!UICONTROL Enviar um tíquete]** no canto superior direito.
-1. Preencha os [campos](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-support-ticket-contact-reason-descriptions).
+1. Preencha os [campos](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-support-ticket-contact-reason-descriptions).
 1. Clique em **[!UICONTROL Enviar]**.
 
 ### Linha direta Adobe Commerce P1 {#P1-hotline}
 
-O artigo [Linha direta P1 da Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/adobe-commerce-p1-notification-hotline.html?lang=pt-BR) fornece os números de linha direta P1 para a Adobe Commerce quando buscar ajuda durante um incidente P1 e explica quais informações fornecer.
+O artigo [Linha direta P1 da Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/adobe-commerce-p1-notification-hotline.html) fornece os números de linha direta P1 para a Adobe Commerce quando buscar ajuda durante um incidente P1 e explica quais informações fornecer.
 
 ### Modelo operacional de responsabilidade compartilhada da Adobe Commerce {#shared-responsibility-operational-model}
 
-Consulte o artigo sobre [Modelo operacional de responsabilidade compartilhada da Adobe Commerce](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/security-and-compliance/shared-responsibility#operational-responsibilities-summary),
+Consulte o artigo sobre [Modelo operacional de responsabilidade compartilhada da Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-operations/security-and-compliance/shared-responsibility#operational-responsibilities-summary),
 que visa esclarecer as responsabilidades operacionais somente para nossa oferta de infraestrutura Pro.
 
 ### Abrir um tíquete de acompanhamento {#follow-up}
@@ -328,17 +324,17 @@ Os usuários que receberam acesso compartilhado não podem transferir ou concede
 
 ### Fornecer acesso compartilhado {#provide-shared-access}
 
-Consulte a seção [Compartilhar uma conta do Commerce](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/start/commerce-account/commerce-account-share) do Guia de Introdução do Adobe Commerce para obter as etapas detalhadas sobre como configurar uma conta compartilhada.
+Consulte a seção [Compartilhar uma conta do Commerce](https://experienceleague.adobe.com/en/docs/commerce-admin/start/commerce-account/commerce-account-share) do Guia de Introdução do Adobe Commerce para obter as etapas detalhadas sobre como configurar uma conta compartilhada.
 
 >[!NOTE]
 >
->O usuário deve ter uma conta existente para que possa receber o Acesso Compartilhado. Consulte [Criar uma conta do Commerce](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/start/commerce-account/commerce-account-create#create-a-commerce-account) para obter mais detalhes.
+>O usuário deve ter uma conta existente para que possa receber o Acesso Compartilhado. Consulte [Criar uma conta do Commerce](https://experienceleague.adobe.com/en/docs/commerce-admin/start/commerce-account/commerce-account-create#create-a-commerce-account) para obter mais detalhes.
 
 Depois de fornecer acesso compartilhado a um novo usuário, as informações relacionadas ficam disponíveis em **Acesso Compartilhado** > **Gerenciar Permissões** da página da sua conta do Adobe Commerce.
 
 >[!NOTE]
 >
->O Acesso Compartilhado não concede acesso automático ao Commerce Cloud Console. Você precisa [adicionar o usuário separadamente ao Projeto na Nuvem](https://experienceleague.adobe.com/pt-br/docs/commerce-on-cloud/user-guide/project/user-access#add-a-user-to-the-project).
+>O Acesso Compartilhado não concede acesso automático ao Commerce Cloud Console. Você precisa [adicionar o usuário separadamente ao Projeto na Nuvem](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/user-access#add-a-user-to-the-project).
 
 ![magento-account-shared-manage-permissions](/help/adobe-support-tools-guide/assets/magento_account_shared_manage_permissions.png)
 
@@ -387,14 +383,14 @@ No entanto, após revogar as permissões desses usuários do Acesso compartilhad
 
 ![conceder-conta-permissões-imagem](/help/adobe-support-tools-guide/assets/help-center-user-guide-grant-account-permissions-image.png){width="800"}
 
-Para obter mais informações, consulte a documentação [Gerenciar acesso do usuário](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html?lang=pt-BR#manage-users-from-the-project-web-interface) em nosso Guia de Infraestrutura do Commerce na Nuvem.
+Para obter mais informações, consulte a documentação [Gerenciar acesso do usuário](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html#manage-users-from-the-project-web-interface) em nosso Guia de Infraestrutura do Commerce na Nuvem.
 
 ### Acessar sua conta compartilhada (alternar contas) {#switch-accounts}
 
 >[!NOTE]
 >
 >Essa etapa não é necessária para enviar tíquetes para o Adobe Commerce.
->Para ver uma demonstração sobre o envio de um tíquete do Adobe Commerce, [assista a este vídeo](https://experienceleague.adobe.com/pt-br/playlists/support-requests).
+>Para ver uma demonstração sobre o envio de um tíquete do Adobe Commerce, [assista a este vídeo](https://experienceleague.adobe.com/en/playlists/support-requests).
 
 Para usar o acesso compartilhado fornecido para você, siga estas etapas:
 
@@ -407,4 +403,4 @@ Para saber qual conta você está usando atualmente (sua própria conta nativa o
 
 ### Solução de problemas de acesso compartilhado {#troubleshooting-shared-access}
 
-Consulte o [Artigo sobre solução de problemas de acesso compartilhado](https://experienceleague.adobe.com/pt-br/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/shared-access-troubleshooting) em nossa knowledge base de suporte.
+Consulte o [Artigo sobre solução de problemas de acesso compartilhado](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/shared-access-troubleshooting) em nossa knowledge base de suporte.
