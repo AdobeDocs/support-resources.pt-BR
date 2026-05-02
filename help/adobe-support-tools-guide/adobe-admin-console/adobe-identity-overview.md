@@ -4,13 +4,13 @@ description: Entenda e escolha tipos de identidade (Federated ID, Enterprise ID,
 Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
-source-git-commit: c066e95c05f8e8a0953daecda9a220268d325f98
+exl-id: e53ded7c-1ba3-4d98-bc20-792a252618ac
+source-git-commit: f20f8cfe6f9f31af953c089b9c5f4e76d0573f84
 workflow-type: tm+mt
-source-wordcount: '723'
+source-wordcount: '840'
 ht-degree: 5%
 
 ---
-
 
 # Visão geral da identidade
 
@@ -167,7 +167,7 @@ A Adobe está atualizando todas as equipes e clientes corporativos para usar o m
 </tr>
 <tr>
 <th scope="row"><strong>Redefinir senha</strong></th>
-<td><a href="https://helpx.adobe.com/br/manage-account/using/change-or-reset-password.html">Redefina a senha da sua conta.</a> Consulte o ponto 2 na seção de notas abaixo.</td>
+<td><a href="https://helpx.adobe.com/br/manage-account/using/change-or-reset-password.html">Redefinir a senha da sua conta.</a>  Consulte o ponto 2 na seção de notas abaixo.</td>
 </tr>
 <tr>
 <th scope="row"><strong>Creative Cloud para corporações e Document Cloud para corporações</strong></th>
@@ -202,10 +202,10 @@ A Adobe está atualizando todas as equipes e clientes corporativos para usar o m
 >1. Para clientes do Creative Cloud para corporações que usam o [armazenamento corporativo](https://helpx.adobe.com/br/enterprise/using/manage-adobe-storage.html), os administradores podem adicionar usuários do Adobe ID à Admin Console, mas não podem adicioná-los aos perfis de produtos. Os administradores devem migrar os usuários do Adobe ID para outro tipo de identidade.
 >1. Há alguns produtos e serviços, como o **Site de Licenciamento da Adobe, que só oferece suporte** ao Adobe ID.
 
-## Mais itens semelhantes
+## Veja mais aqui
 
 - [Configurar identidade](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html)
-- [Alternar identidade de usuário](https://helpx.adobe.com/br/enterprise/using/switch-user-identity.html)
-- [visão geral do Admin Console](https://helpx.adobe.com/enterprise/using/admin-console-overview.html)
-- [Perguntas frequentes sobre educação](https://helpx.adobe.com/enterprise/using/education-faq.html)
+- [Alternar identidade do usuário](https://helpx.adobe.com/br/enterprise/using/switch-user-identity.html)
+- [Visão geral do Admin Console](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)
+- [Perguntas frequentes sobre educação](https://helpx.adobe.com/br/x-productkb/policy-pricing/education-faq.html)
 - [Adicionar e gerenciar usuários](https://helpx.adobe.com/br/enterprise/using/users.html)

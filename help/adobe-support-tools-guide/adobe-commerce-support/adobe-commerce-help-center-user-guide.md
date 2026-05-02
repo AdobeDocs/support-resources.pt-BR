@@ -5,9 +5,9 @@ feature: Support, Roles/Permissions, Tools and External Services, Admin Workspac
 feature-set: Commerce
 solution: Commerce
 exl-id: a7833d47-1d4b-4c10-9d2e-42fa43f8513c
-source-git-commit: 4f8b8e20e9edab31b2db3c90087acc4feccc3537
+source-git-commit: f0cf10d8d97b8e2c2925999061c115f6a5d3c81e
 workflow-type: tm+mt
-source-wordcount: '3310'
+source-wordcount: '3618'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Neste guia, saiba como enviar um tíquete de suporte ao [Suporte do Experience L
 
    * [Página inicial da Adobe Experience League](#experience-league-start-page)
    * [Página da conta do Adobe Commerce](#submit-case-adobe-commerce-account-page)
-   * [*Verifique seu endereço de email*](#verify-email-address-error)
+   * [*Verifique o erro de seu endereço de email* na página da conta da Adobe Commerce](#verify-email-address-error)
 
 * [Acompanhe seus casos de suporte](#track-support-cases)
 * [Comentários no seu caso](#comments-in-your-case)
@@ -116,7 +116,7 @@ Para enviar um novo caso de suporte usando a página inicial da Adobe Experience
 
 >[!NOTE]
 >
->Se você estiver enviando um tíquete com &quot;**[!DNL Commerce]na infraestrutura em nuvem**&quot; selecionado como o produto e a organização tiver vários projetos listados, você será solicitado a selecionar a **[!UICONTROL ID do Projeto]** apropriada. Se você não conseguir localizar a **[!UICONTROL ID do Projeto]** desejada, adicione uma observação no tíquete de que você está procurando assistência para um &quot;projeto X&quot; diferente.<br>Se você pretende enviar um tíquete &quot;**[!DNL Commerce]no Managed Services**&quot; e está no **[!DNL Commerce]na infraestrutura de nuvem**, mas não vê **[!DNL Commerce]na infraestrutura de nuvem** como um produto disponível:<br>1. Insira um assunto para o seu problema em **[!UICONTROL Título da ocorrência]**.<br>2. Insira uma descrição do seu problema em **[!UICONTROL Descrição da ocorrência]**.<br>3. Depois de inserir esses dois itens, você verá abaixo o campo **[!UICONTROL URL do Projeto na Nuvem]**.
+>Se você estiver enviando um tíquete com &quot;**[!DNL Commerce]na infraestrutura em nuvem**&quot; selecionado como o produto e a organização tiver vários projetos listados, você será solicitado a selecionar a **[!UICONTROL ID do Projeto]** apropriada. Se não conseguir localizar a **[!UICONTROL ID do Projeto]** desejada, adicione uma observação no tíquete que você está procurando ajuda para um &quot;projeto X&quot; diferente.<br>Se você pretende enviar um tíquete &quot;**[!DNL Commerce]no Managed Services**&quot; e está no **[!DNL Commerce]na infraestrutura de nuvem**, mas não vê **[!DNL Commerce]na infraestrutura de nuvem** como um produto disponível:<br>1. Insira um assunto para o seu problema em **[!UICONTROL Título da ocorrência]**.<br>2. Insira uma descrição do seu problema em **[!UICONTROL Descrição do caso]**.<br>3. Depois de inserir esses dois itens, você verá abaixo o campo **[!UICONTROL URL do Projeto na Nuvem]**.
 
 >[!IMPORTANT]
 >
@@ -208,10 +208,6 @@ Os casos de suporte são aqueles que você:
 Você pode exibir os casos do Commerce enviados pessoalmente clicando em **[!UICONTROL Meus Casos]** no menu à esquerda. Verifique se você selecionou a Organização correta terminando em &quot;(Commerce)&quot;.
 
 ![casos-suporte-exibição](/help/adobe-support-tools-guide/assets/view_support_cases.png)
-
-#### Veja seus casos históricos na Central de ajuda da Adobe Commerce
-
-Saiba mais sobre como você pode **exibir seus casos históricos** da Central de Ajuda da Adobe Commerce em [Descontinuação da Central de Ajuda da Adobe Commerce](https://experienceleague.adobe.com/pt-br/docs/commerce-knowledge-base/kb/announcements/news/decommissioning-of-adobe-commerce-help-center) em nossa Base de Dados de Conhecimento Adobe Commerce.
 
 #### Veja seus casos assistidos
 
