@@ -3,10 +3,10 @@ title: Visão geral dos planos de sucesso da Adobe
 description: Este artigo fornece um resumo das opções de Suporte ao cliente da Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 hide: true
-source-git-commit: 1cf43efd9effb8436f4bff7a6e89d4a497b3f35b
+source-git-commit: 521217db5c864fe63289b268d691dafa22d91f45
 workflow-type: tm+mt
-source-wordcount: '1833'
-ht-degree: 100%
+source-wordcount: '1822'
+ht-degree: 98%
 
 ---
 
@@ -19,9 +19,9 @@ Os planos de sucesso da Adobe vão além da solução reativa de problemas para 
 |  | Plano de sucesso Expert | Plano de sucesso Ultimate |
 |--- |--- |--- |
 |  | Com o plano de sucesso Expert, você tem acesso ao **atendimento especializado 24 horas** para obter solução de problemas técnicos e orientação sobre problemas críticos de negócios. Ou você pode encontrar resoluções rápidas tocando nas opções de recursos autoguiados, práticas recomendadas exclusivas e acessando a comunidade online de especialistas e colegas da Adobe. <p> *Incluído em todas as licenças da Adobe Experience Cloud.* | Com o plano de sucesso Ultimate, você terá **orientação estratégica e saúde técnica proativa para oferecer experiências digitais de alto desempenho**. Seu ambiente da Adobe terá o suporte de uma equipe de especialistas familiarizados com seus negócios e concentrados em executar um roteiro alinhado a seus objetivos e prioridades de impacto de negócios. |
-| **Equipe de sucesso** | Equipe conjunta de engenheiros de suporte | Inclui: <ul><li> Gerente de conta técnica designado </li><li> Gerente de sucesso do cliente designado </li><li> Gerente de serviços de suporte designado</li><li> Equipe conjunta de engenheiros técnicos e especialistas estratégicos que fornecem aceleradores de sucesso </li><li> Equipe conjunta de engenheiros de suporte </li></ul> |
-| **Suporte técnico proativo + operacional** | ![ícone não incluído](assets/Cross_red_circle.svg){width="20"} Não incluído | Inclui: <ul><li>Revisões de atualização e migração, preparação de lançamento </li><li>Revisões de roteiro do produto</li><li> Roteiros técnicos e estratégicos alinhados</li><li>Preparação e planejamento de eventos principais</li><li>Planejamento para habilitação relevante e oportuna</li><li>Práticas técnicas recomendadas e orientação do setor</li><li>Defesa/alinhamento com equipes de produtos</li><li>Plano unificado para atingir os principais objetivos de negócios – Plano de ação mútua (MAP)</li></ul> |
-| **Suporte técnico** | Inclui: <ul><li>**P1**: suporte 24 horas a problemas</li><li>**P2, P3, P4**: suporte durante o horário comercial</li><li>Gerenciamento padrão de interrupções</li><li>Gerenciamento conjunto de encaminhamento</li></ul> | Inclui: <ul><li>**P1**: suporte 24 horas a problemas</li><li>**P2/P3**: suporte a problemas 24 horas nos dias de semana </li><li>**P4**: suporte em horário comercial</li><li>Gerenciamento de interrupções priorizado</li><li>Gerenciamento especialista de encaminhamentos designado</li></ul> |
+| **Equipe de sucesso** | Equipe conjunta de engenheiros de suporte | Inclui: <ul><li> Gerente de conta técnica designado </li><li> Gerente de sucesso do cliente designado </li><li> Equipe agrupada de gerentes de serviço de suporte </li><li> Equipe conjunta de engenheiros técnicos e especialistas estratégicos que fornecem aceleradores de sucesso </li><li> Equipe conjunta de engenheiros de suporte </li></ul> |
+| **Suporte técnico proativo + operacional** | ![ícone não incluído](assets/Cross_red_circle.svg){width="20"} Não incluído | Inclui: <ul><li>Revisões de atualização e migração, preparação de lançamento </li><li>Revisões de roteiro do produto</li><li> Roteiros técnicos e estratégicos alinhados</li><li>Preparação e planejamento de eventos principais</li><li>Planejamento para habilitação relevante e oportuna</li><li>Práticas técnicas recomendadas e orientação do setor</li><li>Defesa/alinhamento com equipes de produtos</li><li>Plano unificado para atingir os principais objetivos de negócios – Plano de ação mútua (MAP)</li><li>Orientação de prontidão para IA e agente</li></ul> |
+| **Suporte técnico** | Inclui: <ul><li>**P1**: suporte 24 horas a problemas</li><li>**P2, P3, P4**: suporte durante o horário comercial</li><li>Gerenciamento padrão de interrupções</li><li>Gerenciamento conjunto de encaminhamento</li></ul> | Inclui: <ul><li>**P1**: suporte 24 horas a problemas</li><li>**P2/P3**: suporte a problemas 24 horas nos dias de semana</li><li>**P4**: suporte em horário comercial</li><li>Gerenciamento de interrupções priorizado</li><li>Gerenciamento especialista de encaminhamentos designado</li></ul> |
 | **Aceleradores de sucesso** | ![ícone não incluído](assets/Cross_red_circle.svg){width="20"} Não incluído | Aceleradores de sucesso programados regularmente pelo TAM e CSM<p>*(consulte o catálogo do acelerador de sucesso para obter mais informações)* |
 | **Canais de suporte** | Online, telefone, Experience League, fóruns | Portal online personalizado, telefone priorizado, Experience League, fóruns |
 
@@ -31,11 +31,9 @@ Os planos de sucesso da Adobe vão além da solução reativa de problemas para 
 
 | Complementos | Plano de sucesso Expert | Plano de sucesso Ultimate |
 |--- |--- |--- |
-| **Complemento Gerenciamento de eventos**<br>: fornece liderança e suporte completos necessários para gerenciar todo o ciclo de vida dos principais eventos | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível |
+| **Gerenciamento de eventos**<br> Fornece liderança e suporte completos necessários para gerenciar todo o ciclo de vida dos eventos principais | ![ícone de não disponível](assets/Cross_red_circle.svg){width="20"} Não disponível | ![ícone de não disponível](assets/Cross_red_circle.svg){width="20"} Não disponível |
 | **Complemento Diretor de conta técnico**<br>: seu principal recurso técnico, que fornece supervisão de liderança, é responsável pelo engajamento executivo e garante a governança para maximizar os resultados de seus negócios | ![ícone de não disponível](assets/Cross_red_circle.svg){width="20"} Não disponível | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível |
 | **Complemento Suporte na nuvem avançado**<br>: garantia de valor e cuidados de alto nível para clientes do Adobe Experience Manager as a Cloud Service. | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível |
-| **Complemento Sessões de mentor**<br>: oferece aprendizagem baseada em habilidades em um método de treinamento just-in-time | ![ícone de não disponível](assets/Cross_red_circle.svg){width="20"} Não disponível | ![ícone disponível](assets/green_checkmark.svg){width="20"} Incluído |
-| **Complemento Impulso do desenvolvedor**<br>: fornece acesso a especialistas em engenharia de campo que podem ajudar no trabalho de reparo | ![ícone de não disponível](assets/Cross_red_circle.svg){width="20"} Não disponível | ![ícone incluído](assets/green_checkmark.svg){width="20"} Incluído |
 | **Complemento Pacote da fila de prioridades**<br> Fornece tempos de resposta mais rápidos, um ponto de contato centralizado para atividades de suporte e acesso aos aceleradores de sucesso. | ![ícone disponível](assets/Plus_blue.svg){width="20"} Disponível | ![ícone incluído](assets/green_checkmark.svg){width="20"} Incluído |
 
 {style="table-layout:fixed"}
@@ -81,7 +79,7 @@ Os Contatos de suporte nomeados podem enviar problemas por todos os canais dispo
     <p><strong>Horário comercial regional</strong></p>
   </td>
   <td>
-    <ul><li>O horário comercial regional aplicável é baseado no endereço de faturamento definido na Ordem de venda ou nos documentos de compra.</li><li>Se o suporte da Adobe for acionado por outra pessoa que não seja um Contato de suporte nomeado, a Adobe poderá solicitar que o caso de suporte seja reenviado por um Contato de suporte nomeado.</li></ul>
+    <ul><li>O horário comercial regional aplicável é baseado no endereço de faturamento definido no pedido de venda ou nos documentos de compra.</li><li>Se o suporte da Adobe for acionado por outra pessoa que não seja um Contato de suporte nomeado, a Adobe poderá solicitar que o caso de suporte seja reenviado por um Contato de suporte nomeado.</li></ul>
   </td>
 </tr>
 <tr>
@@ -116,12 +114,12 @@ O suporte padrão para produtos do Adobe Commerce: Managed Services que foram li
 |---|---|---|---|
 | P1 | **Impacto crítico nos negócios:** <br>as funções de produção do cliente estão inativas ou têm perda significativa de dados ou degradação de serviços, e é necessária atenção imediata para restaurar a funcionalidade e a usabilidade. | 30 minutos | O cliente compromete-se com um engajamento contínuo 24 horas por dia, 7 dias por semana, com o Suporte ao cliente da Adobe até a mitigação. Se o Suporte ao cliente da Adobe não conseguir obter informações essenciais para gerenciar a resposta de suporte dos Contatos de suporte nomeados, a Adobe pode diminuir uma solicitação de serviço P1 para um nível de prioridade inferior. |
 | P2 | **Grande impacto nos negócios:** <br>as funções empresariais do cliente têm grande degradação de serviços, perda potencial de dados ou um recurso importante foi afetado. | 1 hora durante o horário comercial normal da Adobe | O suporte da Adobe entrará em contato com os Contatos de suporte nomeados somente durante o horário comercial da Adobe. Se o Suporte ao cliente da Adobe não conseguir obter informações essenciar para gerenciar uma resposta de suporte dos Contatos de suporte nomeados, a Adobe pode diminuir uma solicitação de serviço P2 para um nível de prioridade mais baixo. |
-| P3 | **Impacto mínimo nos negócios:** <br>as funções empresariais do cliente têm pouca degradação dos serviços, e há uma solução/alternativa que permite que as funções empresariais continuem normalmente. | 2 horas durante o horário comercial normal da Adobe | O Suporte ao cliente da Adobe entrará em contato com os Contatos de suporte nomeados apenas durante o horário comercial da Adobe. |
+| P3 | **Impacto mínimo nos negócios** <br>as funções empresariais do cliente têm pouca degradação dos serviços, e há uma solução/alternativa que permite que as funções empresariais continuem normalmente. | 2 horas durante o horário comercial normal da Adobe | O Suporte ao cliente da Adobe entrará em contato com os Contatos de suporte nomeados apenas durante o horário comercial da Adobe. |
 | P4 | **Nenhum impacto nos negócios:** <br>pergunta geral sobre a funcionalidade atual do produto ou solicitação de melhoria. | 1 dia útil | O Suporte ao cliente da Adobe entrará em contato com os Contatos de suporte nomeados apenas durante o horário comercial da Adobe. |
 
 {style="table-layout:auto"}
 
-## Serviços de Launch Advisory - Atividades proativas em fases
+## Aceleradores de sucesso - Atividades proativas em fases
 
 <table>
 <tbody>
