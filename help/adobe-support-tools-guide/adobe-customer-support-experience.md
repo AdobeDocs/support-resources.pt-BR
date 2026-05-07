@@ -1,12 +1,12 @@
 ---
 keywords: suporte da Experience Platform, suporte da plataforma, suporte a serviços inteligentes, suporte da ia do cliente, suporte da ia de atribuição, suporte rtcdp, enviar tíquete de suporte, suporte ao cliente
-title: Adobe Experience Cloud Customer One for Enterprise
+title: Adobe Experience Cloud Customer One para corporações
 description: Experiência de suporte ao cliente da Adobe
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
+source-git-commit: 062166aa0fff76e070826855cba9aa57332baae8
 workflow-type: tm+mt
-source-wordcount: '1438'
+source-wordcount: '1499'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ Para adicionar ou convidar um administrador:
 
    ![Adicionar administrador](assets/admin-console-add-admin.png)
 
-1. Clique em **[!UICONTROL Avançar]**. Uma lista de funções administrativas é exibida.
+1. Clique em **[!UICONTROL Next]**. Uma lista de funções administrativas é exibida.
 
 Para atribuir uma função de administrador de suporte a um usuário (permitir que um usuário entre em contato com o suporte):
 
@@ -82,9 +82,9 @@ O Experience League é um portal de suporte de autoatendimento projetado para fo
 
 1. No menu **[!UICONTROL Página Inicial]**, você pode **[!UICONTROL Abrir um tíquete de suporte]**, **[!UICONTROL Exibir e gerenciar casos]**, **[!UICONTROL Solicitar um Retorno de Chamada]** ou acessar recursos de aprendizado adicionais.
 
-   A opção **[!UICONTROL Solicitar um Retorno de Chamada]** permite agendar reuniões na Web com compartilhamento de tela, permitindo uma resolução de problemas mais rápida e eficiente. Ele está disponível para Adobe Experience Manager, Admin Console, Analytics, Audience Manager, Campaign, Marketo, Target e Workfront. As reuniões podem ser agendadas de acordo com a conveniência do cliente, e convites instantâneos são fornecidos. Para casos de Adobe Experience Manager P1, retornos de chamada imediatos são garantidos para permitir um engajamento rápido durante problemas críticos, ajudando a minimizar o tempo de inatividade e o impacto nos negócios.
+A opção **[!UICONTROL Solicitar um Retorno de Chamada]** permite agendar reuniões na Web com compartilhamento de tela para casos P2 e P3, permitindo uma resolução de problemas mais rápida e eficiente. Ele está disponível para Adobe Experience Manager, Admin Console, Analytics, Audience Manager, Campaign, Commerce, GenStudio, Marketo, Target e Workfront. As reuniões podem ser agendadas de acordo com a conveniência do cliente. Ele também fornece retornos de chamada telefônica imediatos para casos P1 em todos os produtos mencionados acima, exceto o Adobe Commerce.
 
-   ![Menu inicial da Experience League](./assets/home-menu.png)
+![Menu inicial da Experience League](./assets/home-menu.png)
 
 1. Para enviar um caso, selecione **[!UICONTROL Abrir um tíquete de suporte]**. Você também pode selecionar o **[!UICONTROL Tíquete aberto]** no menu da barra lateral.
 
