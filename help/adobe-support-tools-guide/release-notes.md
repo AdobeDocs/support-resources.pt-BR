@@ -3,9 +3,9 @@ title: Notas de versão de suporte do Experience League
 description: As informações mais recentes da versão sobre o suporte da Experience League.
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: 26a20998811059cf66d8609c0ae7ac2816df3337
+source-git-commit: eb474379539945e0bbfca35e9f83f1ece61a16b6
 workflow-type: tm+mt
-source-wordcount: '917'
+source-wordcount: '973'
 ht-degree: 1%
 
 ---
@@ -18,6 +18,9 @@ Essas notas de versão contêm atualizações para o suporte da Experience Leagu
 ![Correção](../adobe-support-tools-guide/assets/fix.svg) Correções e melhorias
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Problemas conhecidos
 
+## 7 de maio de 2026 - Expansão da solicitação para o recurso de retorno de chamada
+
+O recurso Solicitar um retorno de chamada agora está disponível para Adobe Commerce e Adobe GenStudio. Os clientes do Adobe Commerce podem, convenientemente, programar um retorno de chamada em um horário que funcione melhor para eles, enquanto os clientes do Adobe GenStudio têm a opção de solicitar um retorno de chamada imediato ou programado.
 
 ## 27 de abril de 2026 - Gerenciamento de escalonamento e aprimoramentos do System Insights para o Adobe Commerce
 
