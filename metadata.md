@@ -1,21 +1,23 @@
 ---
 cloud: Experience Cloud
 solution: Experience Cloud
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 product: experience cloud
 type: Documentation
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/support-resources.pt-BR
 index: true
-source-git-commit: c706a5d2479a8ea81c906277eae68316c1a5c754
+source-git-commit: 21a1a1c18b924fbc2413aa2dbff6232d61ddb0f3
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 100%
+source-wordcount: 71
+ht-degree: 92%
 
 ---
 
 
 # Metadados para uso interno
 
-O arquivo metadata.md inclui metadados de nível de repositório transmitidos para os arquivos TOC.md do guia do usuário no repositório. Se desejar alterar o conteúdo metadata.md para qualquer guia do usuário, faça isso em qualquer arquivo TOC.md.
+O arquivo metadata.md inclui metadados de nível de repositório que são repassados para os arquivos TOC.md do guia do usuário no repositório. Se quiser alterar o conteúdo do arquivo metadata.md para qualquer guia do usuário, faça isso em qualquer arquivo TOC.md.
 
-Consulte [Metadados](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=pt-BR) para obter uma lista de valores válidos para **solução**, **produto** e **tipo**.
+Consulte [Metadados](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=pt-br) para obter uma lista de valores válidos para **solução**, **produto** e **tipo**.
