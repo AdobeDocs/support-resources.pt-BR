@@ -3,9 +3,14 @@ title: Linha direta de notificação Adobe Commerce P1
 description: Este artigo fornece os números de linha direta de notificação P1 da Adobe Commerce que podem ser usados para relatar um incidente P1 e explica quais informações fornecer.
 solution: Commerce
 exl-id: 0c7088b2-6149-4307-b513-cebeeaa8f6ea
-source-git-commit: a8d43c1d190d6c7bb3e7653e304b4152fe7039ca
+TQID: https://experienceleague.adobe.com/Ezd7AIFJt6h2teDrV-eShDh2Ojmq4FWVPr3g1fmmD7Y
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c1256247-af4b-46d8-9dca-0c654ecfa157
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: 571
 ht-degree: 0%
 
 ---
@@ -21,7 +26,7 @@ Conforme definido nos [Termos e Condições dos Serviços de Suporte da Adobe Co
 ## Políticas de telefone de linha direta de notificação P1
 
 * A linha direta de notificação P1 está disponível para reportar problemas de nível P1 (consulte a definição de incidente P1 na seção anterior).
-* [Envie um tíquete de suporte](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=pt-BR#submit-ticket) antes de chamar a linha direta de notificação P1 da Adobe Commerce.
+* [Envie um tíquete de suporte](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) antes de chamar a linha direta de notificação P1 da Adobe Commerce.
 * A investigação, a solução de problemas e a comunicação ocorrerão exclusivamente no tíquete de suporte.
 * Adicione todas as informações adicionais relacionadas ao problema diretamente ao ticket, antes de chamar.
 * Ao ligar, certifique-se de ter o número do tíquete.

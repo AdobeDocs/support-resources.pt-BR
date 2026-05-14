@@ -2,9 +2,13 @@
 title: Suporte Elite
 description: Os serviços de Suporte Elite da Adobe Experience Cloud oferecem as melhores metas de nível de serviço (SLT, em inglês), suporte proativo e parceria com um Gerente técnico de conta e um engenheiro de suporte nomeado.
 exl-id: 46a0f6bb-dccb-4554-a811-de1384db2747
-source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
+TQID: https://experienceleague.adobe.com/iF7FcpFJB-kViSwkHmyGYF9fnUKAOdV0s6BcnLpvXWQ
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: c1579802-ddd4-4214-8a91-97b2066abe11id: c2be0313-b3ae-45e0-b454-d20bf54b23f2id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '1386'
+source-wordcount: 1406
 ht-degree: 100%
 
 ---
@@ -367,14 +371,14 @@ Tipos de atividades estratégicas disponíveis:
 
 | Recurso | Descrição |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/pt-br?lang=pt-BR) | A Experience League foi criada para ajudar as empresas a alcançar o valor que esperam do seu investimento em produtos da Adobe. É o local unificado onde os clientes podem aprender, interagir e crescer ao longo de um caminho personalizado de sucesso que inclui tutoriais de autoatendimento, documentação dos produtos, treinamento com instrutores e suporte técnico e da comunidade. |
+| [Experience League](https://experienceleague.adobe.com/?lang=pt-BR) | A Experience League foi criada para ajudar as empresas a alcançar o valor que esperam do seu investimento em produtos da Adobe. É o local unificado onde os clientes podem aprender, interagir e crescer ao longo de um caminho personalizado de sucesso que inclui tutoriais de autoatendimento, documentação dos produtos, treinamento com instrutores e suporte técnico e da comunidade. |
 | [Treinamento](https://training.adobe.com/training/) | O acesso aos cursos do Adobe Digital Learning Services está disponível na Experience League. Os cursos de aprendizagem incluem lições sob demanda e com instrutores. É um lugar para adquirir habilidades com reconhecido valor de mercado que você pode pôr em prática para impulsionar o sucesso na sua organização. |
-| [Problemas de produção e paralisações do sistema](https://status.adobe.com/pt-br/) | O Status.adobe.com transmite as informações de integridade de todos os produtos e serviços da Adobe implantados em ambientes de vários locatários. Os clientes podem escolher suas preferências de subscrição para receber notificações por email sempre que a Adobe criar, atualizar ou resolver um evento de produto. Isso pode incluir manutenção programada ou problemas de serviço com diferentes níveis de gravidade. |
+| [Problemas de produção e paralisações do sistema](https://status.adobe.com/pt) | O Status.adobe.com transmite as informações de integridade de todos os produtos e serviços da Adobe implantados em ambientes de vários locatários. Os clientes podem escolher suas preferências de subscrição para receber notificações por email sempre que a Adobe criar, atualizar ou resolver um evento de produto. Isso pode incluir manutenção programada ou problemas de serviço com diferentes níveis de gravidade. |
 | [Termos e condições](https://helpx.adobe.com/br/support/programs/support-policies-terms-conditions.html) | Os Termos e condições que detalham os serviços de suporte. |
 
 ## Escopo regional do Suporte da Adobe, horários locais de operação e suporte de idioma
 
-O escopo regional do Suporte da Adobe é estabelecido alinhando o endereço de faturamento do cliente (por meio da ordem de venda ou outro documento de compra do Suporte da Adobe) a uma das seguintes regiões:
+O escopo regional do Suporte da Adobe é estabelecido alinhando o endereço de faturamento do cliente (por meio do pedido de venda ou outro documento de compra do Suporte da Adobe) a uma das seguintes regiões:
 
 <table>
 <thead>

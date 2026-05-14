@@ -1,10 +1,13 @@
 ---
 title: Suporte Enterprise para Creative Cloud e Adobe Document Cloud
-description: Para fornecer suporte a sua empresa, a Adobe oferece uma ampla gama de recursos técnicos incluída como parte de sua assinatura corporativa da Adobe. Isso é aprimorado com o plano de suporte ENTERPRISE.
+description: Para fornecer suporte ao seu negócio, a Adobe oferece uma ampla gama de recursos técnicos incluída como parte de sua assinatura corporativa da Adobe. Isso é aprimorado com o plano de suporte ENTERPRISE.
 exl-id: 38467d5a-02b8-496f-ac2b-4d54ac3c5ffc
-source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
+TQID: https://experienceleague.adobe.com/-kPhYGpfGdZIP8Is1A-WWfHq6uJzSLNwCei4D8TO8A4
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '952'
+source-wordcount: 958
 ht-degree: 100%
 
 ---
@@ -13,7 +16,7 @@ ht-degree: 100%
 
 ![Ícone](assets/EnterpriseBanner.png)
 
-Para fornecer suporte a sua empresa, a Adobe oferece uma ampla gama de recursos técnicos incluída como parte de sua assinatura corporativa da Adobe. Isso é aprimorado com o plano de suporte ENTERPRISE. Os clientes do plano ENTERPRISE se beneficiarão do nosso serviço de engenheiro de suporte nomeado, onde um contato técnico designado na Equipe de suporte da Adobe, com extensa experiência na solução, trabalhará em parceria com você e suas equipes técnicas para garantir a resolução oportuna de todas as solicitações de suporte.
+Para fornecer suporte ao seu negócio, a Adobe oferece uma ampla gama de recursos técnicos incluída como parte de sua assinatura corporativa da Adobe. Isso é aprimorado com o plano de suporte ENTERPRISE. Os clientes do plano ENTERPRISE se beneficiarão do nosso serviço de engenheiro de suporte nomeado, onde um contato técnico designado na Equipe de suporte da Adobe, com extensa experiência na solução, trabalhará em parceria com você e suas equipes técnicas para garantir a resolução oportuna de todas as solicitações de suporte.
 
 Sua equipe de suporte também pode ajudar a coordenar e organizar a entrega dos benefícios adicionais do plano ENTERPRISE, garantindo o mínimo de interrupção dos seus negócios nos momentos mais críticos. Os clientes do plano de suporte ENTERPRISE também podem utilizar nossa documentação técnica detalhada e abrangente do produto e as notas de versão atuais.
 
@@ -287,7 +290,7 @@ Sua equipe de suporte também pode ajudar a coordenar e organizar a entrega dos 
 |--- |--- |
 | [Aprendizagem e suporte corporativo](https://helpx.adobe.com/br/enterprise.html) | Aprendizagem e suporte corporativo é um local onde os clientes da Adobe podem encontrar tutoriais de autoajuda, documentações de produtos, treinamento ministrado por instrutores, uma comunidade e suporte para determinados produtos da Adobe Creative Cloud e Adobe Document Cloud. |
 | [Comunidade de suporte da Adobe](https://community.adobe.com/?profile.language=pt) | A Comunidade de suporte da Adobe é o local para fazer perguntas, encontrar respostas, aprender com especialistas e compartilhar seu conhecimento. |
-| [Problemas de produção e paralisações do sistema](https://status.adobe.com/pt-br/) | O Status.adobe.com transmite as informações de integridade de todos os produtos e serviços da Adobe implantados em ambientes de vários locatários. Os clientes podem escolher suas preferências de subscrição para receber notificações por email sempre que a Adobe criar, atualizar ou resolver um evento de produto. Isso pode incluir manutenção programada ou problemas de serviço com diferentes níveis de gravidade. |
+| [Problemas de produção e paralisações do sistema](https://status.adobe.com/pt) | O Status.adobe.com transmite as informações de integridade de todos os produtos e serviços da Adobe implantados em ambientes de vários locatários. Os clientes podem escolher suas preferências de subscrição para receber notificações por email sempre que a Adobe criar, atualizar ou resolver um evento de produto. Isso pode incluir manutenção programada ou problemas de serviço com diferentes níveis de gravidade. |
 | [Termos e condições](https://helpx.adobe.com/br/support/programs/support-policies-terms-conditions.html) | Os Termos e condições que detalham os serviços de suporte. |
 
 {style="table-layout:auto"}

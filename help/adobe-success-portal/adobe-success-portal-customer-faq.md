@@ -2,10 +2,14 @@
 title: Perguntas frequentes do cliente do portal [!DNL Adobe Success]
 description: Este artigo responde às perguntas mais frequentes sobre o portal  [!DNL Adobe Success] .
 exl-id: fff82b90-4077-4669-8cd5-5105cd0c7307
-source-git-commit: 8f0527bbd009aeb4b3e524f18576180722f23993
-workflow-type: ht
-source-wordcount: '594'
-ht-degree: 100%
+TQID: https://experienceleague.adobe.com/sIIr9uo3-K1N44AG-k0uhHcfwb9J93r0RbzVz0NRMhk
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+workflow-type: tm+mt
+source-wordcount: 661
+ht-degree: 93%
 
 ---
 
@@ -16,16 +20,16 @@ ht-degree: 100%
 
 O portal [!DNL Adobe Success] é a nova plataforma da Adobe centralizada e voltada ao cliente, projetada para unificar a experiência pós-venda entre suporte, sucesso e engajamento. A versão Alpha se concentra em fornecer uma experiência coesa, que consolida ferramentas e fluxos de trabalho anteriormente distribuídos entre várias plataformas (por exemplo, Portal de Suporte, artefatos manuais do Ultimate Success). O objetivo é simplificar o modo como os clientes interagem com a Adobe durante todo o ciclo de vida, da integração à renovação, melhorando a transparência, o autoatendimento e a obtenção de valor.
 
-**Principais recursos do Alpha**
-O escopo do Alpha inclui um conjunto preparado de recursos personalizados para os clientes do Ultimate, com dois rastreadores de experiência principais:
+**Principais recursos no Alpha**
+O escopo do Alpha inclui um conjunto preparado de recursos personalizados para os clientes do Ultimate, com dois controles de experiência principais:
 1. Recursos do Ultimate Success
-Foram projetados para usuários de negócios estratégicos e incluem:
+Eles foram projetados para usuários de negócios estratégicos e incluem:
    * **[!UICONTROL Principais objetivos de negócios]** para o rastreamento do repositório e do progresso
    * **[!UICONTROL Plano de ação]** que rastreia o status e o progresso das atividades planejadas pela equipe de contas para impulsionar as metas de negócios
    * **[!UICONTROL Rastreador de valores]** para demonstrar o progresso dos casos de uso identificados e implantados nas soluções da Adobe para impulsionar suas metas de negócios
    * **[!UICONTROL Plano de engajamento]** para ver as maneiras de se engajar com a equipe de contas e outros recursos da Adobe
-1. Recursos de [!UICONTROL Suporte e insights]
-São voltados para usuários técnicos e incluem:
+1. Recursos de [!UICONTROL Suporte e Insights]
+Eles são voltados para usuários técnicos e incluem:
    * Gerenciamento de casos (abrir, gerenciar e revisar casos)
    * Insights do sistema em tempo real e verificação proativa do ambiente
    * Alerta de status da Adobe
