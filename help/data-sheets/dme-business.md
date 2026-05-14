@@ -3,8 +3,10 @@ title: Suporte comercial para Creative Cloud e Adobe Document Cloud
 description: Para fornecer suporte ao seu negócio, a Adobe oferece uma ampla gama de recursos técnicos incluída como parte de sua assinatura corporativa da Adobe. Isso é aprimorado com o plano de suporte empresarial. O suporte empresarial inclui roteamento prioritário para casos de suporte, garantindo uma conexão mais rápida aos recursos de suporte de prioridade em casos enviados.
 exl-id: d2042be3-46af-4863-8f37-491a61ae3b0b
 TQID: https://experienceleague.adobe.com/jYFjKBCdJyMEpfRufkgr6mYLpQLxjvIEh3cOFXEEWhs
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 835

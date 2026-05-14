@@ -3,9 +3,14 @@ title: Perguntas frequentes do cliente do portal [!DNL Adobe Success]
 description: Este artigo responde às perguntas mais frequentes sobre o portal  [!DNL Adobe Success] .
 exl-id: fff82b90-4077-4669-8cd5-5105cd0c7307
 TQID: https://experienceleague.adobe.com/sIIr9uo3-K1N44AG-k0uhHcfwb9J93r0RbzVz0NRMhk
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 661
@@ -16,6 +21,7 @@ ht-degree: 93%
 # Portal [!DNL Adobe Success]: perguntas frequentes do cliente
 
  
+
 ## Qual é o escopo do portal [!DNL Adobe Success]?
 
 O portal [!DNL Adobe Success] é a nova plataforma da Adobe centralizada e voltada ao cliente, projetada para unificar a experiência pós-venda entre suporte, sucesso e engajamento. A versão Alpha se concentra em fornecer uma experiência coesa, que consolida ferramentas e fluxos de trabalho anteriormente distribuídos entre várias plataformas (por exemplo, Portal de Suporte, artefatos manuais do Ultimate Success). O objetivo é simplificar o modo como os clientes interagem com a Adobe durante todo o ciclo de vida, da integração à renovação, melhorando a transparência, o autoatendimento e a obtenção de valor.
@@ -38,7 +44,7 @@ Para saber mais sobre o portal [!DNL Adobe Success], consulte o [[!UICONTROL Gui
 
 ## Como obter acesso ao portal?
 
-O portal [!DNL Adobe Success] está hospedado no Adobe Experience Cloud. O acesso ao Experience Cloud é exigido para acessar o portal [!DNL Adobe Success], o qual é definido no nível da organização IMS. Consulte [Acessar o portal  [!DNL Adobe Success] ](/help/adobe-success-portal/access-to-the-adobe-success-portal.md) para ver as etapas para acessar o portal.
+O portal [!DNL Adobe Success] está hospedado no Adobe Experience Cloud. O acesso ao Experience Cloud é exigido para acessar o portal [!DNL Adobe Success], o qual é definido no nível da organização IMS. Consulte [Acessar o portal  [!DNL Adobe Success] &#x200B;](/help/adobe-success-portal/access-to-the-adobe-success-portal.md) para ver as etapas para acessar o portal.
 
 O acesso ao portal no Alpha é limitado a uma lista predefinida de usuários identificados para participar do programa Alpha. Para saber as pessoas da organização que já têm acesso e solicitar usuários adicionais, entre em contato com a equipe de produtos usando o [canal do Teams do Alpha](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1).
 
@@ -56,7 +62,7 @@ Os dados são protegidos pelos controles de acesso rigorosos, somente para usuá
 
 ## O que fazer se eu encontrar um erro ou um problema?
 
-Para relatar um erro ou problema, recomendamos usar a [!UICONTROL Ferramenta de feedback do Alpha] diretamente no portal [!DNL Adobe Success]. Você também pode entrar em contato com a nossa equipe usando o [canal do Teams do Alpha ](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1).
+Para relatar um erro ou problema, recomendamos usar a [!UICONTROL Ferramenta de feedback do Alpha] diretamente no portal [!DNL Adobe Success]. Você também pode entrar em contato com a nossa equipe usando o [canal do Teams do Alpha &#x200B;](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1).
 
 ## Tenho uma ideia para um novo recurso ou aprimoramento. Para onde posso enviá-la?
 
