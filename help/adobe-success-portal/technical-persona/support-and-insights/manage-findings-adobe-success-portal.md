@@ -2,9 +2,18 @@
 title: 'Gerenciar descobertas no portal  [!DNL Adobe Success] '
 description: Este guia explica como acessar, interpretar e atuar nas descobertas no Portal  [!DNL Adobe Success]  para ajudar você a gerenciar proativamente o desempenho do produto, a segurança e os riscos de funcionalidade.
 exl-id: c787ce29-993c-498c-9e39-8a04c2eeedda
-source-git-commit: f23f0debcd6a0e2962524de321d436b854001495
-workflow-type: ht
-source-wordcount: '864'
+TQID: https://experienceleague.adobe.com/tO1CHOXvHW2yrDt4Kq14NMvOeSv0GP4fOeR-9-S5H3o
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+workflow-type: tm+mt
+source-wordcount: 862
 ht-degree: 100%
 
 ---
@@ -68,15 +77,15 @@ Siga estas etapas para validar se cada descoberta ainda é aplicável ou pode se
 
 1. Navegue até **[!UICONTROL Suporte e insights]**.
 1. Selecione o cartão do produto relevante.
-1. Abra a guia **[!UICONTROL Descobertas]**.  Você verá todos das descobertas do produto selecionado.
+1. Abra a guia **[!UICONTROL Descobertas]**. Você verá todos das descobertas do produto selecionado.
 1. Selecione uma entrada em **[!UICONTROL Nome da descoberta]**. Na página Detalhes da descoberta, é possível:
    * Selecionar **[!UICONTROL Validar]** para verificar se o problema ainda está presente (o botão **[!UICONTROL Validar]** foi criado como uma confirmação de que o problema foi resolvido):
 
    ![Botão Validar no painel Descobertas para confirmar a resolução do problema no Portal de sucesso da Adobe](../../assets/adobe-success-portal-validate.png "Botão validar")
 
 
-   * Se o problema persistir, a seguinte mensagem será exibida: *[!UICONTROL Validação concluída.  Descoberta ainda detectada]*. Use as informações e recomendações da página Detalhes da descoberta para investigar e resolver.
-   * Se o problema não estiver mais presente, a seguinte mensagem será exibida: *[!UICONTROL Validação concluída.  Descoberta não foi mais detectada]*. Quando a descoberta não é mais detectada, ela se torna cinza e o status muda para **[!UICONTROL Não detectado]**. Descobertas com o status **[!UICONTROL Não detectado]** estão localizadas na parte inferior da lista de descobertas.
+   * Se o problema persistir, a seguinte mensagem será exibida: *[!UICONTROL Validação concluída. Descoberta ainda detectada]*. Use as informações e recomendações da página Detalhes da descoberta para investigar e resolver.
+   * Se o problema não estiver mais presente, a seguinte mensagem será exibida: *[!UICONTROL Validação concluída. Descoberta não foi mais detectada]*. Quando a descoberta não é mais detectada, ela se torna cinza e o status muda para **[!UICONTROL Não detectado]**. Descobertas com o status **[!UICONTROL Não detectado]** estão localizadas na parte inferior da lista de descobertas.
    * Se o problema não for aplicável ou relevante para você, basta descartá-lo selecionando a opção **[!UICONTROL Descartar]**. Quando a descoberta é descartada, se torna cinza e o status muda para **[!UICONTROL Descartada]**.  Descobertas com o status **[!UICONTROL Descartado]** estão localizadas na parte inferior da lista.
 
 ## Noções básicas de descobertas
@@ -90,7 +99,7 @@ Siga estas etapas para validar se cada descoberta ainda é aplicável ou pode se
 
 ## Práticas recomendadas
 
-A página **[!UICONTROL Descobertas]** lista recomendações com os seguintes níveis de risco: **[!UICONTROL Alto]**, **[!UICONTROL Elevado]** e **[!UICONTROL Médio]**. **[!UICONTROL Alto]** é crítico, **[!UICONTROL Elevado]** é urgente e **[!UICONTROL Médio]** é não crítico.  Para manter a integridade e o desempenho do site:
+A página **[!UICONTROL Descobertas]** lista recomendações com os seguintes níveis de risco: **[!UICONTROL Alto]**, **[!UICONTROL Elevado]** e **[!UICONTROL Médio]**. **[!UICONTROL Alto]** é crítico, **[!UICONTROL Elevado]** é urgente e **[!UICONTROL Médio]** é não crítico. Para manter a integridade e o desempenho do site:
 
 * Resolva prontamente as descobertas de **[!UICONTROL Alto risco]**, pois representam ameaças críticas.
 * Resolva logo os problemas de risco **[!UICONTROL Elevado]** para evitar o escalonamento.

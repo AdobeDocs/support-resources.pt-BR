@@ -1,10 +1,15 @@
 ---
 title: Suporte comercial para Creative Cloud e Adobe Document Cloud
-description: Para fornecer suporte a sua empresa, a Adobe oferece uma ampla gama de recursos técnicos incluída como parte de sua assinatura corporativa da Adobe. Isso é aprimorado com o plano de suporte empresarial. O suporte empresarial inclui roteamento prioritário para casos de suporte, garantindo uma conexão mais rápida aos recursos de suporte de prioridade em casos enviados.
+description: Para fornecer suporte ao seu negócio, a Adobe oferece uma ampla gama de recursos técnicos incluída como parte de sua assinatura corporativa da Adobe. Isso é aprimorado com o plano de suporte empresarial. O suporte empresarial inclui roteamento prioritário para casos de suporte, garantindo uma conexão mais rápida aos recursos de suporte de prioridade em casos enviados.
 exl-id: d2042be3-46af-4863-8f37-491a61ae3b0b
-source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
+TQID: https://experienceleague.adobe.com/jYFjKBCdJyMEpfRufkgr6mYLpQLxjvIEh3cOFXEEWhs
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '830'
+source-wordcount: 835
 ht-degree: 100%
 
 ---
@@ -13,7 +18,7 @@ ht-degree: 100%
 
 ![Ícone](assets/Businessbanner.png)
 
-Para fornecer suporte a sua empresa, a Adobe oferece uma ampla gama de recursos técnicos incluída como parte de sua assinatura corporativa da Adobe. Isso é aprimorado com o plano de suporte empresarial. O suporte empresarial inclui roteamento prioritário para casos de suporte, garantindo uma conexão mais rápida aos recursos de suporte de prioridade em casos enviados.
+Para fornecer suporte ao seu negócio, a Adobe oferece uma ampla gama de recursos técnicos incluída como parte de sua assinatura corporativa da Adobe. Isso é aprimorado com o plano de suporte empresarial. O suporte empresarial inclui roteamento prioritário para casos de suporte, garantindo uma conexão mais rápida aos recursos de suporte de prioridade em casos enviados.
 
 Os clientes empresariais também se beneficiam do acesso às nossas equipes de suporte técnico para qualquer consulta de produto por telefone ou pelo portal de suporte da web, para ajudar a proteger seus negócios nos momentos mais críticos. Os clientes empresariais poderão contar com a ajuda do seu líder de suporte de conta para a gestão do encaminhamento de casos de suporte e receberão informações e atualizações frequentes para suas solicitações de suporte mais críticas.
 
@@ -259,7 +264,7 @@ Os clientes empresariais também se beneficiam do acesso às nossas equipes de s
 |--- |--- |
 | [Aprendizagem e suporte corporativo](https://helpx.adobe.com/br/enterprise.html) | Aprendizagem e suporte corporativo é um local onde os clientes da Adobe podem encontrar tutoriais de autoajuda, documentações de produtos, treinamento ministrado por instrutores, uma comunidade e suporte para determinados produtos da Adobe Creative Cloud e Adobe Document Cloud. |
 | [Comunidade de suporte da Adobe](https://community.adobe.com/?profile.language=pt) | A Comunidade de suporte da Adobe é o local para fazer perguntas, encontrar respostas, aprender com especialistas e compartilhar seu conhecimento. |
-| [Problemas de produção e paralisações do sistema](https://status.adobe.com/pt-br/) | O Status.adobe.com transmite as informações de integridade de todos os produtos e serviços da Adobe implantados em ambientes de vários locatários. Os clientes podem escolher suas preferências de subscrição para receber notificações por email sempre que a Adobe criar, atualizar ou resolver um evento de produto. Isso pode incluir manutenção programada ou problemas de serviço com diferentes níveis de gravidade. |
+| [Problemas de produção e paralisações do sistema](https://status.adobe.com/pt) | O Status.adobe.com transmite as informações de integridade de todos os produtos e serviços da Adobe implantados em ambientes de vários locatários. Os clientes podem escolher suas preferências de subscrição para receber notificações por email sempre que a Adobe criar, atualizar ou resolver um evento de produto. Isso pode incluir manutenção programada ou problemas de serviço com diferentes níveis de gravidade. |
 | [Termos e condições](https://helpx.adobe.com/br/support/programs/support-policies-terms-conditions.html) | Os Termos e condições que detalham os serviços de suporte. |
 
 {style="table-layout:auto"}

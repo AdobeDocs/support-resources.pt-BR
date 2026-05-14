@@ -3,10 +3,18 @@ title: Notas de versão do portal Adobe Success
 description: As informações da versão mais recente do [!DNL Adobe Success portal].
 feature: Release Notes
 exl-id: be268e05-8298-4f21-8f2f-f66c52d76fe3
-source-git-commit: 2894190b3171228e9c14a7cdef5bb2d92b97a6ec
+TQID: https://experienceleague.adobe.com/LSmHwDaQ39QEnzOcHgHLlr7g8OhoO3CQTsiFlceM8AA
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '595'
-ht-degree: 83%
+source-wordcount: 597
+ht-degree: 81%
 
 ---
 
@@ -14,9 +22,9 @@ ht-degree: 83%
 
 Estas notas de versão contêm atualizações do [!DNL Adobe Success portal] e incluem:
 
-![Novidade](../adobe-success-portal/assets/new.svg): novos recursos
-![Correção](../adobe-success-portal/assets/fix.svg): correções e melhorias
-![Bug](../adobe-success-portal/assets/bug.svg): problemas conhecidos
+![Novos](../adobe-success-portal/assets/new.svg) - Novos recursos
+![Correção](../adobe-success-portal/assets/fix.svg) - Correções e melhorias
+![Bug](../adobe-success-portal/assets/bug.svg) - Problemas conhecidos
 
 ## 4,0
 
@@ -26,7 +34,7 @@ _11 de novembro de 2025_
 
 ![Correção](../adobe-success-portal/assets/fix.svg) Os detalhes de caso foram atualizados para que, quando abertos em uma nova guia usando o **Ctrl+Clique** / **Command+Clique**, o botão Voltar seja desabilitado corretamente para evitar erros de navegação.
 
-![Bug](../adobe-success-portal/assets/bug.svg) Corrigido um problema no qual detalhes incorretos de status, região ou fuso horário eram exibidos para os alertas do **[!UICONTROL Status do Adobe]** no **[!UICONTROL Suporte e Insights]**.
+![Bug](../adobe-success-portal/assets/bug.svg) Corrigido um problema no qual detalhes incorretos de status, região ou fuso horário eram exibidos para os alertas do **[!UICONTROL Adobe Status]** no **[!UICONTROL Suporte e Insights]**.
 
 ![Bug](../adobe-success-portal/assets/bug.svg) Resolveu problemas de exibição com **[!UICONTROL Aceleradores]** e **[!UICONTROL Atividades]** vinculadas a **[!UICONTROL Parceiros Estratégicos]**.
 
@@ -58,7 +66,7 @@ _9 de outubro de 2025_
 
 ![Correção](../adobe-success-portal/assets/fix.svg) Mostra todos os **[!UICONTROL Parceiros estratégicos]** associados a uma conta, com indicadores para os contatos principais.
 
-![Correção](../adobe-success-portal/assets/fix.svg) Corrigido um problema no qual os fusos horários em **[!UICONTROL Status de Alertas e Adobe]** não refletiam corretamente o perfil do usuário conectado.
+![Correção](../adobe-success-portal/assets/fix.svg) Corrigido um problema no qual os fusos horários em **[!UICONTROL Alertas e Adobe Status]** não refletiam corretamente o perfil do usuário conectado.
 
 ![Correção](../adobe-success-portal/assets/fix.svg) Corrigido um problema em que os filtros em **[!UICONTROL Alertas e status da Adobe]** não funcionavam juntos como esperado.
 

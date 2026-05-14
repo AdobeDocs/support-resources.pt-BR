@@ -2,9 +2,15 @@
 title: Suporte Online
 description: Os serviços de Suporte Online da Adobe Experience Cloud fornecem acesso limitado ao suporte telefônico.
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
-source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
+TQID: https://experienceleague.adobe.com/eaI-iDJEaAM5WNfN8wH7mZ4NHcQD99neOiONYevP79I
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: 791
 ht-degree: 100%
 
 ---
@@ -237,12 +243,12 @@ O Suporte ao cliente da Adobe oferece acesso a recursos online para documentaç�
 |--- |--- |
 | [Experience League](https://experienceleague.adobe.com/pt-br?lang=pt-BR) | A Experience League foi criada para ajudar as empresas a alcançar o valor que esperam do seu investimento em produtos da Adobe. É o local unificado onde os clientes podem aprender, interagir e crescer ao longo de um caminho personalizado de sucesso que inclui tutoriais de autoatendimento, documentação dos produtos, treinamento com instrutores e suporte técnico e da comunidade. |
 | [Treinamento](https://training.adobe.com/training/) | O acesso aos cursos do Adobe Digital Learning Services está disponível na Experience League. Os cursos de aprendizagem incluem lições sob demanda e com instrutores. É um lugar para adquirir habilidades com reconhecido valor de mercado que você pode pôr em prática para impulsionar o sucesso na sua organização. |
-| [Problemas de produção e paralisações do sistema](https://status.adobe.com/pt-br/) | O Status.adobe.com transmite as informações de integridade de todos os produtos e serviços da Adobe implantados em ambientes de vários locatários. Os clientes podem escolher suas preferências de subscrição para receber notificações por email sempre que a Adobe criar, atualizar ou resolver um evento de produto. Isso pode incluir manutenção programada ou problemas de serviço com diferentes níveis de gravidade. |
+| [Problemas de produção e paralisações do sistema](https://status.adobe.com/pt) | O Status.adobe.com transmite as informações de integridade de todos os produtos e serviços da Adobe implantados em ambientes de vários locatários. Os clientes podem escolher suas preferências de subscrição para receber notificações por email sempre que a Adobe criar, atualizar ou resolver um evento de produto. Isso pode incluir manutenção programada ou problemas de serviço com diferentes níveis de gravidade. |
 | [Termos e condições](https://helpx.adobe.com/br/support/programs/support-policies-terms-conditions.html) | Os Termos e condições que detalham os serviços de suporte. |
 
 ## Escopo regional do Suporte da Adobe, horários locais de operação e suporte de idioma
 
-O escopo regional do Suporte da Adobe é estabelecido alinhando o endereço de faturamento do cliente (por meio da ordem de venda ou outro documento de compra do Suporte da Adobe) a uma das seguintes regiões:
+O escopo regional do Suporte da Adobe é estabelecido alinhando o endereço de faturamento do cliente (por meio do pedido de venda ou outro documento de compra do Suporte da Adobe) a uma das seguintes regiões:
 
 <table>
 <thead>

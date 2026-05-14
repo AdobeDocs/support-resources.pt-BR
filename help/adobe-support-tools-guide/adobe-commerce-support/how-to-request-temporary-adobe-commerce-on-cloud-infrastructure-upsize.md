@@ -3,10 +3,25 @@ title: Como solicitar o Adobe Commerce temporário no upsize da infraestrutura e
 description: Se sua organização estiver planejando um evento online em que você espera alto tráfego ou se você subitamente descobrir que seu site está passando por um evento de alto tráfego, poderá registrar um [Tíquete de Suporte](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=pt-BR#submit-ticket) para solicitar capacidade de nuvem adicional temporária para o Adobe Commerce na loja de infraestrutura em nuvem.
 solution: Commerce
 exl-id: 203882c0-929a-4bb3-afff-738bc518b46b
-source-git-commit: bbc1d3c0a0436a36d55adac14bb354fe0ecf96da
+TQID: https://experienceleague.adobe.com/9--JwGLuX01kXR569r1OjVrkiTd2BQa-j-gOTs9oKGY
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+subfeature_v2:
+  - id: f8ddfd3b-6194-46e8-a176-0e918039be56
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '882'
-ht-degree: 0%
+source-wordcount: 1136
+ht-degree: 1%
 
 ---
 
@@ -33,7 +48,7 @@ O alerta de linha de base é útil para criar condições de alerta que:
 
 Além disso, os alertas de linha de base funcionam bem com novos aplicativos quando você ainda não tem comportamentos conhecidos.
 
-New Relic Siga este link para saber mais sobre a [Detecção de anomalias com Inteligência aplicada](https://docs.newrelic.com/docs/alerts-applied-intelligence/applied-intelligence/anomaly-detection/anomaly-detection-applied-intelligence/).
+Siga este link para saber mais sobre a [Detecção de anomalias com Inteligência aplicada](https://docs.newrelic.com/docs/alerts-applied-intelligence/applied-intelligence/anomaly-detection/anomaly-detection-applied-intelligence/).
 
 Se você receber uma notificação de alerta que sugira um evento de alto tráfego, talvez seja necessário considerar [enviar um Tíquete de Suporte](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=pt-BR#submit-ticket) solicitando capacidade adicional. Siga as etapas abaixo.
 
@@ -123,6 +138,6 @@ As seguintes informações estão disponíveis para cada solicitação de redime
    * [Verificar a configuração do CPU do host para o Adobe Commerce na nuvem](https://experienceleague.adobe.com/pt-br/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-hosts-cpu-configuration)
 * Para obter informações sobre como identificar interrupções, consulte [Identificar e medir interrupções para o Adobe Commerce na nuvem](https://experienceleague.adobe.com/pt-br/docs/commerce-knowledge-base/kb/how-to/how-to-identify-outages) em nossa base de dados de conhecimento de suporte.
 * Para obter informações sobre como melhorar o desempenho do site para evitar a necessidade de utilizar um aumento na capacidade, consulte estes artigos na documentação do desenvolvedor:
-   * [Dimensionamento de imagem](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/catalog/products/digital-assets/product-image-config#product-image-resizing)
-   * [Cache de Página Inteira](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/systems/tools/cache-management#full-page-caching)
-   * [Ferramentas ECE](https://experienceleague.adobe.com/pt-br/docs/commerce-on-cloud/user-guide/dev-tools/ece-tools/package-overview)
+   * [Dimensionamento da imagem](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/catalog/products/digital-assets/product-image-config#product-image-resizing)
+   * [Armazenamento em cache de página inteira](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/systems/tools/cache-management#full-page-caching)
+   * [ECE-Tools](https://experienceleague.adobe.com/pt-br/docs/commerce-on-cloud/user-guide/dev-tools/ece-tools/package-overview)

@@ -1,10 +1,17 @@
 ---
 title: Suporte Elite para Creative Cloud e Adobe Document Cloud
-description: Para fornecer suporte a sua empresa, a Adobe oferece uma ampla gama de recursos técnicos incluída como parte de sua assinatura corporativa da Adobe. Isso é aprimorado com o plano de suporte ELITE.
+description: Para fornecer suporte ao seu negócio, a Adobe oferece uma ampla gama de recursos técnicos incluída como parte de sua assinatura corporativa da Adobe. Isso é aprimorado com o plano de suporte ELITE.
 exl-id: 2f506e8d-ac9b-4bc7-b98a-ac5ffc626c65
-source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
+TQID: https://experienceleague.adobe.com/daL6pp7pxEL2mHoC8cpKMMQUXYVM3W-dsXldBeyjL3Q
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '1123'
+source-wordcount: 1122
 ht-degree: 100%
 
 ---
@@ -13,7 +20,7 @@ ht-degree: 100%
 
 ![Ícone](assets/Elitebanner.png)
 
-Para fornecer suporte a sua empresa, a Adobe oferece uma ampla gama de recursos técnicos incluída como parte de sua assinatura corporativa da Adobe. Isso é aprimorado com o plano de suporte ELITE. Os clientes ELITE têm acesso a um engenheiro de suporte nomeado, bem como a um gerente de conta técnico que trabalha em parceria com você para fornecer o melhor suporte proativo e reativo enquanto atuam como contatos técnicos designados dentro da Equipe de suporte da Adobe.
+Para fornecer suporte ao seu negócio, a Adobe oferece uma ampla gama de recursos técnicos incluída como parte de sua assinatura corporativa da Adobe. Isso é aprimorado com o plano de suporte ELITE. Os clientes ELITE têm acesso a um engenheiro de suporte nomeado, bem como a um gerente de conta técnico que trabalha em parceria com você para fornecer o melhor suporte proativo e reativo enquanto atuam como contatos técnicos designados dentro da Equipe de suporte da Adobe.
 
 Com grande experiência nas soluções Creative Cloud e Document Cloud aplicáveis, a equipe de suporte trabalha para garantir que, independentemente da complexidade das suas necessidades de suporte, a Equipe de suporte da Adobe estará lá, lado a lado, com você, para garantir que você maximize seu investimento em soluções Adobe aplicáveis e para ajudar a evitar problemas antes que eles aconteçam. Você também pode aproveitar nossa documentação técnica detalhada e abrangente do produto e as notas de versão atuais.
 
@@ -24,7 +31,7 @@ Com grande experiência nas soluções Creative Cloud e Document Cloud aplicáve
   <tr>
     <th></th>
     <th></th>
-    <th>Suporte padrão</th>
+    <th>Suporte Standard</th>
     <th>Suporte Elite</th>
   </tr>
 </thead>
@@ -316,7 +323,7 @@ Com grande experiência nas soluções Creative Cloud e Document Cloud aplicáve
 |--- |--- |
 | [Aprendizagem e suporte corporativo](https://helpx.adobe.com/br/enterprise.html) | Aprendizagem e suporte corporativo é um local onde os clientes da Adobe podem encontrar tutoriais de autoajuda, documentações de produtos, treinamento ministrado por instrutores, uma comunidade e suporte para determinados produtos da Adobe Creative Cloud e Adobe Document Cloud. |
 | [Comunidade de suporte da Adobe](https://community.adobe.com/?profile.language=pt) | A Comunidade de suporte da Adobe é o local para fazer perguntas, encontrar respostas, aprender com especialistas e compartilhar seu conhecimento. |
-| [Problemas de produção e paralisações do sistema](https://status.adobe.com/pt-br/) | O Status.adobe.com transmite as informações de integridade de todos os produtos e serviços da Adobe implantados em ambientes de vários locatários. Os clientes podem escolher suas preferências de subscrição para receber notificações por email sempre que a Adobe criar, atualizar ou resolver um evento de produto. Isso pode incluir manutenção programada ou problemas de serviço com diferentes níveis de gravidade. |
+| [Problemas de produção e paralisações do sistema](https://status.adobe.com/pt) | O Status.adobe.com transmite as informações de integridade de todos os produtos e serviços da Adobe implantados em ambientes de vários locatários. Os clientes podem escolher suas preferências de subscrição para receber notificações por email sempre que a Adobe criar, atualizar ou resolver um evento de produto. Isso pode incluir manutenção programada ou problemas de serviço com diferentes níveis de gravidade. |
 | [Termos e condições](https://helpx.adobe.com/br/support/programs/support-policies-terms-conditions.html) | Os Termos e condições que detalham os serviços de suporte. |
 
 {style="table-layout:auto"}
