@@ -66,4 +66,4 @@ Este artigo lista as opções de campo **[!UICONTROL Motivo do problema]** do t�
 
 ## Leitura relacionada
 
-* [Envie um caso de suporte](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) no Guia do Usuário de Suporte da Experience League para Adobe Commerce.
+* [Envie um caso de suporte](https://experienceleague.adobe.com/pt-br/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) no Guia do Usuário de Suporte da Experience League para Adobe Commerce.
