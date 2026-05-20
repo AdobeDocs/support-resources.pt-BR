@@ -2,9 +2,9 @@
 title: Como obter e aplicar o [!UICONTROL patch de segurança]
 description: Este artigo fornece instruções sobre como obter e aplicar um [!UICONTROL patch de segurança] que foi lançado, mas as instruções não estão disponíveis.
 exl-id: 6764d60e-5088-4a85-90fa-4372570b065b
-source-git-commit: 90775dd524d52669067794469efdd5462af53fc0
+source-git-commit: 9a4d96e06b949e4c229fdf0f084810b27bf8b346
 workflow-type: tm+mt
-source-wordcount: '530'
+source-wordcount: '660'
 ht-degree: 0%
 
 ---
@@ -38,26 +38,36 @@ Portanto, o caminho de remediação compatível é aplicar a atualização de se
 
 **Avisos:**
 
-Se você estiver em uma versão mais antiga do Adobe Commerce (2.4.4), terá recebido automaticamente o Suporte estendido. Sua versão deve ser uma das seguintes versões não suportadas para poder aplicar os patches de segurança mais recentes disponíveis:
+* O Adobe Commerce 2.4.6 continua sendo compatível com o suporte estendido até 30 de agosto de 2027.
 
-2.4.4 - 2.4.4-p11
+* O Adobe Commerce 2.4.5 permanece no Suporte estendido até 11 de agosto de 2026. Após essa data, a Adobe fornecerá correções de segurança somente até 31 de maio de 2027.
 
-Versões não compatíveis (2.3.x, 2.4.0 - 2.4.3) não são elegíveis para suporte e você deve primeiro atualizar para uma versão compatível para aproveitar as correções de segurança mais recentes.
+* O Adobe Commerce 2.4.4 não está mais sob Suporte estendido. O Adobe fornece correções de segurança somente até 31 de maio de 2027.
 
-Se você não tiver o suporte estendido, poderá solicitar suporte para compartilhar os patches com você, mas eles não poderão resolver nenhum problema/erro que você possa encontrar ao aplicá-los.
+* Para o Adobe Commerce 2.4.4 e 2.4.5, o Adobe fornece apenas arquivos de patch de segurança. Essas atualizações não incluem:
+
+   * Suporte ou assistência de engenharia da Adobe Commerce
+   * Patches de qualidade
+   * Atualizações de dependência de plataforma ou sistema operacional
+
+Versões não compatíveis (2.3.x e 2.4.0-2.4.3) não estão qualificadas para suporte. Você pode atualizar para uma versão compatível para receber as correções de segurança mais recentes.
 
 ### Caso II:
 
-Os patches isolados são fornecidos apenas em casos excepcionais, e não é a forma preferida de implementar correções de segurança.
+Os patches isolados são fornecidos apenas em casos excepcionais e não são o método preferido para implementar correções de segurança.
 
-Se um arquivo/hotfix de patch isolado não for mencionado nas Notas de versão:
+Se um arquivo de patch ou hotfix isolado não for mencionado nas Notas de versão, siga estas diretrizes:
 
-* **Nuvem:**
+>[!IMPORTANT]
+>
+>Se um arquivo de patch ou hotfix isolado não for lançado explicitamente por um problema de segurança, atualize o aplicativo Adobe Commerce completo para a versão de patch aplicável mais recente para a linha de lançamento afetada.
+
+**Nuvem:**
 
 1. Alguns [!UICONTROL patches de segurança] podem ser incluídos/lançados na versão mais recente do Conjunto de Ferramentas da Nuvem (Ferramentas ECE) em Patches da Nuvem para o Commerce - verifique as [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/commerce-cloud-service/user-guide/release-notes/cloud-tools-suite) e, se uma correção de segurança for mencionada na versão, atualize o pacote para essa versão.
 1. Se as Notas de versão não mencionarem uma correção de segurança, continue lendo.
 
-* **Infraestrutura em nuvem ou no local:**
+**Infraestrutura em nuvem ou no local:**
 
 * Se um arquivo/hotfix de patch isolado não estiver disponível, [atualize a versão do Adobe Commerce na infraestrutura de nuvem](https://experienceleague.adobe.com/pt-br/docs/commerce-cloud-service/user-guide/develop/upgrade/commerce-version) 2.4.X para a versão de patch mais recente 2.4.X-pY.
 * Se um arquivo/hotfix de patch isolado não estiver disponível, [atualize a versão do Adobe Commerce no local](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/upgrade-guide/implementation/perform-upgrade) 2.4.X para a versão de patch mais recente 2.4.X-pY.
