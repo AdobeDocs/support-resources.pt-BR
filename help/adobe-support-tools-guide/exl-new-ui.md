@@ -1,15 +1,14 @@
 ---
 title: Portal de suporte do Experience League - nova interface de usuário
 description: O portal de suporte da Experience League foi reprojetado e simplifica fluxos de trabalho de suporte, insights de casos e monitoramento de produtos com navegação, análises e ações rápidas aprimoradas, além de uma alternância perfeita entre o portal atual e o gerenciamento de casos.
-hold: true
-source-git-commit: 66bfb45f44f79681278b77a528c0c5000504b293
+source-git-commit: c40672aed3df1f842cfd032b5a653b8fbf70876e
 workflow-type: tm+mt
 source-wordcount: '898'
 ht-degree: 2%
 
 ---
 
-# Portal de suporte do Experience League - Nova interface do usuário
+# Portal de suporte do Experience League - nova interface de usuário
 
 ## Visão geral
 
