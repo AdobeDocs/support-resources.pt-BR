@@ -11,9 +11,9 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: 7570e35edc9099a15556ce94a50904d4b402c042
+source-git-commit: bff5962913571b7bc192e634346c124985dc3609
 workflow-type: tm+mt
-source-wordcount: 973
+source-wordcount: 1177
 ht-degree: 1%
 
 ---
@@ -25,6 +25,24 @@ Essas notas de versão contêm atualizações para o suporte da Experience Leagu
 ![Novos](../adobe-support-tools-guide/assets/new.svg) Novos recursos
 ![Correção](../adobe-support-tools-guide/assets/fix.svg) Correções e melhorias
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Problemas conhecidos
+
+## 26 de maio de 2026 - Atualização da interface do usuário do portal de suporte do Experience League
+
+1. Uma nova página inicial centralizada fornece uma visualização rápida da atividade de suporte, incluindo contagens de casos por prioridade, casos aguardando sua resposta, status do produto em tempo real e alertas do sistema em um único painel.
+
+1. O **[!UICONTROL Alternador de Organização]**, no canto superior esquerdo, permite que você alterne entre organizações, e o portal atualiza automaticamente os dados do caso, o status do produto e as informações de suporte da organização selecionada.
+
+1. A alternância de portal permite alternar entre o portal reprojetado e o portal de suporte atual da Experience League a qualquer momento, com ambas as experiências permanecendo totalmente sincronizadas para que seus dados de caso permaneçam atualizados.
+
+1. Você pode monitorar o status operacional ativo de todos os produtos da Adobe qualificados para a sua organização e filtrar alertas do sistema por tipo de evento, incluindo Principal, Secundário, Potencial, Manutenção e Anúncios.
+
+1. Os clientes da Ultimate Success plan agora têm acesso a uma página dedicada **[!UICONTROL Meu sucesso]** com detalhes sobre a equipe de sucesso e recursos para apoiar o envolvimento com a Adobe.
+
+1. O portal de suporte reprojetado está disponível para todos os produtos, exceto o Adobe Commerce.
+
+>[!NOTE]
+>
+>As atualizações para as páginas Criação de caso, Detalhes do caso e Meus casos estão planejadas para uma versão futura. Até lá, essas páginas permanecerão disponíveis no portal de suporte atual da Experience League.
 
 ## 7 de maio de 2026 - Expansão da solicitação para o recurso de retorno de chamada
 
