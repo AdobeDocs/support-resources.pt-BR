@@ -11,9 +11,9 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: bff5962913571b7bc192e634346c124985dc3609
+source-git-commit: a279aba612b6a6c61e4df38ee42b76fca90d20ea
 workflow-type: tm+mt
-source-wordcount: 1177
+source-wordcount: 1209
 ht-degree: 1%
 
 ---
@@ -25,6 +25,10 @@ Essas notas de versão contêm atualizações para o suporte da Experience Leagu
 ![Novos](../adobe-support-tools-guide/assets/new.svg) Novos recursos
 ![Correção](../adobe-support-tools-guide/assets/fix.svg) Correções e melhorias
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Problemas conhecidos
+
+## 28 de maio de 2026 - Expansão do recurso [!UICONTROL Solicitar um Retorno de Chamada]
+
+O recurso **[!UICONTROL Solicitar um Retorno de Chamada]** agora está disponível para usuários de produtos Adobe Journey Optimizer, Customer Journey Analytics e Real-Time Customer Data Platform.
 
 ## 26 de maio de 2026 - Atualização da interface do usuário do portal de suporte do Experience League
 
@@ -44,7 +48,7 @@ Essas notas de versão contêm atualizações para o suporte da Experience Leagu
 >
 >As atualizações para as páginas Criação de caso, Detalhes do caso e Meus casos estão planejadas para uma versão futura. Até lá, essas páginas permanecerão disponíveis no portal de suporte atual da Experience League.
 
-## 7 de maio de 2026 - Expansão da solicitação para o recurso de retorno de chamada
+## 7 de maio de 2026 - Expansão do recurso [!UICONTROL Solicitar um Retorno de Chamada]
 
 O recurso Solicitar um retorno de chamada agora está disponível para Adobe Commerce e Adobe GenStudio. Os clientes do Adobe Commerce podem, convenientemente, programar um retorno de chamada em um horário que funcione melhor para eles, enquanto os clientes do Adobe GenStudio têm a opção de solicitar um retorno de chamada imediato ou programado.
 
@@ -78,13 +82,13 @@ O recurso Solicitar um retorno de chamada agora está disponível para Adobe Com
 
 1. Os usuários podem enviar feedback sobre insights individuais para ajudar a Adobe a melhorar continuamente a precisão e a relevância dos insights do sistema.
 
-## 23 de abril de 2026 - Expansão da solicitação para o recurso de retorno de chamada
+## 23 de abril de 2026 - Expansão do recurso [!UICONTROL Solicitar um Retorno de Chamada]
 
-O recurso Solicitação de retorno de chamada agora está disponível para usuários de produtos do Analytics, Admin Console, Audience Manager e Target.
+O recurso **[!UICONTROL Solicitar um Retorno de Chamada]** agora está disponível para usuários de produtos do Analytics, Admin Console, Audience Manager e Target.
 
-## 8 de abril de 2026 - Expansão da solicitação para o recurso de retorno de chamada
+## 8 de abril de 2026 - Expansão do recurso [!UICONTROL Solicitar um Retorno de Chamada]
 
-O recurso Solicitação de retorno de chamada agora está disponível para usuários de produtos do Marketo.
+O recurso **[!UICONTROL Solicitar um Retorno de Chamada]** agora está disponível para usuários de produtos Marketo.
 
 ## 30 de março de 2026 - Formulário aprimorado de ocorrência
 
@@ -143,9 +147,9 @@ O recurso Solicitação de retorno de chamada agora está disponível para usuá
 
 ![Correção](../adobe-support-tools-guide/assets/fix.svg) Adição de asteriscos (*) como indicadores de campo obrigatórios para garantir a integridade e reduzir erros de envio.
 
-## 18 de março de 2026 - Expansão da solicitação para o recurso de retorno de chamada
+## 18 de março de 2026 - Expansão do recurso [!UICONTROL Solicitar um Retorno de Chamada]
 
-O Experience League agora oferece uma opção de Solicitação de retorno de chamada, permitindo o agendamento de reuniões na Web de autoatendimento com recursos de compartilhamento de tela para resolução mais rápida de problemas.
+O Experience League agora oferece a opção **[!UICONTROL Solicitar um Retorno de Chamada]**, permitindo o agendamento de reuniões na Web de autoatendimento com recursos de compartilhamento de tela para resolução mais rápida de problemas.
 
 - Esse recurso está disponível para o Adobe Experience Manager, Campaign e Workfront.
 - Os clientes podem agendar reuniões conforme sua conveniência e receber convites instantâneos.
