@@ -14,9 +14,9 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 7570e35edc9099a15556ce94a50904d4b402c042
+source-git-commit: 08be6152d1f6395647c7eb04e39ed448dac86bba
 workflow-type: tm+mt
-source-wordcount: 1499
+source-wordcount: 1510
 ht-degree: 0%
 
 ---
@@ -92,9 +92,9 @@ O Experience League é um portal de suporte de autoatendimento projetado para fo
 
 1. No menu **[!UICONTROL Página Inicial]**, você pode **[!UICONTROL Abrir um tíquete de suporte]**, **[!UICONTROL Exibir e gerenciar casos]**, **[!UICONTROL Solicitar um Retorno de Chamada]** ou acessar recursos de aprendizado adicionais.
 
-A opção **[!UICONTROL Solicitar um Retorno de Chamada]** permite agendar reuniões na Web com compartilhamento de tela para casos P2 e P3, permitindo uma resolução de problemas mais rápida e eficiente. Ele está disponível para Adobe Experience Manager, Admin Console, Analytics, Audience Manager, Campaign, Commerce, GenStudio, Marketo, Target e Workfront. As reuniões podem ser agendadas de acordo com a conveniência do cliente. Ele também fornece retornos de chamada telefônica imediatos para casos P1 em todos os produtos mencionados acima, exceto o Adobe Commerce.
+   A opção **[!UICONTROL Solicitar um Retorno de Chamada]** permite agendar reuniões na Web com compartilhamento de tela para casos P2 e P3, permitindo uma resolução de problemas mais rápida e eficiente. Ele está disponível para Adobe Experience Manager, Admin Console, Adobe Journey Optimizer, Analytics, Audience Manager, Campaign, Commerce, Customer Journey Analytics, GenStudio, Marketo, Real-Time Customer Data Platform, Target e Workfront. As reuniões podem ser agendadas de acordo com a conveniência do cliente. Ele também fornece retornos de chamada telefônica imediatos para casos P1 em todos os produtos mencionados acima, exceto o Adobe Commerce.
 
-![Menu inicial da Experience League](./assets/home-menu.png)
+   ![Menu inicial da Experience League](./assets/home-menu.png)
 
 1. Para enviar um caso, selecione **[!UICONTROL Abrir um tíquete de suporte]**. Você também pode selecionar o **[!UICONTROL Tíquete aberto]** no menu da barra lateral.
 

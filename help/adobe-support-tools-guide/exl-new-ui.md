@@ -1,7 +1,7 @@
 ---
 title: Portal de suporte do Experience League - nova interface de usuário
 description: O portal de suporte da Experience League foi reprojetado e simplifica fluxos de trabalho de suporte, insights de casos e monitoramento de produtos com navegação, análises e ações rápidas aprimoradas, além de uma alternância perfeita entre o portal atual e o gerenciamento de casos.
-source-git-commit: 693c4ee7852623006acd388d905b43bccab27730
+source-git-commit: 06859737ce72b5350543f8e02c30a721884e2464
 workflow-type: tm+mt
 source-wordcount: '898'
 ht-degree: 2%
@@ -40,7 +40,7 @@ A alternância de organizações atualiza os dados de caso, o status do produto 
 
 Use o botão de alternância no portal para alternar entre o portal de suporte do Experience League reprojetado e o portal atual.
 
-![Nova interface](/help/adobe-support-tools-guide/assets/new-toggle.png)
+![Nova interface](/help/adobe-support-tools-guide/assets/new-toggle-1.png)
 
 Ambos os portais permanecem sincronizados, garantindo que os dados dos casos e as informações de suporte permaneçam consistentes em todas as experiências.
 
