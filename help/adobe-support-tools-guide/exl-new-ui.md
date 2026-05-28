@@ -1,9 +1,14 @@
 ---
 title: Portal de suporte do Experience League - nova interface de usuário
 description: O portal de suporte da Experience League foi reprojetado e simplifica fluxos de trabalho de suporte, insights de casos e monitoramento de produtos com navegação, análises e ações rápidas aprimoradas, além de uma alternância perfeita entre o portal atual e o gerenciamento de casos.
-source-git-commit: 06859737ce72b5350543f8e02c30a721884e2464
+TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 2efca23d4302f4c6caf580a9ae3d3ffde70bfa36
 workflow-type: tm+mt
-source-wordcount: '898'
+source-wordcount: 898
 ht-degree: 2%
 
 ---
@@ -91,7 +96,7 @@ Selecione uma **[!UICONTROL ID de Caso]** para exibir os detalhes do caso no por
 
 ## Alertas de status do produto
 
-A seção exibe o status operacional atual dos produtos da Adobe atribuídos à organização. Um status de **[!UICONTROL Disponível]** indica que o produto está totalmente operacional sem interrupções ativas. Se houver um ou mais problemas, o número total de problemas ativos aparecerá no cartão do produto. Selecione um cartão de produto para exibir detalhes adicionais no [site de status](https://status.adobe.com/pt-br/) do Adobe.
+A seção exibe o status operacional atual dos produtos da Adobe atribuídos à organização. Um status de **[!UICONTROL Disponível]** indica que o produto está totalmente operacional sem interrupções ativas. Se houver um ou mais problemas, o número total de problemas ativos aparecerá no cartão do produto. Selecione um cartão de produto para exibir detalhes adicionais no [site de status](https://status.adobe.com/) do Adobe.
 
 ![seção Alertas de Status de Produtos](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
 
