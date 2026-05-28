@@ -102,7 +102,7 @@ Selecione uma **[!UICONTROL ID de Caso]** para exibir os detalhes do caso no por
 
 ## Alertas de status do produto
 
-A seção exibe o status operacional atual dos produtos da Adobe atribuídos à organização. Um status de **[!UICONTROL Disponível]** indica que o produto está totalmente operacional sem interrupções ativas. Se houver um ou mais problemas, o número total de problemas ativos aparecerá no cartão do produto. Selecione um cartão de produto para exibir detalhes adicionais no [site de status](https://status.adobe.com/) do Adobe.
+A seção exibe o status operacional atual dos produtos da Adobe atribuídos à organização. Um status de **[!UICONTROL Disponível]** indica que o produto está totalmente operacional sem interrupções ativas. Se houver um ou mais problemas, o número total de problemas ativos aparecerá no cartão do produto. Selecione um cartão de produto para exibir detalhes adicionais no [site de status](https://status.adobe.com/pt-br/) do Adobe.
 
 ![seção Alertas de Status de Produtos](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
 
