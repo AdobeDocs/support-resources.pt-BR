@@ -1,13 +1,13 @@
 ---
 title: Adotar a administração global
-description: Saiba o que é a Global Admin Console e como solicitar acesso.
+description: Saiba como o Global Admin Console agrupa o Adobe Admin Console, o que são Admin Console secundários e como solicitar acesso.
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 4da055a9-7cdc-4411-8895-016e24eabb2e
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: 817407268abec35b0b252ffb54540be29948f9b6
 workflow-type: tm+mt
-source-wordcount: '813'
+source-wordcount: '929'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,13 @@ Crie um caso de suporte no Adobe Admin Console para solicitar acesso a uma Globa
 
 ## Introdução
 
-O [Global Admin Console](https://global-admin-console.adobe.com) é para clientes com estruturas organizacionais complexas que têm muitos Consoles de Administração ou que desejam dividir seu Admin Console principal em vários consoles. Por exemplo, corporações multinacionais, consórcios de educação, grandes distritos escolares, e grandes agências governamentais. Ele aninha os Consoles do administrador existentes em uma estrutura hierárquica, como um organograma, para fornecer transparência em uma empresa distribuída.
+O [Global Admin Console](https://global-admin-console.adobe.com) agrupa vários [Adobe Admin Consoles](https://adminconsole.adobe.com) em uma hierarquia. Cada organização nessa hierarquia é uma Adobe Admin Console. Os administradores usam os mesmos recursos principais em cada console, gerenciando usuários, licenças e configurações para essa organização. O Global Admin Console adiciona a administração entre consoles: organizar Admin Console filhos, alocar produtos e licenças na hierarquia e aplicar políticas no nível da organização em todo o grupo.
 
-A Global Admin Console não substitui nem altera a funcionalidade das instâncias do Admin Console existentes. Ela funciona como uma hierarquia com uma organização raiz na parte superior e todos os consoles aninhados sob essa organização raiz. Há um critério de seleção focado na compra e na criação de uma estrutura hierárquica na qual um Admin Console opera como o console raiz.
+O Global Admin Console é para clientes com estruturas organizacionais complexas que têm muitos Admin Consoles ou que desejam dividir seu Admin Console principal em vários consoles. Por exemplo, corporações multinacionais, consórcios de educação, grandes distritos escolares, e grandes agências governamentais. Ele aninha os Consoles do administrador existentes em uma estrutura hierárquica, como um organograma, para fornecer transparência em uma empresa distribuída.
+
+Um Admin Console filho (chamado de *organização filho* na Global Admin Console) é qualquer Adobe Admin Console aninhado abaixo de outro console na sua hierarquia. Somente os Admin Consoles vinculados ao seu Global Admin Console são consoles secundários nesse sentido, não todas as Adobe Admin Console do mundo todo.
+
+O Global Admin Console não substitui nem altera a funcionalidade diária nos Admin Consoles existentes. Ela opera como uma estrutura hierárquica, com uma organização raiz na parte superior e todos os consoles vinculados aninhados abaixo dela. O console raiz é determinado com base na compra e na configuração da organização.
 
 Para saber mais sobre a funcionalidade e os benefícios do Global Admin Console, consulte o [white paper sobre o Global Admin Console](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625) e assista ao seguinte [vídeo](https://youtu.be/FLBWR78wpok).
 
@@ -44,7 +48,7 @@ Estas são algumas das principais vantagens do Global Admin Console:
 - Crie, edite e exclua perfis de produtos e grupos de usuários.
 - Exportar informações da organização para relatório ou uso em outros processos.
 - Importar atualizações para organizações e alterações na hierarquia organizacional.
-- Receba notificações sobre o status do contrato da ETLA em organizações secundárias, incluindo contratos que estão prestes a expirar, expirados ou inativos. Para obter mais informações, consulte a documentação de [expiração do contrato](https://helpx.adobe.com/br/enterprise/using/contract-expiry.html).
+- Receba notificações sobre o status do contrato da ETLA em organizações secundárias, incluindo contratos que estão prestes a expirar, expirados ou inativos. Para obter mais informações, consulte a documentação de [expiração do contrato](https://helpx.adobe.com/enterprise/using/contract-expiry.html).
 
 ## Critérios de elegibilidade
 
