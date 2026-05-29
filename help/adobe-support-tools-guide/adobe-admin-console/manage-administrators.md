@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 41c00379-98ee-4922-8eba-cc373c23a019
-source-git-commit: e3179d567660c4960ce398062629ed1f695eab49
+source-git-commit: 174cc3f37780e28d7de9359071ebfebbf7f063da
 workflow-type: tm+mt
-source-wordcount: '1159'
+source-wordcount: '1244'
 ht-degree: 2%
 
 ---
@@ -18,8 +18,7 @@ ht-degree: 2%
 
 Explore os recursos do administrador global e saiba como delegar e distribuir a administração de usuários, licenças de produtos e grupos para administradores de cada organização individual.
 
-Na Global Admin Console, você pode selecionar uma organização e navegar até a guia **[!UICONTROL Administradores]** para adicionar, editar ou remover direitos de administrador. Para saber mais, consulte [Adotar administração global](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration). Acesse aqui para [entrar na Admin Console](https://adminconsole.adobe.com).
-
+Na Global Admin Console, você pode selecionar uma organização e navegar até a guia **[!UICONTROL Administradores]** para adicionar, editar ou remover direitos de administrador. Cada organização na hierarquia é uma Adobe Admin Console; consulte [Adotar administração global](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration) para saber como a Global Admin Console agrupa esses consoles. Entre na [Global Admin Console](https://global-admin-console.adobe.com) para tarefas em toda a hierarquia ou na [Adobe Admin Console](https://adminconsole.adobe.com) para tarefas em uma única organização.
 
 O Global Admin Console introduz uma função chamada de administrador global. Essa função é distinta de um administrador do sistema e permite que você faça o seguinte:
 

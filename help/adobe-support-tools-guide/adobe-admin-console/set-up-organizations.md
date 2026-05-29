@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6fcf16e3-0408-4961-9981-14d526e1ea28
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: e4d473130a577a7673aba981a42bcb7ac352c18c
 workflow-type: tm+mt
-source-wordcount: '1547'
+source-wordcount: '1872'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,13 @@ Saiba como os administradores globais podem gerenciar a hierarquia da organizaç
 
 Depois de obter [acesso à Global Admin Console](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console), você poderá criar novas organizações, adicionar organizações existentes à hierarquia, excluir organizações e alterar uma organização principal. Acesse aqui para [entrar na Global Admin Console](https://global-admin-console.adobe.com/).
 
-Uma organização é uma estrutura usada para gerenciar produtos e usuários da Adobe. O [Adobe Admin Console](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview) permite que os administradores gerenciem a implantação e a configuração de produtos e usuários em sua organização. O [Global Admin Console](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration) permite que os administradores globais criem, gerenciem e excluam várias organizações.
+Na Global Admin Console, uma organização é uma Adobe Admin Console — uma estrutura usada para gerenciar produtos e usuários da Adobe para uma entidade em sua empresa. O [Adobe Admin Console](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview) permite que os administradores do sistema gerenciem a implantação, os usuários e as licenças nesse console. O [Global Admin Console](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration) permite que os administradores globais criem, criem e excluam Consoles de Administração filhos (organizações filhas) na hierarquia e aloquem produtos dos consoles pai para filho.
 
 ## Criar uma organização secundária
+
+>[!NOTE]
+>
+> Uma organização secundária é uma Adobe Admin Console secundária. Criar um adiciona um novo console à hierarquia do Global Admin Console.
 
 Como [administrador global](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators), você pode criar organizações secundárias de qualquer organização na hierarquia e definir o nome, país, grupos de usuários, produtos, perfis de produtos, administradores e políticas.
 

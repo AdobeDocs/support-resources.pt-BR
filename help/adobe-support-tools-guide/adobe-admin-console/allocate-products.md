@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: de6e785d-8965-40d5-ac78-7fbb2cd7afc7
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: 174cc3f37780e28d7de9359071ebfebbf7f063da
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '1100'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 Aplicável à empresa.
 
-Saiba como os administradores globais podem distribuir recursos para organizações secundárias, permitindo um gerenciamento eficiente de recursos e a atribuição de usuários em cada organização.
+Saiba como os administradores globais podem distribuir recursos para organizações secundárias (instâncias administrativas secundárias na sua hierarquia), permitindo que os administradores do sistema em cada console atribuam licenças aos usuários.
 
-No [Global Admin Console](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration), vá para a guia **[!UICONTROL Alocação de Produto]** e selecione um produto para alocar às organizações secundárias.
+No [Global Admin Console](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration), vá para a guia **[!UICONTROL Alocação de Produto]** e selecione um produto para alocar às organizações secundárias. Os administradores globais alocam produtos abaixo da hierarquia; eles não atribuem licenças aos usuários finais — esse trabalho permanece em cada Adobe Admin Console filho.
 
 Entrar na [Global Admin Console](https://global-admin-console.adobe.com).
 
@@ -51,7 +51,7 @@ Para alocar produtos a uma organização, siga estas etapas:
 1. Selecione um produto na lista suspensa para ver como ele é alocado para diferentes organizações.\
    Se uma organização não tiver o produto no momento, o ícone **[!UICONTROL Adicionar +]** será exibido.
 
-   >[ !NNota]
+   >[ !NObservação]
    >
    >Se a organização secundária já tiver um contrato de compra, a alocação de produtos do pai para essa organização secundária poderá ser limitada. [Saiba mais](https://helpx.adobe.com/br/enterprise/global-admin-console/allocate-products.html#limited-product-allocation).
 
@@ -101,7 +101,7 @@ Não é possível alocar produtos a uma organização secundária a partir de um
 
 ![Alocação de produto](/help/adobe-support-tools-guide/assets/product-allocation.png)
 
->[ !IImportante]
+>[ !Iimportante]
 >
 >Quando um contrato do ETLA que faz parte da hierarquia estiver inativo, os produtos serão removidos das páginas **[!UICONTROL Visão geral]** e **[!UICONTROL Alocação de produto]**.
 
