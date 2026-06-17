@@ -39,7 +39,7 @@ Essas notas de versão contêm atualizações para o suporte da Experience Leagu
 
 1. O gráfico **[!UICONTROL Contagem de Ocorrências por Prioridade]** agora fornece um detalhamento mais detalhado ao passar o mouse. Passar o mouse sobre um segmento de prioridade exibe uma dica de ferramenta que mostra o número total de casos, juntamente com o número de casos abertos e fechados.
 
-1. O widget **[!UICONTROL Status do produto]** agora oferece suporte à filtragem interativa de produtos. Os alertas de status do sistema podem ser filtrados selecionando um ou mais produtos diretamente na página inicial. Selecionar um produto neste widget não redireciona mais para [status.adobe.com](http://status.adobe.com).
+1. O widget **[!UICONTROL Status do produto]** agora oferece suporte à filtragem interativa de produtos. Os alertas de status do sistema podem ser filtrados selecionando um ou mais produtos diretamente na página inicial. Selecionar um produto neste widget não redireciona mais para [status.adobe.com](http://status.adobe.com/pt-br).
 
 1. O widget **[!UICONTROL Status do produto]** agora lista os produtos em uma ordem mais intuitiva. Os produtos com problemas ativos aparecem primeiro, seguidos pelos produtos restantes classificados em ordem alfabética.
 
