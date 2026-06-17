@@ -2,20 +2,14 @@
 title: Portal de suporte do Experience League - nova interface de usuário
 description: O portal de suporte da Experience League foi reprojetado e simplifica fluxos de trabalho de suporte, insights de casos e monitoramento de produtos com navegação, análises e ações rápidas aprimoradas, além de uma alternância perfeita entre o portal atual e o gerenciamento de casos.
 TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 2efca23d4302f4c6caf580a9ae3d3ffde70bfa36
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: cb188c0e7ac012dbe9ef83d805b1b5df7a1c69db
 workflow-type: tm+mt
-source-wordcount: 898
-ht-degree: 2%
+source-wordcount: 1083
+ht-degree: 1%
 
 ---
 
@@ -69,26 +63,37 @@ As seguintes ações rápidas estão disponíveis na parte superior da página *
 
 ## Análise de serviço
 
-A seção **[!UICONTROL Análise de Serviço]** fornece um resumo da atividade de caso de suporte. Alternar entre as exibições **[!UICONTROL Meus Casos]** e **[!UICONTROL Meus Casos Org]**. A exibição **[!UICONTROL Meus Casos]** exibe estatísticas de caso específicas para o indivíduo, enquanto a exibição **[!UICONTROL Meus Casos Org]** exibe estatísticas de caso em toda a organização.
+A seção **[!UICONTROL Análise de Serviço]** exibe um resumo da atividade de caso de suporte. Use o seletor de exibição para alternar entre **[!UICONTROL Meus Casos]** e **[!UICONTROL Meus Casos Org]**:
 
-![Seção de análise de serviço](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
+- **[!UICONTROL Meus Casos]** — Exibe estatísticas de casos específicas do indivíduo.
+- **[!UICONTROL Meus Casos de Organização]** — Exibe as estatísticas de caso da organização selecionada.
 
-As seguintes métricas estão disponíveis:
+A exibição selecionada se aplica a todas as métricas e gráficos desta seção, incluindo as seções [[!UICONTROL Contagem de Ocorrências por Prioridade]](#cases-count-by-priority) e [[!UICONTROL Meus Casos enviados]](#my-submitted-cases).
 
-**[!UICONTROL Casos de Resposta Pendentes]** - Número de casos aguardando resposta no momento
-**[!UICONTROL Ocorrências Enviadas]** - Número total de ocorrências enviadas
+![Análise de serviço](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
+
+A seção **[!UICONTROL Análise de Serviço]** fornece as seguintes métricas:
+
+- **[!UICONTROL Casos de Resposta Pendentes]** — Exibe o número de casos que estão aguardando uma resposta.
+- **[!UICONTROL Ocorrências Enviadas]** — Exibe o número total de ocorrências enviadas.
 
 ## Contagem de ocorrências por prioridade
 
 Esta seção exibe um detalhamento visual dos casos de suporte por nível de prioridade.
 
-![Contagem de casos por seção de prioridade](/help/adobe-support-tools-guide/assets/case-count-by-priority-1.png)
+![Contagem de casos por prioridade](/help/adobe-support-tools-guide/assets/case-count-by-priority-1.png)
 
-A seleção **[!UICONTROL Meus Casos]** e **[!UICONTROL Meus Casos Org]** aplica-se a este gráfico, permitindo a exibição em um nível individual ou organizacional.
+A seleção **[!UICONTROL Meus Casos]** e **[!UICONTROL Meus Casos de Organização]** na seção **[!UICONTROL Service Analytics]** aplica-se a este gráfico e permite a exibição em um nível individual ou organizacional.
 
-## Meus Casos Enviados
+Passe o mouse sobre um segmento de prioridade para ver uma dica de ferramenta que mostra:
 
-Esta seção exibe os três casos de suporte mais recentes, incluindo:
+- Número total de casos para esse nível de prioridade
+- Número de casos em aberto
+- Número de processos encerrados
+
+## Meus casos enviados
+
+Esta seção exibe os três casos de suporte enviados mais recentemente, incluindo:
 
 - ID do caso
 - Título da ocorrência
@@ -96,15 +101,38 @@ Esta seção exibe os três casos de suporte mais recentes, incluindo:
 - Data de envio
 - Status
 
-![Seção Meus casos enviados](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
+![Meus casos enviados](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
 
-Selecione uma **[!UICONTROL ID de Caso]** para exibir os detalhes do caso no portal de Suporte da Experience League atual. Selecione **[!UICONTROL Exibir todas as ocorrências]** para exibir a lista completa de ocorrências.
+Quando **[!UICONTROL Meus Casos]** é selecionado, esta seção exibe os três casos enviados mais recentemente. Quando **[!UICONTROL Meus Casos de Organização]** é selecionado na seção **[!UICONTROL Service Analytics]**, ele exibe os três casos enviados mais recentemente em toda a organização.
+
+![Meus Casos](/help/adobe-support-tools-guide/assets/my-case.png)
+
+Selecione uma **[!UICONTROL ID de Caso]** para exibir os detalhes do caso no portal de Suporte da Experience League atual.
+
+![Selecionar uma ID de caso](/help/adobe-support-tools-guide/assets/select-case-id.png)
+
+Selecione **[!UICONTROL Exibir todas as ocorrências]** para abrir a página **[!UICONTROL Meus Casos]** no portal de Suporte da Experience League atual.
+
+![Exibir todos os casos](/help/adobe-support-tools-guide/assets/view-all-cases.png)
+
+Quando **[!UICONTROL Meus Casos]** é selecionado no **[!UICONTROL Service Analytics]**, **[!UICONTROL Meus Casos (Todos)]** é pré-selecionado e abre no portal Suporte da Experience League. Quando **[!UICONTROL Meus Casos de Organização]** é selecionado, **[!UICONTROL Meus Casos de Organização]** é pré-selecionado no portal de Suporte da Experience League.
 
 ## Alertas de status do produto
 
-A seção exibe o status operacional atual dos produtos da Adobe atribuídos à organização. Um status de **[!UICONTROL Disponível]** indica que o produto está totalmente operacional sem interrupções ativas. Se houver um ou mais problemas, o número total de problemas ativos aparecerá no cartão do produto. Selecione um cartão de produto para exibir detalhes adicionais no [site de status](https://status.adobe.com/pt-br/) do Adobe.
+Esta seção exibe o status operacional atual dos produtos da Adobe atribuídos à organização.
 
-![seção Alertas de Status de Produtos](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
+![Alerta de status do produto](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
+
+Um status de **[!UICONTROL Disponível]** indica que o produto está totalmente operacional sem interrupções ativas. Se houver um ou mais problemas, o número total de problemas ativos aparecerá no cartão do produto.
+
+Os produtos aparecem na seguinte ordem:
+
+1. Produtos com problemas ativos
+1. Produtos restantes, enumerados por ordem alfabética
+
+Essa priorização ajuda a identificar e priorizar rapidamente os produtos que exigem atenção. Você pode selecionar um ou mais cartões de produto para filtrar alertas em **[!UICONTROL Seus Alertas de Status do Sistema]** na página **[!UICONTROL Página inicial]**.
+
+![Filtro de alertas](/help/adobe-support-tools-guide/assets/select-more-products.png)
 
 ## Alertas de status do sistema
 
