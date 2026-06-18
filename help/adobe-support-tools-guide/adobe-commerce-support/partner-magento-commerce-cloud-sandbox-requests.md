@@ -5,10 +5,10 @@ feature: Cloud
 solution: Commerce
 feature-set: Commerce
 exl-id: 844e7e59-15f2-43f8-a8ea-b5ba2ee41f02
-source-git-commit: ad8c171204cedc16c2cadd794998f53b01d01894
+source-git-commit: 35ed6ef84423367f4e0ba3be7b17e68ab9db70ae
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 0%
+source-wordcount: '423'
+ht-degree: 2%
 
 ---
 
@@ -36,8 +36,7 @@ Consulte [Solução de problemas de implantação](https://experienceleague.adob
 
 Os parceiros com um projeto de nuvem de sandbox de parceiro não podem enviar tíquetes para problemas relacionados à sandbox por meio da [seção de suporte do Experience League](https://experienceleague.adobe.com/pt-br/support?support-tab=home#home). Não use a conta de um comerciante para enviar esses tíquetes, pois eles podem parecer enviados em seu nome e causar confusão.
 
-> **Exemplo:**
-> Embora esta seção se refira às contas de sandbox da Adobe Commerce Cloud, o mesmo requisito se aplica quando os parceiros trabalham em ambientes internos e não para um cliente específico. Os parceiros não devem enviar solicitações de suporte em uma organização de clientes, a menos que estejam ativamente envolvidos em nome desse cliente.
+Esse requisito também se aplica quando os parceiros trabalham em ambientes internos e não para um cliente específico. Os parceiros não devem enviar solicitações de suporte em uma organização cliente, a menos que estejam ativamente envolvidos em nome desse cliente.
 
 Se você estiver enviando um tíquete em nome de um comerciante que não recebeu Acesso Compartilhado, solicite acesso ao proprietário da conta. Para obter etapas sobre como solicitar acesso, consulte [Acesso Compartilhado: Conceder Privilégios para que outros usuários acessem sua conta](https://experienceleague.adobe.com/pt-br/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access).
 
