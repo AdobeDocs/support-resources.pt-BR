@@ -36,7 +36,7 @@ A revisão regular dos Insights do sistema ajuda a identificar problemas antecip
 
 Os Insights do sistema estão disponíveis somente para o Adobe Commerce. Esses insights aparecem durante o processo de criação de casos no Suporte da Experience League e também estão disponíveis por meio da [Ferramenta de Análise do Site (SWAT)](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro).
 
->[!NObservação]
+>[ !NObservação]
 >
 >Os Insights do sistema exibem dados somente de ambientes de produção.
 
