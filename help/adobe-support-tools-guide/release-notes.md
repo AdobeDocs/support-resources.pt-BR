@@ -5,19 +5,13 @@ feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 3f934873bc3e6a2c81b8173b1f63333a5151af9a
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: d00e9f03-e50b-4162-b143-0c0817c937c2id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 2c6c6384b7bbe59f477278b984d0a7ba5efe6682
 workflow-type: tm+mt
-source-wordcount: 1386
+source-wordcount: 1686
 ht-degree: 1%
 
 ---
@@ -31,6 +25,28 @@ Essas notas de versão contêm atualizações para o suporte da Experience Leagu
 ![Correção](../adobe-support-tools-guide/assets/fix.svg) Correções e melhorias
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Problemas conhecidos
 
+## 9 de julho de 2026 - Chat da IA de suporte do Experience League
+
+1. Uma nova interface do AI Chat está disponível no Suporte da Experience League como uma alternativa opcional ao formulário clássico de criação de caso, permitindo que os clientes descrevam seu problema conversacionalmente em vez de preencher campos estruturados. O formulário clássico permanece totalmente disponível e não é substituído por essa experiência.
+
+1. O AI Chat oferece suporte à entrada digitada e à conversão de fala em texto, permitindo uma interação sem o uso de mãos para proporcionar uma experiência de criação de casos mais acessível e flexível.
+
+1. O AI Chat orienta os clientes sobre a criação de casos fazendo perguntas de acompanhamento direcionadas para coletar os detalhes necessários, como etapas de reprodução, adaptando dinamicamente o fluxo de conversa com base nas respostas do usuário.
+
+1. Antes de criar um caso, o AI Chat exibe proativamente artigos relevantes da base de conhecimento e soluções conhecidas com base na descrição do problema, permitindo uma resolução de autoatendimento mais rápida. Se nenhuma solução for encontrada, o AI Chat continuará facilmente em direção à criação do caso.
+
+1. Depois que informações suficientes são coletadas, o AI Chat gera automaticamente um rascunho de caso estruturado, incluindo o título, a descrição e as etapas de reprodução, para o cliente analisar antes de enviar.
+
+1. Todos os casos enviados pelo bate-papo de IA são processados pelos mesmos fluxos de trabalho de back-end que os casos enviados pelo formulário clássico, garantindo que não haja alterações em como as equipes de suporte recebem ou lidam com os casos.
+
+1. Os clientes podem gerenciar os casos de suporte existentes de forma conversacional, incluindo a recuperação de resumos de casos, a verificação do status e da prioridade, a visualização de casos em aberto agrupados por nível de prioridade e a solicitação de ações de acompanhamento, como encaminhamentos ou retornos de chamada.
+
+1. Todas as ações de suporte disponíveis no portal clássico, incluindo escalonamentos e solicitações de retorno de chamada, podem ser acessadas por meio de comandos conversacionais no bate-papo de IA.
+
+>[!NOTE]
+>
+>Esta é uma versão beta inicial do AI Chat. Ela está disponível para todos, mas as respostas da IA e os fluxos de conversação podem variar um pouco entre as sessões, mantendo metas de coleta de dados consistentes. Verifique novamente todas as respostas geradas pela IA antes de agir com elas.
+
 ## 17 de junho de 2026 - Atualizações no portal de suporte reprojetado do Experience League
 
 1. O Experience League Support Portal reprojetado agora está disponível para usuários do Adobe Commerce.
@@ -39,7 +55,7 @@ Essas notas de versão contêm atualizações para o suporte da Experience Leagu
 
 1. O gráfico **[!UICONTROL Contagem de Ocorrências por Prioridade]** agora fornece um detalhamento mais detalhado ao passar o mouse. Passar o mouse sobre um segmento de prioridade exibe uma dica de ferramenta que mostra o número total de casos, juntamente com o número de casos abertos e fechados.
 
-1. O widget **[!UICONTROL Status do produto]** agora oferece suporte à filtragem interativa de produtos. Os alertas de status do sistema podem ser filtrados selecionando um ou mais produtos diretamente na página inicial. Selecionar um produto neste widget não redireciona mais para [status.adobe.com](http://status.adobe.com/pt-br).
+1. O widget **[!UICONTROL Status do produto]** agora oferece suporte à filtragem interativa de produtos. Os alertas de status do sistema podem ser filtrados selecionando um ou mais produtos diretamente na página inicial. Selecionar um produto neste widget não redireciona mais para [status.adobe.com](http://status.adobe.com).
 
 1. O widget **[!UICONTROL Status do produto]** agora lista os produtos em uma ordem mais intuitiva. Os produtos com problemas ativos aparecem primeiro, seguidos pelos produtos restantes classificados em ordem alfabética.
 
