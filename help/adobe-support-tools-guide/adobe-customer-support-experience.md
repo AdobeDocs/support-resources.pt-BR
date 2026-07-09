@@ -14,9 +14,9 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 08be6152d1f6395647c7eb04e39ed448dac86bba
+source-git-commit: 8631501b570117aec52510142df2d9594366c00c
 workflow-type: tm+mt
-source-wordcount: 1510
+source-wordcount: 2033
 ht-degree: 0%
 
 ---
@@ -196,3 +196,78 @@ Após o envio:
 >[!NOTE]
 >
 > Se o problema causar paralisações ou interrupções graves em um sistema de produção, um número de telefone será fornecido para assistência imediata.
+
+### Chat de IA na experiência de criação do caso
+
+O Suporte da Experience League fornece uma interface de bate-papo alimentada por IA como uma maneira alternativa de criar e gerenciar casos de suporte. A experiência de chat da IA é de aceitação e não substitui o fluxo de trabalho de criação de caso clássico.
+
+>[!NOTE]
+>
+> O bate-papo com IA está disponível atualmente como um recurso beta. O formulário de criação de caso clássico permanece totalmente disponível e acessível a qualquer momento.
+
+Para acessar o bate-papo de IA, siga as etapas abaixo:
+
+1. Navegue até **[!UICONTROL Página inicial]** e selecione **[!UICONTROL Abrir um tíquete de suporte]**. Você também pode selecionar o **[!UICONTROL Tíquete aberto]** no menu da barra lateral.
+
+   ![Selecione um produto na Experience League](./assets/product-selection.png)
+
+1. Clique no nome do produto para selecionar o produto afetado e clique em **[!UICONTROL Avançar]**.
+1. No canto superior direito, selecione **[!UICONTROL Chat de IA]**.
+
+   ![Chat de IA](./assets/ai-chat.png)
+
+Para alternar entre o **[!UICONTROL Formulário Clássico]** e o **[!UICONTROL Chat de IA]**, use o botão de alternância no canto superior direito. Você não transferirá o progresso atual ao alternar, mas os casos ou ações concluídos permanecem inalterados.
+
+### Introdução ao bate-papo de IA
+
+Ao abrir o bate-papo de IA, você verá as seguintes opções:
+
+* **[!UICONTROL Fazer uma pergunta]**
+* **[!UICONTROL Trabalhar em um caso existente]**
+* **[!UICONTROL Abrir um novo caso]**
+
+  ![Conversar conosco](./assets/chat-with-us.png)
+
+Você pode descrever o problema digitando no campo de texto ou usando a função fala para texto.
+
+#### Fazer uma pergunta
+
+Selecione **[!UICONTROL Fazer uma pergunta]** para obter respostas instantâneas para perguntas sobre produtos, serviços da Adobe e suporte diretamente no chat, sem precisar abrir um caso de suporte.
+
+A IA se baseia na base de conhecimento da Adobe para fornecer respostas relevantes, links de documentação e soluções conhecidas com base em sua consulta.
+
+Se a IA não conseguir resolver seu query diretamente no chat, ela o guiará para abrir um novo caso de suporte para se conectar com a equipe de suporte da Adobe.
+
+#### Trabalhar em um caso existente
+
+Selecione **[!UICONTROL Trabalhar em um caso existente]** para gerenciar e obter atualizações sobre seus casos de suporte existentes diretamente no chat.
+
+A IA exibe uma lista de casos abertos. Você pode consultar um caso pela sua posição na lista ou pelo número do caso para selecionar o caso no qual deseja trabalhar.
+
+Depois de selecionar um caso, você pode:
+
+* Solicitar um resumo
+* Verificar se há atualizações
+* Execute ações de acompanhamento, como encaminhar o caso ou solicitar um retorno de chamada na mesma experiência de chat.
+
+#### Abrir um novo caso
+
+Selecione **[!UICONTROL Abrir um novo caso]** para descrever seu problema com suas próprias palavras, em vez de preencher campos de formulário estruturado.
+
+A IA orienta você pelo processo de criação de casos fazendo perguntas de acompanhamento direcionadas para coletar os detalhes necessários e adaptar dinamicamente o fluxo com base em suas respostas.
+
+A IA coleta as informações necessárias, como:
+
+* Detalhes do produto
+* Tipo de problema
+* Etapas de reprodução
+
+Os campos opcionais podem ser ignorados se as informações não estiverem prontamente disponíveis no momento do envio.
+
+Depois que informações suficientes são coletadas, a IA gera automaticamente um resumo de caso estruturado com base em sua conversa, incluindo:
+
+* Título da ocorrência
+* Descrição
+* Etapas de reprodução
+
+Você pode revisar o rascunho antes de enviar para garantir que todos os detalhes sejam precisos e pode adicionar anexos, logs, capturas de tela e outros detalhes complementares a qualquer momento durante ou após a conversa de criação do caso para fornecer à equipe de suporte o contexto completo de que ela precisa.
