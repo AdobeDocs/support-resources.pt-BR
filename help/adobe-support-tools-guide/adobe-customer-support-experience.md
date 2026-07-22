@@ -14,9 +14,10 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 3da0095b5ae5b72334482acddb2f092db447bfc0
+hold: true
+source-git-commit: dee6ae400f5e35467f27bf6c666e4894ed72af9d
 workflow-type: tm+mt
-source-wordcount: 2033
+source-wordcount: 2077
 ht-degree: 0%
 
 ---
@@ -83,6 +84,10 @@ Para obter mais detalhes, siga as instruções de [editar função de administra
 >[!NOTE]
 >
 > Antes de enviar um tíquete de suporte, verifique o desempenho, a disponibilidade e os problemas conhecidos do sistema Adobe no site [status do Adobe](https://status.adobe.com/pt-br/pt-BR).
+
+>[!NOTE]
+>
+>Se você usar o portal de suporte do Experience League reprojetado para abrir um caso de suporte, consulte [Criar e gerenciar casos de suporte](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/exl-new-ui-support-cases). As etapas abaixo descrevem a interface do portal atual (herdada).
 
 O Experience League é um portal de suporte de autoatendimento projetado para fornecer assistência personalizada e uma experiência fácil de usar para clientes autorizados.
 
