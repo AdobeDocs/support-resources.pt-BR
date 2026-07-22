@@ -2,19 +2,14 @@
 title: Portal de suporte do Experience League - nova interface de usuário
 description: O portal de suporte da Experience League foi reprojetado e simplifica fluxos de trabalho de suporte, insights de casos e monitoramento de produtos com navegação, análises e ações rápidas aprimoradas, além de uma alternância perfeita entre o portal atual e o gerenciamento de casos.
 TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: cac9b6e8d4058de8bbd474481a9f47eaedb093fe
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+hold: true
+source-git-commit: 850462d9daa57f4e3c15b1d04f0a4c582040c2bd
 workflow-type: tm+mt
-source-wordcount: 1084
+source-wordcount: 1061
 ht-degree: 1%
 
 ---
@@ -27,7 +22,7 @@ O portal de suporte da Experience League reprojetado fornece uma experiência un
 
 >[!NOTE]
 >
->**[!UICONTROL Criação de caso]**, **[!UICONTROL Meus Casos]** e **[!UICONTROL Detalhes do Caso]** não estão disponíveis no portal reprojetado. Alterne para o portal de suporte da Experience League atual para criar e gerenciar casos. Ambos os portais permanecem sincronizados para garantir que os dados de caso permaneçam atualizados em todas as experiências.
+>Para criar e gerenciar casos de suporte no portal reprojetado, consulte [Criar e gerenciar casos de suporte](exl-new-ui-support-cases.md).
 
 ## Página inicial
 
@@ -38,7 +33,8 @@ A página **[!UICONTROL Home]** serve como hub central para as atividades de sup
 O painel de navegação esquerdo fornece acesso às seguintes seções:
 
 - A **[!UICONTROL Página inicial]** é aberta como página de aterrissagem padrão e exibe uma exibição centralizada da atividade de suporte.
-- **[!UICONTROL Abrir caso]** e **[!UICONTROL Meus casos]** redirecionam para o portal de Suporte da Experience League atual para criar e gerenciar casos.
+- **[!UICONTROL Abrir Caso]** abre o fluxo de trabalho de criação de caso no portal reprojetado. Consulte [Criar e gerenciar casos de suporte](exl-new-ui-support-cases.md).
+- **[!UICONTROL Meus Casos]** abre a lista de casos no portal reprojetado. Consulte [Criar e gerenciar casos de suporte](exl-new-ui-support-cases.md).
 - **[!UICONTROL Meu êxito]** está disponível somente para clientes do Ultimate Success plan.
 
 ## Alternar organizações
@@ -61,11 +57,11 @@ A página inicial inclui um banner de boas-vindas personalizado com uma barra de
 
 As seguintes ações rápidas estão disponíveis na parte superior da página **[!UICONTROL Página inicial]**:
 
-1. **[!UICONTROL Abrir um caso de suporte]** - Redireciona para o módulo **[!UICONTROL Abrir Tíquete]** no portal de Suporte da Experience League atual para criar um novo caso. Clique em **[!UICONTROL Introdução]**.
+1. **[!UICONTROL Abrir um caso de suporte]** — Abre o fluxo de trabalho de criação de caso no portal reprojetado. Selecione **[!UICONTROL Introdução]**.
 
-2. **[!UICONTROL Exibir e gerenciar casos]** - Redireciona para o módulo **[!UICONTROL Meus Casos]** no portal de Suporte da Experience League atual. Selecione **[!UICONTROL Ir agora]** para acessar.
+1. **[!UICONTROL Exiba e gerencie seus casos]** — Abre a página **[!UICONTROL Meus Casos]** no portal reprojetado. Selecione **[!UICONTROL Ir agora]**.
 
-3. **[!UICONTROL Solicitar um Retorno de Chamada]** - Agende uma chamada sobre o caso com um especialista da Adobe. Para casos P1 (Crítico), solicite um retorno de chamada imediato. Para casos P2 e P3, agende uma reunião na Web com um engenheiro de suporte em uma data e hora convenientes. Selecione **[!UICONTROL Solicitar agora]** para começar.
+1. **[!UICONTROL Solicitar um Retorno de Chamada]** - Agende uma chamada sobre o caso com um especialista da Adobe. Para casos P1 (Crítico), solicite um retorno de chamada imediato. Para casos P2 e P3, agende uma reunião na Web com um engenheiro de suporte em uma data e hora convenientes. Selecione **[!UICONTROL Solicitar agora]** para começar.
 
 ## Análise de serviço
 
@@ -109,15 +105,15 @@ Esta seção exibe os três casos de suporte enviados mais recentemente, incluin
 
 ![Meus casos enviados](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
 
-Quando **[!UICONTROL Meus Casos]** é selecionado, esta seção exibe os três casos enviados mais recentemente. Quando **[!UICONTROL Meus Casos de Organização]** é selecionado na seção **[!UICONTROL Service Analytics]**, ele exibe os três casos enviados mais recentemente em toda a organização.
+Quando **[!UICONTROL Meus Casos]** é selecionado no **[!UICONTROL Service Analytics]**, esta seção exibe os três casos enviados mais recentemente. Quando **[!UICONTROL Meus Casos de Organização]** é selecionado na seção **[!UICONTROL Service Analytics]**, ele exibe os três casos enviados mais recentemente em toda a organização.
 
 ![Meus Casos](/help/adobe-support-tools-guide/assets/my-case.png)
 
-Selecione uma **[!UICONTROL ID de Caso]** para exibir os detalhes do caso no portal de Suporte da Experience League atual.
+Selecione uma **[!UICONTROL ID de Caso]** para exibir os detalhes do caso no portal de suporte da Experience League reprojetado.
 
 ![Selecionar uma ID de caso](/help/adobe-support-tools-guide/assets/select-case-id.png)
 
-Selecione **[!UICONTROL Exibir todas as ocorrências]** para abrir a página **[!UICONTROL Meus Casos]** no portal de Suporte da Experience League atual.
+Selecione **[!UICONTROL Exibir todas as ocorrências]** para abrir a página **[!UICONTROL Minhas Ocorrências]** no portal de suporte da Experience League reprojetado.
 
 ![Exibir todos os casos](/help/adobe-support-tools-guide/assets/view-all-cases.png)
 
@@ -183,9 +179,9 @@ A página inclui:
 - Uma mensagem de boas-vindas que descreve como a Ultimate Success fornece liderança estratégica e suporte técnico pró-ativo à saúde para fornecer experiências digitais de alto desempenho
 - Uma opção **[!UICONTROL Assistir Vídeo]** para saber mais sobre o plano
 - Componentes-chave do plano, incluindo:
-   - **[!UICONTROL Equipe de Êxito]**
-   - **[!UICONTROL Aceleradores de sucesso]**
-   - **[!UICONTROL Plano de ação mútua]**
+  - **[!UICONTROL Equipe de Êxito]**
+  - **[!UICONTROL Aceleradores de sucesso]**
+  - **[!UICONTROL Mutual Action Plan]**
 
 Ele também fornece acesso a recursos de aprendizado, como Experience League, a Comunidade Experience League e Assinaturas de aprendizado Premium.
 
