@@ -2,20 +2,14 @@
 title: Portal de suporte do Experience League - nova interface de usuário
 description: O portal de suporte da Experience League foi reprojetado e simplifica fluxos de trabalho de suporte, insights de casos e monitoramento de produtos com navegação, análises e ações rápidas aprimoradas, além de uma alternância perfeita entre o portal atual e o gerenciamento de casos.
 TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: fed8e553a6410a44b96b631d18ae1a71962a8ba1
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 0e6073c6c2305dcc92c6fba789401a5c4916d63f
 workflow-type: tm+mt
-source-wordcount: 1370
-ht-degree: 0%
+source-wordcount: 1069
+ht-degree: 1%
 
 ---
 
@@ -24,10 +18,6 @@ ht-degree: 0%
 ## Visão geral
 
 O portal de suporte da Experience League reprojetado fornece uma experiência unificada e intuitiva para gerenciar atividades de suporte da Adobe. Ele oferece acesso mais rápido aos recursos essenciais, incluindo rastreamento de casos de suporte, monitoramento do status do produto, acesso a insights do caso e conexão com a equipe de sucesso.
-
->[!NOTE]
->
->Para criar e gerenciar casos de suporte no portal reprojetado, consulte [Criar e gerenciar casos de suporte](exl-new-ui-support-cases.md).
 
 ## Página inicial
 
@@ -38,8 +28,8 @@ A página **[!UICONTROL Home]** serve como hub central para as atividades de sup
 O painel de navegação esquerdo fornece acesso às seguintes seções:
 
 - A **[!UICONTROL Página inicial]** é aberta como página de aterrissagem padrão e exibe uma exibição centralizada da atividade de suporte.
-- **[!UICONTROL Abrir Caso]** abre o fluxo de trabalho de criação de caso no portal reprojetado. Consulte [Criar e gerenciar casos de suporte](exl-new-ui-support-cases.md).
-- **[!UICONTROL Meus Casos]** abre a lista de casos no portal reprojetado. Consulte [Criar e gerenciar casos de suporte](exl-new-ui-support-cases.md).
+- **[!UICONTROL Abrir caso]** abre o fluxo de trabalho de criação de caso no portal de suporte atual da Experience League.
+- **[!UICONTROL Meus Casos]** abre a lista de casos no portal de suporte atual da Experience League.
 - **[!UICONTROL Meu êxito]** está disponível somente para clientes do Ultimate Success plan.
 
 ## Alternar organizações
@@ -66,9 +56,9 @@ A página inicial inclui um banner de boas-vindas personalizado com uma barra de
 
 As seguintes ações rápidas estão disponíveis na parte superior da página **[!UICONTROL Página inicial]**:
 
-1. **[!UICONTROL Abrir um caso de suporte]** — Abre o fluxo de trabalho de criação de caso no portal reprojetado. Selecione **[!UICONTROL Introdução]**.
+1. **[!UICONTROL Abrir um caso de suporte]** — Abre o fluxo de trabalho de criação de caso no portal de suporte herdado. Selecione **[!UICONTROL Introdução]**.
 
-1. **[!UICONTROL Exiba e gerencie seus casos]** — Abre a página **[!UICONTROL Meus Casos]** no portal reprojetado. Selecione **[!UICONTROL Ir agora]**.
+1. **[!UICONTROL Exibir e gerenciar casos]** — abre a página **[!UICONTROL Meus Casos]** no portal de suporte herdado. Selecione **[!UICONTROL Ir agora]**.
 
 1. **[!UICONTROL Solicitar um Retorno de Chamada]** - Agende uma chamada sobre o caso com um especialista da Adobe. Para casos P1 (Crítico), solicite um retorno de chamada imediato. Para casos P2 e P3, agende uma reunião na Web com um engenheiro de suporte em uma data e hora convenientes. Selecione **[!UICONTROL Solicitar agora]** para começar.
 
@@ -118,11 +108,11 @@ Quando **[!UICONTROL Meus Casos]** é selecionado no **[!UICONTROL Service Analy
 
 ![Meus Casos](/help/adobe-support-tools-guide/assets/my-case.png)
 
-Selecione uma **[!UICONTROL ID de Caso]** para exibir os detalhes do caso no portal de suporte da Experience League reprojetado.
+Selecione uma **[!UICONTROL ID de Caso]** para exibir os detalhes do caso no portal de suporte da Experience League atual.
 
 ![Selecionar uma ID de caso](/help/adobe-support-tools-guide/assets/select-case-id.png)
 
-Selecione **[!UICONTROL Exibir todas as ocorrências]** para abrir a página **[!UICONTROL Minhas Ocorrências]** no portal de suporte da Experience League reprojetado.
+Selecione **[!UICONTROL Exibir todas as ocorrências]** para abrir a página **[!UICONTROL Minhas Ocorrências]** no portal de suporte atual da Experience League.
 
 ![Exibir todos os casos](/help/adobe-support-tools-guide/assets/view-all-cases.png)
 
@@ -166,55 +156,6 @@ E, Cada alerta inclui:
 Selecione um alerta para expandir e exibir detalhes adicionais.
 
 ![Seção Alertas de Status do Sistema](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
-
-### Gerenciar assinaturas
-
-Use o **[!UICONTROL Gerenciar assinaturas]** para configurar notificações por email para eventos de status de produtos e serviços da Adobe. As assinaturas ajudam você a se manter informado quando a Adobe cria, atualiza ou resolve eventos para produtos e regiões selecionados.
-
-1. Na seção **[!UICONTROL Alertas de Status do Sistema]**, selecione **[!UICONTROL Gerenciar Assinaturas]**.
-
-   ![Gerenciar assinatura](assets/manage-subscriptions.png)
-
-1. Na página **[!UICONTROL Gerenciar assinaturas]**, selecione **[!UICONTROL Criar assinatura]**.
-
-   ![Criar assinatura](assets/create-subscriptions.png)
-
-1. Em **[!UICONTROL Selecione a Nuvem]**, selecione a nuvem do Adobe que contém o produto que você deseja monitorar.
-1. Em **[!UICONTROL Selecionar Produtos e Ofertas]**, selecione o produto para o qual deseja receber notificações.
-1. Em **[!UICONTROL Selecione Regiões]**, selecione uma ou mais regiões para monitorar.
-1. Em **[!UICONTROL Selecione os Tipos de Evento]**, selecione um ou mais dos seguintes tipos de evento:
-
-   &#x200B;* Problema grave de serviço
-   &#x200B;* Problema pequeno de serviço
-   &#x200B;* Manutenção do serviço
-   &#x200B;* Anúncios
-
-   ![Criar página de assinatura](assets/create-subscription-page.png)
-
-1. Revise as configurações de notificação padrão, incluindo o idioma e o fuso horário.
-1. Selecione **[!UICONTROL Continuar]**.
-1. Revise os detalhes da assinatura, incluindo a nuvem, o produto, os serviços, as regiões e os tipos de evento selecionados.
-1. Selecione **[!UICONTROL Confirmar]** para criar a assinatura.
-
-   ![Confirmar detalhes da assinatura](assets/confirm-subscription.png)
-
-1. Uma mensagem de confirmação é exibida e a subscrição é criada.
-
-Após a criação da assinatura, o Adobe envia notificações por email quando os eventos que correspondem aos critérios de produto, região e tipo de evento selecionados são criados, atualizados ou resolvidos.
-
->[!NOTE]
->
->Email é o canal de comunicação padrão para notificações de status. As preferências de assinatura se aplicam somente aos produtos, regiões e tipos de evento selecionados.
-
-Na próxima vez que você abrir o **[!UICONTROL Gerenciar assinaturas]**, a página exibirá os detalhes da sua assinatura atual, incluindo os tipos de nuvem, produto, serviços, regiões e evento selecionados.
-
-![Gerenciar assinaturas existentes](assets/edit-subscriptions.png)
-
-Nessa página, você pode executar as seguintes ações:
-
-&#x200B;* Selecione **[!UICONTROL Editar Assinatura]** para modificar uma assinatura existente.
-&#x200B;* Selecione **[!UICONTROL Cancelar assinatura de todos]** para remover todas as assinaturas.
-&#x200B;* Selecione o ícone de exclusão ao lado de uma assinatura para remover uma assinatura individual.
 
 ## Informações do seu plano
 
