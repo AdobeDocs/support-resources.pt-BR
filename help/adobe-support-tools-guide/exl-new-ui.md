@@ -2,21 +2,15 @@
 title: Portal de suporte do Experience League - nova interface de usuário
 description: O portal de suporte da Experience League foi reprojetado e simplifica fluxos de trabalho de suporte, insights de casos e monitoramento de produtos com navegação, análises e ações rápidas aprimoradas, além de uma alternância perfeita entre o portal atual e o gerenciamento de casos.
 TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 hold: true
-source-git-commit: 850462d9daa57f4e3c15b1d04f0a4c582040c2bd
+source-git-commit: 2a64b77927d75c7d11730b9ef4d8ae490020ef10
 workflow-type: tm+mt
-source-wordcount: 1061
-ht-degree: 1%
+source-wordcount: 1325
+ht-degree: 0%
 
 ---
 
@@ -164,7 +158,54 @@ Selecione um alerta para expandir e exibir detalhes adicionais.
 
 ![Seção Alertas de Status do Sistema](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
 
-Selecione **[!UICONTROL Gerenciar assinaturas]** para configurar as preferências de notificação para seus produtos da Adobe no [site de status](https://status.adobe.com/pt) do Adobe.
+### Gerenciar assinaturas
+
+Use o **[UICONTROL Gerenciar assinaturas]** para configurar notificações por email para eventos de status de produtos e serviços do Adobe. As assinaturas ajudam você a se manter informado quando a Adobe cria, atualiza ou resolve eventos para produtos e regiões selecionados.
+
+1. Na seção **[!UICONTROL Alertas de Status do Sistema]**, selecione **[!UICONTROL Gerenciar Assinaturas]**.
+
+   ![Gerenciar assinatura](assets/manage-subscriptions.png)
+
+1. Na página **[!UICONTROL Gerenciar assinaturas]**, selecione **[!UICONTROL Criar assinatura]**.
+
+   ![Criar assinatura](assets/create-subscriptions.png)
+
+1. Em **[!UICONTROL Selecione a Nuvem]**, selecione a nuvem do Adobe que contém o produto que você deseja monitorar.
+1. Em **[!UICONTROL Selecionar Produtos e Ofertas]**, selecione o produto para o qual deseja receber notificações.
+1. Em **[!UICONTROL Selecione Regiões]**, selecione uma ou mais regiões para monitorar.
+1. Em **[!UICONTROL Selecione os Tipos de Evento]**, selecione um ou mais dos seguintes tipos de evento:
+
+   * Problema grave de serviço
+   * Problema pequeno de serviço
+   * Manutenção do serviço
+   * Anúncios
+
+   ![Criar página de assinatura](assets/create-subscription-page.png)
+
+1. Revise as configurações de notificação padrão, incluindo o idioma e o fuso horário.
+1. Selecione **[!UICONTROL Continuar]**.
+1. Revise os detalhes da assinatura, incluindo a nuvem, o produto, os serviços, as regiões e os tipos de evento selecionados.
+1. Selecione **[!UICONTROL Confirmar]** para criar a assinatura.
+
+   ![Confirmar detalhes da assinatura](assets/confirm-subscription.png)
+
+1. Uma mensagem de confirmação é exibida e a subscrição é criada.
+
+Após a criação da assinatura, o Adobe envia notificações por email quando os eventos que correspondem aos critérios de produto, região e tipo de evento selecionados são criados, atualizados ou resolvidos.
+
+>[!NOTE]
+>
+>Email é o canal de comunicação padrão para notificações de status. As preferências de assinatura se aplicam somente aos produtos, regiões e tipos de evento selecionados.
+
+Na próxima vez que você abrir o **[!UICONTROL Gerenciar assinaturas]**, a página exibirá os detalhes da sua assinatura atual, incluindo os tipos de nuvem, produto, serviços, regiões e evento selecionados.
+
+![Gerenciar assinaturas existentes](assets/edit-subscriptions.png)
+
+Nessa página, você pode executar as seguintes ações:
+
+* Selecione **[!UICONTROL Editar Assinatura]** para modificar uma assinatura existente.
+* Selecione **[!UICONTROL Cancelar assinatura de todos]** para remover todas as assinaturas.
+* Selecione o ícone de exclusão ao lado de uma assinatura para remover uma assinatura individual.
 
 ## Informações do seu plano
 
