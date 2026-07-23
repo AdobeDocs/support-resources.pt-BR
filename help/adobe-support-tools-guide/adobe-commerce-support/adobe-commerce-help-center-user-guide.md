@@ -5,9 +5,9 @@ feature: Support, Roles/Permissions, Tools and External Services, Admin Workspac
 feature-set: Commerce
 solution: Commerce
 exl-id: a7833d47-1d4b-4c10-9d2e-42fa43f8513c
-source-git-commit: f0cf10d8d97b8e2c2925999061c115f6a5d3c81e
+source-git-commit: 6ac712151b002370eb84a3e3deb5480921cc40a6
 workflow-type: tm+mt
-source-wordcount: '3618'
+source-wordcount: '3602'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,9 @@ Neste guia, saiba como enviar um tíquete de suporte ao [Suporte do Experience L
 * [Fazer logon no suporte da Experience League](#sign-in-experience-support)
 * [Enviar um caso de suporte](#support-case)
 
-   * [Página inicial da Adobe Experience League](#experience-league-start-page)
-   * [Página da conta do Adobe Commerce](#submit-case-adobe-commerce-account-page)
-   * [*Verifique o erro de seu endereço de email* na página da conta da Adobe Commerce](#verify-email-address-error)
+  * [Página inicial da Adobe Experience League](#experience-league-start-page)
+  * [Página da conta do Adobe Commerce](#submit-case-adobe-commerce-account-page)
+  * [*Verifique o erro de seu endereço de email* na página da conta da Adobe Commerce](#verify-email-address-error)
 
 * [Acompanhe seus casos de suporte](#track-support-cases)
 * [Comentários no seu caso](#comments-in-your-case)
@@ -55,7 +55,7 @@ Neste guia, saiba como enviar um tíquete de suporte ao [Suporte do Experience L
 * [Fornecer acesso compartilhado](#provide-shared-access)
 * [Revogar (excluir) o acesso compartilhado](#revoke-shared-access)
 
-   * [Como excluir usuários que receberam acesso compartilhado por meio de um projeto na nuvem?](#remove-cloud-shared-access-users)
+  * [Como excluir usuários que receberam acesso compartilhado por meio de um projeto na nuvem?](#remove-cloud-shared-access-users)
 
 * [Acessar conta compartilhada (alternar contas)](#switch-accounts)
 * [Solução de problemas de acesso compartilhado](#troubleshooting-shared-access)
@@ -148,6 +148,8 @@ Para enviar um novo caso de suporte usando a página inicial da Adobe Experience
 >
 >Se sua organização tiver direitos para Adobe Commerce Intelligence/Commerce Reporting (MBI), mas você precisar de assistência com o Advanced Reporting, não selecione **Commerce Reporting** como o produto. A equipe de Relatórios do Commerce não fornece suporte para problemas de Relatórios avançados.
 >
+>Se o problema estiver relacionado ao pagamento, não selecione Serviços de pagamento por padrão. Os Serviços de pagamento se referem especificamente ao módulo Serviços de pagamento da Adobe. A sua seleção para questões de pagamento em geral pode criar confusão sobre o produto no âmbito e o caminho de investigação adequado.
+>
 >Se você não conseguir selecionar um produto diferente (por exemplo, a lista suspensa **[!UICONTROL Selecionar um produto]** está vazia ou não é exibida), isso geralmente ocorre por um dos seguintes motivos:
 >
 >* Seus direitos do Commerce expiraram ou estão inativos (por exemplo, devido a um problema pendente de cobrança ou licenciamento).
@@ -201,7 +203,7 @@ Os casos de suporte são aqueles que você:
 >[!NOTE]
 >
 >Se você tiver casos de suporte que foram enviados para outros produtos da Adobe além do Commerce, esses tíquetes não poderão ser rastreados na mesma tela; primeiro, é necessário mudar para a organização associada ao direito do produto.
->Por exemplo, você selecionou anteriormente a organização terminando em &quot;(Commerce)&quot; para acompanhar o caso do Commerce, enquanto também tem casos de suporte da AEP; esses casos não serão mostrados aqui.
+>Por exemplo, você selecionou anteriormente a organização terminando em &quot;(Commerce)&quot; para acompanhar seu caso no Commerce, enquanto você também tem casos de suporte do AEP; esses casos não serão mostrados aqui.
 
 #### Veja seus casos
 
