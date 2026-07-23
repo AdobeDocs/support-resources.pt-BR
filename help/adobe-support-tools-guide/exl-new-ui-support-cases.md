@@ -3,10 +3,10 @@ title: Criar e gerenciar casos de suporte
 description: Saiba como criar, exibir e gerenciar casos de suporte no portal de suporte reprojetado do Experience League.
 autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 hold: true
-source-git-commit: 2a64b77927d75c7d11730b9ef4d8ae490020ef10
+hide: true
+source-git-commit: 498f5c828603a24aaaaf8565941b0badbe0c405b
 workflow-type: tm+mt
 source-wordcount: 1170
 ht-degree: 0%
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 # Criar e gerenciar casos de suporte
 
-Para enviar um caso de suporte no [Experience League](https://experienceleague.adobe.com/pt-br/support?support-tab=home#home), você precisa ter a função de administrador de suporte atribuída por um administrador do sistema. Para obter direitos de suporte e requisitos de função, consulte [Funções de suporte qualificadas necessárias para envio de caso](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket).
+Para enviar um caso de suporte no [Experience League](https://experienceleague.adobe.com/en/support?support-tab=home#home), você precisa ter a função de administrador de suporte atribuída por um administrador do sistema. Para obter direitos de suporte e requisitos de função, consulte [Funções de suporte qualificadas necessárias para envio de caso](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket).
 
 ## Criar um caso de suporte do com a nova interface do usuário
 
 >[!NOTE]
 >
->Antes de enviar um caso de suporte, verifique o desempenho, a disponibilidade e os problemas conhecidos do sistema Adobe no [site de status do Adobe](https://status.adobe.com/pt-br/).
+>Antes de enviar um caso de suporte, verifique o desempenho, a disponibilidade e os problemas conhecidos do sistema Adobe no [site de status do Adobe](https://status.adobe.com/).
 
 Para criar um caso de suporte no Experience League, siga as etapas abaixo:
 
@@ -79,7 +79,7 @@ Siga estas etapas para criar um caso de suporte no formulário clássico:
 
    ![Etapa de descrição do problema](/help/adobe-support-tools-guide/assets/create-support-ticket-helpful-resources.png)
 
-   Selecione o **[!UICONTROL Formulário clássico]** ou o **[!UICONTROL Chat de IA]** no canto superior direito para alternar a experiência de criação de ocorrência. Para obter detalhes do bate-papo sobre IA, consulte [Bate-papo sobre IA na experiência de criação de caso](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience).
+   Selecione o **[!UICONTROL Formulário clássico]** ou o **[!UICONTROL Chat de IA]** no canto superior direito para alternar a experiência de criação de ocorrência. Para obter detalhes do bate-papo sobre IA, consulte [Bate-papo sobre IA na experiência de criação de caso](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience).
 
    ![Bate-papo de IA](/help/adobe-support-tools-guide/assets/create-support-ticket-ai-chat.png)
 
@@ -93,7 +93,7 @@ Siga estas etapas para criar um caso de suporte no formulário clássico:
 
 4. Na seção **[!UICONTROL Prioridade e Impacto nos Negócios]**, selecione a prioridade do caso (P4 - Menor, P3 - Importante, P2 - Urgente, P1 - Crítico). Forneça os detalhes do Impacto nos negócios quando a prioridade selecionada for P1 - Crítico e selecione **[!UICONTROL Avançar]**.
 
-   Para obter detalhes sobre como a prioridade do caso e o impacto nos negócios afetam os tempos de resposta do suporte, consulte [Metas de tempo de resposta inicial do suporte](https://experienceleague.adobe.com/pt-br/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support).
+   Para obter detalhes sobre como a prioridade do caso e o impacto nos negócios afetam os tempos de resposta do suporte, consulte [Metas de tempo de resposta inicial do suporte](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support).
 
    ![Etapa de impacto nas prioridades e nos negócios](/help/adobe-support-tools-guide/assets/create-support-ticket-priority.png)
 
