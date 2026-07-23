@@ -2,22 +2,17 @@
 title: Notas de versão de suporte do Experience League
 description: As informações mais recentes da versão sobre o suporte da Experience League.
 feature: Release Notes
+hold: true
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d76226eb8ff1eecca20a67ef3ce9f62955152be1
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: d00e9f03-e50b-4162-b143-0c0817c937c2id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 474b37aa399674adc241780f8c0ab7b2e7c1abac
 workflow-type: tm+mt
-source-wordcount: 1757
+source-wordcount: 2140
 ht-degree: 0%
 
 ---
@@ -31,6 +26,36 @@ Essas notas de versão contêm atualizações para o suporte da Experience Leagu
 ![Correção](../adobe-support-tools-guide/assets/fix.svg) Correções e melhorias
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Problemas conhecidos
 
+## 19 de agosto de 2026 - Criação de casos, Meus casos e Detalhes do caso agora disponíveis no portal de suporte do Experience League reprojetado
+
+1. **[!UICONTROL Abrir caso]** agora está disponível diretamente no Portal de Suporte do Experience League reprojetado. Os clientes podem criar e enviar casos sem sair do portal reprojetado.
+
+2. A experiência de criação de casos no portal reprojetado agora inclui o **[!UICONTROL bate-papo sobre IA]**, permitindo que os clientes descrevam seus problemas em conversação e recebam assistência guiada ao criar um caso. Essa experiência de bate-papo com IA é a mesma disponível anteriormente no portal de suporte atual da Experience League (consulte a entrada de 9 de julho de 2026 abaixo).
+
+3. A página **[!UICONTROL Meus Casos]** foi atualizada com uma nova interface, diferente do portal de Suporte da Experience League atual. Dois alternadores - **[!UICONTROL Meus Casos]** e **[!UICONTROL Meus Casos Org]** - permitem alternar entre a exibição de casos enviados e todos os casos enviados em sua organização.
+
+4. Vários filtros novos estão disponíveis na página **[!UICONTROL Meus Casos]**, uma atualização sobre as opções de filtragem disponíveis no portal atual.
+
+5. Por padrão, a página **[!UICONTROL Meus Casos]** exibe todos os casos. Use os filtros disponíveis para restringir e selecionar casos conforme necessário.
+
+6. A página **[!UICONTROL Meus Casos]** agora oferece melhor desempenho, com tempos de carregamento mais rápidos.
+
+7. Um filtro de **[!UICONTROL Intervalo de tempo]** foi adicionado e assume o padrão dos últimos 3 meses para melhorar o desempenho do carregamento da página. Ajuste o filtro para visualizar casos fora desse intervalo padrão.
+
+8. A coluna **[!UICONTROL Data de Abertura/Fechamento]** combinada do portal atual foi dividida em duas colunas separadas - **[!UICONTROL Data de Abertura]** e **[!UICONTROL Data de Fechamento]** - na página **[!UICONTROL Meus Casos]** reprojetada.
+
+9. Uma nova coluna **[!UICONTROL Última Atualização]** foi adicionada à página **[!UICONTROL Meus Casos]**, mostrando a data da atividade mais recente em cada ocorrência.
+
+10. Para manter as principais atualizações facilmente acessíveis na parte superior do feed de atividades do caso, agora é possível fixar comentários na página **[!UICONTROL Detalhes do caso]**.
+
+>[!NOTE]
+>
+>Esta é uma versão beta antecipada do [!UICONTROL AI Chat] no Portal de Suporte da Experience League reprojetado. Ela está disponível para todos, mas as respostas da IA e os fluxos de conversação podem variar um pouco entre as sessões, mantendo metas de coleta de dados consistentes. Verifique novamente todas as respostas geradas por IA antes de agir sobre elas.
+
+>[!NOTE]
+>
+>Esta atualização atende ao plano de trazer a [!UICONTROL Criação de Caso], [!UICONTROL Meus Casos] e [!UICONTROL Detalhes do Caso] para o Portal de Suporte da Experience League reprojetado (consulte a entrada de 26 de maio de 2026 acima). Essas páginas estavam disponíveis somente no portal de suporte atual da Experience League.
+
 ## 23 de julho de 2026 - Preferência persistente de portal no portal de suporte reprojetado da Experience League
 
 1. A preferência de portal agora é salva automaticamente com base na última seleção de alternância de **[!UICONTROL Experimentar Nova Página Inicial]**.
@@ -41,7 +66,7 @@ Essas notas de versão contêm atualizações para o suporte da Experience Leagu
 
 ## 9 de julho de 2026 - Chat da IA de suporte do Experience League
 
-1. Uma nova interface do AI Chat está disponível no Suporte da Experience League como uma alternativa opcional ao formulário clássico de criação de caso, permitindo que os clientes descrevam seu problema conversacionalmente em vez de preencher campos estruturados. O formulário clássico permanece totalmente disponível e não é substituído por essa experiência.
+1. Uma nova interface do AI Chat está disponível no Suporte da Experience League como uma alternativa opcional ao formulário clássico de criação de caso, permitindo que os clientes descrevam seu problema conversacionalmente em vez de preencher campos estruturados. O formulário clássico permanece totalmente disponível e essa experiência não o substitui.
 
 1. O AI Chat oferece suporte à entrada digitada e à conversão de fala em texto, permitindo uma interação sem o uso de mãos para proporcionar uma experiência de criação de casos mais acessível e flexível.
 
@@ -69,7 +94,7 @@ Essas notas de versão contêm atualizações para o suporte da Experience Leagu
 
 1. O gráfico **[!UICONTROL Contagem de Ocorrências por Prioridade]** agora fornece um detalhamento mais detalhado ao passar o mouse. Passar o mouse sobre um segmento de prioridade exibe uma dica de ferramenta que mostra o número total de casos, juntamente com o número de casos abertos e fechados.
 
-1. O widget **[!UICONTROL Status do produto]** agora oferece suporte à filtragem interativa de produtos. Os alertas de status do sistema podem ser filtrados selecionando um ou mais produtos diretamente na página inicial. Selecionar um produto neste widget não redireciona mais para [status.adobe.com](http://status.adobe.com/pt-br).
+1. O widget **[!UICONTROL Status do produto]** agora oferece suporte à filtragem interativa de produtos. Os alertas de status do sistema podem ser filtrados selecionando um ou mais produtos diretamente na página inicial. Selecionar um produto neste widget não redireciona mais para [status.adobe.com](http://status.adobe.com).
 
 1. O widget **[!UICONTROL Status do produto]** agora lista os produtos em uma ordem mais intuitiva. Os produtos com problemas ativos aparecem primeiro, seguidos pelos produtos restantes classificados em ordem alfabética.
 
