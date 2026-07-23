@@ -6,9 +6,10 @@ TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0E
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 hold: true
-source-git-commit: df632069c153ca8215fcc75c9c73f7a67c11b0c6
+hide: true
+source-git-commit: 498f5c828603a24aaaaf8565941b0badbe0c405b
 workflow-type: tm+mt
-source-wordcount: 1168
+source-wordcount: 1170
 ht-degree: 0%
 
 ---
@@ -143,9 +144,7 @@ As opções de filtro incluem:
 - **[!UICONTROL Produto]** — produtos atribuídos à sua organização
 - **[!UICONTROL Prioridade]** — P4 - Menor, P3 - Importante, P2 - Urgente, P1 - Crítico
 
-A tabela de casos exibe Caso aberto, Número do caso, Título do caso, Status, Produto, Prioridade, Solicitante, Fechamento, Última atualização, Resumo do caso e Ajuda adicional. Selecione **[!UICONTROL Exibir]** na coluna **[!UICONTROL Resumo de Ocorrências]** para abrir um resumo de ocorrências gerado por IA. Selecione **[!UICONTROL Obter ajuda]** para obter assistência adicional sobre um caso.
-
-Selecione um **[!UICONTROL Número do caso]** para abrir a página de detalhes do caso.
+A tabela de casos exibe Caso aberto, Número do caso, Título do caso, Status, Produto, Prioridade, Solicitante, Fechamento, Última atualização, Resumo do caso e Ajuda adicional. Selecione **[!UICONTROL Exibir]** na coluna **[!UICONTROL Resumo de Ocorrências]** para abrir um resumo de ocorrências gerado por IA. Selecione **[!UICONTROL Obter ajuda]** para obter assistência adicional sobre um caso. Você pode selecionar um **[!UICONTROL Número do caso]** para abrir a página de detalhes do caso.
 
 ![Resumo da Ocorrência](/help/adobe-support-tools-guide/assets/case-summary-1.png)
 

@@ -14,10 +14,9 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-hold: true
-source-git-commit: dee6ae400f5e35467f27bf6c666e4894ed72af9d
+source-git-commit: 671678370c8a941c9644d0623bf713b9a4e056e1
 workflow-type: tm+mt
-source-wordcount: 2077
+source-wordcount: 2034
 ht-degree: 0%
 
 ---
@@ -28,7 +27,7 @@ ht-degree: 0%
 
 Os tíquetes de suporte agora são enviados via [Experience League](https://experienceleague.adobe.com/home?lang=pt-BR#support). Para obter instruções sobre como enviar um tíquete de suporte, consulte a seção para [envio de um tíquete de suporte](#create-a-support-ticket-with-experience-league).
 
-Estamos trabalhando para melhorar a forma como você interage com o Suporte ao cliente da Adobe. Nossa visão é simplificar a experiência de suporte migrando para um único ponto de entrada, usando o Experience League. Uma vez ao vivo, sua organização poderá acessar facilmente o Suporte ao cliente da Adobe, ter maior visibilidade de seu histórico de serviço por meio de um sistema comum entre os produtos e solicitar ajuda por telefone, Web e bate-papo em um único portal.
+Estamos trabalhando para melhorar a forma como você interage com o Suporte ao cliente da Adobe. Nossa visão é simplificar a experiência de suporte migrando para um único ponto de entrada, usando o Experience League. Uma vez ao vivo, sua organização poderá acessar facilmente o Suporte ao cliente da Adobe, ter maior visibilidade de seu histórico de serviços por meio de um sistema comum entre os produtos e solicitar ajuda por telefone, Web e bate-papo em um único portal.
 
 Se você for usuário do Adobe Commerce, consulte [Enviar um caso de suporte](https://experienceleague.adobe.com/pt-br/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) no Guia do Usuário de Suporte da Experience League para o Adobe Commerce.
 
@@ -84,10 +83,6 @@ Para obter mais detalhes, siga as instruções de [editar função de administra
 >[!NOTE]
 >
 > Antes de enviar um tíquete de suporte, verifique o desempenho, a disponibilidade e os problemas conhecidos do sistema Adobe no site [status do Adobe](https://status.adobe.com/pt-br/pt-BR).
-
->[!NOTE]
->
->Se você usar o portal de suporte do Experience League reprojetado para abrir um caso de suporte, consulte [Criar e gerenciar casos de suporte](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/exl-new-ui-support-cases). As etapas abaixo descrevem a interface do portal atual (herdada).
 
 O Experience League é um portal de suporte de autoatendimento projetado para fornecer assistência personalizada e uma experiência fácil de usar para clientes autorizados.
 
