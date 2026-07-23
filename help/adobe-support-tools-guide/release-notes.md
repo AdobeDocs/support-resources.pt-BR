@@ -5,20 +5,14 @@ feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 2c6c6384b7bbe59f477278b984d0a7ba5efe6682
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: d00e9f03-e50b-4162-b143-0c0817c937c2id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d76226eb8ff1eecca20a67ef3ce9f62955152be1
 workflow-type: tm+mt
-source-wordcount: 1686
-ht-degree: 1%
+source-wordcount: 1757
+ht-degree: 0%
 
 ---
 
@@ -30,6 +24,14 @@ Essas notas de versão contêm atualizações para o suporte da Experience Leagu
 ![Novos](../adobe-support-tools-guide/assets/new.svg) Novos recursos
 ![Correção](../adobe-support-tools-guide/assets/fix.svg) Correções e melhorias
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Problemas conhecidos
+
+## 23 de julho de 2026 - Preferência persistente de portal no portal de suporte reprojetado da Experience League
+
+1. A preferência de portal agora é salva automaticamente com base na última seleção de alternância de **[!UICONTROL Experimentar Nova Página Inicial]**.
+
+2. Se o botão de alternância foi ativado durante a última sessão, você é levado diretamente ao portal reprojetado no próximo logon e o portal herdado não é carregado.
+
+3. Se a opção foi desativada, você continua a acessar o portal herdado como de costume.
 
 ## 9 de julho de 2026 - Chat da IA de suporte do Experience League
 
@@ -51,7 +53,7 @@ Essas notas de versão contêm atualizações para o suporte da Experience Leagu
 
 >[!NOTE]
 >
->Esta é uma versão beta inicial do AI Chat. Ela está disponível para todos, mas as respostas da IA e os fluxos de conversação podem variar um pouco entre as sessões, mantendo metas de coleta de dados consistentes. Verifique novamente todas as respostas geradas pela IA antes de agir com elas.
+>Este bate-papo de IA é uma versão beta inicial. Ela está disponível para todos, mas as respostas da IA e os fluxos de conversação podem variar um pouco entre as sessões, mantendo metas de coleta de dados consistentes. Verifique novamente todas as respostas geradas por IA antes de agir sobre elas.
 
 ## 17 de junho de 2026 - Atualizações no portal de suporte reprojetado do Experience League
 
@@ -61,7 +63,7 @@ Essas notas de versão contêm atualizações para o suporte da Experience Leagu
 
 1. O gráfico **[!UICONTROL Contagem de Ocorrências por Prioridade]** agora fornece um detalhamento mais detalhado ao passar o mouse. Passar o mouse sobre um segmento de prioridade exibe uma dica de ferramenta que mostra o número total de casos, juntamente com o número de casos abertos e fechados.
 
-1. O widget **[!UICONTROL Status do produto]** agora oferece suporte à filtragem interativa de produtos. Os alertas de status do sistema podem ser filtrados selecionando um ou mais produtos diretamente na página inicial. Selecionar um produto neste widget não redireciona mais para [status.adobe.com](http://status.adobe.com/pt-br).
+1. O widget **[!UICONTROL Status do produto]** agora oferece suporte à filtragem interativa de produtos. Os alertas de status do sistema podem ser filtrados selecionando um ou mais produtos diretamente na página inicial. Selecionar um produto neste widget não redireciona mais para [status.adobe.com](http://status.adobe.com).
 
 1. O widget **[!UICONTROL Status do produto]** agora lista os produtos em uma ordem mais intuitiva. Os produtos com problemas ativos aparecem primeiro, seguidos pelos produtos restantes classificados em ordem alfabética.
 
@@ -149,30 +151,30 @@ O recurso **[!UICONTROL Solicitar um Retorno de Chamada]** agora está disponív
 ![Novo](../adobe-support-tools-guide/assets/new.svg) Adicionou **[!UICONTROL Contexto de Ambiente] Campos** adicionais para os produtos autorizados a capturar detalhes críticos:
 
 - **Marketo**
-   - ID do Munchkin
+  - ID do Munchkin
 - **Adobe Target**
-   - Nome da atividade
-   - URL do site (Nome da propriedade das tags)
+  - Nome da atividade
+  - URL do site (Nome da propriedade das tags)
 - **Adobe Analytics**
-   - RSID
-   - URL do site (Nome da propriedade das tags) / cURL
-   - Workspace Shortlink
+  - RSID
+  - URL do site (Nome da propriedade das tags) / cURL
+  - Workspace Shortlink
 - **Adobe Journey Optimizer (AJO)**
-   - ID de Jornada ou ID de URL/campanha ou ID de URL/canal ou ID de URL/Offer Decisioning ou URL
-   - Exemplo de perfil
-   - Nome da sandbox
+  - ID de Jornada ou ID de URL/campanha ou ID de URL/canal ou ID de URL/Offer Decisioning ou URL
+  - Exemplo de perfil
+  - Nome da sandbox
 - **Real-Time Customer Data Platform (RTCDP)**
-   - ID do componente afetado (ID de destino/ID de público-alvo/ID de conjunto de dados/ID de fluxo de dados/ID de política de mesclagem/ID de esquema/ID do Source/ID do lote)
-   - Exemplo de perfil
-   - Nome da sandbox
+  - ID do componente afetado (ID de destino/ID de público-alvo/ID de conjunto de dados/ID de fluxo de dados/ID de política de mesclagem/ID de esquema/ID do Source/ID do lote)
+  - Exemplo de perfil
+  - Nome da sandbox
 - **Adobe Experience Platform (AEP)**
-   - ID do componente afetado (ID de destino/ID de público-alvo/ID de conjunto de dados/ID de fluxo de dados/ID de política de mesclagem/ID de esquema/ID do Source/ID do lote)
-   - Exemplo de perfil
-   - Nome da sandbox
+  - ID do componente afetado (ID de destino/ID de público-alvo/ID de conjunto de dados/ID de fluxo de dados/ID de política de mesclagem/ID de esquema/ID do Source/ID do lote)
+  - Exemplo de perfil
+  - Nome da sandbox
 - **Customer Journey Analytics (CJA)**
-   - URL do projeto Workspace
-   - ID da conexão / Mensagem de erro / Código
-   - ID da visualização de dados
+  - URL do projeto Workspace
+  - ID da conexão / Mensagem de erro / Código
+  - ID da visualização de dados
 
 ![Novo](../adobe-support-tools-guide/assets/new.svg) Adicionou um **Painel do Recommendations[!UICONTROL Orientado por IA]** para exibir orientações úteis sem interromper o fluxo de criação de casos.
 
