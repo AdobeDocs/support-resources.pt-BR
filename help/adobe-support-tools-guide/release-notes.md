@@ -16,7 +16,7 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 10aa275ca5c6275f991de2aa7136f41f677e0700
+source-git-commit: 2198c97998da303856e5472b5d9ad27cd854ffb2
 workflow-type: tm+mt
 source-wordcount: 2140
 ht-degree: 0%
@@ -232,4 +232,3 @@ O Experience League agora oferece a opção **[!UICONTROL Solicitar um Retorno d
 - Esse recurso está disponível para o Adobe Experience Manager, Campaign e Workfront.
 - Os clientes podem agendar reuniões conforme sua conveniência e receber convites instantâneos.
 - Para casos de Adobe Experience Manager P1, retornos de chamada imediatos garantem um engajamento mais rápido durante problemas críticos, ajudando a minimizar o tempo de inatividade e o impacto nos negócios.
-
