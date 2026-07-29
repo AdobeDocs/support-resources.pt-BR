@@ -27,7 +27,7 @@ ht-degree: 97%
 
 >[!NOTE]
 >
->Se você tiver dúvidas ou precisar de assistência, acesse a página [Suporte](https://experienceleague.adobe.com/en/support#home) para abrir um caso de suporte.
+>Se você tiver dúvidas ou precisar de assistência, acesse a página [Suporte](https://experienceleague.adobe.com/pt-br/support#home) para abrir um caso de suporte.
 
 Os planos de sucesso da Adobe vão além da solução reativa de problemas para trazer a você um novo tipo de experiência personalizada que manterá suas etapas comerciais à frente de qualquer problema. Sua equipe da Adobe emprega expertise técnica profunda, recursos diversos e uma metodologia avançada para fornecer o nível certo de suporte, experiência e orientação técnica e estratégica de que você precisa.
 
