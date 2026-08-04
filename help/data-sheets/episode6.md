@@ -14,4 +14,4 @@ ht-degree: 100%
 
 # Podcast “The Ultimate Success” - Episódio 6
 
->[!VIDEO](https://video.tv.adobe.com/v/3429331?quality=12learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452941?captions=por_br&quality=12learn=on)
