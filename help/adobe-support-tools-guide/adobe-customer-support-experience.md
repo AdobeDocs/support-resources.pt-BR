@@ -14,14 +14,18 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 671678370c8a941c9644d0623bf713b9a4e056e1
+source-git-commit: 67a24fda4908c1856daabd6051eb453626c75a6c
 workflow-type: tm+mt
-source-wordcount: 2034
+source-wordcount: 2067
 ht-degree: 0%
 
 ---
 
 # Experiência de suporte ao cliente da Adobe
+
+>[!NOTE]
+>
+>Esta página descreve como criar e gerenciar tíquetes de suporte para soluções do Adobe Customer Experience Orchestration (CXO). Para ver as informações de suporte das soluções da Adobe Creative Cloud, [clique aqui](https://helpx.adobe.com/br/support.html).
 
 ## Tíquetes de suporte da Experience League
 
@@ -82,7 +86,7 @@ Para obter mais detalhes, siga as instruções de [editar função de administra
 
 >[!NOTE]
 >
-> Antes de enviar um tíquete de suporte, verifique o desempenho, a disponibilidade e os problemas conhecidos do sistema Adobe no site [status do Adobe](https://status.adobe.com/pt-br/pt-BR).
+>Antes de enviar um tíquete de suporte, verifique o desempenho, a disponibilidade e os problemas conhecidos do sistema Adobe no site [status do Adobe](https://status.adobe.com/pt-br/pt-BR).
 
 O Experience League é um portal de suporte de autoatendimento projetado para fornecer assistência personalizada e uma experiência fácil de usar para clientes autorizados.
 
