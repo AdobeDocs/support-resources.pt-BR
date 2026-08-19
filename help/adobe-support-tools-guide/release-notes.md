@@ -2,21 +2,14 @@
 title: Notas de versão de suporte do Experience League
 description: As informações mais recentes da versão sobre o suporte da Experience League.
 feature: Release Notes
-hold: true
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 2198c97998da303856e5472b5d9ad27cd854ffb2
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: d00e9f03-e50b-4162-b143-0c0817c937c2id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: f49f431102be472e8e1c69870c8d2ea783623c69
 workflow-type: tm+mt
 source-wordcount: 2140
 ht-degree: 0%
@@ -100,7 +93,7 @@ Essas notas de versão contêm atualizações para o suporte da Experience Leagu
 
 1. O gráfico **[!UICONTROL Contagem de Ocorrências por Prioridade]** agora fornece um detalhamento mais detalhado ao passar o mouse. Passar o mouse sobre um segmento de prioridade exibe uma dica de ferramenta que mostra o número total de casos, juntamente com o número de casos abertos e fechados.
 
-1. O widget **[!UICONTROL Status do produto]** agora oferece suporte à filtragem interativa de produtos. Os alertas de status do sistema podem ser filtrados selecionando um ou mais produtos diretamente na página inicial. Selecionar um produto neste widget não redireciona mais para [status.adobe.com](http://status.adobe.com/pt-br).
+1. O widget **[!UICONTROL Status do produto]** agora oferece suporte à filtragem interativa de produtos. Os alertas de status do sistema podem ser filtrados selecionando um ou mais produtos diretamente na página inicial. Selecionar um produto neste widget não redireciona mais para [status.adobe.com](http://status.adobe.com).
 
 1. O widget **[!UICONTROL Status do produto]** agora lista os produtos em uma ordem mais intuitiva. Os produtos com problemas ativos aparecem primeiro, seguidos pelos produtos restantes classificados em ordem alfabética.
 
