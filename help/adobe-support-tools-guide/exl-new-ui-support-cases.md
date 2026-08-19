@@ -5,11 +5,9 @@ autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-hold: true
-hide: true
-source-git-commit: 498f5c828603a24aaaaf8565941b0badbe0c405b
+source-git-commit: 85b1c584dc93970bc57a294a7a04f040980077f4
 workflow-type: tm+mt
-source-wordcount: 1170
+source-wordcount: 1220
 ht-degree: 0%
 
 ---
@@ -77,6 +75,8 @@ Siga estas etapas para criar um caso de suporte no formulário clássico:
    >[!NOTE]
    >
    >As recomendações alimentadas por IA não são exibidas para o produto Adobe Admin Console.
+
+   À medida que você insere os detalhes do problema, o painel System Insights é exibido no lado direito da tela, abaixo da seção de recomendações habilitadas por IA. Os Insights do sistema estão disponíveis somente para o Adobe Commerce. Para obter mais informações, consulte [System Insights](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/system-insights).
 
    ![Etapa de descrição do problema](/help/adobe-support-tools-guide/assets/create-support-ticket-helpful-resources.png)
 
