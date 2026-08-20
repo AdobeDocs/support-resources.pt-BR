@@ -19,7 +19,7 @@ gerenciamento.
 >[!NOTE]
 >
 >Os aplicativos web e móveis da Frame.io estão disponíveis em inglês, japonês, alemão, russo,
-Espanhol, italiano, francês e português brasileiro.
+>Espanhol, italiano, francês e português brasileiro.
 
 Antes de entrar em contato com a equipe de conta, verifique se sua organização atende aos requisitos de qualificação e identifique os participantes que precisarão participar do planejamento de migração.
 
