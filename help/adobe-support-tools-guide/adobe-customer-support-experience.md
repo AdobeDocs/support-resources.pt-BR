@@ -90,7 +90,7 @@ Para obter mais detalhes, siga as instruções de [editar função de administra
 
 >[!NOTE]
 >
->Se você usar o portal de suporte do Experience League reprojetado para abrir um caso de suporte, consulte [Criar e gerenciar casos de suporte](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/exl-new-ui/exl-new-ui-support-cases). As etapas abaixo descrevem a interface do portal atual (herdada).
+>Se você usar o portal de suporte do Experience League reprojetado para abrir um caso de suporte, consulte [Criar e gerenciar casos de suporte](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/exl-new-ui/exl-new-ui-support-cases). As etapas abaixo descrevem a interface do portal atual (herdada).
 
 O Experience League é um portal de suporte de autoatendimento projetado para fornecer assistência personalizada e uma experiência fácil de usar para clientes autorizados.
 
