@@ -2,6 +2,7 @@
 keywords: suporte da Experience Platform, suporte da plataforma, suporte a serviços inteligentes, suporte da ia do cliente, suporte da ia de atribuição, suporte rtcdp, enviar tíquete de suporte, suporte ao cliente
 title: Adobe Experience Cloud Customer One para corporações
 description: Experiência de suporte ao cliente da Adobe
+hold: true
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 TQID: https://experienceleague.adobe.com/cGHwAzUXOUNouNknfl84ix4Gi7t8koCJVICt1zJWRp8
@@ -14,9 +15,9 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 5e76b3d3c2a2b733805fece399b3cf276cc879ea
+source-git-commit: 917b0668639b4942a151c51af9bc0e8a6682a1dd
 workflow-type: tm+mt
-source-wordcount: 2113
+source-wordcount: 2122
 ht-degree: 0%
 
 ---
@@ -147,10 +148,6 @@ Siga estas etapas para criar um tíquete de suporte:
 
    O painel de recomendação se adapta ao nível de detalhes na descrição do problema e é exibido sem interromper a criação de casos. Você pode revisar as recomendações a qualquer momento e continuar enviando o caso. Quando a descrição do problema **excede 50 caracteres**, o sistema gera recomendações habilitadas por IA personalizadas para o problema.
 
-   >[!NOTE]
-   >
-   >As recomendações alimentadas por IA não são exibidas para o produto Adobe Admin Console.
-
    ![Detalhes de problemas da Experience League](./assets/ai-recommendations.png)
 
    Quando a descrição contém **menos de 50 caracteres**, o sistema exibe os artigos recomendados para orientação. Um contador de caracteres incorporado rastreia o requisito mínimo em tempo real.
@@ -208,6 +205,10 @@ Após o envio:
 ### Chat de IA na experiência de criação do caso
 
 O Suporte da Experience League fornece uma interface de bate-papo alimentada por IA como uma maneira alternativa de criar e gerenciar casos de suporte. A experiência de chat da IA é de aceitação e não substitui o fluxo de trabalho de criação de caso clássico.
+
+>[!NOTE]
+&#x200B;>>
+O portal agora salva sua seleção do **[!UICONTROL Bate-papo de IA]** como sua experiência preferida de criação de caso e lembra dela para sua próxima visita.
 
 >[!NOTE]
 >

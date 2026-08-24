@@ -1,13 +1,14 @@
 ---
 title: Criar e gerenciar casos de suporte
 description: Saiba como criar, exibir e gerenciar casos de suporte no portal de suporte reprojetado do Experience League.
+hold: true
 autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 85b1c584dc93970bc57a294a7a04f040980077f4
+source-git-commit: 230c42fca07c58c03c9be2f90e91bec7fc830569
 workflow-type: tm+mt
-source-wordcount: 1220
+source-wordcount: 1214
 ht-degree: 0%
 
 ---
@@ -71,10 +72,6 @@ Siga estas etapas para criar um caso de suporte no formulário clássico:
    ![Etapa de descrição do problema](/help/adobe-support-tools-guide/assets/create-support-ticket-ai-recommendation.png)
 
    Quando a descrição contiver menos de 50 caracteres, o sistema exibirá artigos recomendados para orientação. Um contador de caracteres incorporado rastreia o requisito mínimo em tempo real.
-
-   >[!NOTE]
-   >
-   >As recomendações alimentadas por IA não são exibidas para o produto Adobe Admin Console.
 
    À medida que você insere os detalhes do problema, o painel System Insights é exibido no lado direito da tela, abaixo da seção de recomendações habilitadas por IA. Os Insights do sistema estão disponíveis somente para o Adobe Commerce. Para obter mais informações, consulte [System Insights](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/system-insights).
 
@@ -148,6 +145,6 @@ A tabela de casos exibe Caso aberto, Número do caso, Título do caso, Status, P
 
 ![Resumo da Ocorrência](/help/adobe-support-tools-guide/assets/case-summary-1.png)
 
-A página de detalhes do caso exibe o título do caso, a ID do caso, o status, a data da última atualização, a descrição do caso e a reprodutibilidade. O painel de detalhes inclui o Agente de suporte da Adobe, Solicitante, Produto, Prioridade, Fuso horário, Observadores e Anexos de caso. Para adicionar um comentário, digite sua mensagem no editor de comentários e selecione **[!UICONTROL Enviar Mensagem]**. Você pode anexar arquivos usando o ícone de anexo. Selecione o ícone de pino em um comentário para fixá-lo ao caso. Você pode fixar e desfixar vários comentários.
+A página de detalhes do caso exibe o título do caso, a ID do caso, o status, a data da última atualização, a descrição do caso e a reprodutibilidade. O painel de detalhes inclui o Agente de suporte da Adobe, Solicitante, Produto, Prioridade, Fuso horário, Observadores e Anexos de caso. Para adicionar um comentário, digite sua mensagem no editor de comentários e selecione **[!UICONTROL Enviar Mensagem]**. Você pode anexar arquivos usando o ícone de anexo e excluir anexos no portal. Selecione o ícone de pino em um comentário para fixá-lo ao caso. Você pode fixar e desfixar vários comentários.
 
 ![Detalhes do caso](/help/adobe-support-tools-guide/assets/case-details.png)
