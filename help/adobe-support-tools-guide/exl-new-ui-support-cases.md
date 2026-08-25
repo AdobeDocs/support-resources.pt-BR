@@ -6,7 +6,7 @@ autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 230c42fca07c58c03c9be2f90e91bec7fc830569
+source-git-commit: 194902cbcd272b6948f548f45945d4cf1512a0e7
 workflow-type: tm+mt
 source-wordcount: 1214
 ht-degree: 0%
@@ -148,3 +148,4 @@ A tabela de casos exibe Caso aberto, Número do caso, Título do caso, Status, P
 A página de detalhes do caso exibe o título do caso, a ID do caso, o status, a data da última atualização, a descrição do caso e a reprodutibilidade. O painel de detalhes inclui o Agente de suporte da Adobe, Solicitante, Produto, Prioridade, Fuso horário, Observadores e Anexos de caso. Para adicionar um comentário, digite sua mensagem no editor de comentários e selecione **[!UICONTROL Enviar Mensagem]**. Você pode anexar arquivos usando o ícone de anexo e excluir anexos no portal. Selecione o ícone de pino em um comentário para fixá-lo ao caso. Você pode fixar e desfixar vários comentários.
 
 ![Detalhes do caso](/help/adobe-support-tools-guide/assets/case-details.png)
+

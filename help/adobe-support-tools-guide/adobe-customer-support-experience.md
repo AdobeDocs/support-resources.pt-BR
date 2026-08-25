@@ -15,7 +15,7 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 917b0668639b4942a151c51af9bc0e8a6682a1dd
+source-git-commit: 194902cbcd272b6948f548f45945d4cf1512a0e7
 workflow-type: tm+mt
 source-wordcount: 2122
 ht-degree: 0%
@@ -280,3 +280,4 @@ Depois que informações suficientes são coletadas, a IA gera automaticamente u
 * Etapas de reprodução
 
 Você pode revisar o rascunho antes de enviar para garantir que todos os detalhes sejam precisos e pode adicionar anexos, logs, capturas de tela e outros detalhes complementares a qualquer momento durante ou após a conversa de criação do caso para fornecer à equipe de suporte o contexto completo de que ela precisa.
+
