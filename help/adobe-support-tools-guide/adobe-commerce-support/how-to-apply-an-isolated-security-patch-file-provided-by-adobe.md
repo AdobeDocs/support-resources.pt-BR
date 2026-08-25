@@ -44,7 +44,7 @@ Este artigo instrui como aplicar um patch isolado para Adobe Commerce no local, 
    git push origin
    ```
 
-Para obter informações adicionais sobre como aplicar patches a projetos na nuvem, consulte [Aplicar patches](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/upgrade/apply-patches).
+Para obter informações adicionais sobre como aplicar patches a projetos na nuvem, consulte [Aplicar patches](https://experienceleague.adobe.com/pt-br/docs/commerce-on-cloud/user-guide/develop/upgrade/apply-patches).
 
 ## Como aplicar um patch Isolado para o Adobe Commerce no local e o Magento Open Source {#commerce}
 
