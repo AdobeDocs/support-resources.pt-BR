@@ -12,9 +12,9 @@ subfeature_v2:
   - id: f119e1e2-fccc-4e80-803e-64135196cccc
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-source-git-commit: a5b84d3019f415ad179dd0ce9cd132263a3ba103
+source-git-commit: 3173ef352f66d8e6e2094eeae19da1e02ee2bca2
 workflow-type: tm+mt
-source-wordcount: 1033
+source-wordcount: 907
 ht-degree: 0%
 
 ---
@@ -25,10 +25,13 @@ ht-degree: 0%
 >[!NOTE]
 >
 >Esta página descreve o Assistente de voz do AI disponível para suporte por telefone (IVR) no Japão durante o horário extra e períodos de fim de semana, quando os agentes ativos não estiverem disponíveis. Para envio de casos gerais durante o horário comercial, consulte a documentação padrão da [Experiência de Suporte ao Cliente da Adobe](/help/adobe-support-tools-guide/adobe-customer-support-experience.md).
+>
+>
+>O serviço só está disponível no Japão.
 
 ## Visão geral
 
-Quando você precisar de ajuda fora do horário comercial normal do Suporte da Adobe — à noite ou nos fins de semana no Japão — o Assistente de voz do AI estará disponível para ajudá-lo pelo telefone. Você pode falar naturalmente em japonês, como faria com um agente de suporte ao vivo, e o assistente entenderá sua solicitação e o ajudará imediatamente.
+Quando você precisar de ajuda fora do horário comercial normal do Suporte da Adobe — à noite ou nos fins de semana no Japão — o Assistente de voz do AI estará disponível para ajudá-lo pelo telefone. Fale naturalmente em japonês, como faria com um agente de suporte ao vivo, e o assistente entenderá seu pedido e o ajudará imediatamente.
 
 Isso significa que você não precisa esperar até o próximo dia útil para coisas como verificar o status do seu caso ou sinalizar um problema urgente — você pode obter suporte a qualquer momento.
 
@@ -49,11 +52,11 @@ O Assistente de voz do AI é compatível com os seguintes recursos:
 
 ### Entender e responder em japonês
 
-Você pode falar com o assistente naturalmente em japonês, da mesma forma que conversaria com um agente de suporte ao vivo. Não há necessidade de pressionar teclas de telefone ou usar palavras-chave específicas — basta explicar o que você precisa com suas próprias palavras, e o assistente entenderá e responderá conversacionalmente.
+Fale com o assistente naturalmente em japonês, da mesma forma que você fala com um agente de suporte ao vivo. Não é necessário pressionar teclas de telefone ou usar palavras-chave específicas — basta explicar o que você precisa com suas próprias palavras, e o assistente entende e responde conversacionalmente.
 
 ### Verifique o status do caso instantaneamente
 
-Se você já tiver um caso de suporte aberto, peça uma atualização ao assistente, ele a consultará imediatamente e informará onde as coisas estão — por exemplo, se ele ainda estiver sendo investigado, aguardando mais informações ou resolvido.
+Se você tiver um caso de suporte aberto, peça uma atualização ao assistente. Ela vê imediatamente e diz onde as coisas estão.
 
 ### Receba as últimas atualizações sobre casos abertos
 
@@ -61,44 +64,44 @@ O assistente pode compartilhar as notas ou o progresso mais recentes registrados
 
 ### Aumentar prioridade de caso para P1
 
-Se seu problema for sério, como uma grande interrupção do sistema ou algo que afete significativamente seus negócios, o assistente poderá reconhecer isso e aumentar a prioridade do caso para prioridade P1 (Crítica), para que ele receba atenção imediata, mesmo fora do horário comercial.
+Se o problema for sério — como uma grande interrupção do sistema ou algo que afete significativamente os negócios — o assistente reconhece isso e aumenta a prioridade do caso para prioridade P1 (Crítica), para que ele receba atenção imediata mesmo fora do horário comercial.
 
 >[!NOTE]
 >
->O aumento da prioridade para P1 notifica a equipe de suporte imediatamente. Você ainda pode receber uma chamada de retorno por problemas críticos, consistente com o processo de resposta P1 padrão da Adobe.
+>O aumento da prioridade para P1 notifica a equipe de suporte imediatamente. Você recebe uma chamada de retorno para problemas críticos, consistente com o processo de resposta P1 padrão da Adobe.
 
 ### Solicite um retorno de chamada do suporte da Adobe
 
-Se preferir falar com um engenheiro de suporte humano, ou se o problema precisar de ajuda mais detalhada, basta pedir ao assistente e o suporte da Adobe entrará em contato.
+Se preferir falar com um engenheiro de suporte humano, ou se o problema precisar de ajuda mais detalhada, peça ao assistente e o suporte da Adobe poderá ligar de volta.
 
 ### Capture respostas a perguntas técnicas e adicione-as automaticamente às notas de caso
 
-Se o assistente fizer perguntas técnicas para entender melhor seu problema, por exemplo, mensagens de erro, etapas de reprodução ou o que você estava fazendo quando o problema ocorreu, suas respostas serão salvas automaticamente nas notas do caso. Isso significa que você não terá que se repetir mais tarde; o próximo engenheiro de suporte que analisar o seu caso já terá essa informação.
+Se o assistente fizer perguntas técnicas para entender melhor seu problema, por exemplo, mensagens de erro, etapas de reprodução ou o que você estava fazendo quando o problema ocorreu, suas respostas serão salvas automaticamente nas notas do caso. Isso significa que você não precisa se repetir mais tarde; o próximo engenheiro de suporte que analisar o seu caso já terá essa informação.
 
 ## Exemplo de conversas
 
-Para ajudá-lo a ter uma ideia de como uma chamada pode ser feita, veja a seguir alguns exemplos de trocas:
+Para ajudá-lo a entender como uma chamada é emitida, veja alguns exemplos de trocas:
 
 ### Verificando o status do caso
 
-| Alto-falante | Japonês | Tradução (para referência) |
-|--- |--- |--- |
-| Cliente | ケース番号12345の状況を教えてください。 | Você pode me dizer o status do caso número 12345? |
-| Assistente de voz | かしこまりました。ケース12345を確認しています…現在、エンジニアが調査中です。最新の更新は本日午後3時に記録されています。 | Entendido. Deixe-me verificar o caso 12345... Está sendo investigado por um engenheiro. A última atualização foi gravada hoje às 15h. |
+| Alto-falante | Japonês |
+|--- |--- |
+| Cliente | ケース番号12345の状況を教えてください。 |
+| Assistente de voz | かしこまりました。ケース12345を確認しています…現在、エンジニアが調査中です。最新の更新は本日午後3時に記録されています。 |
 
 ### Escalonando para P1
 
-| Alto-falante | Japonês | Tradução (para referência) |
-|--- |--- |--- |
-| Cliente | 本番環境がダウンしていて、業務に大きな影響が出ています。 | Nosso ambiente de produção está inativo e isso está afetando seriamente nossos negócios. |
-| Assistente de voz | 状況を確認しました。これは重大な問題のようですので、ケースの優先度をP1に引き上げます。担当チームにすぐ通知いたします。 | Eu entendo a situação. Como esse parece ser um problema crítico, encaminharei esse caso para a prioridade P1 e notificarei a equipe imediatamente. |
+| Alto-falante | Japonês |
+|--- |--- |
+| Cliente | 本番環境がダウンしていて、業務に大きな影響が出ています。 |
+| Assistente de voz | 状況を確認しました。これは重大な問題のようですので、ケースの優先度をP1に引き上げます。担当チームにすぐ通知いたします。 |
 
 ### Solicitar um retorno de chamada
 
-| Alto-falante | Japonês | Tradução (para referência) |
-|--- |--- |--- |
-| Cliente | 担当者から電話で詳しく話したいです。 | Gostaria de falar com alguém diretamente pelo telefone. |
-| Assistente de voz | 承知しました。コールバックのリクエストを登録しました。担当エンジニアより折り返しご連絡いたします。 | Entendido. Enviei uma solicitação de retorno de chamada. Um engenheiro de suporte entrará em contato com você em breve. |
+| Alto-falante | Japonês |
+|--- |--- |
+| Cliente | 担当者から電話で詳しく話したいです。 |
+| Assistente de voz | 承知しました。コールバックのリクエストを登録しました。担当エンジニアより折り返しご連絡いたします。 |
 
 >[!NOTE]
 >
@@ -122,4 +125,4 @@ Embora o Assistente de voz do AI possa lidar com muitas necessidades de suporte 
 
 >[!NOTE]
 >
->Para qualquer coisa fora dos recursos do assistente, você será direcionado perfeitamente para solicitar um retorno de chamada de um engenheiro de suporte ativo da Adobe.
+>Para qualquer coisa fora dos recursos do assistente, você será perfeitamente direcionado a solicitar um retorno de chamada de um engenheiro de suporte da Adobe.
