@@ -2,7 +2,6 @@
 keywords: suporte da Experience Platform, suporte da plataforma, suporte a serviços inteligentes, suporte da ia do cliente, suporte da ia de atribuição, suporte rtcdp, enviar tíquete de suporte, suporte ao cliente
 title: Adobe Experience Cloud Customer One para corporações
 description: Experiência de suporte ao cliente da Adobe
-hold: true
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 TQID: https://experienceleague.adobe.com/cGHwAzUXOUNouNknfl84ix4Gi7t8koCJVICt1zJWRp8
@@ -15,7 +14,7 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 194902cbcd272b6948f548f45945d4cf1512a0e7
+source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
 workflow-type: tm+mt
 source-wordcount: 2122
 ht-degree: 0%
@@ -32,7 +31,7 @@ ht-degree: 0%
 
 Os tíquetes de suporte agora são enviados via [Experience League](https://experienceleague.adobe.com/home?lang=pt-BR#support). Para obter instruções sobre como enviar um tíquete de suporte, consulte a seção para [envio de um tíquete de suporte](#create-a-support-ticket-with-experience-league).
 
-Estamos trabalhando para melhorar a forma como você interage com o Suporte ao cliente da Adobe. Nossa visão é simplificar a experiência de suporte migrando para um único ponto de entrada, usando o Experience League. Uma vez ao vivo, sua organização poderá acessar facilmente o Suporte ao cliente da Adobe, ter maior visibilidade de seu histórico de serviço por meio de um sistema comum entre os produtos e solicitar ajuda por telefone, Web e bate-papo em um único portal.
+Estamos trabalhando para melhorar a forma como você interage com o Suporte ao cliente da Adobe. Nossa visão é simplificar a experiência de suporte migrando para um único ponto de entrada, usando o Experience League. Uma vez ao vivo, sua organização poderá acessar facilmente o Suporte ao cliente da Adobe; ter mais visibilidade de seu histórico de serviço por meio de um sistema comum entre os produtos; e solicitar ajuda por telefone, Web e bate-papo em um único portal.
 
 Se você for usuário do Adobe Commerce, consulte [Enviar um caso de suporte](https://experienceleague.adobe.com/pt-br/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) no Guia do Usuário de Suporte da Experience League para o Adobe Commerce.
 
@@ -207,8 +206,8 @@ Após o envio:
 O Suporte da Experience League fornece uma interface de bate-papo alimentada por IA como uma maneira alternativa de criar e gerenciar casos de suporte. A experiência de chat da IA é de aceitação e não substitui o fluxo de trabalho de criação de caso clássico.
 
 >[!NOTE]
-&#x200B;>>
-O portal agora salva sua seleção do **[!UICONTROL Bate-papo de IA]** como sua experiência preferida de criação de caso e lembra dela para sua próxima visita.
+>
+>O portal agora salva sua seleção do **[!UICONTROL Bate-papo de IA]** como sua experiência preferida de criação de caso e lembra dela para sua próxima visita.
 
 >[!NOTE]
 >

@@ -2,7 +2,6 @@
 title: Notas de versão de suporte do Experience League
 description: As informações mais recentes da versão sobre o suporte da Experience League.
 feature: Release Notes
-hold: true
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
@@ -16,9 +15,9 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 194902cbcd272b6948f548f45945d4cf1512a0e7
+source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
 workflow-type: tm+mt
-source-wordcount: 2254
+source-wordcount: 2250
 ht-degree: 0%
 
 ---
@@ -32,12 +31,12 @@ Essas notas de versão contêm atualizações para o suporte da Experience Leagu
 ![Correção](../adobe-support-tools-guide/assets/fix.svg) Correções e melhorias
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Problemas conhecidos
 
-## 26 de agosto de 2026 - Atualizações no portal de suporte reprojetado do Experience League
+## 27 de agosto de 2026 - Atualizações no portal de suporte reprojetado do Experience League
 
-1. A interface de criação de casos agora lembra da última experiência selecionada - **[!UICONTROL Formulário clássico]** ou **[!UICONTROL Chat de IA]**. Se o **[!UICONTROL Chat de IA]** foi usado mais recentemente, ele será selecionado automaticamente na próxima vez que você criar um caso, de modo que não seja necessário alternar manualmente em cada visita.
-1. Os anexos agora podem ser excluídos diretamente da página **[!UICONTROL Detalhes da Ocorrência]** usando o ícone de exclusão exibido em cada anexo. Esse recurso não está disponível para casos fechados ou para organizações da Workfront.
-1. A classificação agora é suportada em todas as colunas na página **[!UICONTROL Meus Casos]**.
-1. As **[!UICONTROL Recomendações de IA]** agora estão disponíveis quando o **[!UICONTROL Admin Console]** é selecionado como o produto durante a criação do caso.
+1. A interface de criação de caso lembra da última experiência selecionada - **[!UICONTROL Formulário clássico]** ou **[!UICONTROL Chat de IA]**. Se o **[!UICONTROL Chat de IA]** foi usado mais recentemente, ele será selecionado automaticamente na próxima vez que você criar um caso, de modo que não seja necessário alternar manualmente em cada visita.
+1. Os anexos podem ser excluídos diretamente da página **[!UICONTROL Detalhes da Ocorrência]** usando o ícone de exclusão exibido em cada anexo. Esse recurso não está disponível para casos fechados ou para organizações da Workfront.
+1. A classificação é suportada em todas as colunas na página **[!UICONTROL Meus Casos]**.
+1. As **[!UICONTROL Recomendações de IA]** estão disponíveis quando a **[!UICONTROL Admin Console]** é selecionada como o produto durante a criação do caso.
 
 ## 19 de agosto de 2026 - Criação de casos, Meus casos e Detalhes do caso agora disponíveis no portal de suporte do Experience League reprojetado
 
