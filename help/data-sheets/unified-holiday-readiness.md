@@ -7,15 +7,18 @@ solution: Experience Cloud, Experience Platform, Journey Optimizer, Customer Jou
 role: Developer, Admin, Leader, User
 index: true
 exl-id: 7a36a281-98d0-4b1f-afc5-dbcde10fddaf
-source-git-commit: bbc1d3c0a0436a36d55adac14bb354fe0ecf96da
+source-git-commit: e2fdb2c6d832c090b2222b771c67e2c9659b0fa0
 workflow-type: tm+mt
-source-wordcount: '4803'
+source-wordcount: '4830'
 ht-degree: 3%
 
 ---
 
 # Guia de prontidão para férias unificado das soluções Adobe DX
 
+>[!NOTE]
+>
+>Essas orientações estão em vigor desde outubro de 2025. A versão atualizada para a temporada de festas de 2026 deve ser publicada até o final de setembro de 2026.
 
 O Guia de disponibilidade de feriado unificado das soluções Adobe DX ajuda você a se preparar para a temporada de festas, concentrando-se no planejamento pró-ativo em vez da solução reativa de problemas. Ele fornece etapas práticas para garantir que suas instâncias estejam prontas, minimizando possíveis problemas antes que eles surjam. A equipe da Adobe oferece experiência técnica, uma ampla variedade de recursos e métodos comprovados para fornecer o nível certo de suporte e orientação — tanto técnico quanto estratégico — para que sua empresa esteja bem preparada.
 
