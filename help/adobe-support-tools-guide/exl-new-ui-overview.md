@@ -12,9 +12,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 21a6c72123a7415e208ff03e51324cad5a790efd
+source-git-commit: 0c48dae797a8bdfe2723b40e305b33effce08417
 workflow-type: tm+mt
-source-wordcount: 1311
+source-wordcount: 1369
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## Visão geral
 
-O portal de suporte da Experience League reprojetado fornece uma experiência unificada e intuitiva para gerenciar atividades de suporte da Adobe. Ele oferece acesso mais rápido aos recursos essenciais, incluindo rastreamento de casos de suporte, monitoramento do status do produto, acesso a insights do caso e conexão com a equipe de sucesso.
+O Portal de suporte do Experience League recriado agora é a experiência padrão para todos os usuários. Ao acessar o aplicativo de suporte, você é automaticamente direcionado ao portal reprojetado. O portal fornece uma experiência unificada e intuitiva para gerenciar atividades de suporte do Adobe, com acesso mais rápido a recursos essenciais, como rastrear casos de suporte, monitorar o status do produto, acessar insights de casos e se conectar com a equipe de sucesso.
 
 >[!NOTE]
 >
@@ -54,7 +54,7 @@ Use o botão de alternância no portal para alternar entre o portal de suporte d
 
 ![Nova interface](/help/adobe-support-tools-guide/assets/new-toggle-1.png)
 
-Ambos os portais permanecem sincronizados, garantindo que os dados dos casos e as informações de suporte permaneçam consistentes em todas as experiências.
+Ambas as experiências do portal permanecem sincronizadas, garantindo que os dados e as informações dos casos de suporte permaneçam consistentes em todas as experiências. Sua preferência de portal é salva com base na seleção do alternador **[!UICONTROL Retornar à experiência anterior]**, e você será direcionado à última experiência de portal selecionada sempre que visitar.
 
 ![Interface antiga](/help/adobe-support-tools-guide/assets/old-ui.png)
 

@@ -12,10 +12,10 @@ topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 3da0095b5ae5b72334482acddb2f092db447bfc0
+source-git-commit: f0bbc304947ddd88ef34ed98ea2c76686e04ffdb
 workflow-type: tm+mt
 source-wordcount: 738
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -51,7 +51,7 @@ Os Insights do sistema estão disponíveis somente para o Adobe Commerce. Esses 
 
 ## Acesso ao System Insights
 
-Os Insights do sistema são exibidos em todo o fluxo de trabalho de criação de casos. À medida que os detalhes do problema são inseridos, o painel **[!UICONTROL Insights do Sistema]** é exibido no lado direito da tela, abaixo da seção de recomendações habilitadas por IA. Para saber mais sobre as recomendações habilitadas por IA, consulte [Preencher o tíquete de suporte](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket) no artigo Experiência de suporte ao cliente da Adobe.
+Os Insights do sistema são exibidos em todo o fluxo de trabalho de criação de casos. À medida que os detalhes do problema são inseridos, o painel **[!UICONTROL Insights do Sistema]** é exibido no lado direito da tela, acima da seção de recomendações habilitadas por IA. Para saber mais sobre as recomendações habilitadas por IA, consulte [Preencher o tíquete de suporte](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket) no artigo Experiência de suporte ao cliente da Adobe.
 
 O painel exibe uma lista rolável de insights com escopo para a instância do projeto específica. O escopo é baseado nas informações inseridas no campo **[!UICONTROL URL do projeto]**. Insira a **[!UICONTROL URL do projeto]** com precisão para garantir que os insights reflitam o ambiente correto.
 
@@ -67,9 +67,9 @@ Para visualizar todos os detalhes do insight, selecione um cartão insight na li
 - Nome do insight
 - Produto do Adobe no qual a insight está sinalizada
 - Tipo de insight, categorizado como:
-   - [!UICONTROL Funcionalidade]
-   - [!UICONTROL Desempenho]
-   - [!UICONTROL Segurança]
+  - [!UICONTROL Funcionalidade]
+  - [!UICONTROL Desempenho]
+  - [!UICONTROL Segurança]
 - [!UICONTROL Nível de risco] indicando a gravidade
 - [!UICONTROL Última Execução de Verificação] indica quando a descoberta foi detectada.
 - [!UICONTROL Insight Source], fornecido pela Ferramenta de Análise do Site (SWAT)

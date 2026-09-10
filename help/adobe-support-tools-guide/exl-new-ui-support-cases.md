@@ -5,9 +5,9 @@ autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
+source-git-commit: 0c48dae797a8bdfe2723b40e305b33effce08417
 workflow-type: tm+mt
-source-wordcount: 1214
+source-wordcount: 1239
 ht-degree: 0%
 
 ---
@@ -125,7 +125,11 @@ Você pode visualizar e gerenciar casos de suporte no portal de suporte reprojet
 
 ![Exiba e gerencie seus pontos de entrada de casos](/help/adobe-support-tools-guide/assets/my-cases-entry-points.png)
 
-A página **[!UICONTROL Todas as Ocorrências]** é aberta. Alterne entre **[!UICONTROL Meus Casos]** e **[!UICONTROL Meus Casos Org]** para ver seus casos ou ocorrências em toda a organização. Use **[!UICONTROL Casos de pesquisa]** para pesquisar dentro do intervalo de tempo selecionado. No canto superior direito, selecione um intervalo de tempo para exibir dados dos últimos 3, 6, 12, 18 ou 24 meses. Por padrão, casos, resultados de pesquisa e filtros exibem dados dos últimos 3 meses.
+A página **[!UICONTROL Todas as Ocorrências]** é aberta. Selecione **[!UICONTROL Minhas Ocorrências]** para exibir suas ocorrências ou **[!UICONTROL Minhas Ocorrências]** para exibir ocorrências em toda a organização. Use **[!UICONTROL Casos de pesquisa]** para pesquisar dentro do intervalo de tempo selecionado.
+
+No canto superior direito, selecione um intervalo de tempo para exibir casos dos últimos 3, 6, 12, 18, 24 meses ou Todo o tempo. Por padrão, a lista de casos, os resultados da pesquisa e os filtros exibem dados dos últimos 3 meses.
+
+Para exibir o histórico completo do caso, incluindo os casos com mais de 24 meses, selecione a opção **[!UICONTROL Sempre]** na lista suspensa.
 
 ![Página Meus Casos](/help/adobe-support-tools-guide/assets/my-cases-page.png)
 

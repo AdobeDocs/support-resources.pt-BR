@@ -15,9 +15,9 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
+source-git-commit: bc8a6f909b97a103a097b7c683d41f56cc45b75c
 workflow-type: tm+mt
-source-wordcount: 2250
+source-wordcount: 2402
 ht-degree: 0%
 
 ---
@@ -30,6 +30,18 @@ Essas notas de versão contêm atualizações para o suporte da Experience Leagu
 ![Novos](../adobe-support-tools-guide/assets/new.svg) Novos recursos
 ![Correção](../adobe-support-tools-guide/assets/fix.svg) Correções e melhorias
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Problemas conhecidos
+
+## 10 de setembro de 2026 - O Portal de suporte reprojetado do Experience League agora é a experiência padrão
+
+1. O Portal de suporte do Experience League recriado agora está definido como a experiência padrão para todos os usuários. Ao acessar o aplicativo de suporte, os usuários são direcionados automaticamente para o portal reprojetado.
+
+1. O rótulo do alternador da interface foi atualizado de **[!UICONTROL Tente a Nova Página Inicial]** para **[!UICONTROL Retornar à Experiência Anterior]** para maior clareza.
+
+1. As preferências do portal continuam a ser salvas e aplicadas com base na seleção do alternador **[!UICONTROL Retornar à Experiência Anterior]**, de modo que os usuários sejam direcionados à última experiência de portal selecionada em cada visita.
+
+1. Uma nova opção **[!UICONTROL Sempre]** foi introduzida na lista suspensa do filtro **[!UICONTROL Intervalo de tempo]**, na página **[!UICONTROL Meus Casos]**, permitindo que o histórico completo do caso seja exibido além dos últimos 24 meses.
+
+1. O widget **[!UICONTROL System Insights]** do Adobe Commerce no formulário de criação de caso foi reposicionado para aparecer acima da seção **[!UICONTROL Recomendações de IA]** na barra lateral direita.
 
 ## 27 de agosto de 2026 - Atualizações no portal de suporte reprojetado do Experience League
 
