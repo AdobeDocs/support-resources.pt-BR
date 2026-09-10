@@ -2,19 +2,13 @@
 title: Portal de suporte do Experience League - nova interface de usuário
 description: O portal de suporte da Experience League foi reprojetado e simplifica fluxos de trabalho de suporte, insights de casos e monitoramento de produtos com navegação, análises e ações rápidas aprimoradas, além de uma alternância perfeita entre o portal atual e o gerenciamento de casos.
 TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 21a6c72123a7415e208ff03e51324cad5a790efd
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 0c48dae797a8bdfe2723b40e305b33effce08417
 workflow-type: tm+mt
-source-wordcount: 1311
+source-wordcount: 1369
 ht-degree: 0%
 
 ---
@@ -23,7 +17,7 @@ ht-degree: 0%
 
 ## Visão geral
 
-O portal de suporte da Experience League reprojetado fornece uma experiência unificada e intuitiva para gerenciar atividades de suporte da Adobe. Ele oferece acesso mais rápido aos recursos essenciais, incluindo rastreamento de casos de suporte, monitoramento do status do produto, acesso a insights do caso e conexão com a equipe de sucesso.
+O Portal de suporte do Experience League recriado agora é a experiência padrão para todos os usuários. Ao acessar o aplicativo de suporte, você é automaticamente direcionado ao portal reprojetado. O portal fornece uma experiência unificada e intuitiva para gerenciar atividades de suporte do Adobe, com acesso mais rápido a recursos essenciais, como rastrear casos de suporte, monitorar o status do produto, acessar insights de casos e se conectar com a equipe de sucesso.
 
 >[!NOTE]
 >
@@ -54,7 +48,7 @@ Use o botão de alternância no portal para alternar entre o portal de suporte d
 
 ![Nova interface](/help/adobe-support-tools-guide/assets/new-toggle-1.png)
 
-Ambos os portais permanecem sincronizados, garantindo que os dados dos casos e as informações de suporte permaneçam consistentes em todas as experiências.
+Ambas as experiências do portal permanecem sincronizadas, garantindo que os dados e as informações dos casos de suporte permaneçam consistentes em todas as experiências. Sua preferência de portal é salva com base na seleção do alternador **[!UICONTROL Retornar à experiência anterior]**, e você será direcionado à última experiência de portal selecionada sempre que visitar.
 
 ![Interface antiga](/help/adobe-support-tools-guide/assets/old-ui.png)
 
@@ -183,10 +177,10 @@ Use o **[!UICONTROL Gerenciar assinaturas]** para configurar notificações por 
 5. Em **[!UICONTROL Selecione Regiões]**, selecione uma ou mais regiões para monitorar.
 6. Em **[!UICONTROL Selecione os Tipos de Evento]**, selecione um ou mais dos seguintes tipos de evento:
 
-   &#x200B;* Problema grave de serviço
-   &#x200B;* Problema pequeno de serviço
-   &#x200B;* Manutenção do serviço
-   &#x200B;* Anúncios
+   * Problema grave de serviço
+   * Problema pequeno de serviço
+   * Manutenção do serviço
+   * Anúncios
 
    ![Criar página de assinatura](assets/create-subscription-page.png)
 
@@ -211,9 +205,9 @@ Na próxima vez que você abrir o **[!UICONTROL Gerenciar assinaturas]**, a pág
 
 Nessa página, você pode executar as seguintes ações:
 
-&#x200B;* Selecione **[!UICONTROL Editar Assinatura]** para modificar uma assinatura existente.
-&#x200B;* Selecione **[!UICONTROL Cancelar assinatura de todos]** para remover todas as assinaturas.
-&#x200B;* Selecione o ícone de exclusão ao lado de uma assinatura para remover uma assinatura individual.
+* Selecione **[!UICONTROL Editar Assinatura]** para modificar uma assinatura existente.
+* Selecione **[!UICONTROL Cancelar assinatura de todos]** para remover todas as assinaturas.
+* Selecione o ícone de exclusão ao lado de uma assinatura para remover uma assinatura individual.
 
 ## Informações do seu plano
 
