@@ -328,7 +328,7 @@ Mantenha-se informado sobre os lançamentos do Workfront e teste novos recursos 
 * [Preparação para uma versão do Adobe Workfront](https://experienceleague.adobe.com/pt-br/docs/workfront/using/product-announcements/product-releases/release-readiness)
 * [Arquivo de notas de versão do Workfront](https://experienceleague.adobe.com/pt-br/docs/workfront/using/product-announcements/product-releases/product-releases)
 * [Visão geral da versão do primeiro trimestre de 2025](https://experienceleague.adobe.com/pt-br/docs/workfront/using/product-announcements/product-releases/release-25-q1/25-q1-release-overview)
-* [Gravação do webinário de lançamento do Workfront](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/releases/25-1-release-webinar)
+* [Gravação do webinário de lançamento do Workfront](https://experienceleague.adobe.com/pt-br/docs/events/workfront-recordings/releases/25-1-release-webinar)
 
 ### Práticas recomendadas
 
@@ -350,7 +350,7 @@ Para preparar o Adobe Campaign para as férias, as equipes devem validar proativ
 
 ### Dicas de especialistas para fazer suas campanhas de fim de ano se destacarem
 
-Assim como nunca é cedo demais para começar as compras para datas comemorativas, também nunca é cedo demais para começar a planejar uma campanha de marketing de grande sucesso para datas comemorativas. Com o Adobe Campaign, você pode projetar, planejar e executar campanhas que realizarão todos os desejos de fim de ano da sua organização. Mas você conhece todas as dicas para veicular campanhas que encerram o ano em alta? Confira este vídeo, [Dicas de especialistas para destacar suas campanhas de fim de ano](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03), que aborda as práticas recomendadas de entrega e execução e mostrará como fazer tudo isso no Adobe Campaign.
+Assim como nunca é cedo demais para começar as compras para datas comemorativas, também nunca é cedo demais para começar a planejar uma campanha de marketing de grande sucesso para datas comemorativas. Com o Adobe Campaign, você pode projetar, planejar e executar campanhas que realizarão todos os desejos de fim de ano da sua organização. Mas você conhece todas as dicas para veicular campanhas que encerram o ano em alta? Confira este vídeo, [Dicas de especialistas para destacar suas campanhas de fim de ano](https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03), que aborda as práticas recomendadas de entrega e execução e mostrará como fazer tudo isso no Adobe Campaign.
 
 ### Considerações e preparativos para o período de férias
 
