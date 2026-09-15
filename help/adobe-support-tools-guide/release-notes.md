@@ -7,21 +7,25 @@ autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+    internal-label: Customer journeys
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: bc8a6f909b97a103a097b7c683d41f56cc45b75c
+    internal-label: Insights
+source-git-commit: adf6f6cb51e5ae7636a5aa45e85196dda37920a0
 workflow-type: tm+mt
-source-wordcount: 2402
+source-wordcount: '2614'
 ht-degree: 0%
-
 ---
-
 
 # Notas de versão de suporte do Experience League
 
@@ -30,6 +34,24 @@ Essas notas de versão contêm atualizações para o suporte da Experience Leagu
 ![Novos](../adobe-support-tools-guide/assets/new.svg) Novos recursos
 ![Correção](../adobe-support-tools-guide/assets/fix.svg) Correções e melhorias
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Problemas conhecidos
+
+## 15 de setembro de 2026 - Atualizações do Suporte fora do expediente no Japão
+
+1. Os clientes no Japão agora podem obter suporte baseado em telefone (IVR) de um novo **Assistente de voz AI** durante noites, noites e fins de semana, quando os agentes ao vivo não estiverem disponíveis. A fala natural em japonês é suportada — não são necessárias palavras-chave ou navegação de menu.
+
+1. O **Assistente de voz de IA** pode verificar instantaneamente o status do caso, informando se o caso ainda está sendo investigado, aguardando mais informações ou resolvido.
+
+1. O **Assistente de Voz da IA** pode compartilhar as anotações ou o progresso mais recentes registrados em seu caso, fornecendo visibilidade sobre a atividade sem esperar por um retorno de chamada ou email.
+
+1. Para paralisações graves ou impacto sério nos negócios, o assistente pode encaminhar seu caso à prioridade **[!UICONTROL P1 (Crítico)]**.
+
+1. Você pode solicitar um retorno de chamada de um engenheiro de suporte da Adobe a qualquer momento por meio do assistente do.
+
+1. Se o assistente fizer perguntas técnicas para entender seu problema (mensagens de erro, etapas de reprodução etc.), suas respostas serão salvas automaticamente nas notas do caso, eliminando a necessidade de repeti-las para o próximo engenheiro.
+
+>[!NOTE]
+>
+>Esse serviço está disponível somente para conversas em japonês, durante o horário extra e janelas de fim de semana. Você deve verificar sua identidade ou detalhes do caso antes que o assistente possa compartilhar informações do caso. As complexas alterações na solução de problemas técnicos ou na configuração do produto são encaminhadas a um engenheiro em tempo real por meio de um retorno de chamada.
 
 ## 10 de setembro de 2026 - O Portal de suporte reprojetado do Experience League agora é a experiência padrão
 
@@ -42,6 +64,7 @@ Essas notas de versão contêm atualizações para o suporte da Experience Leagu
 1. Uma nova opção **[!UICONTROL Sempre]** foi introduzida na lista suspensa do filtro **[!UICONTROL Intervalo de tempo]**, na página **[!UICONTROL Meus Casos]**, permitindo que o histórico completo do caso seja exibido além dos últimos 24 meses.
 
 1. O widget **[!UICONTROL System Insights]** do Adobe Commerce no formulário de criação de caso foi reposicionado para aparecer acima da seção **[!UICONTROL Recomendações de IA]** na barra lateral direita.
+
 
 ## 27 de agosto de 2026 - Atualizações no portal de suporte reprojetado do Experience League
 
