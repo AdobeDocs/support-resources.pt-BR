@@ -2,18 +2,17 @@
 title: Aviso de fim de suporte do MySQL e orientação de compatibilidade de banco de dados para o Adobe Commerce
 description: Este artigo fornece informações sobre as linhas do tempo de fim de suporte do MySQL e orientação de compatibilidade do banco de dados para versões compatíveis do Adobe Commerce.
 solution: Commerce
-source-git-commit: 2198e1882260ca17b8b99f7ed6d415791ec0d177
+exl-id: f4ef2b3b-316c-421e-a645-9445cdd13448
+source-git-commit: 6603038e6b5857c3bb34cc62002a0b860702f561
 workflow-type: tm+mt
-source-wordcount: '351'
-ht-degree: 0%
-
+source-wordcount: '380'
+ht-degree: 1%
 ---
-
 # Aviso de fim de suporte do MySQL e orientação de compatibilidade de banco de dados para o Adobe Commerce
 
 Este artigo fornece informações importantes sobre o fim do suporte do MySQL (EOS) e a compatibilidade do banco de dados para versões do Adobe Commerce compatíveis.
 A Adobe recomenda que os comerciantes analisem este anúncio e tomem medidas para manter a estabilidade da plataforma e permaneçam em conformidade com os requisitos de suporte.
-Saiba mais nos [Pré-requisitos de atualização para MariaDB](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade) e [Requisitos do sistema](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/installation-guide/system-requirements).
+Saiba mais nos [Pré-requisitos de atualização para MariaDB](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade) e [Requisitos do sistema](https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/system-requirements).
 
 ## Fim de Suporte do MySQL 8.0 (EOS)
 

@@ -4,13 +4,12 @@ description: Este artigo instrui como aplicar um patch de compositor para Adobe 
 feature: Best Practices, Compliance, Console
 solution: Commerce
 feature-set: Commerce
-source-git-commit: fa46bb7187c55a0c7d75930868c74bf8ba072c41
+exl-id: 66d8df60-4c4a-49ef-8107-986e10d6e289
+source-git-commit: 32e69e55405db4f7bb78ef055e07175336401179
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '225'
 ht-degree: 0%
-
 ---
-
 # Como aplicar um patch de compositor fornecido pelo Adobe
 
 Este artigo instrui como aplicar um patch de compositor para Adobe Commerce no local, Adobe Commerce na infraestrutura em nuvem e Magento Open Source.
@@ -37,7 +36,7 @@ Este artigo instrui como aplicar um patch de compositor para Adobe Commerce no l
    git push origin
    ```
 
-Para obter informações adicionais sobre como aplicar patches a projetos na nuvem, consulte [Aplicar patches](https://experienceleague.adobe.com/pt-br/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches) na documentação do desenvolvedor.
+Para obter informações adicionais sobre como aplicar patches a projetos na nuvem, consulte [Aplicar patches](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches) na documentação do desenvolvedor.
 
 ## Como aplicar um patch do compositor para Adobe Commerce no local e Magento Open Source {#commerce}
 
