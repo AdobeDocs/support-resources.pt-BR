@@ -4,13 +4,12 @@ description: Planeje sua estratégia para gerenciar usuários no Adobe Admin Con
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: d92f4190b68a480409f4126a877de3469ed836f0
+exl-id: e0d9db48-d2cd-45cf-8751-5e91ba0aad75
+source-git-commit: 0ad0b7f7663be745ef7e51758936a966818b4058
 workflow-type: tm+mt
-source-wordcount: '842'
-ht-degree: 3%
-
+source-wordcount: '1173'
+ht-degree: 6%
 ---
-
 # Usuários do Adobe Admin Console
 
 Aplica-se a empresas e equipes.
@@ -98,7 +97,7 @@ Dependendo das suas necessidades, você pode adicionar, remover ou atualizar os 
 </tr>
 <tr>
 <th scope="row"><strong>Tipos de identidade compatíveis</strong></th>
-<td colspan="2">Todas</td>
+<td colspan="2">Todos</td>
 <td>Federated ID</td>
 <td colspan="2">FEDERATED ID e ENTERPRISE ID</td>
 </tr>
@@ -189,7 +188,7 @@ Depois de adicionados, os usuários estarão prontos para receber os aplicativos
 
 Atribua licenças a usuários finais com base em seu método de licenciamento:
 
-- **Licenciamento de Usuário Nomeado:** Adicione estes usuários a **produtos** ([para equipes](https://helpx.adobe.com/br/enterprise/using/assign-licenses-to-teams-users.html)) ou **perfis de produto** ([para empresas](https://helpx.adobe.com/br/enterprise/using/manage-product-profiles.html)) para conceder a eles direitos de produto e serviço da Adobe. Para obter mais detalhes, consulte como [criar pacotes de Licenciamento de Usuário Nomeados](https://helpx.adobe.com/br/enterprise/using/create-nul-packages.html) e [perfis de produto](https://helpx.adobe.com/br/enterprise/using/manage-product-profiles.html#create-product-profile).
+- **Licenciamento de Usuário Nomeado:** Adicione estes usuários a **produtos** ([para equipes](https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html)) ou **perfis de produto** ([para empresas](https://helpx.adobe.com/br/enterprise/using/manage-product-profiles.html)) para conceder a eles direitos de produto e serviço da Adobe. Para obter mais detalhes, consulte como [criar pacotes de Licenciamento de Usuário Nomeados](https://helpx.adobe.com/br/enterprise/using/create-nul-packages.html) e [perfis de produto](https://helpx.adobe.com/br/enterprise/using/manage-product-profiles.html#create-product-profile).
 - **Licenciamento de Dispositivo Compartilhado:** [Os usuários adicionados](https://helpx.adobe.com/br/enterprise/using/sdl-deployment-guide.html#add-users-admin-console) podem usar os dispositivos compartilhados configurados que são acessíveis somente por **usuários da organização**. Para obter mais detalhes, consulte [Criar pacotes SDL](https://helpx.adobe.com/br/enterprise/using/create-sdl-packages.html).
 
 ### Implantar pacotes
@@ -199,18 +198,18 @@ Depois de criar o pacote, implante-o nos computadores clientes usando um destes 
 - Vá para a máquina cliente e clique duas vezes no arquivo de pacote (Windows ou macOS).
 - Use o prompt de comando do Windows ou o terminal macOS.
 - Usar ferramentas de terceiros:
-   - [Microsoft Intune](https://helpx.adobe.com/br/enterprise/kb/deploy-packages-using-ms-intune.html)
-   - [Microsoft System Center Configuration Manager (SCCM)](https://helpx.adobe.com/br/enterprise/kb/deploy-packages-using-sccm.html)
-   - [Área de Trabalho Remota (ARD) do Apple](https://helpx.adobe.com/br/enterprise/kb/deploy-packages-using-ard.html)
-   - [JAMF Pro](https://helpx.adobe.com/br/enterprise/kb/deploy-packages-using-jamf-pro.html)
-   - [Munki](https://helpx.adobe.com/br/enterprise/kb/deploy-packages-using-munki.html)
+  - [Microsoft Intune](https://helpx.adobe.com/br/enterprise/kb/deploy-packages-using-ms-intune.html)
+  - [Microsoft System Center Configuration Manager (SCCM)](https://helpx.adobe.com/br/enterprise/kb/deploy-packages-using-sccm.html)
+  - [Desktop Remoto Apple (ARD)](https://helpx.adobe.com/br/enterprise/kb/deploy-packages-using-ard.html)
+  - [JAMF Pro](https://helpx.adobe.com/br/enterprise/kb/deploy-packages-using-jamf-pro.html)
+  - [Munki](https://helpx.adobe.com/br/enterprise/kb/deploy-packages-using-munki.html)
 
 ## Leitura relacionada
 
 - [Gerenciar usuários | Individualmente](https://helpx.adobe.com/br/enterprise/using/manage-users-individually.html)
-- [Gerenciar usuários | Carregamento de CSV em massa](https://helpx.adobe.com/br/enterprise/using/bulk-upload-users.html)
+- [Gerenciar usuários | Carregamento em massa de CSV](https://helpx.adobe.com/br/enterprise/using/bulk-upload-users.html)
 - [Gerenciar usuários do Diretório](https://helpx.adobe.com/br/enterprise/using/manage-directory-users.html)
 - [Admin Console](https://helpx.adobe.com/br/enterprise/using/admin-console.html)
 - [Atribuir usuários a perfis de produtos (para empresas e instituições)](https://helpx.adobe.com/br/enterprise/using/manage-product-profiles.html#assign-users)
-- [Atribuir licenças a usuários de equipes](https://helpx.adobe.com/br/enterprise/using/assign-licenses-to-teams-users.html)
+- [Atribuir licenças a usuários de equipes](https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html)
 - [Modelo de armazenamento empresarial](https://helpx.adobe.com/br/enterprise/kb/business-storage-model-introduction.html)

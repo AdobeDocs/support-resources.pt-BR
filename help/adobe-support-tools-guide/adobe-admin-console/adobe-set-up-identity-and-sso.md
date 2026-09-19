@@ -4,13 +4,12 @@ description: Saiba como os administradores de sistema da organização podem con
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 0c2992946f1cdbbcfb44a2baf37888bd05b2253b
+exl-id: 7b2bf2f5-d363-4132-9f42-761db1332ce5
+source-git-commit: 0ad0b7f7663be745ef7e51758936a966818b4058
 workflow-type: tm+mt
-source-wordcount: '870'
+source-wordcount: '1068'
 ht-degree: 1%
-
 ---
-
 # Configurar identidade e logon único
 
 **Aplica-se a:** Empresa
@@ -108,7 +107,7 @@ Depois que o SSO for configurado entre sua organização e a Adobe, use o seguin
 
 Saiba como gerenciar domínios e diretórios:
 
-- [Gerenciar usuários](https://helpx.adobe.com/br/enterprise/using/users.html) e [grupos](https://helpx.adobe.com/br/enterprise/using/user-groups..html)
+- [Gerenciar usuários](https://helpx.adobe.com/br/enterprise/using/users.html) e [grupos](https://helpx.adobe.com/enterprise/using/user-groups..html)
 - [Vincular domínios a diretórios](https://helpx.adobe.com/br/enterprise/using/add-domains-directories.html#link-domains-to-directoies) para controlar o acesso dos usuários a aplicativos, serviços e configurações
 - [Gerencie a confiança do diretório](https://helpx.adobe.com/br/enterprise/using/directory-trust.html) para usar os domínios reivindicados por outra organização
 
@@ -139,7 +138,7 @@ Soluções para dúvidas e erros comuns ao configurar e gerenciar o SSO:
 
 #### Perguntas frequentes
 
-[Perguntas frequentes sobre integração com o SAML](https://helpx.adobe.com/br/enterprise/using/sso-faq.html)
+[Perguntas frequentes sobre integração com o SAML](https://helpx.adobe.com/enterprise/using/sso-faq.html)
 
 #### Solução de problemas
 
@@ -160,4 +159,4 @@ Para colaborar, fazer perguntas e conversar com outros administradores, use a [C
 ## Assuntos legais e privacidade
 
 - [Avisos legais](https://helpx.adobe.com/br/legal/legal-notices.html)
-- [Política de Privacidade Online](https://www.adobe.com/br/privacy.html)
+- [Política de privacidade online](https://www.adobe.com/privacy.html)
