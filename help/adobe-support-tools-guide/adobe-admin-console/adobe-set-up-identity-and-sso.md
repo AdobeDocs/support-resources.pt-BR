@@ -138,7 +138,7 @@ Soluções para dúvidas e erros comuns ao configurar e gerenciar o SSO:
 
 #### Perguntas frequentes
 
-[Perguntas frequentes sobre integração com o SAML](https://helpx.adobe.com/enterprise/using/sso-faq.html)
+[Perguntas frequentes sobre integração com o SAML](https://helpx.adobe.com/br/enterprise/using/sso-faq.html)
 
 #### Solução de problemas
 
