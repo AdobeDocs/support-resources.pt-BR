@@ -26,7 +26,7 @@ Os administradores de sistema da organização podem seguir o processo para defi
 
 ## Etapas
 
-1. Vá para a seção [Configurações ]**do**[!UICONTROL  Adobe Admin Console](https://adminconsole.adobe.com/settings) e expanda a opção **[!UICONTROL Privacidade e segurança]** no canto superior esquerdo.
+1. Vá para a seção [Configurações ]&#x200B;**do**&#x200B;[[!UICONTROL &#x200B; Adobe Admin Console]](https://adminconsole.adobe.com/settings) e expanda a opção **[!UICONTROL Privacidade e segurança]** no canto superior esquerdo.
 
 1. Selecione **[!UICONTROL Configurações de autenticação]**.
 
