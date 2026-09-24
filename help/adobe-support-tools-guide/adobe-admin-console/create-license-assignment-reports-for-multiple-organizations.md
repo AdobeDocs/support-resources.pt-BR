@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: e3380a89-8529-473f-bd17-efb05466eab9
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '725'
+source-wordcount: '748'
 ht-degree: 1%
-
 ---
-
 # Criar relatórios de atribuição de licença para várias organizações e produtos
 
 Saiba como os administradores globais podem gerar e baixar relatórios de licença detalhados para várias organizações e produtos para intervalos de datas específicos a fim de facilitar o rastreamento preciso do provisionamento de licenças.
@@ -31,7 +37,7 @@ Os relatórios de atribuição de licença ajudam você a monitorar proativament
    >[!NOTE]
    >
    >**Saiba por que você não pode selecionar determinadas organizações**:
-   >Se uma organização secundária não tiver um contrato ou tiver um contrato empresarial separado com o mesmo produto da organização principal, ela será desativada para criar um relatório de atribuição de licença. Por exemplo, se o contrato da organização principal tiver Adobe Acrobat e a organização secundária tiver o mesmo como parte de outro contrato, o produto será limitado para alocação. Como resultado, também é limitado para a criação de relatórios no Global Admin Console. [Saiba como rastrear o provisionamento dessas organizações usando a respectiva Admin Console](https://helpx.adobe.com/br/enterprise/using/assignment-reports.html).
+   >Se uma organização secundária não tiver um contrato ou tiver um contrato empresarial separado com o mesmo produto da organização principal, ela será desativada para criar um relatório de atribuição de licença. Por exemplo, se o contrato da organização principal tiver Adobe Acrobat e a organização secundária tiver o mesmo como parte de outro contrato, o produto será limitado para alocação. Como resultado, também é limitado para a criação de relatórios no Global Admin Console. [Saiba como rastrear o provisionamento dessas organizações usando a respectiva Admin Console](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
 
    >[!NOTE]
    >
@@ -42,7 +48,7 @@ Os relatórios de atribuição de licença ajudam você a monitorar proativament
    >[!NOTE]
    >
    >**Saiba por que não é possível selecionar determinados produtos**:
-   >Os produtos que não podem ser alocados na Global Admin Console não são incluídos na criação do relatório. Atualmente, isso inclui alguns produtos da Digital Experience, como Workfront, Adobe Experience Manager e Adobe Experience Platform, além de produtos como Adobe Firefly Services, Acrobat Sign e Adobe Stock. [Use o Adobe Admin Console para localizar os dados de provisionamento de licença desses produtos](https://helpx.adobe.com/br/enterprise/using/assignment-reports.html).
+   >Os produtos que não podem ser alocados na Global Admin Console não são incluídos na criação do relatório. Atualmente, isso inclui alguns produtos da Digital Experience, como Workfront, Adobe Experience Manager e Adobe Experience Platform, além de produtos como Adobe Firefly Services, Acrobat Sign e Adobe Stock. [Use o Adobe Admin Console para localizar os dados de provisionamento de licença desses produtos](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
 
 1. Selecione se deseja agregar o relatório por mês ou ano.
 1. Selecione um intervalo de datas personalizado ou escolha entre opções predefinidas. Você pode escolher qualquer data de início de 18 de junho de 2020 até o dia anterior, desde que não seja anterior à data de início do contrato.
@@ -69,7 +75,7 @@ Os administradores globais podem exibir e baixar os relatórios de atribuição 
    | Nome | Gerado automaticamente e não pode ser editado. |
    | Criador | O administrador global que gerou o relatório. |
    | Hora de criação | A hora do sistema em que o relatório foi criado. |
-   | Intervalo de data | O intervalo de datas selecionado para o relatório. |
+   | Intervalo de datas | O intervalo de datas selecionado para o relatório. |
    | Status | **Êxito** se o relatório estiver pronto para download ou **Processamento** se ele ainda estiver sendo gerado. |
 
 1. Para exportar o relatório como um arquivo CSV, selecione o ícone **[!UICONTROL Baixar]** ao lado do relatório.

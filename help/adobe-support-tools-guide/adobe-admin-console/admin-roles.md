@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6a7b5650-c9bf-475b-b330-1f4dba5d659b
-source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1645'
-ht-degree: 0%
-
+source-wordcount: '1654'
+ht-degree: 1%
 ---
-
 # Funções administrativas
 
 Usando a Adobe Admin Console, as organizações podem definir uma hierarquia administrativa flexível que permita o gerenciamento refinado do acesso e uso dos produtos da Adobe. Um ou mais administradores de sistema, provisionados durante o processo de integração corporativa, estão no topo da hierarquia. Esses administradores do sistema podem delegar responsabilidades a outros administradores e, ao mesmo tempo, manter o controle geral.
@@ -30,7 +36,7 @@ A hierarquia administrativa pode ser usada para atender aos requisitos exclusivo
 
 >[!NOTE]
 >
->A hierarquia administrativa não se aplica aos clientes das equipes. Os clientes das equipes têm uma única função de **Administrador do sistema**. O proprietário do contrato (_anteriormente conhecido como **Administrador principal**&#x200B;_) é o administrador do sistema com acesso aos detalhes do contrato e ao histórico de cobrança. Se você for o proprietário do contrato atual, poderá indicar um administrador do sistema existente (_ anteriormente mencionado como **administrador secundário**&#x200B;_) como o proprietário do contrato.
+>A hierarquia administrativa não se aplica aos clientes das equipes. Os clientes das equipes têm uma única função de **Administrador do sistema**. O proprietário do contrato (_anteriormente conhecido como **Administrador principal**_) é o administrador do sistema com acesso aos detalhes do contrato e ao histórico de cobrança. Se você for o proprietário do contrato atual, poderá indicar um administrador do sistema existente (_ anteriormente mencionado como **administrador secundário**_) como o proprietário do contrato.
 
 ![imagem do administrador](../assets/storage_admin.png)
 
@@ -38,7 +44,7 @@ _Hierarquia de funções de administrador_
 
 | Função | Descrição |
 |--- |--- |
-| **Administrador do sistema** | Superusuário da organização; autorizado a executar todas as tarefas administrativas na Admin Console.<br>Além disso, o tem permissões para delegar a seguinte funcionalidade administrativa a outros usuários: administrador de produto, administrador de Perfil de produto, administrador de Grupo de usuários, administrador de implantação e administrador de suporte. |
+| **Administrador do sistema** | Superusuário da organização; autorizado a executar todas as tarefas administrativas no Admin Console.<br>Além disso, tem permissões para delegar a seguinte funcionalidade administrativa a outros usuários: administrador de produto, administrador de Perfil de produto, administrador de Grupo de usuários, administrador de implantação e administrador de suporte. |
 | **Administrador de produto** | Administra os produtos atribuídos a esse administrador e todas as funções administrativas associadas, que incluem:<ul><li>Criar perfis de produto</li><li>Adicionar usuários e grupos de usuários à organização, mas não remover esses</li><li>Adicionar ou remover usuários e grupos de usuários dos perfis de produtos</li><li>Adicionar ou remover administradores de Perfil de produto de perfis de produto</li><li>Adicionar ou remover outros administradores de produto do produto</li><li>Adicionar ou remover administradores de grupo de grupos</li></ul> |
 | **Administrador do Perfil de Produto** | Administra as descrições do Perfil do produto atribuídas a esse administrador e todas as funções administrativas associadas, que incluem:<ul><li>Adicionar usuários e grupos de usuários à organização, mas não remover esses</li><li>Adicionar ou remover usuários e grupos de usuários dos perfis de produtos</li><li>Atribuir ou revogar permissões de produto a usuários e grupos de usuários a partir de perfis de produtos</li><li>Gerenciar funções de produto de usuários e grupos de usuários para perfis de produtos |
 | **Administrador do Grupo de Usuários** | Administra as descrições do grupo de usuários atribuídas a esse administrador e todas as funções administrativas associadas, que incluem:<ul><li>Adicionar ou remover usuários de grupos</li><li>Adicionar ou remover administradores de grupo de usuários de grupos |
@@ -62,7 +68,7 @@ Para adicionar ou convidar um administrador:
 
 1. Clique em **[!UICONTROL Adicionar administrador]**.
 1. Insira um nome ou endereço de email. Você pode pesquisar usuários existentes ou adicionar um novo usuário especificando um endereço de email válido e preenchendo as informações na tela.
-1. Clique em **[!UICONTROL Avançar]**. Uma lista de funções administrativas é exibida.
+1. Clique em **[!UICONTROL Next]**. Uma lista de funções administrativas é exibida.
 
    >[!NOTE]
    >

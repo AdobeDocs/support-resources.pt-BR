@@ -5,24 +5,30 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 3220086a-4603-465f-a3e3-194193ca10ba
-source-git-commit: 063b67cf71db5b2dc4739b6c67623e9223ce1b28
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '4430'
+source-wordcount: '4528'
 ht-degree: 3%
-
 ---
-
 # Exportar ou importar estrutura da organização e alocações de produtos
 
 **Aplica-se a:** Empresa
 
 Saiba como os administradores globais podem simplificar o gerenciamento de organização e de produtos com recursos de exportação e importação na Global Admin Console.
 
-Acesse a guia **[!UICONTROL Organizações]** no [Global Admin Console](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration) para exportar ou importar a estrutura da organização. Acesse a guia **[!UICONTROL Alocação de Produto]** para exibir os dados de alocação. Selecione o ícone **[!UICONTROL Mais Opções]** () e escolha **[!UICONTROL Exportar]** ou **[!UICONTROL Importar]**. Acesse aqui para [entrar na Global Admin Console](https://global-admin-console.adobe.com).
+Acesse a guia **[!UICONTROL Organizações]** no [Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration) para exportar ou importar a estrutura da organização. Acesse a guia **[!UICONTROL Alocação de Produto]** para exibir os dados de alocação. Selecione o ícone **[!UICONTROL Mais Opções]** () e escolha **[!UICONTROL Exportar]** ou **[!UICONTROL Importar]**. Acesse aqui para [entrar na Global Admin Console](https://global-admin-console.adobe.com).
 
 ## Exportar a estrutura da organização
 
-Como [administrador global](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators), você pode exportar a hierarquia da organização. É possível baixar uma representação JSON, CSV ou XLSX de toda a hierarquia da organização ou um subconjunto dela. É possível então usar esses dados para análise ou modificação.
+Como [administrador global](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators), você pode exportar a hierarquia da organização. É possível baixar uma representação JSON, CSV ou XLSX de toda a hierarquia da organização ou um subconjunto dela. É possível então usar esses dados para análise ou modificação.
 
 O formato de exportação escolhido afeta a estrutura dos dados exportados:
 
@@ -51,15 +57,15 @@ Após baixar o arquivo, você pode manipular os dados e importá-los de volta. A
 
 ## Importar a estrutura da organização
 
-Como [administrador global](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators), você pode importar dados potencialmente modificados. Quando carregados, os novos dados são comparados com os dados atuais e quaisquer alterações são aplicadas à hierarquia da organização. Todas as operações de importação são executadas na cópia atualizada da hierarquia da organização. Se você tiver alterações pendentes, as alterações importadas serão adicionadas sobre as alterações pendentes existentes na hierarquia.
+Como [administrador global](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators), você pode importar dados potencialmente modificados. Quando carregados, os novos dados são comparados com os dados atuais e quaisquer alterações são aplicadas à hierarquia da organização. Todas as operações de importação são executadas na cópia atualizada da hierarquia da organização. Se você tiver alterações pendentes, as alterações importadas serão adicionadas sobre as alterações pendentes existentes na hierarquia.
 
 ### Etapas para importar
 
 1. Entrar na [Global Admin Console](https://global-admin-console.adobe.com). Na guia **[!UICONTROL Organizações]**, use o seletor de organização para selecionar a hierarquia da organização na qual você deseja realizar a importação.
-2. Selecione o ícone **[!UICONTROL Mais Opções]** **&#x200B;**&#x200B;e selecione **[!UICONTROL Importar]**. Dependendo do tamanho e da complexidade do arquivo de importação, o processamento pode levar de alguns segundos a vários minutos.
+2. Selecione o ícone **[!UICONTROL Mais Opções]** **** e selecione **[!UICONTROL Importar]**. Dependendo do tamanho e da complexidade do arquivo de importação, o processamento pode levar de alguns segundos a vários minutos.
 3. Selecione **[!UICONTROL Selecione um arquivo]** e escolha um arquivo JSON, CSV ou XLSX para ser carregado. Para CSV, somente um detalhe da organização pode ser importado de cada vez e ele não oferece suporte à importação de produtos. As alterações importadas aparecem como se você tivesse editado manualmente os dados.
 4. Selecione **[!UICONTROL Fechar]**.
-5. Selecione **[!UICONTROL Revisar alterações pendentes]**. Em seguida, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/br/enterprise/global-admin-console/execute-jobs.html). Antes de executar as alterações, as ações pendentes são exibidas da mesma maneira que quando as edições são feitas manualmente no Global Admin Console.
+5. Selecione **[!UICONTROL Revisar alterações pendentes]**. Em seguida, selecione **[!UICONTROL Enviar alterações]** para [executá-las](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html). Antes de executar as alterações, as ações pendentes são exibidas da mesma maneira que quando as edições são feitas manualmente no Global Admin Console.
 
 ## Exportar e importar esquemas
 
@@ -391,9 +397,9 @@ Se o perfil de produto tiver mais de um recurso, haverá várias linhas presente
 - Os perfis a serem atualizados e excluídos devem estar presentes na organização.
 - Os recursos a serem atualizados e excluídos (desativados) devem estar presentes no perfil.
 - Para que os perfis sejam criados, verifique o seguinte:
-   - A orgId deve ser uma nova organização ou uma organização existente.
-   - A licenseId deve ser um produto novo ou um produto existente.
-   - Valide os recursos do perfil.
+  - A orgId deve ser uma nova organização ou uma organização existente.
+  - A licenseId deve ser um produto novo ou um produto existente.
+  - Valide os recursos do perfil.
 
 ### Recursos em perfis de produtos
 
@@ -547,9 +553,9 @@ Se o perfil de produto tiver mais de um recurso, haverá várias linhas presente
 - Os grupos de usuários a serem atualizados e excluídos devem estar presentes na organização.
 - O perfil a ser removido do grupo de usuários deve estar presente no grupo de usuários. Não é possível executar operações de atualização no perfil de um grupo de usuários.
 - Para criar grupos de usuários, verifique o seguinte:
-   - A orgId deve ser uma nova organização ou uma organização existente.
-   - A licenseId, se aplicável, deve ser um produto novo ou um produto existente.
-   - O productProfileId deve ser um perfil de produto novo ou um perfil de produto existente.
+  - A orgId deve ser uma nova organização ou uma organização existente.
+  - A licenseId, se aplicável, deve ser um produto novo ou um produto existente.
+  - O productProfileId deve ser um perfil de produto novo ou um perfil de produto existente.
 
 ### Domínios
 
@@ -628,7 +634,7 @@ O campo de operação nos recursos será ignorado quando o produto ao qual ele p
 
 ## Importar e exportar dados de alocação de produtos
 
-Como [Administrador Global](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators), você pode exportar os dados de alocação do produto como um arquivo JSON ou CSV. Em seguida, você pode modificar esses dados e carregá-los para importar as alterações. Quando os dados potencialmente modificados são carregados, os novos dados são comparados com os dados atuais e todas as alterações são aplicadas aos dados de alocação do produto. É possível revisar e enviar as alterações pendentes para que elas entrem em vigor.
+Como [Administrador Global](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators), você pode exportar os dados de alocação do produto como um arquivo JSON ou CSV. Em seguida, você pode modificar esses dados e carregá-los para importar as alterações. Quando os dados potencialmente modificados são carregados, os novos dados são comparados com os dados atuais e todas as alterações são aplicadas aos dados de alocação do produto. É possível revisar e enviar as alterações pendentes para que elas entrem em vigor.
 
 ## Exportar o modelo de alocação de produtos
 
@@ -644,7 +650,7 @@ Para exportar o modelo de alocação de produtos, faça o seguinte:
 1. Faça logon no [Global Admin Console](https://global-admin-console.adobe.com/) e navegue até a guia **[!UICONTROL Alocação de Produto]**.
 2. Selecione o ícone **[!UICONTROL Mais Opções]** e selecione **[!UICONTROL Importar]**.
 3. Selecione um arquivo JSON ou CSV para fazer upload.
-4. Selecione **[!UICONTROL Revisar alterações pendentes]**. Depois de revisar as alterações, selecione **[!UICONTROL Enviar Alterações]** para [executá-las](https://helpx.adobe.com/br/enterprise/global-admin-console/execute-jobs.html).
+4. Selecione **[!UICONTROL Revisar alterações pendentes]**. Depois de revisar as alterações, selecione **[!UICONTROL Enviar Alterações]** para [executá-las](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
 
 ## Exportar e importar formatos para alocação de produtos
 
@@ -699,8 +705,8 @@ Se um produto tiver mais de um recurso, as operações Atualizar poderão ser ap
 - As propriedades de dados de importação do produto devem ser do tipo correto.
 - O campo de política de produto (overAllocation) não deve ser fornecido para recursos diferentes.
 - O campo grantedQuantity:
-   - Não pode ser alterado para *ilimitado* se ainda não for *ilimitado*.
-   - Deve ser um inteiro não negativo ou o valor da cadeia de caracteres *ilimitado.*
+  - Não pode ser alterado para *ilimitado* se ainda não for *ilimitado*.
+  - Deve ser um inteiro não negativo ou o valor da cadeia de caracteres *ilimitado.*
 
 **Validação de permissão/acessível**
 

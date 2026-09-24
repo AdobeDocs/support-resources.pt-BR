@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: aace5ed8-65a6-4cff-8542-bc50e9c765b7
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1151'
-ht-degree: 0%
-
+source-wordcount: '1258'
+ht-degree: 4%
 ---
-
 # Migrar usuários existentes para o Adobe Admin Console
 
 Aplica-se a empresas e equipes.
@@ -24,9 +30,9 @@ Este documento é para organizações com licenças existentes do Creative Cloud
 
 Para ajudar a evitar uma falha no acesso do usuário final ao produto, atribua licenças no Adobe Admin Console antes do término do período de assinatura existente do VIP.
 
-* Para clientes do ETLA, aguarde pelo menos 30 dias de sobreposição do produto. Conclua a migração antes da data de aniversário para que os usuários mantenham acesso aos aplicativos e serviços da Adobe. Para obter detalhes sobre a expiração do contrato do ETLA, consulte [Estágios de expiração automatizados para contratos do ETLA](https://helpx.adobe.com/br/enterprise/using/contract-expiry.html).
+* Para clientes do ETLA, aguarde pelo menos 30 dias de sobreposição do produto. Conclua a migração antes da data de aniversário para que os usuários mantenham acesso aos aplicativos e serviços da Adobe. Para obter detalhes sobre a expiração do contrato do ETLA, consulte [Estágios de expiração automatizados para contratos do ETLA](https://helpx.adobe.com/enterprise/using/contract-expiry.html).
 * Para clientes do VIP, compre licenças antes da data de aniversário e atribua licenças antes que a janela de renovação se feche no seu termo atual do VIP.
-* Os clientes do CLP ou TLP podem migrar do Acrobat ou Creative Suite serializado para licenças de usuário nomeado usando as instruções de migração no [Licenciamento](https://helpx.adobe.com/br/enterprise/using/licensing.html).
+* Os clientes do CLP ou TLP podem migrar do Acrobat ou Creative Suite serializado para licenças de usuário nomeado usando as instruções de migração no [Licenciamento](https://helpx.adobe.com/enterprise/using/licensing.html).
 
 >[!NOTE]
 >
@@ -40,25 +46,25 @@ Os membros atuais da VIP que compraram o Creative Cloud para corporações ou o 
 
 * Os produtos são os mesmos
 
-   1. A janela de renovação está aberta (30 dias antes ou depois da data de aniversário do contrato VIP).
-   2. Os produtos empresariais no pedido são novos SKUs equivalentes às versões de equipe no termo atual.
-   3. A quantidade da ordem de licença corporativa é maior ou igual à quantidade existente de licença de equipe.
+  1. A janela de renovação está aberta (30 dias antes ou depois da data de aniversário do contrato VIP).
+  2. Os produtos empresariais no pedido são novos SKUs equivalentes às versões de equipe no termo atual.
+  3. A quantidade da ordem de licença corporativa é maior ou igual à quantidade existente de licença de equipe.
 
 * Os produtos têm maior valor
 
-   1. A janela de renovação está aberta.
-   2. Os produtos empresariais do pedido são novos SKUs que são produtos de maior valor do que os produtos da equipe no termo atual.
-   3. A quantidade da ordem de licença corporativa é maior ou igual à quantidade existente de licença de equipe.
+  1. A janela de renovação está aberta.
+  2. Os produtos empresariais do pedido são novos SKUs que são produtos de maior valor do que os produtos da equipe no termo atual.
+  3. A quantidade da ordem de licença corporativa é maior ou igual à quantidade existente de licença de equipe.
 
 * A Atribuição rápida de licença não está disponível quando
 
-   * A quantidade de licenças empresariais no pedido é inferior ao número de licenças para equipes existentes.
-   * O pedido é para produtos corporativos de valor mais alto, mas a quantidade solicitada da licença corporativa é inferior à quantidade existente da licença da equipe.
-   * O pedido combina produtos de equipes e corporativas, independentemente da quantidade.
-   * O cliente já comprou produtos de equipe e corporativos antes do período de renovação.
-   * As SKUs de renovação de empresa são usadas para o novo pedido de empresa.
-   * O pedido de produtos empresariais é para um número de contrato VIP diferente.
-   * Os produtos da equipe atual incluem itens que não têm versões corporativas.
+  * A quantidade de licenças empresariais no pedido é inferior ao número de licenças para equipes existentes.
+  * O pedido é para produtos corporativos de valor mais alto, mas a quantidade solicitada da licença corporativa é inferior à quantidade existente da licença da equipe.
+  * O pedido combina produtos de equipes e corporativas, independentemente da quantidade.
+  * O cliente já comprou produtos de equipe e corporativos antes do período de renovação.
+  * As SKUs de renovação de empresa são usadas para o novo pedido de empresa.
+  * O pedido de produtos empresariais é para um número de contrato VIP diferente.
+  * Os produtos da equipe atual incluem itens que não têm versões corporativas.
 
 Depois que a Adobe processar seu pedido de compra da empresa, você receberá um email de confirmação com instruções, incluindo o dia em que deverá transferir os usuários das licenças de equipe para as licenças da empresa na Admin Console antes que eles percam o acesso.
 
@@ -74,9 +80,9 @@ No Admin Console, você é solicitado a atribuir licenças usando a Atribuição
 
    ![Confirmação de atribuição de licença](assets/migrate-license-assignment.png)
 
-Baixe o [relatório de resultados](https://helpx.adobe.com/br/enterprise/using/users.html#main-pars_header_1346350355) na Admin Console para confirmar se todas as licenças foram atribuídas. Se você terminar antes da data no email de confirmação, os usuários finais não devem enfrentar uma falha no serviço.
+Baixe o [relatório de resultados](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355) na Admin Console para confirmar se todas as licenças foram atribuídas. Se você terminar antes da data no email de confirmação, os usuários finais não devem enfrentar uma falha no serviço.
 
-Agende uma chamada de integração do :1 com um especialista em integração da Adobe (se ainda não tiver) para saber mais sobre a Admin Console, incluindo as [Funções administrativas](https://helpx.adobe.com/br/enterprise/using/admin-roles.html) e a [Identidade](https://helpx.adobe.com/br/enterprise/using/identity.html).
+Agende uma chamada de integração 1:1 com um especialista em integração da Adobe (se ainda não tiver) para saber mais sobre a Admin Console, incluindo [Funções administrativas](https://helpx.adobe.com/br/enterprise/using/admin-roles.html) e [Identidade](https://helpx.adobe.com/br/enterprise/using/identity.html).
 
 >[!NOTE]
 >
@@ -95,12 +101,12 @@ Atribua licenças com uma operação em massa usando um modelo CSV da Admin Cons
 
    ![Editar usuários por CSV](assets/migrate-edit-users-by-csv.png)
 
-   Para obter descrições dos campos no arquivo baixado, consulte [formato de arquivo CSV](https://helpx.adobe.com/br/enterprise/using/users.html#main-pars_header).
+   Para obter descrições dos campos no arquivo baixado, consulte [formato de arquivo CSV](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header).
 4. Adicione atribuições de licença ao CSV, arraste o arquivo atualizado para a caixa de diálogo **[!UICONTROL Editar Usuários por CSV]** e clique em **[!UICONTROL Carregar]**. Você recebe um email quando a operação é concluída.
 
    ![Edição de usuário concluída](assets/migrate-user-edit-complete.png)
 
-Baixe o [relatório de resultados](https://helpx.adobe.com/br/enterprise/using/users.html#main-pars_header_1346350355) para validar atribuições. Em seguida, agende a integração com um especialista em integração da Adobe para saber mais sobre [funções administrativas](https://helpx.adobe.com/br/enterprise/using/admin-roles.html) e [identidade](https://helpx.adobe.com/br/enterprise/using/identity.html).
+Baixe o [relatório de resultados](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355) para validar atribuições. Em seguida, agende a integração com um especialista em integração da Adobe para saber mais sobre [funções administrativas](https://helpx.adobe.com/br/enterprise/using/admin-roles.html) e [identidade](https://helpx.adobe.com/br/enterprise/using/identity.html).
 
 ## Atribuição de licença em massa (VIP para ETLA)
 
@@ -119,9 +125,9 @@ Você recebe um email quando os usuários são adicionados à organização da E
 
 ![Usuários adicionados após a migração do VIP para o ETLA](assets/migrate-users-added-vip-etla.png)
 
-Baixe o [relatório de resultados](https://helpx.adobe.com/br/enterprise/using/users.html#main-pars_header_1346350355) para validar atribuições. Agende a integração com um especialista em integração da Adobe para [funções administrativas](https://helpx.adobe.com/br/enterprise/using/admin-roles.html) e [identidade](https://helpx.adobe.com/br/enterprise/using/identity.html).
+Baixe o [relatório de resultados](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355) para validar atribuições. Agende a integração com um especialista em integração da Adobe para [funções administrativas](https://helpx.adobe.com/br/enterprise/using/admin-roles.html) e [identidade](https://helpx.adobe.com/br/enterprise/using/identity.html).
 
-Para problemas de carregamento em massa, consulte [Solucionar problemas de carregamento de usuário em massa](https://helpx.adobe.com/br/enterprise/kb/troubleshoot-bulk-user-csv-upload.html).
+Para problemas de carregamento em massa, consulte [Solucionar problemas de carregamento de usuário em massa](https://helpx.adobe.com/enterprise/kb/troubleshoot-bulk-user-csv-upload.html).
 
 ## Atribuição de licença em massa (ETLA para VIP)
 
@@ -143,6 +149,6 @@ Você recebe um email quando os usuários são adicionados à organização da V
 
 ![Usuários adicionados após a migração do ETLA para o VIP](assets/migrate-users-added-etla-vip.png)
 
-Baixe o [relatório de resultados](https://helpx.adobe.com/br/enterprise/using/users.html#main-pars_header_1346350355) para validar atribuições. Agende a integração com um especialista em integração da Adobe para [funções administrativas](https://helpx.adobe.com/br/enterprise/using/admin-roles.html) e [identidade](https://helpx.adobe.com/br/enterprise/using/identity.html).
+Baixe o [relatório de resultados](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355) para validar atribuições. Agende a integração com um especialista em integração da Adobe para [funções administrativas](https://helpx.adobe.com/br/enterprise/using/admin-roles.html) e [identidade](https://helpx.adobe.com/br/enterprise/using/identity.html).
 
-Para problemas de carregamento em massa, consulte [Solucionar problemas de carregamento de usuário em massa](https://helpx.adobe.com/br/enterprise/kb/troubleshoot-bulk-user-csv-upload.html).
+Para problemas de carregamento em massa, consulte [Solucionar problemas de carregamento de usuário em massa](https://helpx.adobe.com/enterprise/kb/troubleshoot-bulk-user-csv-upload.html).

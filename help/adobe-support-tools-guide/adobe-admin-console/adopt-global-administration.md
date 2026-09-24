@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 4da055a9-7cdc-4411-8895-016e24eabb2e
-source-git-commit: 817407268abec35b0b252ffb54540be29948f9b6
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '929'
+source-wordcount: '955'
 ht-degree: 0%
-
 ---
-
 # Adotar a administração global
 
 Aplicável à empresa.
@@ -48,7 +54,7 @@ Estas são algumas das principais vantagens do Global Admin Console:
 - Crie, edite e exclua perfis de produtos e grupos de usuários.
 - Exportar informações da organização para relatório ou uso em outros processos.
 - Importar atualizações para organizações e alterações na hierarquia organizacional.
-- Receba notificações sobre o status do contrato da ETLA em organizações secundárias, incluindo contratos que estão prestes a expirar, expirados ou inativos. Para obter mais informações, consulte a documentação de [expiração do contrato](https://helpx.adobe.com/br/enterprise/using/contract-expiry.html).
+- Receba notificações sobre o status do contrato da ETLA em organizações secundárias, incluindo contratos que estão prestes a expirar, expirados ou inativos. Para obter mais informações, consulte a documentação de [expiração do contrato](https://helpx.adobe.com/enterprise/using/contract-expiry.html).
 
 ## Critérios de elegibilidade
 
@@ -82,7 +88,7 @@ Para solicitar acesso ao [Global Admin Console](https://global-admin-console.ado
 1. Em **[!UICONTROL Descreva a natureza do problema que você está enfrentando]**, informe que sua organização está solicitando acesso à Global Admin Console e inclua os seguintes detalhes:
 
    - **Nome e ID de Console** (encontrados na URL como a série de números e letras que precedem &quot;@AdobeOrg&quot;) da Admin Console para designar como a organização *raiz (superior)* ou solicitar um novo console e especificar o nome desejado.
-- Em alguns casos, um novo console é a opção preferida. Seu representante da Adobe pode orientá-lo. Selecione a organização *raiz* com cuidado, pois é difícil alterá-la posteriormente.
+     - Em alguns casos, um novo console é a opção preferida. Seu representante da Adobe pode orientá-lo. Selecione a organização *raiz* com cuidado, pois é difícil alterá-la posteriormente.
    - Atribua pelo menos um Administrador do sistema atual à função Administrador global. Você pode adicionar outros administradores posteriormente.
    - Nome e endereço de e-mail do representante da Adobe ou do Gerente de sucesso do cliente.
 

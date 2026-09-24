@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: e4595040-3930-48af-9888-cf1349596c77
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '517'
 ht-degree: 1%
-
 ---
-
 # Limitar o acesso ao produto por endereços IP
 
 Aplicável à empresa.
@@ -27,7 +33,7 @@ O controle de acesso baseado em IP usa um incluo na lista de permissões de ende
 Você pode adicionar IPs públicos confiáveis à lista **Endereços IP permitidos** para impedir que os usuários:
 
 - Acessar produtos de IPs públicos que estejam fora dos intervalos de IP permitidos
-- Entrando no Adobe [perfis de usuário](https://helpx.adobe.com/br/enterprise/using/manage-adobe-profiles.html) de IPs públicos fora dos intervalos de IP permitidos
+- Entrando no Adobe [perfis de usuário](https://helpx.adobe.com/enterprise/using/manage-adobe-profiles.html) de IPs públicos fora dos intervalos de IP permitidos
 - Alternar perfis de usuário em aplicativos Web fora dos intervalos IP permitidos
 
   ![Exportar estrutura da organização](./assets/ip-based-access.avif)
@@ -64,9 +70,9 @@ Seus endereços IP serão adicionados em alguns minutos. Os usuários associados
 >[!NOTE]
 >
 >- Quando o acesso baseado em IP está habilitado, **não ocorre logout forçado**. Os usuários só são afetados quando tentam selecionar o perfil restrito ao entrar ou alternar o perfil na Web.
->- Se você estiver usando um gateway da Web seguro, certifique-se de que todo o tráfego seja roteado através dele. Exiba a [lista de domínios a serem permitidos](https://helpx.adobe.com/br/enterprise/kb/network-endpoints.html) para que os aplicativos e serviços da Adobe funcionem corretamente.
->- Se você estiver bloqueado na Admin Console porque inseriu um endereço IP inválido, entre em contato com o [Atendimento ao cliente da Adobe](https://helpx.adobe.com/br/enterprise/using/support-for-enterprise.html).
+>- Se você estiver usando um gateway da Web seguro, certifique-se de que todo o tráfego seja roteado através dele. Exiba a [lista de domínios a serem permitidos](https://helpx.adobe.com/enterprise/kb/network-endpoints.html) para que os aplicativos e serviços da Adobe funcionem corretamente.
+>- Se você estiver bloqueado na Admin Console porque inseriu um endereço IP inválido, entre em contato com o [Atendimento ao cliente da Adobe](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html).
 
 ## Participe da conversa
 
-Para colaborar, fazer perguntas e conversar com outros administradores, visite nossa [Comunidade de Empresas e Equipes](https://www.adobe.com/go/entcom_br).
+Para colaborar, fazer perguntas e conversar com outros administradores, visite nossa [Comunidade de Empresas e Equipes](https://www.adobe.com/go/entcom).

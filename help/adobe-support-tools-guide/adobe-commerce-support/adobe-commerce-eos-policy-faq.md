@@ -5,27 +5,39 @@ feature: Best Practices, Compliance, Console
 solution: Commerce
 feature-set: Commerce
 exl-id: d86356e7-863f-4da0-bd7e-5ea4ac38e3a3
-TQID: https://experienceleague.adobe.com/wq3cHAM0iXukRpSigq8-erSJ9wZBHfDRFaNefMFZsIE
+TQID: 'https://experienceleague.adobe.com/wq3cHAM0iXukRpSigq8-erSJ9wZBHfDRFaNefMFZsIE'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: b5f00040-57a0-4a6d-a39e-383b1936c2c9
+    internal-label: Compliance
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
 subfeature_v2:
   - id: f2261633-201d-46c5-8a66-999e70527a83
+    internal-label: PCI
+  - id: c4af0798-d497-5e6b-8380-19812c26d00a
+    internal-label: Console
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Security
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: 1808
+source-wordcount: '1808'
 ht-degree: 0%
-
 ---
-
 # Perguntas frequentes sobre o fim do suporte ao software Adobe Commerce
 
 As Perguntas frequentes a seguir têm como objetivo ajudar comerciantes, desenvolvedores e parceiros a entender as implicações da data de EOS (End of Support, fim de suporte) publicada pela Adobe Commerce para as versões afetadas do Adobe Commerce.
@@ -34,7 +46,7 @@ As Perguntas frequentes a seguir têm como objetivo ajudar comerciantes, desenvo
 
 ### Onde posso encontrar as datas de suporte de software para todas as versões do Adobe Commerce?
 
-Você pode encontrar a política de ciclo de vida do software Adobe Commerce e as datas de suporte ao software na [Política de ciclo de vida do software Adobe Commerce](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf). Também publicamos datas de fim de suporte (EOS) em nossa [página de documentação do desenvolvedor](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/release/versions).
+Você pode encontrar a política de ciclo de vida do software Adobe Commerce e as datas de suporte ao software na [Política de ciclo de vida do software Adobe Commerce](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf). Também publicamos datas de fim de suporte (EOS) em nossa [página de documentação do desenvolvedor](https://experienceleague.adobe.com/en/docs/commerce-operations/release/versions).
 
 ### O que significa quando o Adobe encerra o suporte para uma versão do software Adobe Commerce?
 
@@ -74,17 +86,17 @@ Há várias maneiras de você se beneficiar significativamente ao manter-se atua
 
 * Além de manter sua plataforma atualizada com as mais recentes proteções de segurança, incluindo a conformidade com PCI, a atualização para uma versão suportada pode trazer melhorias no desempenho e na escalabilidade, dando a você acesso às mais recentes inovações.
 * O Adobe Commerce 2.4.4, lançado em 12 de abril de 2022, marca um novo passo à frente em termos de recursos de comércio, desempenho e proteção. Ele estabelece a base para os próximos anos da ajuda da Adobe em inovação, com resiliência comercial para empresas. Construída a partir da versão mais recente do PHP 8.1, a versão mais recente permite que os comerciantes se mantenham à prova do futuro em seus negócios de comércio digital com:
-   * Acesso mais rápido a recursos inovadores fornecidos como serviços SaaS, como Product Recommendations, Pay Services e Live Search
-   * Manutenção e atualizações mais fáceis e econômicas
-   * Flexibilidade contínua para personalizar e atender às necessidades exclusivas dos negócios
-   * Aumentos significativos no desempenho e na escalabilidade
-   * Melhor experiência do desenvolvedor e ferramentas para monitorar a integridade da plataforma
+  * Acesso mais rápido a recursos inovadores fornecidos como serviços SaaS, como Product Recommendations, Pay Services e Live Search
+  * Manutenção e atualizações mais fáceis e econômicas
+  * Flexibilidade contínua para personalizar e atender às necessidades exclusivas dos negócios
+  * Aumentos significativos no desempenho e na escalabilidade
+  * Melhor experiência do desenvolvedor e ferramentas para monitorar a integridade da plataforma
 
 ### O que devo fazer para evitar problemas de fim de suporte de software?
 
 Sua plataforma comercial é um sistema comercial importante para sua empresa e manter-se atualizado e atualizado é um investimento crítico contínuo nos negócios. As últimas atualizações de tecnologia e segurança para sua loja digital são importantes em vários níveis e podem ajudar a aprimorar as inovações e o crescimento.
 
-A migração para a versão mais recente do software Adobe Commerce pode demorar tempo e recursos para ser bem executada. É prática recomendada planejar o máximo possível antes do fim do suporte, para ajudar a garantir que você tenha o tempo e os recursos apropriados para atingir suas metas estratégicas dentro do cronograma e do orçamento. Para ajudá-lo com a próxima atualização, a Adobe publicou o [Guia de Atualização do 2.4](https://experienceleague.adobe.com/docs/commerce-operations/assets/adobe-commerce-2-4-upgrade-guide.pdf?lang=pt-BR), que inclui as práticas recomendadas e as etapas técnicas a serem seguidas, bem como as ferramentas e os recursos a serem usados ao executar a atualização.
+A migração para a versão mais recente do software Adobe Commerce pode demorar tempo e recursos para ser bem executada. É prática recomendada planejar o máximo possível antes do fim do suporte, para ajudar a garantir que você tenha o tempo e os recursos apropriados para atingir suas metas estratégicas dentro do cronograma e do orçamento. Para ajudá-lo com a próxima atualização, a Adobe publicou o [Guia de Atualização do 2.4](https://experienceleague.adobe.com/docs/commerce-operations/assets/adobe-commerce-2-4-upgrade-guide.pdf), que inclui as práticas recomendadas e as etapas técnicas a serem seguidas, bem como as ferramentas e os recursos a serem usados ao executar a atualização.
 
 Outra consideração importante é reservar recursos de desenvolvedores e parceiros o mais rápido possível. O tempo e os recursos dos parceiros são reservados com frequência bem antes do fim do suporte, resultando em um número significativamente menor de recursos para ajudar nos projetos de migração. Recomenda-se que você tenha um plano rotativo de três anos, que deve ser discutido no mínimo anualmente e que garanta que o próximo ano seja planejado e orçado. Use o [calendário de lançamento do Adobe](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/release/planning/schedule) para acompanhar as datas de lançamento.
 
