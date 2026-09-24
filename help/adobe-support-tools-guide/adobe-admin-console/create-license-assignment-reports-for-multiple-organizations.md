@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: e3380a89-8529-473f-bd17-efb05466eab9
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '725'
+source-wordcount: '748'
 ht-degree: 1%
-
 ---
-
 # Criar relatórios de atribuição de licença para várias organizações e produtos
 
 Saiba como os administradores globais podem gerar e baixar relatórios de licença detalhados para várias organizações e produtos para intervalos de datas específicos a fim de facilitar o rastreamento preciso do provisionamento de licenças.
@@ -69,7 +75,7 @@ Os administradores globais podem exibir e baixar os relatórios de atribuição 
    | Nome | Gerado automaticamente e não pode ser editado. |
    | Criador | O administrador global que gerou o relatório. |
    | Hora de criação | A hora do sistema em que o relatório foi criado. |
-   | Intervalo de data | O intervalo de datas selecionado para o relatório. |
+   | Intervalo de datas | O intervalo de datas selecionado para o relatório. |
    | Status | **Êxito** se o relatório estiver pronto para download ou **Processamento** se ele ainda estiver sendo gerado. |
 
 1. Para exportar o relatório como um arquivo CSV, selecione o ícone **[!UICONTROL Baixar]** ao lado do relatório.

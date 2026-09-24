@@ -5,21 +5,27 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 18549d19-7985-4a45-8894-e69836ddb23c
-source-git-commit: e563559180f239e828650859035bace80e7473a2
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '517'
 ht-degree: 0%
-
 ---
-
 # Executar trabalhos pendentes
 
 Este recurso se aplica às organizações corporativas que usam o [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/).
 
 - As alterações no [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/) foram concluídas em duas fases:
 
-   1. **Editar fase**: fazer alterações nas organizações ou alocar produtos.
-   2. **Fase de execução**: revise e execute as alterações pendentes para que elas entrem em vigor.
+  1. **Editar fase**: fazer alterações nas organizações ou alocar produtos.
+  2. **Fase de execução**: revise e execute as alterações pendentes para que elas entrem em vigor.
 
 - Para garantir que todas as alterações feitas em [[!DNL Global Admin Console]](https://helpx.adobe.com/br/enterprise/global-admin-console/adopt-global-administration.html) sejam implementadas e tenham efeito, selecione a guia **[!UICONTROL Execução do Trabalho]** e continue com a execução das alterações pendentes.
 
@@ -31,8 +37,8 @@ Este recurso se aplica às organizações corporativas que usam o [[!DNL Global 
 
 - Você pode sair e retornar mais tarde sem perder as alterações pendentes.
 - Alterações não executadas:
-   - São descartadas após 30 dias.
-   - São limpas quando a sessão termina, como quando a guia ou a janela do navegador é fechada.
+  - São descartadas após 30 dias.
+  - São limpas quando a sessão termina, como quando a guia ou a janela do navegador é fechada.
 
 >[!NOTE]
 >
@@ -41,10 +47,10 @@ Este recurso se aplica às organizações corporativas que usam o [[!DNL Global 
 ### Vários administradores e conflitos
 
 - Dois administradores que trabalham na mesma organização:
-   - Não ver as alterações não executadas umas das outras.
-   - Consulte as alterações somente após:
-      - Execução e
-      - Atualizando a exibição ou fazendo logon novamente.
+  - Não ver as alterações não executadas umas das outras.
+  - Consulte as alterações somente após:
+    - Execução e
+    - Atualizando a exibição ou fazendo logon novamente.
 - As alterações não executadas podem entrar em conflito com as alterações já executadas.
 
 ### Tratamento de conflitos
@@ -107,14 +113,14 @@ Você pode cancelar um trabalho em execução na guia **[!UICONTROL Execução d
 
 - Para exibir ordens de produção executadas nos últimos 30 dias:
 
-   1. Entre no [!DNL Global Admin Console].
-   2. Selecione **[!UICONTROL Execução do Trabalho]**.
-   3. Role até a parte inferior da página.
-   4. Selecione **[!UICONTROL Trabalhos Recentes]**.
+  1. Entre no [!DNL Global Admin Console].
+  2. Selecione **[!UICONTROL Execução do Trabalho]**.
+  3. Role até a parte inferior da página.
+  4. Selecione **[!UICONTROL Trabalhos Recentes]**.
 
 - Os trabalhos recentes são exibidos:
-   - **comandos de trabalho** enviados.
-   - **Erros** e **avisos** associados à execução.
+  - **comandos de trabalho** enviados.
+  - **Erros** e **avisos** associados à execução.
 
 >[!NOTE]
 >

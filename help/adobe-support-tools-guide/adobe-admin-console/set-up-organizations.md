@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6fcf16e3-0408-4961-9981-14d526e1ea28
-source-git-commit: e4d473130a577a7673aba981a42bcb7ac352c18c
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1872'
+source-wordcount: '1881'
 ht-degree: 0%
-
 ---
-
 # Gerenciar hierarquia da organização
 
 Aplicável à empresa.
@@ -35,8 +41,8 @@ Quando uma nova organização secundária é criada, os itens a seguir são herd
 - Configurações de [política](https://helpx.adobe.com/br/enterprise/global-admin-console/update-policies.html) da organização (incluindo bloqueios, se presentes).
 - A lista de administradores do sistema (controlada por **[!UICONTROL Herdar Administradores do Sistema na criação]** [política](https://helpx.adobe.com/br/enterprise/global-admin-console/update-policies.html)).
 Os itens a seguir podem impedir que administradores do sistema sejam herdados:
-   - Falta de [confiança de domínio](https://helpx.adobe.com/br/enterprise/using/directory-trust.html).
-   - Restrições de tipo de usuário (adicionar políticas de usuários do Adobe ID / Enterprise ID / Federated ID). Saiba mais sobre os [detalhes da política](https://helpx.adobe.com/br/enterprise/global-admin-console/update-policies.html).
+  - Falta de [confiança de domínio](https://helpx.adobe.com/br/enterprise/using/directory-trust.html).
+  - Restrições de tipo de usuário (adicionar políticas de usuários do Adobe ID / Enterprise ID / Federated ID). Saiba mais sobre os [detalhes da política](https://helpx.adobe.com/br/enterprise/global-admin-console/update-policies.html).
 - Acesso aos usuários do Federated ID ou Enterprise ID a partir de domínios aos quais a organização principal tem acesso. Isso disponibiliza os usuários do domínio no pai na organização secundária. A herança de acesso do usuário é controlada por **Herdar usuários de diretórios gerenciados pela organização principal** [política](https://helpx.adobe.com/br/enterprise/global-admin-console/update-policies.html).
 - Política de compartilhamento, política de senha e contatos de segurança (controlado por **Herdar configurações de compartilhamento de ativos quando uma organização secundária é criada** [política](https://helpx.adobe.com/br/enterprise/global-admin-console/update-policies.html)).
 

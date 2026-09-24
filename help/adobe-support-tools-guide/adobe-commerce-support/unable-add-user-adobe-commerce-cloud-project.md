@@ -6,13 +6,22 @@ solution: Commerce
 feature-set: Commerce
 role: Developer
 exl-id: 2dc52d5e-0930-48c4-986e-ce3f9f6f8221
-source-git-commit: 755c6dc9cff041b9ca9183fbecde21f90fbaee1a
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
+  - id: 00451af3-7b97-5414-9992-3a6c269e413f
+    internal-label: Paas
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 1%
-
+source-wordcount: '368'
+ht-degree: 0%
 ---
-
 # Não foi possível adicionar o usuário ao projeto na nuvem do Adobe Commerce
 
 Este artigo fornece uma solução para quando você está tentando adicionar um usuário a um projeto na nuvem, mas falha com um erro: *O usuário XXX não existe*.
@@ -42,4 +51,4 @@ A conta do usuário deve ser criada em [https://accounts.magento.cloud](https://
 ## Leitura relacionada:
 
 * [Gerenciar o acesso do usuário](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html?lang=pt-BR) em nosso Guia do Commerce na Infraestrutura em Nuvem.
-* [Não é possível fazer logon no suporte da Adobe Commerce ou na conta de nuvem](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-to-log-in-to-support-or-cloud-project.html?lang=pt-BR)
+* [Não é possível fazer logon no suporte da Adobe Commerce ou na conta da nuvem](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-to-log-in-to-support-or-cloud-project.html?lang=pt-BR)

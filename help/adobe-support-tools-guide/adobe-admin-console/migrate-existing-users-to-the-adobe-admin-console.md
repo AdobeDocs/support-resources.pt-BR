@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: aace5ed8-65a6-4cff-8542-bc50e9c765b7
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1151'
-ht-degree: 0%
-
+source-wordcount: '1258'
+ht-degree: 4%
 ---
-
 # Migrar usuários existentes para o Adobe Admin Console
 
 Aplica-se a empresas e equipes.
@@ -40,25 +46,25 @@ Os membros atuais da VIP que compraram o Creative Cloud para corporações ou o 
 
 * Os produtos são os mesmos
 
-   1. A janela de renovação está aberta (30 dias antes ou depois da data de aniversário do contrato VIP).
-   2. Os produtos empresariais no pedido são novos SKUs equivalentes às versões de equipe no termo atual.
-   3. A quantidade da ordem de licença corporativa é maior ou igual à quantidade existente de licença de equipe.
+  1. A janela de renovação está aberta (30 dias antes ou depois da data de aniversário do contrato VIP).
+  2. Os produtos empresariais no pedido são novos SKUs equivalentes às versões de equipe no termo atual.
+  3. A quantidade da ordem de licença corporativa é maior ou igual à quantidade existente de licença de equipe.
 
 * Os produtos têm maior valor
 
-   1. A janela de renovação está aberta.
-   2. Os produtos empresariais do pedido são novos SKUs que são produtos de maior valor do que os produtos da equipe no termo atual.
-   3. A quantidade da ordem de licença corporativa é maior ou igual à quantidade existente de licença de equipe.
+  1. A janela de renovação está aberta.
+  2. Os produtos empresariais do pedido são novos SKUs que são produtos de maior valor do que os produtos da equipe no termo atual.
+  3. A quantidade da ordem de licença corporativa é maior ou igual à quantidade existente de licença de equipe.
 
 * A Atribuição rápida de licença não está disponível quando
 
-   * A quantidade de licenças empresariais no pedido é inferior ao número de licenças para equipes existentes.
-   * O pedido é para produtos corporativos de valor mais alto, mas a quantidade solicitada da licença corporativa é inferior à quantidade existente da licença da equipe.
-   * O pedido combina produtos de equipes e corporativas, independentemente da quantidade.
-   * O cliente já comprou produtos de equipe e corporativos antes do período de renovação.
-   * As SKUs de renovação de empresa são usadas para o novo pedido de empresa.
-   * O pedido de produtos empresariais é para um número de contrato VIP diferente.
-   * Os produtos da equipe atual incluem itens que não têm versões corporativas.
+  * A quantidade de licenças empresariais no pedido é inferior ao número de licenças para equipes existentes.
+  * O pedido é para produtos corporativos de valor mais alto, mas a quantidade solicitada da licença corporativa é inferior à quantidade existente da licença da equipe.
+  * O pedido combina produtos de equipes e corporativas, independentemente da quantidade.
+  * O cliente já comprou produtos de equipe e corporativos antes do período de renovação.
+  * As SKUs de renovação de empresa são usadas para o novo pedido de empresa.
+  * O pedido de produtos empresariais é para um número de contrato VIP diferente.
+  * Os produtos da equipe atual incluem itens que não têm versões corporativas.
 
 Depois que a Adobe processar seu pedido de compra da empresa, você receberá um email de confirmação com instruções, incluindo o dia em que deverá transferir os usuários das licenças de equipe para as licenças da empresa na Admin Console antes que eles percam o acesso.
 
@@ -76,7 +82,7 @@ No Admin Console, você é solicitado a atribuir licenças usando a Atribuição
 
 Baixe o [relatório de resultados](https://helpx.adobe.com/br/enterprise/using/users.html#main-pars_header_1346350355) na Admin Console para confirmar se todas as licenças foram atribuídas. Se você terminar antes da data no email de confirmação, os usuários finais não devem enfrentar uma falha no serviço.
 
-Agende uma chamada de integração do :1 com um especialista em integração da Adobe (se ainda não tiver) para saber mais sobre a Admin Console, incluindo as [Funções administrativas](https://helpx.adobe.com/br/enterprise/using/admin-roles.html) e a [Identidade](https://helpx.adobe.com/br/enterprise/using/identity.html).
+Agende uma chamada de integração 1:1 com um especialista em integração da Adobe (se ainda não tiver) para saber mais sobre a Admin Console, incluindo [Funções administrativas](https://helpx.adobe.com/br/enterprise/using/admin-roles.html) e [Identidade](https://helpx.adobe.com/br/enterprise/using/identity.html).
 
 >[!NOTE]
 >

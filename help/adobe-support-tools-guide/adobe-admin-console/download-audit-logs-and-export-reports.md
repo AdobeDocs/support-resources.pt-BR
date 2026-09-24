@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 4b562a4d-14e5-4687-a1ae-6a435f087627
-source-git-commit: 7211d382c6cfba6070c8c3203956a1193f64ffbe
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '941'
 ht-degree: 2%
-
 ---
-
 # Baixar logs de auditoria e exportar relatórios
 
 Aplicável à empresa.
@@ -111,7 +117,7 @@ Para baixar um relatório de exportação:
 
    | Campo | Descrição |
    |------|------------|
-   | Relatório | Data e hora em que o relatório foi gerado (fuso horário local) |
+   | Relatórios | Data e hora em que o relatório foi gerado (fuso horário local) |
    | Formato | Formato de arquivo (CSV, JSON, XLSX) |
    | Tamanho | Tamanho do arquivo |
    | Criado por | Endereço de email do administrador que gerou o relatório |

@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 3220086a-4603-465f-a3e3-194193ca10ba
-source-git-commit: 063b67cf71db5b2dc4739b6c67623e9223ce1b28
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '4430'
+source-wordcount: '4528'
 ht-degree: 3%
-
 ---
-
 # Exportar ou importar estrutura da organização e alocações de produtos
 
 **Aplica-se a:** Empresa
@@ -391,9 +397,9 @@ Se o perfil de produto tiver mais de um recurso, haverá várias linhas presente
 - Os perfis a serem atualizados e excluídos devem estar presentes na organização.
 - Os recursos a serem atualizados e excluídos (desativados) devem estar presentes no perfil.
 - Para que os perfis sejam criados, verifique o seguinte:
-   - A orgId deve ser uma nova organização ou uma organização existente.
-   - A licenseId deve ser um produto novo ou um produto existente.
-   - Valide os recursos do perfil.
+  - A orgId deve ser uma nova organização ou uma organização existente.
+  - A licenseId deve ser um produto novo ou um produto existente.
+  - Valide os recursos do perfil.
 
 ### Recursos em perfis de produtos
 
@@ -547,9 +553,9 @@ Se o perfil de produto tiver mais de um recurso, haverá várias linhas presente
 - Os grupos de usuários a serem atualizados e excluídos devem estar presentes na organização.
 - O perfil a ser removido do grupo de usuários deve estar presente no grupo de usuários. Não é possível executar operações de atualização no perfil de um grupo de usuários.
 - Para criar grupos de usuários, verifique o seguinte:
-   - A orgId deve ser uma nova organização ou uma organização existente.
-   - A licenseId, se aplicável, deve ser um produto novo ou um produto existente.
-   - O productProfileId deve ser um perfil de produto novo ou um perfil de produto existente.
+  - A orgId deve ser uma nova organização ou uma organização existente.
+  - A licenseId, se aplicável, deve ser um produto novo ou um produto existente.
+  - O productProfileId deve ser um perfil de produto novo ou um perfil de produto existente.
 
 ### Domínios
 
@@ -699,8 +705,8 @@ Se um produto tiver mais de um recurso, as operações Atualizar poderão ser ap
 - As propriedades de dados de importação do produto devem ser do tipo correto.
 - O campo de política de produto (overAllocation) não deve ser fornecido para recursos diferentes.
 - O campo grantedQuantity:
-   - Não pode ser alterado para *ilimitado* se ainda não for *ilimitado*.
-   - Deve ser um inteiro não negativo ou o valor da cadeia de caracteres *ilimitado.*
+  - Não pode ser alterado para *ilimitado* se ainda não for *ilimitado*.
+  - Deve ser um inteiro não negativo ou o valor da cadeia de caracteres *ilimitado.*
 
 **Validação de permissão/acessível**
 
