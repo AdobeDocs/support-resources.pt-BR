@@ -33,10 +33,10 @@ role_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
+source-git-commit: 61c5015c99b5a898f9aa0e8093f07d905f81dc7d
 workflow-type: tm+mt
-source-wordcount: '1808'
-ht-degree: 0%
+source-wordcount: '1855'
+ht-degree: 1%
 ---
 # Perguntas frequentes sobre o fim do suporte ao software Adobe Commerce
 
@@ -46,7 +46,7 @@ As Perguntas frequentes a seguir têm como objetivo ajudar comerciantes, desenvo
 
 ### Onde posso encontrar as datas de suporte de software para todas as versões do Adobe Commerce?
 
-Você pode encontrar a política de ciclo de vida do software Adobe Commerce e as datas de suporte ao software na [Política de ciclo de vida do software Adobe Commerce](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf). Também publicamos datas de fim de suporte (EOS) em nossa [página de documentação do desenvolvedor](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/release/versions).
+Você pode encontrar a política de ciclo de vida do software Adobe Commerce na [Política de ciclo de vida do software Adobe Commerce](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf). Para obter informações sobre o ciclo de vida específico da versão e as datas de suporte do software, consulte a [Política de ciclo de vida e datas de suporte do Adobe Commerce](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/release/planning/lifecycle-policy). Também publicamos datas de fim de suporte (EOS) em nossa [página de documentação do desenvolvedor](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/release/versions).
 
 ### O que significa quando o Adobe encerra o suporte para uma versão do software Adobe Commerce?
 
@@ -130,7 +130,7 @@ Não, a Adobe não prioriza novamente os tíquetes de suporte com base na data d
 
 ### Para tíquetes de suporte abertos ANTES da data de término do suporte, há um alerta para lembrar os comerciantes do próximo fim do suporte?
 
-Não, não há alertas de lembrete notificando os usuários do tíquete de suporte sobre as datas futuras de término do suporte. É de responsabilidade do abridor de tíquetes saber as datas de fim de suporte da versão do Adobe Commerce em que estão, que podem ser encontradas em nossa [política de ciclo de vida do software Adobe Commerce](https://magento.com/sites/default/files/magento-software-lifecycle-policy.pdf).
+Não, não há alertas de lembrete notificando os usuários do tíquete de suporte sobre as datas futuras de término do suporte. É de responsabilidade do abridor de tíquetes saber as datas de fim de suporte da versão do Adobe Commerce em que estão, que podem ser encontradas na [Política de Ciclo de Vida de Software da Adobe Commerce](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf) e nas [Política de Ciclo de Vida e Datas de Suporte da Adobe Commerce](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/release/planning/lifecycle-policy).
 
 ### Se um tíquete de suporte para uma versão de software for aberto APÓS a data de término do suporte para essa versão, ele ainda será processado para resolução?
 
