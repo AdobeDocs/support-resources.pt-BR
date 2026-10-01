@@ -83,6 +83,6 @@ Entre em contato com o representante de conta da Adobe hoje mesmo para obter mai
 
 >[!BEGINSHADEBOX]
 
-[!BADGE Ingressar Hoje]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="Acesse https://experienceleague.adobe.com/en/feedback-program"}
+[!BADGE Ingressar Hoje]{type=Informative url="https://experienceleague.adobe.com/pt-br/feedback-program" newtab=true tooltip="Acesse https://experienceleague.adobe.com/pt-br/feedback-program"}
 
 >[!ENDSHADEBOX]
