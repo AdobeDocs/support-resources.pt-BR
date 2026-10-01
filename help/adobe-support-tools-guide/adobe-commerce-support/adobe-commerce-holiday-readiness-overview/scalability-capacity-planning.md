@@ -23,7 +23,7 @@ role_v2:
     internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
-source-git-commit: 71589dd124714805fbf844540fb2d272433631ee
+source-git-commit: b2220ea4cb5a301cbee6cea5fb90d6dc8a05eeff
 workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 0%
@@ -47,9 +47,7 @@ Por exemplo, um cliente de Pro-architecture com uma linha de base diária de 24 
 
 O objetivo da blindagem de origem do Adobe Commerce [!DNL Fastly] é reduzir o tráfego diretamente para a origem do Adobe Commerce. Quando uma solicitação é recebida, um local de borda [!DNL Fastly] (Ponto de Presença) verifica o conteúdo em cache e o entrega. Se não for armazenado em cache, ele continuará no POP de escudo para verificar se está armazenado em cache lá; se o conteúdo tiver sido solicitado anteriormente, mesmo de outro POP global, ele será armazenado em cache. Por fim, se não estiver armazenado em cache no POP de escudo, ele só continuará no servidor de origem.
 
-A blindagem de origem [!DNL Fastly] pode ser habilitada no Administrador do Adobe Commerce, nas configurações de back-end do [!DNL Fastly]. Escolha um local de blindagem mais próximo ao data center de origem da Adobe Commerce para obter o melhor desempenho. Para obter detalhes, consulte [Configurar back-ends e blindagem de origem](https://experienceleague.adobe.com/pt-br/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration#configure-back-ends-and-origin-shielding).
-
-Por padrão, a blindagem de origem [!DNL Fastly] não está habilitada.
+A blindagem de origem [!DNL Fastly] pode ser habilitada no Administrador do Adobe Commerce, nas configurações de back-end do [!DNL Fastly]. Escolha um local de blindagem mais próximo ao data center de origem da Adobe Commerce para obter o melhor desempenho. Para obter detalhes, consulte [Configurar back-ends e blindagem de origem](https://experienceleague.adobe.com/pt-br/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration#configure-back-ends-and-origin-shielding). Por padrão, a blindagem de origem [!DNL Fastly] não está habilitada.
 
 ## Realizar testes de carga e failover {#conduct-load-and-failover-tests}
 

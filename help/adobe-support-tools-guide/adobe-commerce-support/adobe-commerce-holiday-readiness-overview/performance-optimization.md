@@ -23,7 +23,7 @@ role_v2:
     internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
-source-git-commit: 8b0e99848d1e5798cce52e21f9052b2b57c73b38
+source-git-commit: b2220ea4cb5a301cbee6cea5fb90d6dc8a05eeff
 workflow-type: tm+mt
 source-wordcount: '1698'
 ht-degree: 0%
@@ -116,11 +116,11 @@ Use o processamento assíncrono para enfileirar e executar operações de alto v
 
 * Processamento assíncrono de dados de pedidos: vendas intensivas de vitrine e processamento intensivo de pedidos podem entrar em conflito no nível do banco de dados. Ativar essa configuração distingue os dois padrões de tráfego, de modo que os pedidos são colocados no armazenamento temporário e movidos em massa para a grade do Order Management sem colisões. Essa programação atualiza, por cron, as grades Ordens, NFFs, Entregas e Avisos de Crédito, evitando bloqueios e reduzindo o tempo de processamento. Para obter melhores resultados, configure o cron para ser executado uma vez a cada minuto.
 
->[!NOTE]
->
->A maneira como você habilita isso depende do modo de implantação. Os ambientes de Preparo e Produção da infraestrutura em nuvem do Adobe Commerce são executados no modo de Produção por padrão, onde essa configuração não está disponível por meio do Administrador. No modo de Produção, execute `bin/magento config:set dev/grid/async_indexing 1`. No modo Padrão, vá para **[!UICONTROL Lojas]** > **[!UICONTROL Configuração]** > **[!UICONTROL Avançado]** > **[!UICONTROL Desenvolvedor]** > **[!UICONTROL Configurações de Grade]** e defina **[!UICONTROL Indexação Assíncrona]** como *[!UICONTROL Habilitar]*.
+  >[!NOTE]
+  > 
+  >A maneira como você habilita isso depende do modo de implantação. Os ambientes de Preparo e Produção da infraestrutura em nuvem do Adobe Commerce são executados no modo de Produção por padrão, onde essa configuração não está disponível por meio do Administrador. No modo de Produção, execute `bin/magento config:set dev/grid/async_indexing 1`. No modo Padrão, vá para **[!UICONTROL Lojas]** > **[!UICONTROL Configuração]** > **[!UICONTROL Avançado]** > **[!UICONTROL Desenvolvedor]** > **[!UICONTROL Configurações de Grade]** e defina **[!UICONTROL Indexação Assíncrona]** como *[!UICONTROL Habilitar]*.
 
-Para obter detalhes, consulte [Operações de ordem agendadas](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/stores-sales/order-management/orders/order-scheduled-operations).
+  Para obter detalhes, consulte [Operações de ordem agendadas](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/stores-sales/order-management/orders/order-scheduled-operations).
 
 * Notificações por email assíncronas: essa configuração move notificações por email de check-out e processamento de pedido para o segundo plano. Habilite-o em **[!UICONTROL Lojas]** > **[!UICONTROL Configuração]** > **[!UICONTROL Vendas]** > **[!UICONTROL Emails de Vendas]** > **[!UICONTROL Configurações Gerais]** > **[!UICONTROL Envio Assíncrono]**.
 
