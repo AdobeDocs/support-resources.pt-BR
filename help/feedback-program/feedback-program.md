@@ -77,8 +77,8 @@ Como criador de experiências, você é considerado o especialista. O programa p
 
 Entre em contato com o representante de conta da Adobe hoje mesmo para obter mais informações e conhecer os requisitos de qualificação.
 
-[![botão entrar](assets/sign-in-button.png){width="100"}](https://experienceleague.adobe.com/en/feedback-program){target="_blank"}
+[![botão entrar](assets/sign-in-button.png){width="100"}](https://experienceleague.adobe.com/pt-br/feedback-program){target="_blank"}
 
 <!--
-[!BADGE Join Today]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="Go to https://experienceleague.adobe.com/en/feedback-program"}
+[!BADGE Join Today]{type=Informative url="https://experienceleague.adobe.com/pt-br/feedback-program" newtab=true tooltip="Go to https://experienceleague.adobe.com/pt-br/feedback-program"}
 -->
