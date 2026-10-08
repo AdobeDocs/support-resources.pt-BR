@@ -24,6 +24,7 @@ ht-degree: 91%
 # Portal [!DNL Adobe Success]: perguntas frequentes do cliente
 
  
+
 ## Qual é o escopo do portal [!DNL Adobe Success]?
 
 O portal [!DNL Adobe Success] é a nova plataforma da Adobe centralizada e voltada ao cliente, projetada para unificar a experiência pós-venda entre suporte, sucesso e engajamento. A versão Alpha se concentra em fornecer uma experiência coesa, que consolida ferramentas e fluxos de trabalho anteriormente distribuídos entre várias plataformas (por exemplo, Portal de Suporte, artefatos manuais do Ultimate Success). O objetivo é simplificar o modo como os clientes interagem com a Adobe durante todo o ciclo de vida, da integração à renovação, melhorando a transparência, o autoatendimento e a obtenção de valor.
@@ -46,7 +47,7 @@ Para saber mais sobre o portal [!DNL Adobe Success], consulte o [[!UICONTROL Gui
 
 ## Como obter acesso ao portal?
 
-O portal [!DNL Adobe Success] está hospedado no Adobe Experience Cloud. O acesso ao Experience Cloud é exigido para acessar o portal [!DNL Adobe Success], o qual é definido no nível da organização IMS. Consulte [Acessar o portal  [!DNL Adobe Success] ](/help/adobe-success-portal/access-to-the-adobe-success-portal.md) para ver as etapas para acessar o portal.
+O portal [!DNL Adobe Success] está hospedado no Adobe Experience Cloud. O acesso ao Experience Cloud é exigido para acessar o portal [!DNL Adobe Success], o qual é definido no nível da organização IMS. Consulte [Acessar o portal  [!DNL Adobe Success] &#x200B;](/help/adobe-success-portal/access-to-the-adobe-success-portal.md) para ver as etapas para acessar o portal.
 
 O acesso ao portal no Alpha é limitado a uma lista predefinida de usuários identificados para participar do programa Alpha. Para saber as pessoas da organização que já têm acesso e solicitar usuários adicionais, entre em contato com a equipe de produtos usando o [canal do Teams do Alpha](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1).
 
@@ -64,7 +65,7 @@ Os dados são protegidos pelos controles de acesso rigorosos, somente para usuá
 
 ## O que fazer se eu encontrar um erro ou um problema?
 
-Para relatar um erro ou problema, recomendamos usar a [!UICONTROL Ferramenta de feedback do Alpha] diretamente no portal [!DNL Adobe Success]. Você também pode entrar em contato com a nossa equipe usando o [canal do Teams do Alpha ](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1).
+Para relatar um erro ou problema, recomendamos usar a [!UICONTROL Ferramenta de feedback do Alpha] diretamente no portal [!DNL Adobe Success]. Você também pode entrar em contato com a nossa equipe usando o [canal do Teams do Alpha &#x200B;](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1).
 
 ## Tenho uma ideia para um novo recurso ou aprimoramento. Para onde posso enviá-la?
 
