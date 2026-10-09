@@ -2,19 +2,20 @@
 title: '[!UICONTROL Plano de ação]'
 description: /[!UICONTROL Plano de ação/] oferece uma visualização estruturada de como os KBOs estão sendo executados. Ele inclui aceleradores e atividades associados que a equipe Adobe planejou, concluiu ou nos quais está trabalhando ativamente para ajudar você a atingir suas metas.
 exl-id: 818b149c-91ee-43b6-a235-576f2810db1b
-TQID: https://experienceleague.adobe.com/Hoc6wzygdoIm5nhLxkz5vp1xCyG-v-N2WwXtHQ68ou4
+TQID: 'https://experienceleague.adobe.com/Hoc6wzygdoIm5nhLxkz5vp1xCyG-v-N2WwXtHQ68ou4'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Admin
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 216
+source-wordcount: '216'
 ht-degree: 100%
-
 ---
-
 # [!UICONTROL Plano de ação]
 
 O **[!UICONTROL Plano de ação]** oferece uma visualização estruturada de como os KBOs estão sendo executados. Ele inclui aceleradores e atividades associados que a equipe Adobe planejou, concluiu ou nos quais está trabalhando ativamente para ajudar você a atingir suas metas.

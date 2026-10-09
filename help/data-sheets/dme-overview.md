@@ -2,16 +2,15 @@
 title: Visão geral dos serviços de suporte da Creative Enterprise e Document Cloud
 description: Este artigo fornece um resumo das opções de Suporte ao cliente da Adobe Creative Cloud e Document Cloud. Essas opções incluem os níveis Padrão, Business, Enterprise e Elite.
 exl-id: e3c762b9-d4b3-4248-b1c1-8212a763b4c5
-TQID: https://experienceleague.adobe.com/Ly4fta5e3fXbRKDGWPxAIQA45BzxrsHCOw-Xn0aY4ho
+TQID: 'https://experienceleague.adobe.com/Ly4fta5e3fXbRKDGWPxAIQA45BzxrsHCOw-Xn0aY4ho'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: CX Enterprise
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 287
+source-wordcount: '287'
 ht-degree: 98%
-
 ---
-
 # Serviços de suporte da Creative Cloud para corporações e Document Cloud
 
 A organização de Suporte ao cliente da Adobe Creative Cloud e da Document Cloud está comprometida com o seu sucesso. Todos os aplicativos incluem um nível de suporte que fornece acesso fácil a nossos recursos altamente qualificados para assistência técnica.
@@ -22,7 +21,7 @@ Para necessidades mais abrangentes, oferecemos os planos de suporte da Adobe, qu
 <tr>
   <td>
     <a href="dme-standard.md">
-    <img alt="Standard" src="assets/STANDARDSupportThumbnailCC.png"/>
+    <img alt="Padrão" src="assets/STANDARDSupportThumbnailCC.png"/>
     </a>
     <div>
     <a href="dme-standard.md"><strong>Suporte Standard</strong></a> (exibir <a href="assets/DMeStandardSupportDatasheet_2022.pdf" target="_blank">PDF</a>)
@@ -44,7 +43,7 @@ Para necessidades mais abrangentes, oferecemos os planos de suporte da Adobe, qu
 <tr>
   <td>
     <a href="dme-enterprise.md">
-    <img alt="Empresarial" src="assets/EnterpriseSupportThumbnailxx.png"/>
+    <img alt="Enterprise" src="assets/EnterpriseSupportThumbnailxx.png"/>
     </a>
     <div>
     <a href="dme-enterprise.md"><strong>Suporte Enterprise</strong></a> (exibir <a href="assets/DMeEnterpriseSupportDatasheet_2022.pdf" target="_blank">PDF</a>)
