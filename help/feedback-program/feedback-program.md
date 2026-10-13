@@ -6,7 +6,7 @@ solution: CX Enterprise
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
-source-git-commit: 09841d315184fd3d0df0d885812c790c2b1ebae8
+source-git-commit: 9d6bb04c884f3ccdbe3a6f5ddfd6500984464b21
 workflow-type: tm+mt
 source-wordcount: '530'
 ht-degree: 0%
@@ -77,8 +77,8 @@ Como criador de experiências, você é considerado o especialista. O programa p
 
 Entre em contato com o representante de conta da Adobe hoje mesmo para obter mais informações e conhecer os requisitos de qualificação.
 
-[![botão entrar](assets/sign-in-button.png){width="100"}](https://experienceleague.adobe.com/pt-br/feedback-program){target="_blank"}
+[![botão entrar](assets/sign-in-button.svg){width="100"}](https://experienceleague.adobe.com/en/feedback-program){target="_blank"}
 
 <!--
-[!BADGE Join Today]{type=Informative url="https://experienceleague.adobe.com/pt-br/feedback-program" newtab=true tooltip="Go to https://experienceleague.adobe.com/pt-br/feedback-program"}
+[!BADGE Join Today]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="Go to https://experienceleague.adobe.com/en/feedback-program"}
 -->
