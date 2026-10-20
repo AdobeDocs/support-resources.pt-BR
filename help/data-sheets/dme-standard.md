@@ -15,7 +15,7 @@ ht-degree: 100%
 
 Para fornecer suporte ao seu negócio, a Adobe oferece uma ampla gama de recursos técnicos incluída como parte de sua assinatura corporativa da Adobe. O suporte Standard inclui acesso 24 horas por dia e 7 dias por semana a nossos recursos de autoajuda, incluindo artigos no HelpX e envolvimento com outros clientes por meio da comunidade da Adobe.
 
-Você pode aproveitar nossas documentações técnicas de produto detalhadas e abrangentes e as notas de versão atuais publicadas em <https://www.adobe.com>. Nosso suporte Standard também concede aos usuários autorizados (administradores) acesso 24 horas por dia e 7 dias por semana às nossas equipes de suporte técnico por chat ou telefone, além da capacidade de registrar solicitações de assistência por meio de nosso portal de suporte na web.
+Você pode aproveitar nossas documentações técnicas de produto detalhadas e abrangentes e as notas de versão atuais publicadas em <https://www.adobe.com/br>. Nosso suporte Standard também concede aos usuários autorizados (administradores) acesso 24 horas por dia e 7 dias por semana às nossas equipes de suporte técnico por chat ou telefone, além da capacidade de registrar solicitações de assistência por meio de nosso portal de suporte na web.
 
 [Exibir versão em PDF](assets/DMeStandardSupportDatasheet_2022.pdf)
 
