@@ -327,4 +327,4 @@ O horário comercial local da Adobe é definido de acordo com a região de fatur
 
 ![Ícone](assets/bottom-banner.png)
 
-*Para saber mais sobre as Ofertas de suporte da Adobe e o nível certo para você, entre em contato com seu gerente de conta nomeado (NAM) ou gerente de sucesso do cliente (CSM).*
+*Para saber mais sobre as Ofertas de suporte da Adobe e o nível certo para você, entre em contato com seu gerente de conta nomeada (NAM) ou gerente de sucesso do cliente (CSM).*

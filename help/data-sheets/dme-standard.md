@@ -4,11 +4,9 @@ description: Para fornecer suporte ao seu negócio, a Adobe oferece uma ampla ga
 exl-id: 2ce6a990-1dbc-4f08-a29b-357e3e03a6d6
 source-git-commit: ddaeba7f5e8c2e6d4c7fc2112425ee83ee7eccd3
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '756'
 ht-degree: 100%
-
 ---
-
 # Suporte Standard para Creative Cloud e Adobe Document Cloud
 
 ![Ícone](assets/StandardBanner.png)
@@ -303,4 +301,4 @@ O horário comercial local da Adobe é definido de acordo com a região de fatur
 
 ![Ícone](assets/bottom-banner.png)
 
-*Para saber mais sobre as Ofertas de suporte da Adobe e o nível certo para você, entre em contato com seu gerente de conta nomeado (NAM) ou gerente de sucesso do cliente (CSM).*
+*Para saber mais sobre as Ofertas de suporte da Adobe e o nível certo para você, entre em contato com seu gerente de conta nomeada (NAM) ou gerente de sucesso do cliente (CSM).*
