@@ -45,7 +45,7 @@ role_v2:
     internal-label: Leader
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
-source-git-commit: 9f49cf28acb39f62f0ec29c620c4d8ef2034f378
+source-git-commit: bdf7e388b52a7a70f1f3673e630f1cb154898b2f
 workflow-type: tm+mt
 source-wordcount: '4693'
 ht-degree: 3%
@@ -243,7 +243,7 @@ Durante o período de pico de vendas de feriados (de meados de novembro a meados
 
 ### Preparar-se para a escala
 
-Siga as recomendações no [Planejamento e tabela dinâmica: uma abordagem estratégica para a temporada de pico de 2025](https://experienceleague.adobe.com/pt-br/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2025){target="_blank"} guia, que fornece estratégias acionáveis usando o Adobe Commerce (e ferramentas opcionais da Adobe Experience Cloud) para ajudar você a planejar, girar e fornecer experiências excepcionais para o cliente durante o período mais movimentado do ano.
+Siga as recomendações no [Planejamento e tabela dinâmica: uma abordagem estratégica para a temporada de pico de 2026](https://experienceleague.adobe.com/en/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2026){target="_blank"} guia, que fornece estratégias acionáveis usando o Adobe Commerce (e ferramentas opcionais da Adobe Experience Cloud) para ajudar você a planejar, girar e fornecer experiências excepcionais para o cliente durante o período mais movimentado do ano.
 
 ### Práticas recomendadas
 
