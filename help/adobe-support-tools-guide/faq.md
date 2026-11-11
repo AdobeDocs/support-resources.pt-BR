@@ -12,12 +12,14 @@ role_v2:
     internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
-source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
+source-git-commit: 4b28824c942028c3152a2b59f15bcde436a91185
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '499'
 ht-degree: 11%
 ---
 # Perguntas frequentes sobre o [!DNL Adobe Business Platform] e Admin Console
+
+## Migrar para a Adobe Identity e o Admin Console
 
 +++**O que é a Identidade da Adobe e o Admin Console?**
 
@@ -30,6 +32,8 @@ O [!DNL Adobe Business Platform] fornece aos administradores e líderes funciona
 Os clientes experimentarão um console administrativo ainda mais seguro e intuitivo ao mudar para [!DNL Adobe Business Platform].
 
 +++
+
+## Processo de migração e calendário
 
 +++**Quando os clientes precisarão mudar para o AAC?**
 
@@ -57,15 +61,23 @@ Os clientes receberão instruções e coordenação de uma equipe interna da Wor
 
 +++
 
-+++**Que novos recursos estão atualmente disponíveis na AAC para clientes no Workfront?**
++++**Quanto tempo leva para migrar para o AAC de um cliente típico do Workfront?**
 
-
+O tempo de implementação da AAC para os clientes pode variar, mas a experiência típica terá uma experiência de teleconferência ao vivo com um cliente de cerca de duas horas.
 
 +++
 
-+++**Quais são os recursos de treinamento disponíveis para o AAC?**
+## Custo e impacto
 
-&lt;https://helpx.adobe.com/br/enterprise/using/admin-console.html >
++++**Há algum custo para os clientes mudarem para o AAC?**
+
+Não haverá custos adicionais para os clientes ao mudar para o AAC.
+
++++
+
++++**Isso afetará outras tecnologias que eu integrei à solução da Workfront fora dos Produtos da Adobe?**
+
+Os clientes que usam o aplicativo [!DNL Fusion] para se conectar a outros serviços só serão movidos quando o aplicativo [!DNL Fusion] estiver pronto para fazer essa alteração.
 
 +++
 
@@ -81,26 +93,20 @@ Sim! O console administrativo é idêntico em toda a Adobe e fornece aos adminis
 
 +++
 
-+++**Quanto tempo leva para migrar para o AAC de um cliente típico do Workfront?**
-
-O tempo de implementação da AAC para os clientes pode variar, mas a experiência típica terá uma experiência de teleconferência ao vivo com um cliente de cerca de duas horas.
-
-+++
-
-+++**Isso afetará outras tecnologias que eu integrei à solução da Workfront fora dos Produtos da Adobe?**
-
-Os clientes que usam o aplicativo [!DNL Fusion] para se conectar a outros serviços só serão movidos quando o aplicativo [!DNL Fusion] estiver pronto para fazer essa alteração.
-
-+++
-
-+++**Há algum custo para os clientes mudarem para o AAC?**
-
-Não haverá custos adicionais para os clientes ao mudar para o AAC.
-
-+++
-
 +++**Há algum motivo para não migrar para o AAC?**
 
 O AAC fornecerá aos clientes as melhores atualizações e recursos aprimorados na experiência futura do Workfront e é uma ótima mudança para os clientes. Todos os clientes precisarão mudar para o AAC até o final de 2023, pois os consoles de demonstração herdados serão encerrados.
+
++++
+
++++**Quais são os recursos de treinamento disponíveis para o AAC?**
+
+&lt;https://helpx.adobe.com/br/enterprise/using/admin-console.html >
+
++++
+
++++**Que novos recursos estão atualmente disponíveis na AAC para clientes no Workfront?**
+
+
 
 +++

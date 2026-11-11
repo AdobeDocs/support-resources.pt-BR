@@ -14,12 +14,14 @@ role_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
+source-git-commit: 4b28824c942028c3152a2b59f15bcde436a91185
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 0%
+source-wordcount: '155'
+ht-degree: 1%
 ---
 # Especifique um número de telefone de suporte preferencial
+
+## Antes de começar
 
 Quando uma função de **Administrador** é atribuída a você, como **Administrador de Suporte do Produto**, você recebe um email confirmando que tem permissões de administrador para gerenciar a instância.
 
@@ -27,17 +29,14 @@ O email agora contém o texto abaixo em vermelho que explica como acessar seu **
 
 ![número de suporte preferido](assets/admin-console-1.png)
 
-Para especificar seu número de telefone preferido:
+## Defina seu número de telefone de suporte preferido
 
 1. Clique no link **[!UICONTROL Perfil da Conta]** para abrir uma nova janela para entrar usando `account.adobe.com`.
-
    ![entrar](assets/sign-in.png)
-
 1. Siga o processo de logon e acesse a tela abaixo em `account.adobe.com`.
 1. Selecione **[!UICONTROL Conta e segurança]** > **[!UICONTROL Conta]** para ver o campo Número de telefone do suporte.
 1. Adicione aqui um número de telefone que você gostaria que usássemos para reconhecê-lo de acordo com suas necessidades de suporte.
-
-![especificar detalhes](assets/account-info.png)
+   ![especificar detalhes](assets/account-info.png)
 
 ![adicionar número de telefone](assets/enter-phone-number.png)
 

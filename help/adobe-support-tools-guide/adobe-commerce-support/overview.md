@@ -15,36 +15,34 @@ subfeature_v2:
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
-source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
+source-git-commit: 927f8560685129b7944b5ef30b571e98ad48d4e3
 workflow-type: tm+mt
-source-wordcount: '587'
+source-wordcount: '592'
 ht-degree: 5%
 ---
 # Visão geral das ferramentas de suporte
 
 O Adobe Commerce oferece uma variedade de ferramentas de suporte que ajudam e capacitam você a melhorar sua experiência na loja de comércio eletrônico. Fornecemos práticas recomendadas personalizadas, ferramentas de diagnóstico e monitoramento e as informações mais relevantes sobre seu site.
 
+## Ferramentas de suporte disponíveis
+
 * Ferramenta de análise do site
-
   * [Ferramenta de análise do site pela Adobe: visão geral](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/tools/site-wide-analysis-tool/intro)
-
 * [!DNL Quality Patches Tool] (QPT)
-
   * [Patches disponíveis na visão geral da ferramenta QPT](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/tools/quality-patches-tool/patches-available-in-qpt/patches-available-in-qpt-tool-overview)
-
     O [[!DNL Quality Patches Tool]](https://github.com/magento/quality-patches) (QPT) é uma ferramenta que permite aplicar patches de qualidade individuais desenvolvidos pela Adobe e pela comunidade Magento Open Source.
-
     Ele permite:
-
     * Aplicar patches de qualidade incluídos no pacote
     * Reverter patches aplicados anteriormente
     * Exibir as informações gerais sobre patches de qualidade disponíveis para a versão instalada do Adobe Commerce.
 
     A ferramenta tem como objetivo permitir que você faça o autoatendimento com patches para problemas que possam ocorrer com o Adobe Commerce ou aplique facilmente patches sugeridos pelo suporte da Adobe Commerce.
-
 * Observação para Adobe Commerce
-
   * [Visão geral da observação para o Adobe Commerce](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/tools/observation-for-adobe-commerce/intro)
+* Ferramenta de avaliação do site da Commerce
+  * [avaliação do site Commerce](https://experienceleague.adobe.com/tools/commerce-site-assessment/index.html)
+
+## Alertas gerenciados
 
 * Alertas gerenciados no Adobe Commerce
   * [Alertas gerenciados no Adobe Commerce: alerta crítico de memória Redis](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-on-magento-commerce-redis-memory-critical-alert)
@@ -59,5 +57,3 @@ O Adobe Commerce oferece uma variedade de ferramentas de suporte que ajudam e ca
   * [Alertas gerenciados no Adobe Commerce: alertas do MariaDB](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-on-magento-commerce-mariadb-alerts)
   * [Alertas gerenciados para Adobe Commerce: alerta de aviso Apdex](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce-apdex-warning-alert)
   * [Alertas gerenciados para Adobe Commerce: alerta de aviso do CPU](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce-cpu-warning-alert)
-* Ferramenta de avaliação do site da Commerce
-  * [avaliação do site Commerce](https://experienceleague.adobe.com/tools/commerce-site-assessment/index.html)
